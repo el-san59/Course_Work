@@ -1,0 +1,4482 @@
+[
+ {
+  ".I": "273600", 
+  ".M": "Animal; Antibodies, Monoclonal/*DU; Biotransformation; Cyclosporins/*AN/ME; Enzyme-Linked Immunosorbent Assay; Human.\r", 
+  ".A": [
+   "Quesniaux", 
+   "Schreier", 
+   "Van"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 2):1715-6\r", 
+  ".T": "The potential of monoclonal antibodies for cyclosporine monitoring.\r", 
+  ".U": "90288811\r"
+ }, 
+ {
+  ".I": "273601", 
+  ".M": "Administration, Oral; Adult; Chromatography, High Pressure Liquid/MT; Comparative Study; Cyclosporins/*AD/BL/TU; Female; Graft Rejection; Graft Survival; Human; Infusions, Intravenous; Kidney Transplantation/*/PH; Male.\r", 
+  ".A": [
+   "Asokan", 
+   "Sweny", 
+   "Varghese", 
+   "Moorhead", 
+   "Fernando"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 2):1717-8\r", 
+  ".T": "Comparison of oral and intravenous cyclosporine A in kidney transplants.\r", 
+  ".U": "90288812\r"
+ }, 
+ {
+  ".I": "273602", 
+  ".M": "Administration, Oral; Comparative Study; Cyclosporins/AD/*PK/TU; Human; Infusions, Intravenous; Kidney Transplantation/*PH; Radioimmunoassay.\r", 
+  ".A": [
+   "Albrecht", 
+   "Niebel", 
+   "Marggraf", 
+   "Eigler"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 2):1719\r", 
+  ".T": "Cyclosporine pharmacokinetics in the early course of renal transplantation.\r", 
+  ".U": "90288813\r"
+ }, 
+ {
+  ".I": "273603", 
+  ".M": "Comparative Study; Cyclosporins/*AD/AE/TU; Drug Administration Schedule; Follow-Up Studies; Human; Kidney Transplantation/PA/*PH; Liver/DE/PA; Methylprednisolone/TU; Radioimmunoassay.\r", 
+  ".A": [
+   "Savoldi", 
+   "Sandrini", 
+   "Scolari", 
+   "Brunori", 
+   "Prati", 
+   "Camerini", 
+   "Scaini", 
+   "Cristinelli", 
+   "Maiorca"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 2):1720-2\r", 
+  ".T": "Is cyclosporine administration in twice daily dose advantageous?\r", 
+  ".U": "90288814\r"
+ }, 
+ {
+  ".I": "273604", 
+  ".M": "Administration, Oral; Comparative Study; Creatinine/BL; Cyclosporins/AD/*BL/TU; Human; Kidney Transplantation/*PH; Pancreas Transplantation/*; Prospective Studies; Radioimmunoassay/MT; Retrospective Studies; Transplantation, Homologous.\r", 
+  ".A": [
+   "Cantarovich", 
+   "Bizollon", 
+   "Cantarovich", 
+   "Lefrancois", 
+   "Dubernard", 
+   "Mizony", 
+   "De", 
+   "Suso", 
+   "Mpio", 
+   "Traeger"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 2):1723-5\r", 
+  ".T": "RIA plasma cyclosporine values six hours after oral administration (T6)--an easy solution to a difficult therapeutic problem: a retrospective and prospective study.\r", 
+  ".U": "90288815\r"
+ }, 
+ {
+  ".I": "273605", 
+  ".M": "Cyclosporins/AD/PK/*TU; Dose-Response Relationship, Drug; Human; HLA Antigens/AN; Immunosuppression/MT; Kidney Transplantation/*/IM; Radioimmunoassay/MT.\r", 
+  ".A": [
+   "Segoloni", 
+   "Triolo", 
+   "Squiccimarro", 
+   "Colla", 
+   "Turello", 
+   "Aimo", 
+   "Pecchio", 
+   "Vercellone"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 2):1726-7\r", 
+  ".T": "Tailoring cyclosporine according to kinetic profiles: does it allow a low-dose therapeutic schedule?\r", 
+  ".U": "90288816\r"
+ }, 
+ {
+  ".I": "273606", 
+  ".M": "Chromatography, High Pressure Liquid/MT; Cyclosporins/AD/*PK/TU; Dose-Response Relationship, Drug; Graft Rejection; Human; Infusions, Intravenous; Kidney Transplantation/*/IM; Methylprednisolone/*TU; Support, Non-U.S. Gov't.\r", 
+  ".A": [
+   "Ptachcinski", 
+   "Venkataramanan", 
+   "Burckart", 
+   "Hakala", 
+   "Rosenthal", 
+   "Carpenter", 
+   "Taylor"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 2):1728-9\r", 
+  ".T": "Cyclosporine--high-dose steroid interaction in renal transplant recipients: assessment by HPLC.\r", 
+  ".U": "90288817\r"
+ }, 
+ {
+  ".I": "273607", 
+  ".M": "Biological Assay/MT; Cells, Cultured; Comparative Study; Cyclosporins/*BL/PD/TU; Human; Immunosuppression; Interleukin-2/BI; Kidney Transplantation/*; Radioimmunoassay/MT; Tetradecanoylphorbol Acetate/PD; Tumor Cells, Cultured/DE/IM.\r", 
+  ".A": [
+   "Heidecke", 
+   "Nicolaus", 
+   "Stadler", 
+   "Florack", 
+   "Bollschweiler", 
+   "Holscher"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 2):1734-6\r", 
+  ".T": "Measurement of cyclosporine bioactivity in serum of renal transplant recipients: development and comparison with RIA.\r", 
+  ".U": "90288818\r"
+ }, 
+ {
+  ".I": "273608", 
+  ".M": "Comparative Study; Cyclosporins/*AE/TU; Dihydroergotoxine/*TU; Graft Rejection; Human; Hydrocortisone/TU; Immunosuppression; Kidney Transplantation/*; Prednisone/TU.\r", 
+  ".A": [
+   "Vincent", 
+   "Wenting", 
+   "Jeekel", 
+   "Schalekamp", 
+   "Weimar"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 2):1737-8\r", 
+  ".T": "Dihydroergotoxine (hydergine) to prevent cyclosporine nephrotoxicity in kidney transplant recipients.\r", 
+  ".U": "90288819\r"
+ }, 
+ {
+  ".I": "273609", 
+  ".M": "Animal; Cyclosporins/*PD; Glomerular Filtration Rate/*DE; Kidney/DE/*PH; Kidney Glomerulus/*BS; Nephrons/DE/PH; Rats; Rats, Inbred Strains; Renal Circulation/DE; Support, Non-U.S. Gov't; Vascular Resistance/DE.\r", 
+  ".A": [
+   "Barros", 
+   "Boim", 
+   "Figueiredo", 
+   "Sigulem", 
+   "Ramos", 
+   "Schor"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 2):1754\r", 
+  ".T": "Cyclosporine: glomerular hemodynamics.\r", 
+  ".U": "90288822\r"
+ }, 
+ {
+  ".I": "273610", 
+  ".M": "Azathioprine/TU; Cyclosporins/*AE/TU; Fibrosis; Follow-Up Studies; Human; Kidney Transplantation/*PA; Methylprednisolone/TU; Tissue Donors; Transplantation, Homologous.\r", 
+  ".A": [
+   "Alfani", 
+   "Berloco", 
+   "Renna", 
+   "Pretagostini", 
+   "Famulari", 
+   "Sallustio", 
+   "Caricato", 
+   "Rossi", 
+   "Pecorella", 
+   "Ciardi", 
+   "et"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 2):1759-60\r", 
+  ".T": "The effect of cyclosporine on long-term function in patients undergoing kidney transplant from living donors.\r", 
+  ".U": "90288823\r"
+ }, 
+ {
+  ".I": "273611", 
+  ".M": "Azathioprine/TU; Biological Markers/*UR; Blood Glucose/AN; Cyclosporins/*AE/TU; Glycosuria/*; Human; Kidney Transplantation/*PA/PH; Prednisolone/TU; Support, Non-U.S. Gov't.\r", 
+  ".A": [
+   "Chan", 
+   "Chapman", 
+   "Morris"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 2):1780\r", 
+  ".T": "Glycosuria: an index of cyclosporine nephrotoxicity.\r", 
+  ".U": "90288826\r"
+ }, 
+ {
+  ".I": "273612", 
+  ".M": "Biopsy, Needle; Comparative Study; Cyclosporins/*AE/TU; Diagnosis, Differential; Graft Rejection/*; Human; Kidney Transplantation/IM/*PA/PH; Methylprednisolone/TU; Urine/*CY.\r", 
+  ".A": [
+   "Williamson", 
+   "Millar", 
+   "Criddle", 
+   "Sells"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 2):1785-6\r", 
+  ".T": "The differentiation of acute renal allograft rejection and cyclosporine nephrotoxicity by simple urine cytology.\r", 
+  ".U": "90288827\r"
+ }, 
+ {
+  ".I": "273613", 
+  ".M": "Biopsy; Comparative Study; Cytodiagnosis; Graft Rejection/*; Human; Kidney Transplantation/IM/*PA; Urine/*CY.\r", 
+  ".A": [
+   "Eggensperger", 
+   "O'Dowd", 
+   "Schweitzer", 
+   "Light"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 2):1787-8\r", 
+  ".T": "The clinical efficacy of cytodiagnostic urinalysis in the diagnosis of acute renal allograft rejection: a clinical-pathologic correlation of 122 urine specimens.\r", 
+  ".U": "90288828\r"
+ }, 
+ {
+  ".I": "273614", 
+  ".M": "Alanine Aminotransferase/BL; Alkaline Phosphatase/BL; Aspartate Aminotransferase/BL; Bilirubin/BL; Cholelithiasis/CI; Cyclosporins/*AE/TU; Gallbladder/DE/PA; Human; Kidney Transplantation/*PA; Lactate Dehydrogenase/BL; Liver/DE/*PA; Liver Function Tests.\r", 
+  ".A": [
+   "Lorber", 
+   "Van", 
+   "Flechner", 
+   "Williams", 
+   "Kahan"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 2):1808-10\r", 
+  ".T": "Hepatobiliary complications of cyclosporine therapy following renal transplantation.\r", 
+  ".U": "90288832\r"
+ }, 
+ {
+  ".I": "273615", 
+  ".M": "Azathioprine/TU; Comparative Study; Cyclosporins/*AE/TU; Diabetic Nephropathies/SU; Human; Kidney Transplantation/*; Thrombophlebitis/*CI/DI.\r", 
+  ".A": [
+   "Brunkwall", 
+   "Bergqvist", 
+   "Bergentz", 
+   "Bornmyr", 
+   "Husberg"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 2):1814\r", 
+  ".T": "Deep venous thrombosis in patients undergoing renal transplantation--effects of cyclosporine A.\r", 
+  ".U": "90288834\r"
+ }, 
+ {
+  ".I": "273616", 
+  ".M": "Cyclosporins/*AE/TU; Disseminated Intravascular Coagulation/*CI/PA; Graft Rejection; Human; Kidney Glomerulus/PA; Kidney Transplantation/*PA.\r", 
+  ".A": [
+   "Landmann", 
+   "Mihatsch", 
+   "Ratschek", 
+   "Thiel"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 2):1817-9\r", 
+  ".T": "Cyclosporine A and intravascular coagulation.\r", 
+  ".U": "90288836\r"
+ }, 
+ {
+  ".I": "273617", 
+  ".M": "Adult; Azathioprine/TU; Cholesterol Esters/BL; Comparative Study; Cyclosporins/*AE/TU; Drug Therapy, Combination; Graft Rejection; Human; Kidney Transplantation/IM/*PH; Lipoproteins, LDL Cholesterol/*BL; Methylprednisolone/TU; Middle Age; Prednisolone/TU; Prospective Studies.\r", 
+  ".A": [
+   "Raine", 
+   "Carter", 
+   "Mann", 
+   "Chapman", 
+   "Morris"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 2):1820-1\r", 
+  ".T": "Increased plasma LDL cholesterol after renal transplantation associated with cyclosporine immunosuppression.\r", 
+  ".U": "90288837\r"
+ }, 
+ {
+  ".I": "273618", 
+  ".M": "Alanine Aminotransferase/BL; Azathioprine/TU; Bilirubin/BL; Blood Pressure/DE; Cardiac Output/DE; Comparative Study; Cyclosporins/*AE/TU; Human; Kidney Transplantation/*PH; Liver/*DE/ME; Liver Circulation/*DE; Perfusion; Prednisolone/TU; Transplantation, Homologous; Vascular Resistance/DE.\r", 
+  ".A": [
+   "Leunissen", 
+   "Teule", 
+   "Degenaar", 
+   "Kho", 
+   "Frenken", 
+   "van"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 2):1822-4\r", 
+  ".T": "Impairment of liver synthetic function and decreased liver flow during cyclosporine A therapy.\r", 
+  ".U": "90288838\r"
+ }, 
+ {
+  ".I": "273619", 
+  ".M": "Case Report; Cyclosporins/*AE/TU; Digoxin/*PK/TU; Drug Interactions; Half-Life; Heart Failure, Congestive/DT/*SU; Heart Transplantation/*PA/PH; Human; Kidney/DE/*PA; Male; Middle Age; Support, Non-U.S. Gov't.\r", 
+  ".A": [
+   "Dorian", 
+   "Cardella", 
+   "Strauss", 
+   "David", 
+   "East", 
+   "Ogilvie"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 2):1825-7\r", 
+  ".T": "Cyclosporine nephrotoxicity and cyclosporine--digoxin interaction prior to heart transplantation.\r", 
+  ".U": "90288839\r"
+ }, 
+ {
+  ".I": "273620", 
+  ".M": "Antigens, CD4/IM; Cyclosporins/AE/*TU; Human; HIV Infections/CO/*IM; HIV Seropositivity; Support, Non-U.S. Gov't; T-Lymphocytes/DE/IM; Transplantation, Homologous/*.\r", 
+  ".A": [
+   "Klatzmann", 
+   "Laporte", 
+   "Achour", 
+   "Brisson", 
+   "Gruest", 
+   "Montagnier", 
+   "Gluckman"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 2):1828\r", 
+  ".T": "Cyclosporine A treatment for human immunodeficiency virus-infected transplant recipients.\r", 
+  ".U": "90288840\r"
+ }, 
+ {
+  ".I": "273621", 
+  ".M": "Abortion; Animal; Blood Glucose/ME; Cells, Cultured; Diabetes Mellitus, Experimental/BL/*SU; Female; Fetus; Human; Mice; Mice, Nude; Pancreas/*EM; Pancreas Transplantation/*; Pregnancy; Support, U.S. Gov't, P.H.S.; Transplantation, Heterologous.\r", 
+  ".A": [
+   "Hullett", 
+   "Falany", 
+   "Love", 
+   "Butler", 
+   "Sollinger"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 2):909-10\r", 
+  ".T": "Human fetal pancreas: potential for transplantation.\r", 
+  ".U": "90288844\r"
+ }, 
+ {
+  ".I": "273622", 
+  ".M": "Animal; Fetus; Graft Survival/*IM; Major Histocompatibility Complex/*; Mice; Mice, Inbred CBA; Mice, Inbred C3H; Mice, Inbred Strains; Pancreas Transplantation/*IM/PH; Support, Non-U.S. Gov't; Tissue Culture/MT; Transplantation, Homologous.\r", 
+  ".A": [
+   "Georgiou", 
+   "Mandel"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 2):942-3\r", 
+  ".T": "Influence of tissue culture on the survival of major histocompatibility complex-compatible fetal pancreas allografts in the mouse.\r", 
+  ".U": "90288856\r"
+ }, 
+ {
+  ".I": "273623", 
+  ".M": "Animal; Blood Transfusion/*; Bone Marrow/RE; Bone Marrow Transplantation/*IM; Hematopoietic Stem Cells/RE; Immune Tolerance/*RE; Immunization, Passive; Immunosuppression/*MT; Lymphocytes/TR; Mice; Mice, Inbred CBA; Mice, Inbred C57BL; Transplantation, Homologous; Ultraviolet Rays/*; X-Rays.\r", 
+  ".A": [
+   "Polijak-Blazi", 
+   "Hadzija"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 2):944-5\r", 
+  ".T": "Suppression of donor lymphocyte reactivity by pretreatment with recipient type UV-irradiated blood.\r", 
+  ".U": "90288857\r"
+ }, 
+ {
+  ".I": "273624", 
+  ".M": "Animal; Cyclosporins/TU; Diabetes Mellitus, Experimental/GE/*SU; Lymphocytes/IM/PA; Mice; Mice, Inbred BALB C; Mice, Inbred CBA; Mice, Inbred C57BL; Mice, Mutant Strains; Pancreas Transplantation/*IM/PA; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S.; Transplantation, Homologous; Transplantation, Isogeneic.\r", 
+  ".A": [
+   "Terada", 
+   "Lennartz", 
+   "Mullen"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 2):960-1\r", 
+  ".T": "Allogeneic and syngeneic pancreas transplantation in non-obese diabetic mice.\r", 
+  ".U": "90288862\r"
+ }, 
+ {
+  ".I": "273625", 
+  ".M": "Animal; Bone Marrow/IM; Diabetes Mellitus, Experimental/*IM; Hematopoietic Stem Cells/IM; Rats; Rats, Inbred BB/*IM; Rats, Inbred Strains/*IM; Rats, Inbred WF/IM; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S.; T-Lymphocytes/*IM/RE.\r", 
+  ".A": [
+   "Greiner", 
+   "Mordes", 
+   "Handler", 
+   "Nakamura", 
+   "Angelillo", 
+   "Rossini"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 2):976-8\r", 
+  ".T": "Prothymocyte development in diabetes-prone BB rats: description of a defect that predisposes to immune abnormalities.\r", 
+  ".U": "90288867\r"
+ }, 
+ {
+  ".I": "273626", 
+  ".M": "Animal; Cells, Cultured; Galactosamine; Liver/CY/*RE; Liver Diseases/CI/*SU; Liver Regeneration; Liver Transplantation/*MT; Rats; Rats, Inbred WF; Support, U.S. Gov't, P.H.S.; Transplantation, Heterotopic; Transplantation, Homologous.\r", 
+  ".A": [
+   "Kawai", 
+   "Price", 
+   "Hardy"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 2):989-91\r", 
+  ".T": "Reversal of liver failure in rats by ultraviolet-irradiated hepatocyte transplantation.\r", 
+  ".U": "90288871\r"
+ }, 
+ {
+  ".I": "273627", 
+  ".M": "Acute Disease; Animal; Dogs; Ischemia/*SU; Liver Circulation/*; Liver Transplantation/*/PA; Transplantation, Autologous; Transplantation, Homologous.\r", 
+  ".A": [
+   "Asano", 
+   "Enomoto", 
+   "Ohtsuka", 
+   "Uematsu", 
+   "Suzuki", 
+   "Nakajima", 
+   "Goto", 
+   "Ochiai", 
+   "Isono"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 2):995-7\r", 
+  ".T": "Beneficial effects of transplantation of liver tissue fragments on acute ischemic liver injury in dogs.\r", 
+  ".U": "90288873\r"
+ }, 
+ {
+  ".I": "273628", 
+  ".M": "Analysis of Variance; Caucasoid Race; Comparative Study; Cyclosporins/*TU; Graft Survival/*; Histocompatibility Testing; Human; Kidney Transplantation/*IM; Negroid Race; Regression Analysis; Retrospective Studies; Support, U.S. Gov't, P.H.S..\r", 
+  ".A": [
+   "Tiwari", 
+   "Terasaki", 
+   "Mickey"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):1839-41\r", 
+  ".T": "Factors influencing kidney graft survival in the cyclosporine era: a multivariate analysis.\r", 
+  ".U": "90288875\r"
+ }, 
+ {
+  ".I": "273629", 
+  ".M": "Comparative Study; Cyclosporins/*TU; Female; Graft Survival; Histocompatibility Testing; Human; Kidney Transplantation/*IM; Male; Registries; Retrospective Studies; Sex Factors; Support, U.S. Gov't, P.H.S..\r", 
+  ".A": [
+   "Cecka", 
+   "Cicciarelli", 
+   "Terasaki"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):1842-4\r", 
+  ".T": "The effect of cyclosporine A in cadaver donor retransplants: a surprising effect of the sex of the donor.\r", 
+  ".U": "90288876\r"
+ }, 
+ {
+  ".I": "273630", 
+  ".M": "Animal; Blood Transfusion/*; Comparative Study; Cyclosporins/*TU; Graft Survival; Heart Transplantation/*IM; Rats; Rats, Inbred BUF; Rats, Inbred Strains; Support, Non-U.S. Gov't; Transplantation, Homologous.\r", 
+  ".A": [
+   "Stevens", 
+   "Jensen", 
+   "Stevens"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):1850-1\r", 
+  ".T": "Does cyclosporine eliminate the need for preparatory blood transfusions?\r", 
+  ".U": "90288880\r"
+ }, 
+ {
+  ".I": "273631", 
+  ".M": "Cyclosporins/*TU; Graft Rejection; Human; Immunization; Kidney Transplantation/*IM/PH; Methylprednisolone/TU; Prednisolone/TU; T-Lymphocytes, Cytotoxic/*IM.\r", 
+  ".A": [
+   "Albrechtsen", 
+   "Lundgren", 
+   "Bratlie", 
+   "Brynger", 
+   "Fehrmann", 
+   "Frodin", 
+   "Gabel", 
+   "Lindholm", 
+   "Flatmark"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):1862\r", 
+  ".T": "Renal transplantation in presensitized patients treated with cyclosporine.\r", 
+  ".U": "90288886\r"
+ }, 
+ {
+  ".I": "273632", 
+  ".M": "Age Factors; Cadaver; Creatinine/BL; Cyclosporins/*TU; Female; Follow-Up Studies; Graft Rejection; Graft Survival; Human; Kidney Transplantation/*IM/PH; Male; Middle Age; Transplantation, Homologous.\r", 
+  ".A": [
+   "Mandelbaum", 
+   "Henry", 
+   "Sommer", 
+   "Ferguson"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):1863-4\r", 
+  ".T": "Primary cadaveric renal transplantation using cyclosporine in patients over fifty years of age.\r", 
+  ".U": "90288887\r", 
+  ".W": "Patient and allograft survival for the older transplant recipient (greater than 50 years of age) is comparable to that of their younger counterparts. These patients require less aggressive immunosuppression and tolerate over immunosuppression poorly. The older uremic patient should not be excluded from renal transplantation.\r"
+ }, 
+ {
+  ".I": "273633", 
+  ".M": "Antilymphocyte Serum/TU; Azathioprine/TU; B-Lymphocytes/IM; Cadaver; Cyclosporins/*TU; Graft Survival; Histocompatibility Testing/*; Human; HLA-DR Antigens/IM; Kidney Transplantation/*IM/PH; Methylprednisolone/TU; Organ Preservation/*MT; Perfusion; T-Lymphocytes/IM.\r", 
+  ".A": [
+   "Milgrom", 
+   "Kyriakides", 
+   "Esquenazi", 
+   "Olson", 
+   "Miller"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):1873\r", 
+  ".T": "Cadaveric renal transplantation after pulsatile perfusion, histocompatibility matching, and conversion to cyclosporine therapy.\r", 
+  ".U": "90288889\r"
+ }, 
+ {
+  ".I": "273634", 
+  ".M": "Adult; Antilymphocyte Serum/*AD/TU; Azathioprine/TU; Cadaver; Creatinine/BL; Cyclosporins/*AD/TU; Drug Administration Schedule; Human; Immunosuppression/*; Kidney Transplantation/*IM/PH; Middle Age; Prednisone/TU; Retrospective Studies; Transplantation, Homologous.\r", 
+  ".A": [
+   "Sommer", 
+   "Henry", 
+   "Ferguson"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):1879-80\r", 
+  ".T": "Sequential antilymphoblast globulin and cyclosporine for renal transplantation.\r", 
+  ".U": "90288890\r"
+ }, 
+ {
+  ".I": "273635", 
+  ".M": "Antilymphocyte Serum/*TU; Cyclosporins/*TU; Drug Resistance; Graft Rejection/*IM; Graft Survival; Human; Kidney Transplantation/*IM/PH; Methylprednisolone/TU; Prednisone/TU; Retrospective Studies; Support, U.S. Gov't, P.H.S..\r", 
+  ".A": [
+   "Benvenisty", 
+   "Tannenbaum", 
+   "Cohen", 
+   "Appel", 
+   "Hardy"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):1889-91\r", 
+  ".T": "Use of antithymocyte globulin and cyclosporine to treat steroid-resistant rejection episodes in renal transplant recipients.\r", 
+  ".U": "90288892\r"
+ }, 
+ {
+  ".I": "273636", 
+  ".M": "Adult; Antilymphocyte Serum/*TU; Cyclosporins/*TU; Drug Resistance; Female; Graft Rejection/*IM; Graft Survival; Human; Kidney Transplantation/*IM; Male; Steroids/TU.\r", 
+  ".A": [
+   "Tellis", 
+   "Matas", 
+   "Quinn", 
+   "Glicklich", 
+   "Weiss", 
+   "Soberman", 
+   "Veith"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):1892\r", 
+  ".T": "Antilymphoblast globulin treatment of steroid-resistant rejection in cyclosporine-immunosuppressed renal transplant recipients.\r", 
+  ".U": "90288893\r"
+ }, 
+ {
+  ".I": "273637", 
+  ".M": "Antibodies, Monoclonal/*TU; Cadaver; Enzyme-Linked Immunosorbent Assay; Flow Cytometry; Graft Rejection/IM; Human; Immunosuppression; Kidney Transplantation/*IM/PH; Lymphocytes/IM; Support, Non-U.S. Gov't.\r", 
+  ".A": [
+   "Tax", 
+   "van", 
+   "Willems", 
+   "Hoitsma", 
+   "Berden", 
+   "Capel", 
+   "Koene"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):1905-7\r", 
+  ".T": "Immunosuppression with monoclonal anti-T3 antibody (WT32) in renal transplantation.\r", 
+  ".U": "90288897\r"
+ }, 
+ {
+  ".I": "273638", 
+  ".M": "Adolescence; Adult; Antibodies, Monoclonal/*TU; Azathioprine/TU; Creatinine/BL; Cyclosporins/TU; Drug Resistance; Female; Follow-Up Studies; Graft Rejection/*IM; Human; Immunosuppression; Kidney Transplantation/*IM/PH; Male; Steroids/TU; Transplantation, Homologous.\r", 
+  ".A": [
+   "Ponticelli", 
+   "Rivolta", 
+   "Tarantino", 
+   "De", 
+   "Vegeto"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):1908-9\r", 
+  ".T": "Rescue of severe steroid-resistant rejection with OKT3.PAN.\r", 
+  ".U": "90288898\r"
+ }, 
+ {
+  ".I": "273639", 
+  ".M": "Antibodies, Monoclonal/*TU; Graft Rejection/*IM; Human; IgM/AD; Immunosuppression/*; Kidney Transplantation/*IM/PH; Skin Tests; T-Lymphocytes/IM; Transplantation, Homologous.\r", 
+  ".A": [
+   "Milford", 
+   "Carpenter", 
+   "Kirkman", 
+   "Tilney", 
+   "Mazoujian", 
+   "Strom", 
+   "Lazarus", 
+   "Schlossman", 
+   "Guttmann", 
+   "Lowry", 
+   "et"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):1910\r", 
+  ".T": "Anti-T12 monoclonal antibody therapy of acute renal allograft rejection.\r", 
+  ".U": "90288899\r"
+ }, 
+ {
+  ".I": "273640", 
+  ".M": "Antilymphocyte Serum/TU; Azathioprine/TU; B-Lymphocytes/IM; Cyclosporins/TU; Drug Therapy, Combination; Follow-Up Studies; Graft Survival; Histocompatibility Testing/*; Human; Immunization; Kidney Transplantation/*IM; Prednisone/TU; Prognosis; Risk Factors; T-Lymphocytes/IM.\r", 
+  ".A": [
+   "Gaber", 
+   "Thistlethwaite", 
+   "Haag", 
+   "Stuart", 
+   "Mayes", 
+   "Fellner", 
+   "Stuart"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):1915-6\r", 
+  ".T": "Potent immunosuppression overcomes retransplantation, presensitization, and historical positive crossmatch as transplant risk factors.\r", 
+  ".U": "90288900\r"
+ }, 
+ {
+  ".I": "273641", 
+  ".M": "Antilymphocyte Serum/*TU; Azathioprine/*TU; Blood Grouping and Crossmatching; Cadaver; Cyclosporins/*TU; Drug Therapy, Combination; Graft Rejection; Histocompatibility Testing; Human; Kidney Transplantation/*IM; Prednisone/*TU; Transplantation, Homologous.\r", 
+  ".A": [
+   "Deierhoi", 
+   "Sollinger", 
+   "Kalayoglu", 
+   "Belzer"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):1917-9\r", 
+  ".T": "Quadruple therapy for cadaver renal transplantation.\r", 
+  ".U": "90288901\r"
+ }, 
+ {
+  ".I": "273642", 
+  ".M": "Azathioprine/*TU; Cyclosporins/*TU; Drug Therapy, Combination; Graft Rejection; Graft Survival; Human; Immunosuppression; Kidney Transplantation/*IM; Prednisolone/*TU; Transplantation, Homologous.\r", 
+  ".A": [
+   "Jones", 
+   "Murie", 
+   "Allen", 
+   "Jaskowski", 
+   "Morris"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):1926\r", 
+  ".T": "Immunosuppression with cyclosporine, azathioprine, and prednisolone in cadaver renal allograft recipients.\r", 
+  ".U": "90288903\r"
+ }, 
+ {
+  ".I": "273643", 
+  ".M": "Antilymphocyte Serum/*TU; Azathioprine/*TU; Cadaver; Cyclosporins/*TU; Drug Therapy, Combination; Human; Immunosuppression; Kidney Transplantation/*IM; Prednisone/*TU; Support, Non-U.S. Gov't.\r", 
+  ".A": [
+   "Halloran", 
+   "Ludwin", 
+   "Bear", 
+   "Aprile", 
+   "McQuarrie", 
+   "Poole", 
+   "White"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):1931-2\r", 
+  ".T": "Intermodal immunosuppression for cadaver renal transplantation: results using antilymphocyte globulin, azathioprine, cyclosporine, and prednisone.\r", 
+  ".U": "90288904\r"
+ }, 
+ {
+  ".I": "273644", 
+  ".M": "Adult; Antilymphocyte Serum/*TU; Azathioprine/*TU; Cyclosporins/*TU; Drug Therapy, Combination; Female; Follow-Up Studies; Graft Survival; Human; Immunosuppression; Kidney Transplantation/*/IM; Male; Middle Age; Prednisone/*TU; Prognosis; Regression Analysis; Risk Factors; Transplantation, Homologous.\r", 
+  ".A": [
+   "Canafax", 
+   "Savik", 
+   "Draxler", 
+   "Le", 
+   "Ascher", 
+   "Payne", 
+   "Sutherland", 
+   "Migliori", 
+   "Simmons", 
+   "Najarian", 
+   "et"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):1947-8\r", 
+  ".T": "Cox regression analysis of outcome risk factors in 519 renal allograft recipients.\r", 
+  ".U": "90288908\r"
+ }, 
+ {
+  ".I": "273645", 
+  ".M": "Antibodies, Monoclonal/*TU; Antilymphocyte Serum/TU; Cyclosporins/TU; Drug Therapy, Combination; Follow-Up Studies; Graft Rejection; Graft Survival; Human; Immunosuppression/*; Kidney Transplantation/*IM; Middle Age; Prednisolone/TU; Support, Non-U.S. Gov't; Transplantation, Homologous.\r", 
+  ".A": [
+   "Taube", 
+   "Welsh", 
+   "Bewick", 
+   "Dische", 
+   "Palmer", 
+   "Parsons", 
+   "Snowden"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):1961-3\r", 
+  ".T": "Pretreatment of human renal allografts with monoclonal antibodies to induce long-term tolerance.\r", 
+  ".U": "90288911\r"
+ }, 
+ {
+  ".I": "273646", 
+  ".M": "Cadaver; Graft Survival; Histocompatibility Testing/*; Human; Immunization; Kidney Transplantation/*IM; Organ Procurement/*; United States.\r", 
+  ".A": [
+   "Bollinger", 
+   "Vaughn", 
+   "Sanfilippo", 
+   "Lucas", 
+   "Lefor", 
+   "Peters", 
+   "Bias"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):1964-6\r", 
+  ".T": "Results of the South-Eastern Organ Procurement Foundation strategy for transplanting sensitized patients.\r", 
+  ".U": "90288912\r"
+ }, 
+ {
+  ".I": "273647", 
+  ".M": "Adult; Antilymphocyte Serum/TU; Azathioprine/TU; Blood Transfusion/*; Comparative Study; Cyclosporins/*TU; Cytomegalic Inclusion Disease/ET; Drug Therapy, Combination; Female; Graft Rejection; Graft Survival/*; Human; Kidney Transplantation/AE/*IM; Male; Prednisolone/TU.\r", 
+  ".A": [
+   "Melzer", 
+   "Husing", 
+   "Feduska", 
+   "Tomlanovich", 
+   "Vincenti", 
+   "Amend", 
+   "Garovoy", 
+   "Salvatierra"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):1971-3\r", 
+  ".T": "Has cyclosporine really relegated pretransplant blood transfusions to therapeutic obsolescence?\r", 
+  ".U": "90288913\r"
+ }, 
+ {
+  ".I": "273648", 
+  ".M": "Adult; Drainage; Female; Follow-Up Studies; Graft Survival; Human; Immunosuppression/*; Kidney Failure, Chronic/SU; Kidney Transplantation/*IM; Leukocyte Culture Test, Mixed; Lymphocyte Transformation; Male; Suppressor Cells/*IM; Thoracic Duct.\r", 
+  ".A": [
+   "Ono", 
+   "Ohshima", 
+   "Kinukawa", 
+   "Matsuura", 
+   "Hirabayashi"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):1985-7\r", 
+  ".T": "MLR suppression and MLR-suppressor activity induced by thoracic duct drainage prior to transplantation.\r", 
+  ".U": "90288915\r"
+ }, 
+ {
+  ".I": "273649", 
+  ".M": "Antibodies, Anti-Idiotypic/AN; Cyclosporins/*TU; Graft Survival/*; Histocompatibility Testing; Human; Immunization; Kidney Transplantation/*IM; T-Lymphocytes, Cytotoxic/IM.\r", 
+  ".A": [
+   "Doran", 
+   "Coppage", 
+   "Ruth", 
+   "Fish", 
+   "Winsett", 
+   "Vaidya"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):1988\r", 
+  ".T": "Renal allograft survival in highly sensitized patients treated with cyclosporine.\r", 
+  ".U": "90288916\r"
+ }, 
+ {
+  ".I": "273650", 
+  ".M": "ABO Blood-Group System/*IM; Biological Markers/*AN; Blood Grouping and Crossmatching/*; Human; Isoantibodies/*AN; Kidney Transplantation/*IM; Splenectomy; Transplantation, Homologous.\r", 
+  ".A": [
+   "Reding", 
+   "Squifflet", 
+   "Latinne", 
+   "De", 
+   "Pirson", 
+   "Alexandre"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):1989-90\r", 
+  ".T": "Early postoperative monitoring of natural anti-A and anti-B isoantibodies in ABO-incompatible living donor renal allografts.\r", 
+  ".U": "90288917\r"
+ }, 
+ {
+  ".I": "273651", 
+  ".M": "Adult; Antilymphocyte Serum/TU; Comparative Study; Follow-Up Studies; Graft Survival/*; Histocompatibility Testing; Human; Kidney Transplantation/*/IM; Regression Analysis; Risk Factors; Splenectomy.\r", 
+  ".A": [
+   "Rao", 
+   "Andresevic", 
+   "Ney"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):1991-2\r", 
+  ".T": "The impact of selected risk variables on the outcome of renal transplantation.\r", 
+  ".U": "90288918\r"
+ }, 
+ {
+  ".I": "273652", 
+  ".M": "Analysis of Variance; Comparative Study; Graft Survival; Human; Immunosuppression; Kidney Transplantation/*/IM; Prospective Studies; Risk Factors; Splenectomy/*; Transplantation, Homologous.\r", 
+  ".A": [
+   "Lucas", 
+   "Vaughn", 
+   "Sanfilippo", 
+   "Peters", 
+   "Alexander"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):1993-5\r", 
+  ".T": "Effects of pretransplant splenectomy: univariate and multivariate analyses.\r", 
+  ".U": "90288919\r"
+ }, 
+ {
+  ".I": "273653", 
+  ".M": "Antilymphocyte Serum/TU; Azathioprine/TU; Blood Pressure; Cholesterol/BL; Creatinine/BL/ME; Cyclosporins/AD/*TU; Drug Administration Schedule; Glucose Tolerance Test; Graft Rejection; Human; Kidney Transplantation/*IM/PH; Renal Circulation; Transplantation, Homologous; Triglycerides/BL.\r", 
+  ".A": [
+   "Weimar", 
+   "Versluis", 
+   "Wenting", 
+   "Derkx", 
+   "Schalekamp", 
+   "Jeekel"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):1998-9\r", 
+  ".T": "Prolonged cyclosporine therapy to induce solid engraftment after renal transplantation.\r", 
+  ".U": "90288921\r"
+ }, 
+ {
+  ".I": "273654", 
+  ".M": "Azathioprine/*TU; Creatinine/BL; Cyclosporins/*TU; Graft Rejection; Human; Kidney Transplantation/*IM/PH; Prednisolone/*TU; Transplantation, Homologous.\r", 
+  ".A": [
+   "Ebel", 
+   "Lange"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2005-6\r", 
+  ".T": "Conversion from azathioprine and/or prednisolone to cyclosporine A in renal allograft recipients.\r", 
+  ".U": "90288922\r"
+ }, 
+ {
+  ".I": "273655", 
+  ".M": "Azathioprine/TU; Blood Pressure; Comparative Study; Creatinine/BL; Cyclosporins/*TU; Graft Rejection; Hemoglobins/AN; Histocompatibility Testing; Human; Kidney Transplantation/IM/*PH; Proteinuria; Uric Acid/BL.\r", 
+  ".A": [
+   "Adams", 
+   "Burkart", 
+   "Hamilton", 
+   "Lorentz", 
+   "Browning", 
+   "Meredith", 
+   "Heise"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2010-1\r", 
+  ".T": "Safe conversion from cyclosporine.\r", 
+  ".U": "90288924\r"
+ }, 
+ {
+  ".I": "273656", 
+  ".M": "Adult; Azathioprine/*TU; Blood Pressure; Comparative Study; Creatinine/BL; Cyclosporins/BL/*TU; Drug Therapy, Combination; Female; Follow-Up Studies; Graft Rejection; Histocompatibility Testing; Human; Kidney Transplantation/IM/*PH; Male; Methylprednisolone/*TU.\r", 
+  ".A": [
+   "Kupin", 
+   "Venkat", 
+   "Florence-Green", 
+   "Norris", 
+   "Oh", 
+   "Dienst", 
+   "Levin"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2024-6\r", 
+  ".T": "Corticosteroid withdrawal with substitution of azathioprine in cyclosporine-treated primary cadaveric renal transplant recipients.\r", 
+  ".U": "90288928\r"
+ }, 
+ {
+  ".I": "273657", 
+  ".M": "Antilymphocyte Serum/TU; Cyclosporins/BL/*TU; Drug Administration Schedule; Drug Therapy, Combination; Follow-Up Studies; Graft Rejection; Human; Kidney Transplantation/*IM; Leukocyte Culture Test, Mixed; Prednisone/*AD/TU.\r", 
+  ".A": [
+   "Lloveras", 
+   "Masramon", 
+   "Orfila", 
+   "Cuevas", 
+   "Aubia"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2027-8\r", 
+  ".T": "Stopping prednisone in kidney transplant recipients taking cyclosporine: safety conditions.\r", 
+  ".U": "90288929\r"
+ }, 
+ {
+  ".I": "273658", 
+  ".M": "Antibodies, Anti-Idiotypic/*AN; Azathioprine/*TU; Biological Markers/*AN; Comparative Study; Cyclosporins/AD/*TU; Drug Administration Schedule; Drug Therapy, Combination; Graft Rejection/*IM; Histocompatibility Testing/*; Human; HLA Antigens/AN; Kidney Transplantation/*IM; Prednisone/TU; Transplantation, Homologous.\r", 
+  ".A": [
+   "Zemel", 
+   "Shen", 
+   "Weir", 
+   "Dagher", 
+   "Bentley"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2029-31\r", 
+  ".T": "Effects of HLA matching and panel reactive antibodies in the development of rejection after conversion of cyclosporine to azathioprine.\r", 
+  ".U": "90288930\r"
+ }, 
+ {
+  ".I": "273659", 
+  ".M": "Animal; Dogs; Female; Hypertonic Solutions; Kidney/PH/*RI; Kidney Transplantation/*; Male; Microspheres; Organ Preservation/*; Perfusion; Technetium; Trifluoperazine; Urokinase; Verapamil.\r", 
+  ".A": [
+   "Sato", 
+   "Asari", 
+   "Masaki", 
+   "Uchida", 
+   "Aso", 
+   "Yoda", 
+   "Ishii", 
+   "Anaise", 
+   "Waltzer", 
+   "Rapaport"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2043-5\r", 
+  ".T": "Usefulness of radionuclide scintiphotography to evaluate preserved kidney viability.\r", 
+  ".U": "90288932\r"
+ }, 
+ {
+  ".I": "273660", 
+  ".M": "Cold; Comparative Study; Human; Kidney Transplantation/IM/*PH; Organ Preservation/*MT; Perfusion/MT.\r", 
+  ".A": [
+   "Heil", 
+   "Canafax", 
+   "Sutherland", 
+   "Simmons", 
+   "Dunning", 
+   "Najarian"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2046\r", 
+  ".T": "A controlled comparison of kidney preservation by two methods: machine perfusion and cold storage.\r", 
+  ".U": "90288933\r"
+ }, 
+ {
+  ".I": "273661", 
+  ".M": "Canada; Case-Control Studies; Comparative Study; Female; Follow-Up Studies; Graft Rejection; Histocompatibility Testing; Human; Kidney Transplantation/IM/*PH; Male; Organ Procurement; Risk Factors; Support, Non-U.S. Gov't.\r", 
+  ".A": [
+   "Aprile", 
+   "Halloran", 
+   "Zeldin", 
+   "Brasher", 
+   "Farewell"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2058-9\r", 
+  ".T": "The causes and consequences of failure of cadaver kidneys to function: a case-control study. Ontario Renal Transplant Research Group.\r", 
+  ".U": "90288935\r"
+ }, 
+ {
+  ".I": "273662", 
+  ".M": "Cadaver; Human; Kidney Transplantation/*/PA/PH; Kidney Tubules/PA; Necrosis; Organ Preservation/*; Retrospective Studies; Time Factors.\r", 
+  ".A": [
+   "Szmidt", 
+   "Karolak", 
+   "Madej", 
+   "Sablinski", 
+   "Frunze", 
+   "Jelonek", 
+   "Nielubowicz"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2060\r", 
+  ".T": "Successful long-term preservation and transplantation of human cadaveric kidneys.\r", 
+  ".U": "90288936\r"
+ }, 
+ {
+  ".I": "273663", 
+  ".M": "Cadaver; Cold; Creatinine/ME; Cyclosporins/*TU; Human; Ischemia; Kidney Transplantation/IM/*PH; Organ Preservation/*; Renal Circulation; Retrospective Studies.\r", 
+  ".A": [
+   "van", 
+   "Wijnen", 
+   "Geerlings", 
+   "Tegzess", 
+   "Slooff"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2061-2\r", 
+  ".T": "The influence of cold ischemia on the function of cadaveric renal transplants in cyclosporine A-treated patients.\r", 
+  ".U": "90288937\r"
+ }, 
+ {
+  ".I": "273664", 
+  ".M": "Adult; Age Factors; Aged; Comparative Study; Creatinine/BL; Graft Survival/*; Histocompatibility Testing; Human; Hypertension/ET; Kidney Transplantation/*/IM/PH; Middle Age; Tissue Donors/*.\r", 
+  ".A": [
+   "Sakellariou", 
+   "Daniilidis", 
+   "Alexopoulos", 
+   "Karagiannis", 
+   "Papadimitriou"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2071-3\r", 
+  ".T": "Does the donor age influence graft survival in renal transplantation?\r", 
+  ".U": "90288940\r"
+ }, 
+ {
+  ".I": "273665", 
+  ".M": "Adult; Blood Grouping and Crossmatching; Child; Cyclosporins/AE/*TU; Female; Graft Rejection; Human; Ischemia; Kidney Transplantation/*/IM; Male; Methylprednisolone/TU; Organ Preservation; Renal Circulation; Time Factors.\r", 
+  ".A": [
+   "Chang", 
+   "Saltissi", 
+   "al", 
+   "Abomelha", 
+   "Jawdat"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2080\r", 
+  ".T": "Successful use of cyclosporine in renal grafts with prolonged ischemic times.\r", 
+  ".U": "90288941\r"
+ }, 
+ {
+  ".I": "273666", 
+  ".M": "Azathioprine/TU; Creatinine/BL; Cyclosporins/AE/*TU; Graft Survival; Human; Kidney Transplantation/IM/*PA/PH; Kidney Tubules/*PA; Necrosis.\r", 
+  ".A": [
+   "Paramasivan", 
+   "Griffin", 
+   "Ross", 
+   "Salaman"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2085\r", 
+  ".T": "The effect of acute tubular necrosis on cyclosporine-treated kidney transplants.\r", 
+  ".U": "90288942\r"
+ }, 
+ {
+  ".I": "273667", 
+  ".M": "Acetylglucosaminidase/*UR; Biological Markers/*UR; Colorimetry; Comparative Study; Creatinine/BL; Cyclosporins/*TU; Glucosaminidase/*UR; Human; Immunosuppression; Kidney Transplantation/IM/*PA; Radioimmunoassay; Support, Non-U.S. Gov't; Transplantation, Homologous.\r", 
+  ".A": [
+   "Avolio", 
+   "Nanni", 
+   "Citterio", 
+   "Pozzetto", 
+   "Magalini", 
+   "Zappacosta", 
+   "Tacchino", 
+   "Zuppi", 
+   "Castagneto"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2086-7\r", 
+  ".T": "Increase in N-acetyl-beta-glucosaminidase excretion as a marker of kidney damage in cyclosporine-treated renal allografts.\r", 
+  ".U": "90288943\r"
+ }, 
+ {
+  ".I": "273668", 
+  ".M": "Adult; Analysis of Variance; Child; Chromatography, High Pressure Liquid; Comparative Study; Creatinine/ME; Cyclosporins/*AE/BL/TU; Follow-Up Studies; Graft Survival; Hemodialysis; Human; Kidney Transplantation/IM/*PH; Organ Preservation; Risk Factors; Transplantation, Homologous.\r", 
+  ".A": [
+   "Rocher", 
+   "Landis", 
+   "Dafoe", 
+   "Keyserling", 
+   "Swartz", 
+   "Campbell"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2093-5\r", 
+  ".T": "The long-term deleterious effect of delayed graft function in cyclosporine-treated renal allograft recipients.\r", 
+  ".U": "90288944\r"
+ }, 
+ {
+  ".I": "273669", 
+  ".M": "Adolescence; Adult; Age Factors; Cadaver; Child; Child, Preschool; Cyclosporins/TU; Family; Follow-Up Studies; Histocompatibility Testing; Human; Immunosuppressive Agents/*TU; Kidney Transplantation/*IM; Splenectomy; Tissue Donors.\r", 
+  ".A": [
+   "Najarian", 
+   "So", 
+   "Simmons", 
+   "Mauer", 
+   "Nevins", 
+   "Sutherland", 
+   "Ascher", 
+   "Chavers", 
+   "Payne", 
+   "Fryd"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2111-2\r", 
+  ".T": "First kidney transplants in children 5 years of age or younger.\r", 
+  ".U": "90288946\r"
+ }, 
+ {
+  ".I": "273670", 
+  ".M": "Cadaver; Follow-Up Studies; Graft Survival; Human; Immunologic Tests; Kidney Transplantation/MO/*PH/RH; Tissue Donors.\r", 
+  ".A": [
+   "Lee", 
+   "Kenyon", 
+   "Mendez-Picon", 
+   "Posner"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2120-1\r", 
+  ".T": "Long-term survivors of kidney transplantation, mortality, rehabilitation, and immunologic reactivities.\r", 
+  ".U": "90288948\r", 
+  ".W": "1. The overall patient and graft survival rates (83.6% and 82% respectively) up to 23 years posttransplant of the group who survived a minimum of 10 years is reasonably good regardless of the donor source. 2. The primary grafts that survived a minimum of 10 years and were lost during the subsequent 12 years (17.7%) were equally due to rejection and the death of the patient. 3. Rehabilitation of the long-term survivor has been very good. Cardiovascular disease is becoming a significant morbidity among pediatric-aged recipients reaching the thirties. 4. The causes of death after 10-year survival are evenly distributed among infection, cardiovascular disease, neoplasms, dialysis, and hepatic failure. 5. The selected studies of immunologic reactivities in the long-term survivors show their failure to generate significant killing against donor-specific antigens while displaying normal MLR response against donor and third party. Significant depressions in their ability to respond in vitro to soluble antigens was also demonstrated.\r"
+ }, 
+ {
+  ".I": "273671", 
+  ".M": "Adult; Cadaver; Comparative Study; Cyclosporins/*TU; Drug Therapy, Combination; Female; Graft Rejection/*; Graft Survival; Human; Kidney Transplantation/*IM; Male; Prednisone/*TU; Transplantation, Homologous.\r", 
+  ".A": [
+   "Arnold", 
+   "Anaise", 
+   "Miller", 
+   "Waltzer", 
+   "Rapaport"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2122-3\r", 
+  ".T": "Prevention of chronic rejection by cyclosporine and prednisone.\r", 
+  ".U": "90288949\r"
+ }, 
+ {
+  ".I": "273672", 
+  ".M": "Cytomegalic Inclusion Disease/DI/*ET/IM; Cytomegaloviruses/GE/IP; Human; Kidney Transplantation/*AE; Prospective Studies; Restriction Mapping; Serotyping; Support, Non-U.S. Gov't; Tissue Donors.\r", 
+  ".A": [
+   "Grundy", 
+   "Super", 
+   "Lui", 
+   "Sweny", 
+   "Griffiths"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2126-8\r", 
+  ".T": "The source of cytomegalovirus infection in seropositive renal allograft recipients is frequently the donor kidney.\r", 
+  ".U": "90288951\r"
+ }, 
+ {
+  ".I": "273673", 
+  ".M": "Cyclosporins/TU; Cytomegalic Inclusion Disease/*DI/ET; Cytomegaloviruses/IP; Human; Kidney Transplantation/*AE/IM; Prednisolone/TU; Support, Non-U.S. Gov't.\r", 
+  ".A": [
+   "Lui", 
+   "Sweny", 
+   "Grundy", 
+   "Blaxill", 
+   "Griffiths", 
+   "Moorhead", 
+   "Fernando"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2129-30\r", 
+  ".T": "The clinical application of a rapid diagnostic test for the detection of cytomegalovirus infection in renal transplant recipients.\r", 
+  ".U": "90288952\r"
+ }, 
+ {
+  ".I": "273674", 
+  ".M": "Antibodies, Viral/AN; Cytomegalic Inclusion Disease/DI/*ET/IM; Cytomegaloviruses/CL/IP; Human; IgM/AN; Kidney Transplantation/*AE; Serotyping.\r", 
+  ".A": [
+   "Godeaut", 
+   "Galezowski", 
+   "Berche", 
+   "Bonissol", 
+   "Debure", 
+   "Kreis"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2131-2\r", 
+  ".T": "Cytomegalovirus infection in fifty-two renal transplant recipients.\r", 
+  ".U": "90288953\r"
+ }, 
+ {
+  ".I": "273675", 
+  ".M": "Cells, Cultured; Cytomegaloviruses/*IM; DNA Replication/*/DE; Human; Immunoglobulins/*BI; Lymphocyte Transformation/DE; Lymphocytes/DE/*IM; Staphylococcal Protein A/*PD.\r", 
+  ".A": [
+   "Paulin", 
+   "Ringden"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2133-4\r", 
+  ".T": "Interaction between cytomegalovirus and Staphylococcus aureus protein A in immunoglobulin secretion and DNA synthesis.\r", 
+  ".U": "90288954\r"
+ }, 
+ {
+  ".I": "273676", 
+  ".M": "Adult; Antibodies, Viral/AN; Antigens, Viral/*IP; Cells, Cultured; Creatinine/BL; Cytomegalic Inclusion Disease/*DI/ET; Cytomegaloviruses/*IM; Female; Glomerulonephritis, IGA/*IM; Human; Immunosuppressive Agents/TU; Kidney Transplantation/AE/*IM/PH; Lymphocyte Transformation; Lymphocytes/*IM; Male; Prognosis.\r", 
+  ".A": [
+   "Sakamaki", 
+   "Kashiwabara", 
+   "Omori", 
+   "Nagata", 
+   "Hachisu", 
+   "Tateno", 
+   "Shishido", 
+   "Yokoyama"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2135-6\r", 
+  ".T": "Proliferative response against cytomegalovirus and prognosis of renal transplant and IgA nephropathy patients.\r", 
+  ".U": "90288955\r"
+ }, 
+ {
+  ".I": "273677", 
+  ".M": "Azathioprine/TU; Comparative Study; Creatinine/BL; Follow-Up Studies; Graft Survival; Hepatitis B Surface Antigens/*AN; Human; Kidney Transplantation/IM/*PH; Liver Function Tests; Prednisone/TU.\r", 
+  ".A": [
+   "White", 
+   "Kumar", 
+   "Strannegard", 
+   "Abouna"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2150-2\r", 
+  ".T": "Renal transplantation in hepatitis B surface antigen-positive patients.\r", 
+  ".U": "90288956\r"
+ }, 
+ {
+  ".I": "273678", 
+  ".M": "Azathioprine/TU; Cadaver; Comparative Study; Cyclosporins/TU; Graft Survival; Hepatitis B Surface Antigens/*AN; Human; Kidney Transplantation/*/IM; Methylprednisolone/TU; Prognosis.\r", 
+  ".A": [
+   "Rivolta", 
+   "De", 
+   "Tarantino", 
+   "Castelnovo", 
+   "Berardinelli", 
+   "Ponticelli"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2153-4\r", 
+  ".T": "Prognostic significance of hepatitis B surface antigenemia in cadaveric renal transplant patients.\r", 
+  ".U": "90288957\r"
+ }, 
+ {
+  ".I": "273679", 
+  ".M": "Adult; Follow-Up Studies; Graft Survival; Hepatitis B/*CO; Hepatitis B e Antigens/AN; Hepatitis B Surface Antigens/*AN; Human; Kidney Transplantation/*IM; Prognosis; Retrospective Studies.\r", 
+  ".A": [
+   "Scott", 
+   "Mijch", 
+   "Lucas", 
+   "Marshall", 
+   "Thomson", 
+   "Atkins"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2159-60\r", 
+  ".T": "Hepatitis B and renal transplantation.\r", 
+  ".U": "90288958\r", 
+  ".W": "Renal transplantation in HBsAg+ chronic carriers has a relative low risk of progressive liver disease, with mortality associated with liver disease at 7%. In contrast, HBsAg+ recipients who acquired their disease in the early posttransplant period had a mortality of 60%. HBeAg-positive patients who remain persistently positive are a subgroup with a poor prognosis and should not be offered a renal transplant.\r"
+ }, 
+ {
+  ".I": "273680", 
+  ".M": "Blotting, Western; Enzyme-Linked Immunosorbent Assay; Histocompatibility Testing/*; Human; HIV Antibodies/*AN; HIV Seropositivity/*; Immunosuppression; Reagent Kits, Diagnostic; Tissue Donors/*.\r", 
+  ".A": [
+   "Karmi", 
+   "Frantz", 
+   "Sloan", 
+   "Milliken", 
+   "Phillips"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2167-8\r", 
+  ".T": "The value of human T-lymphotropic III screening at the time of cross-match.\r", 
+  ".U": "90288959\r"
+ }, 
+ {
+  ".I": "273681", 
+  ".M": "Adult; Aged; Blotting, Western; Enzyme-Linked Immunosorbent Assay; Female; Hemodialysis/*; Hepatitis B Surface Antigens/AN; Human; HIV Antibodies/*AN; HIV Seropositivity/*; Kidney Transplantation/*IM; Male; Middle Age.\r", 
+  ".A": [
+   "Neumayer", 
+   "Fassbinder", 
+   "Kresse", 
+   "Wagner"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2169-71\r", 
+  ".T": "Human T-lymphotropic virus III antibody screening in kidney transplant recipients and patients receiving maintenance hemodialysis.\r", 
+  ".U": "90288960\r"
+ }, 
+ {
+  ".I": "273682", 
+  ".M": "Acquired Immunodeficiency Syndrome/*CO/DI; Human; HIV Antibodies/AN; HIV Infections/*CO/DI; HIV Seropositivity/*; Kidney Transplantation/*; Liver Transplantation/*; Retrospective Studies; Transplantation, Homologous.\r", 
+  ".A": [
+   "Shaffer", 
+   "Pearl", 
+   "Jenkins", 
+   "Hammer", 
+   "Dzik", 
+   "Groopman", 
+   "Benotti", 
+   "Monaco"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2176-8\r", 
+  ".T": "HTLV-III/LAV infection in kidney and liver transplantation.\r", 
+  ".U": "90288961\r"
+ }, 
+ {
+  ".I": "273683", 
+  ".M": "Azathioprine/AE/*TU; Cadaver; Capsid/IM; Comparative Study; Cyclosporins/AE/*TU; Epstein-Barr Virus/*IM; Follow-Up Studies; Human; IgG/*AN; Immunosuppression/*AE; Kidney Transplantation/*IM; Methylprednisolone/TU; Retrospective Studies.\r", 
+  ".A": [
+   "Hillebrand", 
+   "Castro", 
+   "Schleibner", 
+   "Land", 
+   "Gurland"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2179-80\r", 
+  ".T": "Chronic Epstein-Barr virus reactivation after renal transplantation: immunosuppression with cyclosporine versus azathioprine.\r", 
+  ".U": "90288962\r"
+ }, 
+ {
+  ".I": "273684", 
+  ".M": "Cyclosporins/*TU; Enzyme-Linked Immunosorbent Assay; Graft Rejection/*; Human; IgG/*AN; Kidney Transplantation/*IM; T-Lymphocytes/CY/*IM; Transplantation, Homologous; Virus Diseases/*DI/ET.\r", 
+  ".A": [
+   "Metselaar", 
+   "Jeekel", 
+   "Rothbarth", 
+   "Vaessen", 
+   "Wenting", 
+   "Weimar"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2181-2\r", 
+  ".T": "T cell subset analysis predicts virus infection but not rejection in cyclosporine A-treated renal allograft recipients.\r", 
+  ".U": "90288963\r"
+ }, 
+ {
+  ".I": "273685", 
+  ".M": "Cell Cycle; Flow Cytometry/MT; Graft Rejection; Human; In Vitro; Kidney Transplantation/IM/*PH; Monocytes/*CY; Transplantation, Homologous.\r", 
+  ".A": [
+   "Walle", 
+   "Suthanthiran", 
+   "Darzynkiewicz", 
+   "Rubin", 
+   "Stenzel"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2183-4\r", 
+  ".T": "Cell cycle analysis of activated mononuclear blood cells of renal allograft recipients.\r", 
+  ".U": "90288964\r"
+ }, 
+ {
+  ".I": "273686", 
+  ".M": "Autoanalysis; Biological Markers/*BL; Biopterin/*AA/BL; Creatinine/*BL; Follow-Up Studies; Glomerular Filtration Rate; Graft Rejection; Human; Kidney Transplantation/*PH; Monitoring, Physiologic; Radioimmunoassay.\r", 
+  ".A": [
+   "Hacini", 
+   "Guerin", 
+   "Berthoux", 
+   "Ville", 
+   "Berthoux"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2185-6\r", 
+  ".T": "Monitoring of the serum neopterin/creatinine ratio in renal transplantation.\r", 
+  ".U": "90288965\r"
+ }, 
+ {
+  ".I": "273687", 
+  ".M": "Biopsy, Needle; Comparative Study; Cyclosporins/TU; Cytomegalic Inclusion Disease/PC; Graft Rejection; Human; Inflammation; Interferon Alfa, Recombinant/BL/*TU; Kidney Transplantation/IM/PA/*PH; Lymphocyte Transformation; Methylprednisolone/TU; Monitoring, Physiologic; Retrospective Studies.\r", 
+  ".A": [
+   "Dendorfer", 
+   "Hammer", 
+   "Schleibner", 
+   "Castro", 
+   "Hillebrand", 
+   "Land", 
+   "Brendel"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2187-9\r", 
+  ".T": "Monitoring of interferon-alpha 2-treated renal transplant patients using fine-needle aspiration biopsy.\r", 
+  ".U": "90288966\r"
+ }, 
+ {
+  ".I": "273688", 
+  ".M": "Angioplasty, Transluminal/*; Blood Urea Nitrogen; Creatinine/BL; Human; Kidney Transplantation/*AE/PH; Renal Artery Obstruction/ET/*TH; Retrospective Studies; Software.\r", 
+  ".A": [
+   "Greenstein", 
+   "Verstandig", 
+   "McLean", 
+   "DaFoe", 
+   "Burke", 
+   "Meranze", 
+   "Naji", 
+   "Brayman", 
+   "Grossman", 
+   "Perloff", 
+   "et"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2194-6\r", 
+  ".T": "Percutaneous transluminal angioplasty: the procedure of choice for renal allograft artery stenosis.\r", 
+  ".U": "90288967\r"
+ }, 
+ {
+  ".I": "273689", 
+  ".M": "Female; Graft Rejection/*; Human; Kidney Transplantation/IM/*PA; Male; Transplantation, Homologous; Ureter/PA/*TR.\r", 
+  ".A": [
+   "Katz", 
+   "Hakki", 
+   "Katz", 
+   "Simonian"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2200-2\r", 
+  ".T": "Rejection of the ureter: a new component of renal allograft rejection.\r", 
+  ".U": "90288969\r"
+ }, 
+ {
+  ".I": "273690", 
+  ".M": "Adult; Female; Human; Kidney Transplantation/*AE; Male; Support, Non-U.S. Gov't; Ureteral Obstruction/ET/RA; Urologic Diseases/ET/*RA/TH.\r", 
+  ".A": [
+   "Warner", 
+   "Matalon", 
+   "Rabin", 
+   "Patel", 
+   "Jensik", 
+   "Merkel"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2203-4\r", 
+  ".T": "Percutaneous interventional radiologic procedures for diagnosis and treatment of urologic complications in renal transplant patients.\r", 
+  ".U": "90288970\r"
+ }, 
+ {
+  ".I": "273691", 
+  ".M": "Human; Kidney Transplantation/*AE; Ureteral Obstruction/ET/TH; Urologic Diseases/ET/*TH.\r", 
+  ".A": [
+   "Van", 
+   "Matos", 
+   "Gevenois", 
+   "De", 
+   "Struyven", 
+   "Kinnaert"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2205\r", 
+  ".T": "Percutaneous interventional procedures in the management of urologic complications of renal transplantation.\r", 
+  ".U": "90288971\r"
+ }, 
+ {
+  ".I": "273692", 
+  ".M": "Adult; Biopsy; Glomerulonephritis, Membranoproliferative/DI/*PA/SU; Human; Kidney Transplantation/*PA; Recurrence.\r", 
+  ".A": [
+   "Moritz", 
+   "Burke", 
+   "Jarrell", 
+   "Carabasi"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2206-7\r", 
+  ".T": "The incidence of membranoproliferative glomerulonephritis in renal allografts.\r", 
+  ".U": "90288972\r"
+ }, 
+ {
+  ".I": "273693", 
+  ".M": "Creatinine/UR; Glomerular Mesangium/*IM; Glomerulonephritis, IGA/IM/PA; Hematuria; Histocompatibility Testing; Human; IgA/*AN; Kidney Transplantation/*IM/PA/PH; Proteinuria; Tissue Donors.\r", 
+  ".A": [
+   "Cuevas", 
+   "Lloveras", 
+   "Mir", 
+   "Aubia", 
+   "Masramon"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2208-9\r", 
+  ".T": "Disappearance of mesangial IgA deposits from the kidneys of two donors after transplantation.\r", 
+  ".U": "90288973\r"
+ }, 
+ {
+  ".I": "273694", 
+  ".M": "Cadaver; Comparative Study; Graft Survival; Histocompatibility Testing; Human; Immunosuppression; Kidney Transplantation/IM/*PH; Organ Preservation; Retrospective Studies.\r", 
+  ".A": [
+   "Athersmith", 
+   "Digard", 
+   "Gardner", 
+   "Harris", 
+   "Venkat-Raman", 
+   "Slapak"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2210\r", 
+  ".T": "Parameters governing function in 100 consecutive cadaveric kidney transplants.\r", 
+  ".U": "90288974\r"
+ }, 
+ {
+  ".I": "273695", 
+  ".M": "Cyclosporins/*AE; Female; Human; Immunosuppressive Agents/*AE; Male; Neoplasms/*CI; Registries; Support, U.S. Gov't, Non-P.H.S.; Transplantation, Homologous/*.\r", 
+  ".A": [
+   "Penn"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2211-3\r", 
+  ".T": "Cancers following cyclosporine therapy.\r", 
+  ".U": "90288975\r"
+ }, 
+ {
+  ".I": "273696", 
+  ".M": "Australia; Azathioprine/*AE/TU; Carcinoma, Squamous Cell/CI; Comparative Study; Cyclosporins/*AE/TU; Female; Human; Kidney Transplantation/*IM; Male; Neoplasms/*CI; New Zealand; Risk Factors; Support, Non-U.S. Gov't.\r", 
+  ".A": [
+   "Sheil", 
+   "Flavel", 
+   "Disney", 
+   "Mathew", 
+   "Hall"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2214-6\r", 
+  ".T": "Cancer incidence in renal transplant patients treated with azathioprine or cyclosporine.\r", 
+  ".U": "90288976\r"
+ }, 
+ {
+  ".I": "273697", 
+  ".M": "Antibodies, Monoclonal/IM/TU; Antibody Formation/*; Antilymphocyte Serum/*TU; Azathioprine/TU; Cyclophosphamide/TU; Enzyme-Linked Immunosorbent Assay; Human; Kidney Transplantation/*IM.\r", 
+  ".A": [
+   "Shield", 
+   "Fucello", 
+   "Marlett", 
+   "Goldstein"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2217-8\r", 
+  ".T": "Human antibody response to antilymphocytic preparations in renal transplant patients.\r", 
+  ".U": "90288977\r"
+ }, 
+ {
+  ".I": "273698", 
+  ".M": "Adult; Age Factors; Comparative Study; Female; Human; Immunosuppressive Agents/TU; Kidney Transplantation/*AE; Male; Middle Age; Pulmonary Embolism/*ET; Thrombophlebitis/*ET.\r", 
+  ".A": [
+   "Murie", 
+   "Allen", 
+   "Michie", 
+   "Morris"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2219-20\r", 
+  ".T": "Deep venous thrombosis after renal transplantation.\r", 
+  ".U": "90288978\r"
+ }, 
+ {
+  ".I": "273699", 
+  ".M": "Biopsy; Hemosiderosis/*ET/PA; Human; Iron/*AN/ME; Liver/PA/*UL; Liver Transplantation/AE/*PA; Microscopy, Electron; Middle Age.\r", 
+  ".A": [
+   "Rao", 
+   "Anderson"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2225-6\r", 
+  ".T": "Mechanism of liver cell injury from iron overload in renal transplant recipients.\r", 
+  ".U": "90288979\r"
+ }, 
+ {
+  ".I": "273700", 
+  ".M": "Alkaline Phosphatase/BL; Bone and Bones/PP; Human; Hydroxycholecalciferols/*TU; Kidney Transplantation/*AE/PH; Pain/PP; Renal Osteodystrophy/*DT/ET.\r", 
+  ".A": [
+   "Williams", 
+   "Hillis", 
+   "Carty", 
+   "Sells", 
+   "Bone"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2227-8\r", 
+  ".T": "Symptomatic renal osteodystrophy after renal transplantation: treatment with 1-alpha-hydroxycholecalciferol.\r", 
+  ".U": "90288980\r"
+ }, 
+ {
+  ".I": "273701", 
+  ".M": "Case Report; Cerebellar Neoplasms/*ET; Female; Heart Transplantation/*AE; Human; Immunosuppression; Kidney Transplantation/*AE; Medulloblastoma/*ET; Pancreas Transplantation/*AE.\r", 
+  ".A": [
+   "Lefrancois", 
+   "Touraine", 
+   "Cantarovich", 
+   "Cantarovich", 
+   "Faure", 
+   "Dubernard", 
+   "Dureau", 
+   "Colpart", 
+   "Bouvier", 
+   "Traeger"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2242\r", 
+  ".T": "Transmission of medulloblastoma from cadaver donor to three organ transplant recipients.\r", 
+  ".U": "90288983\r"
+ }, 
+ {
+  ".I": "273702", 
+  ".M": "Adult; Azathioprine/TU; Cyclosporins/TU; Female; Follow-Up Studies; Graft Rejection; Human; Immunosuppression; Kidney Transplantation/*AE/IM/PA; Male; Neoplasm Staging; Prednisolone/TU; Sarcoma, Kaposi's/*ET/PA; Skin Neoplasms/*ET/PA.\r", 
+  ".A": [
+   "al-Suleiman", 
+   "Haleen", 
+   "al"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2243-4\r", 
+  ".T": "Kaposi's sarcoma after renal transplantation.\r", 
+  ".U": "90288984\r"
+ }, 
+ {
+  ".I": "273703", 
+  ".M": "Azathioprine/AE; Chromosome Aberrations/*; Comparative Study; Cyclosporins/AE; Female; Hemodialysis; Human; Immunosuppressive Agents/*AE/TU; Kidney Transplantation/*AE; Male; Prednisolone/AE; Reference Values; Retrospective Studies.\r", 
+  ".A": [
+   "Fukuda", 
+   "Aikawa", 
+   "Ohmori", 
+   "Yoshimura", 
+   "Nakai", 
+   "Matui", 
+   "Oka"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2245-7\r", 
+  ".T": "Chromosome aberrations in kidney transplant recipients.\r", 
+  ".U": "90288985\r"
+ }, 
+ {
+  ".I": "273704", 
+  ".M": "Azathioprine/TU; Blood Transfusion/*; Erythrocytes/TR; Follow-Up Studies; Graft Rejection; Graft Survival; Haplotypes; Histocompatibility Testing; Human; Immunosuppression/MT; Kidney Transplantation/*IM; Leukocytes/TR; Prednisone/TU.\r", 
+  ".A": [
+   "Norman", 
+   "Henell", 
+   "Fletcher", 
+   "Barry"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2252-4\r", 
+  ".T": "Donor specific transfusions: a five-year experience with alternative protocols.\r", 
+  ".U": "90288988\r"
+ }, 
+ {
+  ".I": "273705", 
+  ".M": "Azathioprine/*TU; Blood Donors; Blood Transfusion/*; Combined Modality Therapy; Graft Rejection; Human; Kidney Transplantation/*IM/PH; Kinetics; Leukocyte Culture Test, Mixed/*; Lymphocytes/IM; Support, U.S. Gov't, P.H.S.; Tissue Donors.\r", 
+  ".A": [
+   "Burlingham", 
+   "Grailer", 
+   "Sparks-Mackety", 
+   "Sondel", 
+   "Sollinger"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2255-7\r", 
+  ".T": "Kinetics of antidonor mixed lymphocyte culture responses in donor specific transfusions plus azathioprine-treated patients.\r", 
+  ".U": "90288989\r"
+ }, 
+ {
+  ".I": "273706", 
+  ".M": "Antibodies, Anti-Idiotypic/*AN; B-Lymphocytes/IM; Blood Donors; Blood Transfusion/*; Histocompatibility Testing; Human; Kidney Transplantation/*IM; T-Lymphocytes/IM; Tissue Donors; Transplantation, Homologous.\r", 
+  ".A": [
+   "Vaidya", 
+   "Sommer", 
+   "Pagel", 
+   "Koegel", 
+   "Ferguson"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2268\r", 
+  ".T": "Evaluation of the risk factors associated with donor specific blood transfusion.\r", 
+  ".U": "90288991\r"
+ }, 
+ {
+  ".I": "273707", 
+  ".M": "Adult; Blood Donors; Blood Transfusion/*; Combined Modality Therapy; Comparative Study; Cyclosporins/*TU; Drug Therapy, Combination; Female; Graft Rejection; Histocompatibility Testing; Human; Kidney Transplantation/*IM; Male; Methylprednisolone/TU; Tissue Donors.\r", 
+  ".A": [
+   "Haberal", 
+   "Oner", 
+   "Aybasti", 
+   "Arslan", 
+   "Turan", 
+   "Bilgin"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2269-70\r", 
+  ".T": "The effects of donor specific transfusion and cyclosporine A on graft outcome.\r", 
+  ".U": "90288992\r"
+ }, 
+ {
+  ".I": "273708", 
+  ".M": "Adult; Blood Donors; Blood Transfusion/*; Comparative Study; Family; Female; Graft Rejection/*; Graft Survival/*; Histocompatibility Testing; Human; Kidney Transplantation/*IM; Male; Tissue Donors.\r", 
+  ".A": [
+   "Garcia", 
+   "Kraemer", 
+   "Prompt", 
+   "Santos", 
+   "Caovila", 
+   "Duarte", 
+   "Filho", 
+   "Goldani"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2271-3\r", 
+  ".T": "Donor specific blood transfusions do not improve graft survival in living related donor transplantation.\r", 
+  ".U": "90288993\r"
+ }, 
+ {
+  ".I": "273709", 
+  ".M": "Adolescence; Adult; Azathioprine/TU; Blood Transfusion; Child; Cyclosporins/TU; Family; Follow-Up Studies; Graft Survival; Histocompatibility Testing; Human; Immunosuppression; Kidney Transplantation/*/IM; Leukocyte Culture Test, Mixed; Middle Age; Retrospective Studies; Steroids/TU; Tissue Donors; Uremia/*SU.\r", 
+  ".A": [
+   "Groth", 
+   "Fehrman", 
+   "Ringden", 
+   "Lundgren"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2278-9\r", 
+  ".T": "Related donor kidney transplantation is the best form of treatment for uremia.\r", 
+  ".U": "90288996\r"
+ }, 
+ {
+  ".I": "273710", 
+  ".M": "Adult; Blood Transfusion/*; Cadaver; Family; Graft Rejection; Graft Survival; Human; Kidney Transplantation/*/IM; Tissue Donors; Transplantation, Homologous.\r", 
+  ".A": [
+   "Shapira", 
+   "Yussim", 
+   "Shmueli", 
+   "Mahinson", 
+   "Reichenthal", 
+   "Servadio"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2280-1\r", 
+  ".T": "Renal retransplantation from living related donors using donor specific blood transfusions.\r", 
+  ".U": "90288997\r"
+ }, 
+ {
+  ".I": "273711", 
+  ".M": "Anastomosis, Roux-en-Y; Comparative Study; Duodenum/SU; Follow-Up Studies; Graft Survival; Human; Ileum/SU; Immunosuppressive Agents/TU; Kidney Transplantation/IM/*MT; Pancreas Transplantation/IM/*MT; Transplantation, Homologous.\r", 
+  ".A": [
+   "Dubernard", 
+   "La", 
+   "Gelet", 
+   "Faure", 
+   "Long", 
+   "Martin", 
+   "Lefrancois", 
+   "Blanc", 
+   "Monti", 
+   "Touraine", 
+   "et"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2285-7\r", 
+  ".T": "Simultaneous pancreas and kidney transplantation: long-term results and comparison of two surgical techniques.\r", 
+  ".U": "90288998\r"
+ }, 
+ {
+  ".I": "273712", 
+  ".M": "Antilymphocyte Serum/TU; Azathioprine/TU; Blood Glucose/ME; Comparative Study; Cyclosporins/*TU; Diabetes Mellitus, Insulin-Dependent/SU; Diabetic Nephropathies/SU; Follow-Up Studies; Glucose Tolerance Test; Graft Survival; Hemoglobin A, Glycosylated/AN; Human; Kidney Transplantation/IM/*PH; Pancreas Transplantation/IM/MT/*PH; Prednisolone/TU; Support, Non-U.S. Gov't.\r", 
+  ".A": [
+   "Tyden", 
+   "Brattstrom", 
+   "Gunnarsson", 
+   "Lundgren", 
+   "Ost", 
+   "Ostman", 
+   "Groth"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2294-6\r", 
+  ".T": "Metabolic control at two months to 4.5 years after pancreatic transplantation, with special reference to the role of cyclosporine.\r", 
+  ".U": "90289000\r"
+ }, 
+ {
+  ".I": "273713", 
+  ".M": "Antilymphocyte Serum/*TU; Cyclophosphamide/*TU; Cyclosporins/*TU; Drug Therapy, Combination; Duodenum/TR; Follow-Up Studies; Graft Survival; Human; Pancreas Transplantation/AE/*IM/MT; Prednisone/*TU; Spleen/TR.\r", 
+  ".A": [
+   "Sollinger", 
+   "Kalayoglu", 
+   "Hoffman", 
+   "Deierhoi", 
+   "Belzer"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2297-9\r", 
+  ".T": "Quadruple immunosuppressive therapy in whole pancreas transplantation.\r", 
+  ".U": "90289001\r"
+ }, 
+ {
+  ".I": "273714", 
+  ".M": "Adult; Duodenum/*TR; Follow-Up Studies; Graft Rejection; Graft Survival; Human; Kidney Transplantation/*/IM/MO; Pancreas Transplantation/*/IM/MO.\r", 
+  ".A": [
+   "Corry", 
+   "Nghiem", 
+   "Schanbacher", 
+   "Gonwa"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2305-6\r", 
+  ".T": "Critical analysis of mortality and graft loss following simultaneous renal-pancreatic duodenal transplantation.\r", 
+  ".U": "90289002\r"
+ }, 
+ {
+  ".I": "273715", 
+  ".M": "C-Peptide/BL; Cold; Comparative Study; Diabetes Mellitus, Insulin-Dependent/SU; Follow-Up Studies; Glucose Tolerance Test; Graft Survival; Human; Immunosuppression; Organ Preservation/*MT; Pancreas Transplantation/*/PH; Time Factors; Transplantation, Homologous.\r", 
+  ".A": [
+   "Abouna", 
+   "Sutherland", 
+   "Florack", 
+   "Heil", 
+   "Najarian"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2307-9\r", 
+  ".T": "Preservation of human pancreatic allografts in cold storage for six to 24 hours.\r", 
+  ".U": "90289003\r"
+ }, 
+ {
+  ".I": "273716", 
+  ".M": "Comparative Study; Fistula/*ET; Human; Kidney Transplantation; Pancreas Transplantation/*AE/MT; Surgical Wound Infection.\r", 
+  ".A": [
+   "Illner", 
+   "Gottwald", 
+   "Abendroth", 
+   "Land"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2323-4\r", 
+  ".T": "Incidence of fistulas following human pancreas transplantation--positive influence of reabsorption of pancreatic secretions by the peritoneum.\r", 
+  ".U": "90289004\r"
+ }, 
+ {
+  ".I": "273717", 
+  ".M": "Diabetes Mellitus, Insulin-Dependent/PP/*SU; Diabetic Angiopathies/*PP; Diabetic Nephropathies/*SU; Follow-Up Studies; Glucose Tolerance Test; Human; Kidney Transplantation/*PH; Pancreas Transplantation/*PH; Regional Blood Flow; Skin/BS; Skin Temperature.\r", 
+  ".A": [
+   "Abendroth", 
+   "Illner", 
+   "Landgraf", 
+   "Land"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2325-6\r", 
+  ".T": "Are late diabetic complications reversible after pancreas transplantation? A new method of follow-up of microcirculatory changes.\r", 
+  ".U": "90289005\r"
+ }, 
+ {
+  ".I": "273718", 
+  ".M": "Diabetes Mellitus, Insulin-Dependent/PP/*SU; Diabetic Nephropathies/PP/SU; Electrocardiography; Follow-Up Studies; Human; Kidney Transplantation/*PH; Median Nerve/PP; Pancreas Transplantation/*PH; Peroneal Nerve/PP; Reference Values; Sural Nerve/PP.\r", 
+  ".A": [
+   "Wilczek", 
+   "Solders", 
+   "Gunnarsson", 
+   "Tyden", 
+   "Persson"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2327-8\r", 
+  ".T": "Effects of successful combined pancreatic and renal transplantation on advanced diabetic neuropathy: a one-year follow-up study.\r", 
+  ".U": "90289006\r"
+ }, 
+ {
+  ".I": "273719", 
+  ".M": "Biopsy; Graft Rejection/*; Human; Inflammation; Pancreas Transplantation/IM/*PA.\r", 
+  ".A": [
+   "Sutherland", 
+   "Casanova", 
+   "Sibley"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2329-31\r", 
+  ".T": "Role of pancreas graft biopsies in the diagnosis and treatment of rejection after pancreas transplantation.\r", 
+  ".U": "90289007\r"
+ }, 
+ {
+  ".I": "273720", 
+  ".M": "Diabetes Mellitus, Insulin-Dependent/SU; Graft Rejection; Human; Immunosuppressive Agents/TU; Kidney Transplantation/IM/*MT; Pancreas/SE; Pancreas Transplantation/IM/*MT; Ureter/*SU.\r", 
+  ".A": [
+   "Munda", 
+   "Weiss", 
+   "First", 
+   "Alexander"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2343-4\r", 
+  ".T": "Synchronous pancreatic and renal allografts with urinary tract drainage of the pancreas.\r", 
+  ".U": "90289008\r"
+ }, 
+ {
+  ".I": "273721", 
+  ".M": "Amylases/BL/UR; Antilymphocyte Serum/TU; Bladder/*SU; Blood Glucose/ME; Creatinine/BL; Fever/ET; Graft Rejection/*; Human; Immunosuppression; Kidney Transplantation/*IM/MT/PH; Leukocyte Count; Methylprednisolone/TU; Pancreas/SE; Pancreas Transplantation/*IM/MT/PH; Proteinuria; Regression Analysis.\r", 
+  ".A": [
+   "Dafoe", 
+   "Campbell", 
+   "Rocher", 
+   "Schwartz", 
+   "Turcotte"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2345-7\r", 
+  ".T": "Diagnosis of rejection in simultaneous renal/pancreas (urinary bladder drained) transplantation.\r", 
+  ".U": "90289009\r"
+ }, 
+ {
+  ".I": "273722", 
+  ".M": "Amylases/UR; Duodenum/SU; Follow-Up Studies; Graft Rejection/*; Graft Survival; Immunosuppressive Agents/TU; Pancreas/SE; Pancreas Transplantation/*IM/MT/PH.\r", 
+  ".A": [
+   "Prieto", 
+   "Sutherland", 
+   "Fernandez-Cruz", 
+   "Heil", 
+   "Najarian"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2348-9\r", 
+  ".T": "Rejection in pancreas transplantation.\r", 
+  ".U": "90289010\r"
+ }, 
+ {
+  ".I": "273723", 
+  ".M": "Adult; Amylases/BL/UR; Blood Glucose/AN; Creatinine/BL; Diabetes Mellitus, Insulin-Dependent/SU; Diabetic Nephropathies/SU; Duodenum/SU; Graft Rejection; Human; Jejunum/SU; Kidney Function Tests; Kidney Transplantation/MT/*PH; Monitoring, Physiologic; Pancreas Transplantation/MT/*PH.\r", 
+  ".A": [
+   "Nghiem", 
+   "Gonwa", 
+   "Corry"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2350-1\r", 
+  ".T": "Metabolic monitoring in renal-pancreatic transplants with urinary pancreatic exocrine diversion.\r", 
+  ".U": "90289011\r"
+ }, 
+ {
+  ".I": "273724", 
+  ".M": "Arginine/DU; C-Peptide/*BL; Cells, Cultured; Diabetes Mellitus, Insulin-Dependent/BL/*SU; Fetus; Glucose/DU; Glucose Tolerance Test; Human; Kidney Transplantation/MT; Pancreas Transplantation/MT/*PH.\r", 
+  ".A": [
+   "Robertson", 
+   "Lafferty", 
+   "Haug", 
+   "Weil"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2354-6\r", 
+  ".T": "Effect of human fetal pancreas transplantation on secretion of C-peptide and glucose tolerance in type I diabetics.\r", 
+  ".U": "90289013\r"
+ }, 
+ {
+  ".I": "273725", 
+  ".M": "Biological Markers/BL; C-Peptide/BL; Fetus; Histocompatibility Testing; Human; Kidney Transplantation; Muscles; Organ Culture; Pancreas Transplantation/*PH; Support, Non-U.S. Gov't; Transplantation, Heterotopic; Transplantation, Homologous.\r", 
+  ".A": [
+   "Tuch", 
+   "Sheil", 
+   "Ng", 
+   "Turtle"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2357-8\r", 
+  ".T": "Experience with human fetal pancreatic allografts over a three-year period.\r", 
+  ".U": "90289014\r"
+ }, 
+ {
+  ".I": "273726", 
+  ".M": "Cryopreservation/MT; Diabetes Mellitus, Insulin-Dependent/SU; Fetus; Human; Kidney Transplantation; Organ Culture; Pancreas/CY; Pancreas Transplantation/*/MT/PH.\r", 
+  ".A": [
+   "Simonsen", 
+   "Dawidson", 
+   "Aggarwal", 
+   "Diller", 
+   "Rajotte", 
+   "Coorpender", 
+   "Abshier"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2365-7\r", 
+  ".T": "Intraportal transplantation of cryopreserved human fetal pancreata.\r", 
+  ".U": "90289017\r"
+ }, 
+ {
+  ".I": "273727", 
+  ".M": "Adult; Female; Hepatitis B e Antigens/*AN; Hepatitis B Surface Antigens/*AN; Human; Liver Transplantation/*IM; Male; Support, Non-U.S. Gov't; Transplantation, Homologous; Viral Hepatitis Vaccines/*TU.\r", 
+  ".A": [
+   "Lauchart", 
+   "Muller", 
+   "Pichlmayr"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2387-9\r", 
+  ".T": "Immunoprophylaxis of hepatitis B virus reinfection in recipients of human liver allografts.\r", 
+  ".U": "90289019\r"
+ }, 
+ {
+  ".I": "273728", 
+  ".M": "Cyclosporins/*TU; Graft Rejection/*; Histocompatibility Antigens Class I/AN; Histocompatibility Antigens Class II/AN; Histocompatibility Testing/*; Human; HLA Antigens/IM; Liver Transplantation/*IM; Lymphocytes/*IM.\r", 
+  ".A": [
+   "Moore", 
+   "Wiesner", 
+   "Perkins", 
+   "Nagorney", 
+   "Sterioff", 
+   "Krom"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2390-1\r", 
+  ".T": "A positive lymphocyte cross-match and major histocompatibility complex mismatching do not predict early rejection of liver transplants in patients treated with cyclosporine.\r", 
+  ".U": "90289020\r"
+ }, 
+ {
+  ".I": "273729", 
+  ".M": "Antibodies, Anti-Idiotypic/*AN; B-Lymphocytes/IM; Cytotoxicity Tests, Immunologic; Female; Histocompatibility Antigens Class I/*IM; Histocompatibility Antigens Class II/AN; Human; Immunoglobulins, Surface/AN; Liver Transplantation/*IM; Male; T-Lymphocytes/*IM.\r", 
+  ".A": [
+   "Bryan", 
+   "Newman", 
+   "Tillquist", 
+   "Husberg", 
+   "Klintmalm", 
+   "Stone"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2392-3\r", 
+  ".T": "Development of class I-directed lymphocytotoxic antibodies after liver transplantation.\r", 
+  ".U": "90289021\r"
+ }, 
+ {
+  ".I": "273730", 
+  ".M": "Adult; Aorta/SU; Arteries/*AB/SU; Child, Preschool; Comparative Study; Follow-Up Studies; Hepatic Artery/AB; Human; Liver Transplantation/*; Mesenteric Arteries/AB; Tissue Donors/*.\r", 
+  ".A": [
+   "Decurtins", 
+   "Friend", 
+   "Calne"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2394-5\r", 
+  ".T": "Incidence and outcome of donor arterial anomalies in liver allografts.\r", 
+  ".U": "90289022\r"
+ }, 
+ {
+  ".I": "273731", 
+  ".M": "Adrenal Gland Neoplasms/*SU; Adult; Aged; Colonic Neoplasms/*SU; Cyclosporins/TU; Female; Human; Liver Neoplasms/*SC/SU; Liver Transplantation/*; Male; Middle Age; Pheochromocytoma/*SU.\r", 
+  ".A": [
+   "Muhlbacher", 
+   "Piza"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2396-8\r", 
+  ".T": "Orthotopic liver transplantation for secondary malignancies of the liver.\r", 
+  ".U": "90289023\r"
+ }, 
+ {
+  ".I": "273732", 
+  ".M": "Follow-Up Studies; Human; Kidney Transplantation; Liver Diseases/EP/*SU; Liver Transplantation/*; Middle Age; Support, U.S. Gov't, P.H.S.; Tissue Donors; United States.\r", 
+  ".A": [
+   "Ascher", 
+   "Evans"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2405\r", 
+  ".T": "Designation of liver transplant centers in the United States.\r", 
+  ".U": "90289025\r"
+ }, 
+ {
+  ".I": "273733", 
+  ".M": "Hepatic Artery/*; Human; Liver Circulation; Liver Transplantation/*AE; Portal Vein/*; Retrospective Studies; Thrombosis/*ET; Transplantation, Homologous.\r", 
+  ".A": [
+   "Blumhardt", 
+   "Ringe", 
+   "Lauchart", 
+   "Burdelski", 
+   "Bechstein", 
+   "Pichlmayr"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2412\r", 
+  ".T": "Vascular problems in liver transplantation.\r", 
+  ".U": "90289026\r"
+ }, 
+ {
+  ".I": "273734", 
+  ".M": "Adolescence; Adult; Hemodynamics/*; Human; Liver Transplantation/*MT/PH; Middle Age; Portal Vein/*SU; Vena Cava, Inferior/*SU.\r", 
+  ".A": [
+   "Ringe", 
+   "Bornscheuer", 
+   "Blumhardt", 
+   "Bechstein", 
+   "Wonigeit", 
+   "Pichlmayr"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2416\r", 
+  ".T": "Experience with veno-venous bypass in human liver transplantation.\r", 
+  ".U": "90289028\r"
+ }, 
+ {
+  ".I": "273735", 
+  ".M": "Blood Pressure; Body Temperature; Cardiac Output; Heart Rate; Hemodynamics/*; Human; Liver Transplantation/MT/*PH; Vascular Resistance; Veins/*SU.\r", 
+  ".A": [
+   "Paulsen", 
+   "Valek", 
+   "Blessing", 
+   "Johnson", 
+   "Parks", 
+   "Pyron", 
+   "Ramsay", 
+   "Simpson", 
+   "Swygert", 
+   "Walling", 
+   "et"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2417-9\r", 
+  ".T": "Hemodynamics during liver transplantation with veno-venous bypass.\r", 
+  ".U": "90289029\r"
+ }, 
+ {
+  ".I": "273736", 
+  ".M": "Cyclosporins/TU; Human; Liver Diseases/SU; Liver Transplantation/*/MT; Methylprednisolone/TU; Prednisone/TU; Urine; Vasopressins/*TU.\r", 
+  ".A": [
+   "Daloze", 
+   "Arnoux", 
+   "Corman", 
+   "Smeesters", 
+   "St", 
+   "Beaudouin"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2424-6\r", 
+  ".T": "Vasopressin use in human liver transplantation.\r", 
+  ".U": "90289030\r"
+ }, 
+ {
+  ".I": "273737", 
+  ".M": "Adult; Blood Transfusion; Child; Comparative Study; Exchange Transfusion, Whole Blood; Factor V/AN; Graft Survival; Human; Liver Transplantation/*/MT; Prognosis; Prothrombin Time; Support, U.S. Gov't, P.H.S..\r", 
+  ".A": [
+   "Stock", 
+   "Estrin", 
+   "Fryd", 
+   "Payne", 
+   "Belani", 
+   "Elick", 
+   "Najarian", 
+   "Ascher"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2427-8\r", 
+  ".T": "Prognostic perioperative factors predicting the outcome of liver transplantation.\r", 
+  ".U": "90289031\r"
+ }, 
+ {
+  ".I": "273738", 
+  ".M": "Cold; Cyclosporins/TU; Hepatectomy/*; Histocompatibility Testing; Human; Ice; Kidney Transplantation/*; Liver Transplantation/*; Nephrectomy/*; Organ Preservation/*MT.\r", 
+  ".A": [
+   "Cho", 
+   "Zalneraitis", 
+   "Bradley"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2429-30\r", 
+  ".T": "Beneficial effect of topical ice cooling in donor hepatonephrectomy.\r", 
+  ".U": "90289032\r"
+ }, 
+ {
+  ".I": "273739", 
+  ".M": "Azathioprine/AD/*TU; Blood Pressure/DE; Comparative Study; Creatinine/BL; Cyclosporins/AD/AE/*TU; Drug Administration Schedule; Drug Therapy, Combination; Human; Liver Transplantation/*IM/PH; Prednisone/TU.\r", 
+  ".A": [
+   "Perkins", 
+   "Sterioff", 
+   "Wiesner", 
+   "Offord", 
+   "Rakela", 
+   "Dickson", 
+   "Krom"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2434-6\r", 
+  ".T": "Conversion from standard cyclosporine to low-dose cyclosporine and azathioprine therapy as treatment for cyclosporine-related complications in liver transplant patients.\r", 
+  ".U": "90289034\r"
+ }, 
+ {
+  ".I": "273740", 
+  ".M": "Antibodies, Monoclonal/TU; Azathioprine/TU; Child; Cyclosporins/TU; England; Follow-Up Studies; Graft Rejection; Human; Liver Transplantation/*/IM; Prednisolone/TU; Retrospective Studies.\r", 
+  ".A": [
+   "Jamieson", 
+   "Calne", 
+   "Rolles", 
+   "Barnes", 
+   "Mowat"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2447-8\r", 
+  ".T": "Results and problems in pediatric liver transplantation in the Cambridge/Kings College Hospital series: 1968 to July 1986.\r", 
+  ".U": "90289037\r"
+ }, 
+ {
+  ".I": "273741", 
+  ".M": "Adolescence; Child; Child, Preschool; Cytomegalic Inclusion Disease/ET; Follow-Up Studies; Graft Rejection; Hepatitis B/ET; Herpesvirus Infections/ET; Human; Infant; Liver Transplantation/MO/*PH; Postoperative Complications; Retrospective Studies.\r", 
+  ".A": [
+   "Schmidt", 
+   "Burdelski", 
+   "Bernsau", 
+   "Brodehl", 
+   "Ringe", 
+   "Lauchart", 
+   "Wonigeit", 
+   "Pichlmayr", 
+   "Milbradt"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2449-50\r", 
+  ".T": "Analysis of current results of liver transplantation in children.\r", 
+  ".U": "90289038\r"
+ }, 
+ {
+  ".I": "273742", 
+  ".M": "Adult; Azathioprine/TU; Biopsy, Needle; Child; Cyclosporins/TU; Follow-Up Studies; Graft Rejection; Human; Immunosuppression/*; Liver Transplantation/IM/*PA; Methylprednisolone/TU; Prednisone/TU; Support, U.S. Gov't, P.H.S..\r", 
+  ".A": [
+   "St", 
+   "Elick", 
+   "Freese", 
+   "Sharp", 
+   "Payne", 
+   "Bloomer", 
+   "Stock", 
+   "Snover", 
+   "Najarian", 
+   "Ascher"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2451-3\r", 
+  ".T": "Use of triple therapy and percutaneous needle biopsy to minimize graft failure following liver transplantation.\r", 
+  ".U": "90289039\r"
+ }, 
+ {
+  ".I": "273743", 
+  ".M": "Biopsy; Follow-Up Studies; Human; Immunosuppressive Agents/TU; Liver Diseases/SU; Liver Function Tests; Liver Transplantation/PA/*PH; Postoperative Complications; Ticarcillin/TU; Transplantation, Homologous.\r", 
+  ".A": [
+   "Saliba", 
+   "Gugenheim", 
+   "Samuel", 
+   "Ciardullo", 
+   "Reynes", 
+   "Bismuth"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2454-6\r", 
+  ".T": "Orthotopic liver transplantation in humans: monitoring by serial graft biopsies.\r", 
+  ".U": "90289040\r"
+ }, 
+ {
+  ".I": "273744", 
+  ".M": "Acute Disease; Biopsy; Chronic Disease; Graft Rejection/*; Human; Liver Transplantation/IM/*PA; Necrosis; Prognosis.\r", 
+  ".A": [
+   "Snover", 
+   "Freese", 
+   "Bloomer", 
+   "Sharp", 
+   "Ascher"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2457-8\r", 
+  ".T": "An analysis of histological prognostic features of liver allograft rejection based on 270 serial biopsies.\r", 
+  ".U": "90289041\r"
+ }, 
+ {
+  ".I": "273745", 
+  ".M": "Amino Acids/*BL; Antibodies, Monoclonal/TU; Biological Markers/*BL; Biopsy, Needle; Comparative Study; Cyclosporins/TU; Human; Liver/PA; Liver Diseases/PA/SU; Liver Transplantation/PA/*PH; Methylprednisolone/TU; Support, U.S. Gov't, P.H.S..\r", 
+  ".A": [
+   "Clowes", 
+   "Pearl", 
+   "Bosari", 
+   "Jenkins", 
+   "Khettry"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2462-3\r", 
+  ".T": "Correlation of amino acid metabolism and liver biopsies in preoperative and postoperative patients receiving hepatic transplants.\r", 
+  ".U": "90289043\r"
+ }, 
+ {
+  ".I": "273746", 
+  ".M": "Antibodies, Monoclonal/DU; Comparative Study; Graft Rejection/*IM; Histocompatibility Antigens Class I/AN/*GE; Human; Liver/IM; Liver Transplantation/*IM; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S..\r", 
+  ".A": [
+   "So", 
+   "Snover", 
+   "Ascher", 
+   "Platt"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2464-5\r", 
+  ".T": "Class I major histocompatibility complex antigens are induced on hepatocytes in rejecting human liver grafts.\r", 
+  ".U": "90289044\r"
+ }, 
+ {
+  ".I": "273747", 
+  ".M": "Antibodies, Monoclonal/DU; Biopsy, Needle; Cyclosporins/AE/TU; Cytomegalic Inclusion Disease/PA; Follow-Up Studies; Graft Rejection/*IM; Hepatic Artery; Hepatitis/PA; Human; Liver Transplantation/*IM/PA; Prednisone/TU; T-Lymphocytes/*IM/PA; Thrombosis/PA; Transplantation, Homologous.\r", 
+  ".A": [
+   "Perkins", 
+   "Wiesner", 
+   "Banks", 
+   "LaRusso", 
+   "Krom"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2474-5\r", 
+  ".T": "Immunohistologic labeling of infiltrating T lymphocytes in hepatic allografts: a rejection indicator.\r", 
+  ".U": "90289045\r"
+ }, 
+ {
+  ".I": "273748", 
+  ".M": "Hepatic Artery/*PA/SU; Human; Liver Transplantation/*PA; Mesenteric Arteries/SU; Postoperative Complications; Retrospective Studies.\r", 
+  ".A": [
+   "Hesselink", 
+   "Slooff", 
+   "Schuur", 
+   "Bijleveld", 
+   "Gips"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2476-7\r", 
+  ".T": "Consequences of hepatic artery pathology after orthotopic liver transplantation.\r", 
+  ".U": "90289046\r"
+ }, 
+ {
+  ".I": "273749", 
+  ".M": "Biopsy, Needle/IS/*MT; Human; Liver Transplantation/*PA; Transplantation, Homologous.\r", 
+  ".A": [
+   "Jenkins", 
+   "Gallik-Karlson", 
+   "Georgi", 
+   "Rohrer", 
+   "Khettry", 
+   "Benotti", 
+   "Dodson", 
+   "Freeman", 
+   "Trey"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2480-2\r", 
+  ".T": "Safety and utility of a simple technique of liver biopsy following liver transplantation.\r", 
+  ".U": "90289048\r"
+ }, 
+ {
+  ".I": "273750", 
+  ".M": "Alkaline Phosphatase/BL; Amyloid Protein AA/AN; Bilirubin/BL; Biopsy, Needle; Graft Rejection/*/PH; Human; Liver Transplantation/*IM/PA.\r", 
+  ".A": [
+   "Hockerstedt", 
+   "Lautenschlager", 
+   "Scheinin", 
+   "Ahonen", 
+   "Eklund", 
+   "Hayry", 
+   "Korsback", 
+   "Maury", 
+   "Salmela", 
+   "Taskinen"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2483-4\r", 
+  ".T": "Diagnosis of rejection in liver transplantation.\r", 
+  ".U": "90289049\r"
+ }, 
+ {
+  ".I": "273751", 
+  ".M": "Azathioprine/*TU; Blood Grouping and Crossmatching; Cyclosporins/*TU; Follow-Up Studies; Graft Survival; Heart Transplantation/*IM; Histocompatibility Antigens Class I/AN; Histocompatibility Antigens Class II/AN; Histocompatibility Testing/*; Human; Support, Non-U.S. Gov't; Transplantation, Homologous.\r", 
+  ".A": [
+   "Yacoub", 
+   "Festenstein", 
+   "Doyle", 
+   "Martin", 
+   "McCloskey", 
+   "Awad", 
+   "Gamba", 
+   "Khaghani", 
+   "Holmes"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2487-9\r", 
+  ".T": "The influence of HLA matching in cardiac allograft recipients receiving cyclosporine and azathioprine.\r", 
+  ".U": "90289051\r"
+ }, 
+ {
+  ".I": "273752", 
+  ".M": "Adolescence; Adult; Azathioprine/AD/*TU; Child; Child, Preschool; Cyclosporins/AD/AE/*TU; Drug Administration Schedule; Drug Therapy, Combination; Follow-Up Studies; Graft Survival; Heart Transplantation/*IM; Human; Infant; Infant, Newborn; Middle Age; Prednisone/AD/*TU.\r", 
+  ".A": [
+   "Bolman", 
+   "Olivari", 
+   "Saffitz", 
+   "Sibley", 
+   "Spadaro", 
+   "Cance", 
+   "Elick"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2490-1\r", 
+  ".T": "Current results with triple therapy for heart transplantation.\r", 
+  ".U": "90289052\r"
+ }, 
+ {
+  ".I": "273753", 
+  ".M": "Antibodies, Viral/AN; Cytomegalic Inclusion Disease/*ET; Cytomegaloviruses/IM; England; Follow-Up Studies; Heart Transplantation/*; Human; Lung Transplantation/*; Postoperative Complications/*; Support, Non-U.S. Gov't.\r", 
+  ".A": [
+   "Wreghitt", 
+   "Hakim", 
+   "Gray", 
+   "Kucia", 
+   "Cory-Pearce", 
+   "Wallwork", 
+   "English"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2495-6\r", 
+  ".T": "A detailed study of cytomegalovirus infections in the first 160 heart and heart/lung transplant recipients at Papworth Hospital, Cambridge, England.\r", 
+  ".U": "90289054\r"
+ }, 
+ {
+  ".I": "273754", 
+  ".M": "Biopsy, Needle; Cardiopulmonary Bypass/*; Comparative Study; Female; Heart Transplantation/*/MT/PA; Human; Immunosuppressive Agents/TU; Male; Postoperative Complications.\r", 
+  ".A": [
+   "Morris", 
+   "Lower", 
+   "Szentpetery"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2497-9\r", 
+  ".T": "Immediate graft failure treated with partial cardiopulmonary bypass and emergency cardiac retransplantation.\r", 
+  ".U": "90289055\r"
+ }, 
+ {
+  ".I": "273755", 
+  ".M": "Heart Transplantation/*; Human; Organ Preservation; Organ Procurement; Tissue Donors.\r", 
+  ".A": [
+   "Losman"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2500\r", 
+  ".T": "Clinical heart transplantation.\r", 
+  ".U": "90289056\r"
+ }, 
+ {
+  ".I": "273756", 
+  ".M": "Adult; Costs and Cost Analysis; Female; Heart Transplantation/*; Hospital Records; Human; Male; Medical Records; Organ Procurement/EC; Support, U.S. Gov't, Non-P.H.S.; Tissue Donors/*; United States.\r", 
+  ".A": [
+   "Evans", 
+   "Manninen", 
+   "Maier"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2501-2\r", 
+  ".T": "Selected characteristics of 444 heart donors.\r", 
+  ".U": "90289057\r"
+ }, 
+ {
+  ".I": "273757", 
+  ".M": "Blood Transfusion/*; Comparative Study; Graft Rejection; Graft Survival; Heart Transplantation/*/IM/MO; Histocompatibility Testing; Human; Support, Non-U.S. Gov't.\r", 
+  ".A": [
+   "Keogh", 
+   "Baron", 
+   "Chang"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2503\r", 
+  ".T": "The effect of blood pretransfusion on orthotopic cardiac transplantation.\r", 
+  ".U": "90289058\r"
+ }, 
+ {
+  ".I": "273758", 
+  ".M": "Acute Disease; Azathioprine/TU; Biopsy, Needle; Cyclosporins/TU; Follow-Up Studies; Graft Rejection/*; Heart Transplantation/*IM/PA; Human; Prednisolone/TU.\r", 
+  ".A": [
+   "Warnecke", 
+   "Schueler", 
+   "Hetzer"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2504-5\r", 
+  ".T": "Late acute rejection after cardiac transplantation: incidence and treatment.\r", 
+  ".U": "90289059\r"
+ }, 
+ {
+  ".I": "273759", 
+  ".M": "Antilymphocyte Serum/TU; Azathioprine/TU; Comparative Study; Cyclosporins/BL/TU; Heart Transplantation/*IM/PX; Human; Immunosuppression/*; Postoperative Complications/*PX; Prednisolone/TU; Psychotic Disorders/*ET; Transplantation, Homologous.\r", 
+  ".A": [
+   "Warnecke", 
+   "Schueler", 
+   "Schliffka", 
+   "Hetzer"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2510-1\r", 
+  ".T": "Neurologic complications after heart transplantation: the influence of immunosuppression.\r", 
+  ".U": "90289060\r"
+ }, 
+ {
+  ".I": "273760", 
+  ".M": "Adolescence; Adult; Antilymphocyte Serum/TU; Azathioprine/TU; Comparative Study; Coronary Disease/SU; Cyclosporins/TU; Female; Follow-Up Studies; Heart Transplantation/*MT; Human; Male; Methylprednisolone/TU; Middle Age; Myocardial Diseases/SU; Transplantation, Heterotopic.\r", 
+  ".A": [
+   "Becerra", 
+   "Cooper", 
+   "Novitzky", 
+   "Reichart"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2512-3\r", 
+  ".T": "Are there indications for heterotopic heart transplantation today?\r", 
+  ".U": "90289061\r"
+ }, 
+ {
+  ".I": "273761", 
+  ".M": "Antilymphocyte Serum/TU; Azathioprine/TU; Cyclosporins/TU; Drug Therapy, Combination; Follow-Up Studies; Graft Rejection; Heart Transplantation/*IM; Human; Immunosuppression/*MT; Methylprednisolone/TU; Prednisolone/TU.\r", 
+  ".A": [
+   "Haverich", 
+   "Frimpong-Boateng", 
+   "Schafers", 
+   "Wahlers", 
+   "Fieguth", 
+   "Herrmann", 
+   "Wonigeit", 
+   "Borst"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2514-5\r", 
+  ".T": "Individualized immunosuppression in heart transplant recipients.\r", 
+  ".U": "90289062\r"
+ }, 
+ {
+  ".I": "273762", 
+  ".M": "Adult; Azathioprine/TU; Comparative Study; Creatinine/BL; Cyclosporins/*AE/BL/TU; Drug Therapy, Combination; Female; Heart Transplantation/*IM/PA/PH; Human; Kidney/DE/*PA; Male; Methylprednisolone/TU.\r", 
+  ".A": [
+   "Martin", 
+   "Packham", 
+   "Kingswood", 
+   "Cairns", 
+   "Khaghani", 
+   "Thompson", 
+   "Yacoub"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2516-7\r", 
+  ".T": "Determinants of cyclosporine nephrotoxicity following cardiac transplantation.\r", 
+  ".U": "90289063\r"
+ }, 
+ {
+  ".I": "273763", 
+  ".M": "Azathioprine/AD/TU; Comparative Study; Cyclosporins/AD/*AE/TU; Drug Administration Schedule; Glomerular Filtration Rate; Heart Transplantation/IM/*PA/PH; Human; Kidney/DE/*PA; Leukocyte Count.\r", 
+  ".A": [
+   "Hunt", 
+   "Stinson", 
+   "Oyer", 
+   "Billingham", 
+   "Gamberg", 
+   "Miller", 
+   "Schroeder", 
+   "Baldwin", 
+   "Shumway"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2522-4\r", 
+  ".T": "Results of \"immunoconversion\" from cyclosporine to azathioprine in heart transplant recipients with progressive nephrotoxicity.\r", 
+  ".U": "90289064\r"
+ }, 
+ {
+  ".I": "273764", 
+  ".M": "Adult; Antilymphocyte Serum/TU; Azathioprine/TU; Creatinine/BL; Cyclosporins/*AE/BL/TU; Female; Follow-Up Studies; Graft Rejection; Heart Transplantation/IM/*PA/PH; Human; Immunosuppression/*AE; Kidney/DE/*PA; Male; Support, Non-U.S. Gov't; Transplantation, Homologous.\r", 
+  ".A": [
+   "Kormos", 
+   "Trento", 
+   "Hardesty", 
+   "Griffith", 
+   "Thompson", 
+   "Bahnson"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2525-6\r", 
+  ".T": "Avoidance of perioperative renal toxicity by a modified immunosuppression protocol.\r", 
+  ".U": "90289065\r"
+ }, 
+ {
+  ".I": "273765", 
+  ".M": "Biological Availability; Creatinine/BL; Cyclosporins/BL/PK/*TU; Diagnosis, Laboratory; Graft Rejection/*/PH; Heart Transplantation/*IM/PH; Human; Leukocyte Culture Test, Mixed; Prednisone/TU.\r", 
+  ".A": [
+   "Burstain", 
+   "Frazier", 
+   "Schnee", 
+   "Kerman", 
+   "Lorber", 
+   "Cooley", 
+   "Radovancevic", 
+   "Colon", 
+   "McAllister", 
+   "Kahan", 
+   "et"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2531-3\r", 
+  ".T": "Predictors of rejection in cyclosporine-treated cardiac allograft recipients.\r", 
+  ".U": "90289066\r"
+ }, 
+ {
+  ".I": "273766", 
+  ".M": "Antibodies, Monoclonal/DU; Biological Markers/*BL; Graft Rejection/*; Heart Transplantation/*IM; Human; Monitoring, Immunologic; Receptors, Transferrin/*AN; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S.; T-Lymphocytes/*AN/IM.\r", 
+  ".A": [
+   "Hoshinaga", 
+   "Mohanakumar", 
+   "Wood", 
+   "Szentpetery", 
+   "Lower"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2534-6\r", 
+  ".T": "Increase in transferrin receptors as a marker for rejection and infection in human cardiac transplantation.\r", 
+  ".U": "90289067\r"
+ }, 
+ {
+  ".I": "273767", 
+  ".M": "Graft Rejection/*; Heart Transplantation/*IM; Human; Immunosuppressive Agents/TU; Lymphocyte Transformation/*; Lymphocytes/IM; Monitoring, Immunologic.\r", 
+  ".A": [
+   "Fieguth", 
+   "Haverich", 
+   "Schaefers", 
+   "Wahlers", 
+   "Kemnitz"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2541-2\r", 
+  ".T": "Cytoimmunologic monitoring for the noninvasive diagnosis of cardiac rejection.\r", 
+  ".U": "90289068\r"
+ }, 
+ {
+  ".I": "273768", 
+  ".M": "Adult; Blood Pressure; Follow-Up Studies; Gold Radioisotopes/DU; Heart Catheterization; Heart Transplantation/*PH; Human; Lung Transplantation/*PH; Tomography, X-Ray Computed.\r", 
+  ".A": [
+   "Kemkes", 
+   "Reichenspurner", 
+   "Osterholzer", 
+   "Anthuber", 
+   "Schad", 
+   "Maccio", 
+   "Erdmann", 
+   "Rienmuller"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2543-5\r", 
+  ".T": "First pass radionuclide scintigraphy for long-term follow-up after heart and heart-lung transplantation.\r", 
+  ".U": "90289069\r"
+ }, 
+ {
+  ".I": "273769", 
+  ".M": "Antibodies, Monoclonal/DU; Biological Markers/*BL; Graft Rejection/*; Heart Transplantation/*IM; Human; Monitoring, Immunologic; Receptors, Interleukin-2/*AN; Support, Non-U.S. Gov't; T-Lymphocytes/IM.\r", 
+  ".A": [
+   "Coles", 
+   "Rose", 
+   "Yacoub"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2546-7\r", 
+  ".T": "Appearance of cells bearing the interleukin-2 receptor in peripheral blood of cardiac transplant patients and their correlation with rejection episodes.\r", 
+  ".U": "90289070\r"
+ }, 
+ {
+  ".I": "273770", 
+  ".M": "Antibodies, Anti-Idiotypic/AN; Antibody Specificity; Antigens, Differentiation/AN; Graft Rejection/*; Heart Transplantation/*IM; Human; HLA Antigens/IM; Monitoring, Immunologic; Transplantation, Homologous.\r", 
+  ".A": [
+   "Lungu", 
+   "Reed", 
+   "Smith", 
+   "Rose", 
+   "Marboe", 
+   "Hardy", 
+   "Reemtsma", 
+   "Fenoglio", 
+   "Suciu-Foca"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2548-50\r", 
+  ".T": "Immunological monitoring of heart allograft recipients.\r", 
+  ".U": "90289071\r"
+ }, 
+ {
+  ".I": "273771", 
+  ".M": "Animal; Dogs; Graft Rejection/*; Heart Transplantation; Human; Irrigation; Lung Transplantation/*IM; Transplantation, Heterotopic.\r", 
+  ".A": [
+   "Schafers", 
+   "Haverich", 
+   "Dammenhayn", 
+   "Takayama", 
+   "Wahlers", 
+   "Worch", 
+   "Kemnitz"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2551\r", 
+  ".T": "The role of bronchoalveolar lavage in diagnosing pulmonary rejection after heart-lung transplantation.\r", 
+  ".U": "90289072\r"
+ }, 
+ {
+  ".I": "273772", 
+  ".M": "Echocardiography/*MT; Electrocardiography/*MT; Graft Rejection/*PH; Heart Transplantation/IM/*PH; Human; Lung Transplantation; Transplantation, Homologous.\r", 
+  ".A": [
+   "Reichenspurner", 
+   "Kemkes", 
+   "Haberl", 
+   "Angermann", 
+   "Weber", 
+   "Osterholzer", 
+   "Anthuber", 
+   "Steinbeck"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2552-3\r", 
+  ".T": "Frequency analysis of surface electrocardiogram and two-dimensional echocardiography for noninvasive diagnosis of rejection after heart transplantation.\r", 
+  ".U": "90289073\r"
+ }, 
+ {
+  ".I": "273773", 
+  ".M": "Adult; Blood Pressure/*; Circadian Rhythm/*; Comparative Study; Female; Heart Rate/*; Heart Transplantation/*PH; Human; Hypertension/PP; Male; Middle Age.\r", 
+  ".A": [
+   "Wenting", 
+   "vd", 
+   "Simoons", 
+   "Bos", 
+   "Ritsema", 
+   "Man", 
+   "Weimar", 
+   "Schalekamp"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2554-5\r", 
+  ".T": "Circadian variation of heart rate but not of blood pressure after heart transplantation.\r", 
+  ".U": "90289074\r"
+ }, 
+ {
+  ".I": "273774", 
+  ".M": "Adenosine Triphosphate/ME; Biopsy, Needle; Birefringence; Cardioplegic Solutions; Heart Transplantation/MT/PA/*PH; Human; Organ Preservation; Support, Non-U.S. Gov't; Tissue Donors.\r", 
+  ".A": [
+   "Darracott-Cankovic", 
+   "Cory-Pearce", 
+   "Stovin", 
+   "Wallwork", 
+   "Wheeldon", 
+   "English"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2564-5\r", 
+  ".T": "Biopsy assessment of donor hearts prior to and during transplantation.\r", 
+  ".U": "90289075\r"
+ }, 
+ {
+  ".I": "273775", 
+  ".M": "Azathioprine/TU; Biopsy; Cyclosporins/TU; Follow-Up Studies; Graft Rejection; Heart Transplantation/*IM/PA; Histocompatibility Antigens Class I/*AN; Histocompatibility Antigens Class II/*AN; Human; Support, Non-U.S. Gov't.\r", 
+  ".A": [
+   "Suitters", 
+   "Rose", 
+   "Khaghani", 
+   "Yacoub"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2566-7\r", 
+  ".T": "Sequential studies of major histocompatibility complex antigen expression (common class I and class II determinants, DR and DQ) in cardiac biopsies following human cardiac transplantation.\r", 
+  ".U": "90289076\r"
+ }, 
+ {
+  ".I": "273776", 
+  ".M": "Animal; Biopsy, Needle/*MT; Graft Rejection; Heart Transplantation; Lung Transplantation/IM/*PA; Swine.\r", 
+  ".A": [
+   "Hakim", 
+   "Stovin", 
+   "English", 
+   "Wallwork"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2573\r", 
+  ".T": "Transvenous lung biopsy: a new technique.\r", 
+  ".U": "90289077\r"
+ }, 
+ {
+  ".I": "273777", 
+  ".M": "Comparative Study; Corneal Transplantation/*IM; Cyclosporins/*TU; Follow-Up Studies; Graft Rejection; Histocompatibility Testing/*; Human; HLA Antigens/AN; HLA-DR Antigens/*IM; Prognosis; Risk Factors.\r", 
+  ".A": [
+   "von", 
+   "Offermann", 
+   "Wiederholt", 
+   "Hoffmann"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2576-8\r", 
+  ".T": "The importance of HLA-DR matching in corneal transplant recipients treated with cyclosporine A.\r", 
+  ".U": "90289078\r"
+ }, 
+ {
+  ".I": "273778", 
+  ".M": "Acute Disease; Antibodies, Monoclonal/AD/*TU; Comparative Study; Corneal Transplantation/*IM/PA; Drug Administration Schedule; Edema; Graft Rejection/*IM; Human; T-Lymphocytes/*IM.\r", 
+  ".A": [
+   "Ippoliti", 
+   "Fronterre"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2579-80\r", 
+  ".T": "Use of locally injected anti-T monoclonal antibodies in the treatment of acute corneal graft rejection.\r", 
+  ".U": "90289079\r"
+ }, 
+ {
+  ".I": "273779", 
+  ".M": "Anemia, Aplastic/*SU; Antibodies, Monoclonal/*TU; Blood Transfusion; Bone Marrow Transplantation/*IM; Comparative Study; Graft vs Host Disease/*PC; Histocompatibility Testing; Human; Immune Tolerance/*; Immunologic Deficiency Syndromes/*SU; Immunosuppression/MT; Leukemia/*SU; Lymphocyte Depletion/*; Neoplasms/*SU; Support, Non-U.S. Gov't; T-Lymphocytes/*IM; Thalassemia/*SU; Transplantation, Homologous.\r", 
+  ".A": [
+   "Slavin", 
+   "Or", 
+   "Naparstek", 
+   "Weiss", 
+   "Mumcuoglu", 
+   "Weshler", 
+   "Brautbar", 
+   "Cividalli", 
+   "Glikson", 
+   "Hale", 
+   "et"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2614-5\r", 
+  ".T": "Allogeneic bone marrow transplantation without graft-v-host disease: true tolerance of graft against the host through depletion of donor T lymphocytes pregrafting in malignant and nonmalignant disorders.\r", 
+  ".U": "90289082\r"
+ }, 
+ {
+  ".I": "273780", 
+  ".M": "Bone Marrow Transplantation/*; Follow-Up Studies; Human; Leukemia, Lymphocytic, Acute/*SU; Leukemia, Myelocytic, Acute/*SU; Recurrence; Registries; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S..\r", 
+  ".A": [
+   "Champlin"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2626-8\r", 
+  ".T": "Bone marrow transplantation for acute leukemia: a preliminary report from the International Bone Marrow Transplant Registry.\r", 
+  ".U": "90289083\r"
+ }, 
+ {
+  ".I": "273781", 
+  ".M": "Bone Marrow Transplantation/*/IM; Cohort Studies; Comparative Study; Family; Graft vs Host Disease; Graft Rejection; Histocompatibility Testing; Human; Leukemia/*SU; Probability; Registries; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S.; Tissue Donors.\r", 
+  ".A": [
+   "Bortin"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2629-31\r", 
+  ".T": "Bone marrow transplantation in leukemia using family donors other than HLA-identical siblings: a preliminary report from the International Bone Marrow Transplant Registry.\r", 
+  ".U": "90289084\r"
+ }, 
+ {
+  ".I": "273782", 
+  ".M": "Acute Disease; Adult; Anemia, Aplastic/*SU; Bone Marrow Transplantation/*; Child; Chronic Disease; Follow-Up Studies; Graft vs Host Disease/PC; Human; Leukemia/*SU.\r", 
+  ".A": [
+   "Gluckman", 
+   "Devergie", 
+   "Meletis", 
+   "De", 
+   "Lehn", 
+   "Bourrhis", 
+   "Keable", 
+   "Cavazzana", 
+   "Varrin", 
+   "Bombail", 
+   "et"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2643\r", 
+  ".T": "Long-term follow-up of patients who received transplants for aplastic anemia or leukemia.\r", 
+  ".U": "90289086\r"
+ }, 
+ {
+  ".I": "273783", 
+  ".M": "Alleles; Bone Marrow Transplantation/*IM; Family; Gene Frequency; Genotype; Histocompatibility Testing/*; Human; HLA-DR Antigens/*IM; Leukemia, Myelocytic, Acute/GE/*IM/SU; Support, Non-U.S. Gov't.\r", 
+  ".A": [
+   "Carpentier", 
+   "Jeannet"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2644-5\r", 
+  ".T": "Increased HLA-DR compatibility between patients with acute myeloid leukemia and their parents: implication for bone marrow transplantation.\r", 
+  ".U": "90289087\r"
+ }, 
+ {
+  ".I": "273784", 
+  ".M": "Anemia, Aplastic/SU; Bone Marrow Transplantation/*IM; Cells, Cultured; Comparative Study; Fibronectins/*PD; Graft vs Host Disease/IM; Human; Leukemia/SU; Lymphocyte Transformation/*DE; Lymphocytes/DE/*IM; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S..\r", 
+  ".A": [
+   "Klingemann", 
+   "Tsoi", 
+   "Storb"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2646-7\r", 
+  ".T": "Fibronectin restores defective in vitro proliferation of lymphocytes from patients after marrow grafting.\r", 
+  ".U": "90289088\r"
+ }, 
+ {
+  ".I": "273785", 
+  ".M": "Acute Disease; Bone Marrow Transplantation/*/IM; Cytotoxicity Tests, Immunologic; Human; Killer Cells, Natural/*IM; Leukemia/IM/*SU; Prognosis; Recurrence; Reference Values.\r", 
+  ".A": [
+   "Tratkiewicz", 
+   "Szer"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2648-50\r", 
+  ".T": "Prediction of leukemic relapse soon after bone marrow transplantation.\r", 
+  ".U": "90289089\r"
+ }, 
+ {
+  ".I": "273786", 
+  ".M": "Acute Disease; Analysis of Variance; Anemia, Aplastic/*SU; Bone Marrow Transplantation/*AE; Graft vs Host Disease/*; Human; Leukemia/*SU; Prognosis; Registries; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S..\r", 
+  ".A": [
+   "Bortin"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2655-7\r", 
+  ".T": "Acute graft-versus-host disease following bone marrow transplantation in humans: prognostic factors. Advisory Committee of the International Bone Marrow Transplant Registry.\r", 
+  ".U": "90289090\r"
+ }, 
+ {
+  ".I": "273787", 
+  ".M": "Acute Disease; Animal; Antibodies, Monoclonal/*TU; Antigens, Ly/IM; Graft vs Host Disease/IM/*PC; H-2 Antigens/IM; Human; Killer Cells, Natural/IM; Mice; Mice, Inbred Strains; Models, Biological; T-Lymphocytes/*IM.\r", 
+  ".A": [
+   "Ferrara", 
+   "Marion", 
+   "Murphy", 
+   "Burakoff"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2662-3\r", 
+  ".T": "Acute graft-versus-host disease: pathogenesis and prevention with a monoclonal antibody in vivo.\r", 
+  ".U": "90289091\r"
+ }, 
+ {
+  ".I": "273788", 
+  ".M": "Adolescence; Bone Marrow Transplantation/*IM; Child; Child, Preschool; Graft vs Host Disease; Haplotypes; Histocompatibility Testing; Human; Lectins/*TU; Lymphocyte Depletion/*; Soybeans; T-Lymphocytes/*IM.\r", 
+  ".A": [
+   "Matthay", 
+   "Wara", 
+   "Ablin", 
+   "Cowan"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2678-9\r", 
+  ".T": "Haploidentical bone marrow transplantation using soybean agglutinin-processed, T-depleted marrow.\r", 
+  ".U": "90289092\r"
+ }, 
+ {
+  ".I": "273789", 
+  ".M": "Adolescence; Adult; Anemia, Aplastic/SU; Antibodies, Viral/AN; Bone Marrow Transplantation/*IM; Graft vs Host Disease/*IM/PC; Herpes Simplex/*IM; Herpesvirus hominis/IM; Histocompatibility Testing; Human; Leukemia/SU; Support, Non-U.S. Gov't; T-Lymphocytes/IM.\r", 
+  ".A": [
+   "Gratama", 
+   "Weiland", 
+   "Hekker", 
+   "Weijers", 
+   "The", 
+   "Stijnen", 
+   "Zwaan", 
+   "Vossen"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2680-2\r", 
+  ".T": "Herpes virus immunity and acute graft-versus-host disease.\r", 
+  ".U": "90289093\r"
+ }, 
+ {
+  ".I": "273790", 
+  ".M": "Animal; Bone Marrow Transplantation/*IM/PH; Graft vs Host Disease/*IM/PA/PP; Inflammation; Rats; Rats, Inbred BN; Rats, Inbred Lew; Support, Non-U.S. Gov't; T-Lymphocytes/*IM; Transplantation, Homologous.\r", 
+  ".A": [
+   "Renkonen", 
+   "Leszczynski", 
+   "Wangel", 
+   "Hayry"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2689\r", 
+  ".T": "Characteristics and functions of inflammatory cells isolated from acute graft-versus-host disease target organs after bone marrow transplantation in the rat.\r", 
+  ".U": "90289095\r"
+ }, 
+ {
+  ".I": "273791", 
+  ".M": "Animal; Antibodies/*IM; Cytotoxicity, Immunologic; Disease Models, Animal; Glycosphingolipids/*IM; Graft vs Host Disease/IM/*PC; Killer Cells, Natural/*IM; Mice; Mice, Inbred CBA; Mice, Inbred Strains; Reference Values; Spleen/IM; T-Lymphocytes, Cytotoxic/*IM.\r", 
+  ".A": [
+   "Varkila", 
+   "Hurme"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2690-1\r", 
+  ".T": "Reduction of acute graft-versus-host disease-related mortality and cytotoxic T lymphocyte induction after pretreatment of the recipient with anti-asialo GM1 antibody in the murine P-to-F1 model.\r", 
+  ".U": "90289096\r"
+ }, 
+ {
+  ".I": "273792", 
+  ".M": "Animal; Cytotoxicity, Immunologic; Graft vs Host Reaction/*; Male; Mice; Mice, Inbred Strains; Suppressor Cells/*IM; T-Lymphocytes, Cytotoxic/IM; Thymic Factor, Circulating/AN/*PH; Thymus Hormones/*PH.\r", 
+  ".A": [
+   "Lang", 
+   "Moritz", 
+   "Savino", 
+   "Rostoker", 
+   "Dardenne"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2692-4\r", 
+  ".T": "Role of suppressor cells and thymic hormone function in the early and late phases of murine graft-versus-host reactions.\r", 
+  ".U": "90289097\r"
+ }, 
+ {
+  ".I": "273793", 
+  ".M": "Animal; Graft vs Host Reaction/*/RE; Hypersensitivity, Delayed; Isoantigens/AD; Lymph Nodes/IM; Mice; Mice, Inbred C57BL; Mice, Mutant Strains; Spleen/IM; Support, Non-U.S. Gov't; Suppressor Cells/*TR; T-Lymphocytes/*IM/RE.\r", 
+  ".A": [
+   "Molendijk", 
+   "van", 
+   "van", 
+   "Benner"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2698-9\r", 
+  ".T": "Induction and suppression of graft-versus-host reactivity in B6.C-H-2 mutant mice.\r", 
+  ".U": "90289099\r"
+ }, 
+ {
+  ".I": "273794", 
+  ".M": "Blood Transfusion/*; Bone Marrow Transplantation/*; Comparative Study; Graft vs Host Disease/*PC; Human; Leukemia/*SU; Recurrence.\r", 
+  ".A": [
+   "de", 
+   "Beatty", 
+   "Amos", 
+   "Sullivan", 
+   "Anderson", 
+   "Thomas", 
+   "Hansen"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2700\r", 
+  ".T": "Transfusion effect on graft-versus-host disease and leukemic relapse in HLA-matched bone marrow transplantation.\r", 
+  ".U": "90289100\r"
+ }, 
+ {
+  ".I": "273795", 
+  ".M": "Animal; Bone Marrow/DE; Bone Marrow Transplantation/*IM; Busulfan/PD; Histocompatibility Antigens Class I/*IM; Histocompatibility Antigens Class II/*IM; Rats; Rats, Inbred Lew; Recombination, Genetic; Support, Non-U.S. Gov't; Transplantation, Homologous.\r", 
+  ".A": [
+   "Marquarding", 
+   "Klempnauer", 
+   "Steiniger", 
+   "Filler", 
+   "Wonigeit", 
+   "Pichlmayr"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2715-7\r", 
+  ".T": "Immunogenetic analysis of fully allogeneic rat bone marrow transplantation.\r", 
+  ".U": "90289102\r"
+ }, 
+ {
+  ".I": "273796", 
+  ".M": "Antibodies, Monoclonal/TU; Bone Marrow Transplantation/*IM/MT; Human; Immunotoxins/*TU; Lectins/*TU; Lymphocyte Depletion/*; Ricin/*TU; Soybeans; Support, Non-U.S. Gov't; T-Lymphocytes/*IM.\r", 
+  ".A": [
+   "Siena", 
+   "Villa", 
+   "Bonadonna", 
+   "Bregni", 
+   "Gianni"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2735-7\r", 
+  ".T": "Ex vivo depletion of human bone marrow T lymphocytes by soybean lectin fractionation followed by treatment with an anti-pan-T cell (CD5) ricin A- chain immunotoxin.\r", 
+  ".U": "90289104\r"
+ }, 
+ {
+  ".I": "273797", 
+  ".M": "Adolescence; Adult; Anemia, Aplastic/SU; Bone Marrow Transplantation/*IM; Child; Child, Preschool; Female; Graft vs Host Disease/PC; Graft Rejection; Histocompatibility Testing/*; Human; HLA-DP Antigens/*IM; Leukemia/SU; Male; Retrospective Studies; Support, Non-U.S. Gov't; Transplantation, Homologous.\r", 
+  ".A": [
+   "Pawelec", 
+   "Ehninger", 
+   "Schmidt", 
+   "Rehbein", 
+   "Balko", 
+   "Wernet"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2741-3\r", 
+  ".T": "HLA-DP matching in allogeneic bone marrow transplantation.\r", 
+  ".U": "90289105\r"
+ }, 
+ {
+  ".I": "273798", 
+  ".M": "Bone Marrow/IM; Bone Marrow Transplantation/*IM; Child; Human; Lectins/*TU; Lymphocyte Depletion/*; Soybeans; T-Lymphocytes/*IM.\r", 
+  ".A": [
+   "Cowan", 
+   "McHugh", 
+   "Smith", 
+   "Wara", 
+   "Matthay", 
+   "Ablin", 
+   "Casavant", 
+   "Stites"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2744\r", 
+  ".T": "Lymphocyte reconstitution in children receiving soybean agglutinin T-depleted bone marrow transplants.\r", 
+  ".U": "90289106\r"
+ }, 
+ {
+  ".I": "273799", 
+  ".M": "Animal; Antibodies, Monoclonal/TU; Antigens/*IM; B-Lymphocytes/*IM; Bone Marrow Transplantation/*IM; Erythrocytes/IM/TR; Female; Immunization; Immunologic Memory/*; Mice; Mice, Inbred BALB C; Sheep; Support, Non-U.S. Gov't; T-Lymphocytes/*IM.\r", 
+  ".A": [
+   "Tsuberi", 
+   "Slavin", 
+   "Kedar", 
+   "Leshem"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2747-9\r", 
+  ".T": "Transfer of B memory cells to a T-dependent antigen in murine bone marrow transplantation.\r", 
+  ".U": "90289108\r"
+ }, 
+ {
+  ".I": "273800", 
+  ".M": "Animal; Bone Marrow/*RE; Bone Marrow Transplantation/*IM; Chimera; Cyclosporins/TU; Graft vs Host Disease/PC; Histocompatibility Testing; Leukocytes/*RE/TR; Lymphocyte Depletion/*; Rabbits; Support, Non-U.S. Gov't; T-Lymphocytes/*IM/RE; Transplantation, Autologous.\r", 
+  ".A": [
+   "Gratwohl", 
+   "Baldomero", 
+   "Nissen", 
+   "Speck"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9009; 19(1 Pt 3):2756-7\r", 
+  ".T": "Transplantation of T cell-depleted bone marrow in histoincompatible rabbits: improved engraftment and long-term chimeras after the addition of irradiated donor buffy coat cells and irradiated autologous cryopreserved bone marrow.\r", 
+  ".U": "90289110\r"
+ }, 
+ {
+  ".I": "273801", 
+  ".M": "Family Practice/*; Human; Research/*; Sex Behavior/*.\r", 
+  ".A": [
+   "Coleman"
+  ], 
+  ".P": "EDITORIAL.\r", 
+  ".S": "Fam Pract Res J 9010; 7(3):119-21\r", 
+  ".T": "Research in human sexuality: its importance to family practice [editorial]\r", 
+  ".U": "90313501\r"
+ }, 
+ {
+  ".I": "273803", 
+  ".M": "Adolescence; Adult; Aged; Family Practice/*; Female; Human; Male; Middle Age; Prevalence; Psychosexual Disorders/CL/*EP/PX; Questionnaires; Sex Behavior; Sex Disorders/CL/*EP/PX; Support, Non-U.S. Gov't.\r", 
+  ".A": [
+   "Schein", 
+   "Zyzanski", 
+   "Levine", 
+   "Medalie", 
+   "Dickman", 
+   "Alemagno"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Fam Pract Res J 9010; 7(3):122-34\r", 
+  ".T": "The frequency of sexual problems among family practice patients.\r", 
+  ".U": "90313503\r", 
+  ".W": "Two hundred-twelve patients attending a family practice center participated in a questionnaire study of their sexual identity and function. Using conservative definitions of problems, 75% were identified as having at least one specific sexual problem area. Most of these problems were functional in nature and involved desire, arousal, or orgasm. While the frequency of sexual problems was high in both sexes among all age groups, identity problems were primarily seen among the young, and desire problems among older adults. The prevalence rate of reporting sexual problems did not differ significantly by sex. However, females reported more specific sexual problems than males. Only 26% of the subjects summarized their overall sexual lives as problematic and the vast majority of patients thought their family physicians were able to help with such problems. This study reaffirms the high prevalence of sexual disorders in the population. Given adequate training, family physicians may be the ideal providers of assistance for these problems.\r"
+ }, 
+ {
+  ".I": "273804", 
+  ".M": "Adult; Attitude of Health Personnel/*; Education, Medical, Continuing; Family Practice/ED/*MT/ST; Female; Human; Male; Middle Age; Physician's Role; Physicians/*PX; Psychosexual Disorders/*TH; Questionnaires; Sex Counseling.\r", 
+  ".A": [
+   "Houge"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Fam Pract Res J 9010; 7(3):135-40\r", 
+  ".T": "Sex problems in family practice.\r", 
+  ".U": "90313504\r", 
+  ".W": "This study surveyed a group of 76 practicing family practice physicians and a group of 139 residents. They were asked the importance of sex counseling, the value of different kinds of education, who and when they asked about sexual problems, and their ability to deal with 24 problems or issues. Dealing with patient sexual problems was seen as important to both groups and they estimated 20% of their patients to have a problem or concern. A major concern of both groups was sexual abuse. Since the majority indicated they only ask about sexuality if there appears to be a \"psycho-sexual sign,\" it is critical that they receive training in recognizing the signs of sexual problems. Continuing medical education courses were seen to be the most valuable form of training by the practicing family physician in learning about dealing with patient sexual issues and problems.\r"
+ }, 
+ {
+  ".I": "273805", 
+  ".M": "Adult; Attitude to Health/*; Confidentiality; Empathy; Family Practice/*; Female; Human; Physician-Patient Relations; Physician's Role/*; Questionnaires; Role/*; Set (Psychology)/*; Sex Counseling/*ST.\r", 
+  ".A": [
+   "Metz", 
+   "Seifert"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Fam Pract Res J 9010; 7(3):141-52\r", 
+  ".T": "Women's expectations of physicians in sexual health concerns.\r", 
+  ".U": "90313505\r", 
+  ".W": "This study surveyed 56 women to assess their expectations for the primary care physician to inquire about sexual concerns and to diagnose and treat sexual problems. The study indicates that the physician is the professional most frequently consulted about sexual concerns and that patients expect even more leadership from the physician in raising the issue of sexual health. Women look for empathy, warmth, confidentiality, and professional competence in discussions with their doctor about sexual matters; and they are open to referrals for treatment of sexual problems and physician-sponsored sex education programs.\r"
+ }, 
+ {
+  ".I": "273806", 
+  ".M": "Abortion; Adolescence; Adoption; Adult; Attitude to Health/*; Blacks; Family; Female; Human; Male; Marriage; Pregnancy/*PX; Religion; Sex Factors; Single Parent; Southeastern United States; Students/*PX; Universities; Whites.\r", 
+  ".A": [
+   "Ryan", 
+   "Dunn"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Fam Pract Res J 9010; 7(3):153-61\r", 
+  ".T": "Association of race, sex, religion, family size, and desired number of children on college students' preferred methods of dealing with unplanned pregnancy.\r", 
+  ".U": "90313506\r", 
+  ".W": "College students (N = 704) from two southeastern universities--one predominantly white and the other predominantly black--were surveyed by questionnaire to assess their order of preference of five methods for dealing with an out-of-wedlock, unplanned pregnancy: a) marriage, b) abortion, c) adoption, d) raising the child as a single parent, and e) having grandparents raise the child. Although, there has been a liberalization of society's attitudes toward options available to young people facing an unplanned pregnancy, results indicate that the majority of these students would prefer to marry, if possible. Abortion was their second preference. Of the remaining options, raising a child as a single parent was preferable to allowing a third party to raise the child, either through adoption or extended family. Race, sex, religiosity, religious preference, number of siblings, and number of desired children were significantly associated with these students' preferences of the five methods for dealing with unplanned pregnancy.\r"
+ }, 
+ {
+  ".I": "273807", 
+  ".M": "Adult; Aged; Aged, 80 and over; Diagnosis, Differential; Family Practice/*; Human; Impotence/*DI/ET/TH; Life Style; Male; Marriage; Middle Age; Pilot Projects; Questionnaires/*; Risk Factors.\r", 
+  ".A": [
+   "Kosch", 
+   "Curry", 
+   "Kuritzky"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Fam Pract Res J 9010; 7(3):162-74\r", 
+  ".T": "Evaluation and treatment of impotence: a pragmatic approach addressing organic and psychogenic components.\r", 
+  ".U": "90313507\r", 
+  ".W": "Twelve patient referrals for evaluation of impotence comprise the subjects of a pilot study examining psychogenic and biogenic factors of erectile dysfunction. A structured interview format (KCII) was developed which allowed the clinician to estimate the likelihood of the presence of three organic factors (hormonal, neurological, cardiovascular) and three psychogenic factors (intrapsychic, relational, and behavioral) as well as the presence of relevant lifestyle factors (alcohol, smoking, exercise patterns). The results demonstrated a good ability of the KCII to accurately identify impotent patients (on the basis of history) who would have positive or negative signs of hormonal factor or neurological factor confirmed by laboratory results or physical examination. The sample of patients who had significant vascular findings did not allow for adequate comparison with interview findings. The majority of patients had significant psychogenic components to their impotence and might have been incorrectly classified as \"solely psychogenic\" if they had not been simultaneously evaluated for organic factors. The most important finding was that impotence, in most cases, involved multifactorial etiological components and required a comprehensive evaluation and treatment program.\r"
+ }, 
+ {
+  ".I": "273808", 
+  ".M": "Adult; Aged; Human; LH/*BL; Male; Middle Age; Psychosexual Disorders/*BL/CO/PX; Sex Offenses/*; Stress, Psychological/ET; Testosterone/*BL.\r", 
+  ".A": [
+   "Seim", 
+   "Dwyer"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Fam Pract Res J 9010; 7(3):175-80\r", 
+  ".T": "Evaluation of serum testosterone and luteinizing hormone levels in sex offenders.\r", 
+  ".U": "90313508\r", 
+  ".W": "Testosterone levels were analyzed in a group of nonviolent sex offenders and compared to normal controls; the offenders had significantly lower levels (P = 0.0016). This finding differs from reports of violent offenders who have been shown to have higher testosterone levels than normals, but concurs with a previous study done at the University of Minnesota, Department of Family Practice and Community Health, which found nonviolent sex offenders to have significantly lower testosterone levels than normals. Luteinizing hormone levels were in the normal range for both groups.\r"
+ }, 
+ {
+  ".I": "273809", 
+  ".M": "Azathioprine/TU; Cyclosporins/TU; Graft Rejection/DE/*IM; Human; Immunosuppression; Lymphocyte Transformation/DE; Steroids/TU; T-Lymphocytes/*IM.\r", 
+  ".A": [
+   "Strom"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):128-9\r", 
+  ".T": "The immunopharmacology of graft rejection.\r", 
+  ".U": "90327360\r"
+ }, 
+ {
+  ".I": "273810", 
+  ".M": "Bone Marrow Transplantation/*IM; Follow-Up Studies; Graft Rejection; Histocompatibility Testing; Human; Leukemia/SU; T-Lymphocytes/*IM; Transplantation, Homologous.\r", 
+  ".A": [
+   "Prentice"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):155-6\r", 
+  ".T": "T cell depletion in allogeneic bone marrow transplantation.\r", 
+  ".U": "90327362\r"
+ }, 
+ {
+  ".I": "273811", 
+  ".M": "Animal; Bone Marrow/CY; Bone Marrow Transplantation/*IM; Graft vs Host Disease; Graft Rejection; Human; Leukemia/*SU; Support, U.S. Gov't, P.H.S.; T-Lymphocytes/*IM.\r", 
+  ".A": [
+   "Champlin"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):157-9\r", 
+  ".T": "Bone marrow transplantation for leukemia: effects of T lymphocyte depletion of donor bone marrow.\r", 
+  ".U": "90327363\r"
+ }, 
+ {
+  ".I": "273812", 
+  ".M": "Blood Transfusion; Cyclosporins/TU; Graft Survival; Human; Immunosuppression; Kidney Transplantation/*; Prednisolone/TU; Tissue Donors/*.\r", 
+  ".A": [
+   "Flatmark"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):167-8\r", 
+  ".T": "Optimal use of kidneys from living donors.\r", 
+  ".U": "90327364\r"
+ }, 
+ {
+  ".I": "273813", 
+  ".M": "Cadaver; Comparative Study; Family; Female; Human; Kidney Transplantation/*; Male; Tissue Donors/*.\r", 
+  ".A": [
+   "Starzl"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):174-5\r", 
+  ".T": "Living donors: con.\r", 
+  ".U": "90327365\r"
+ }, 
+ {
+  ".I": "273814", 
+  ".M": "Animal; Cyclosporins/PD; Gene Expression Regulation/*; Histocompatibility Antigens Class I/GE; Histocompatibility Antigens Class II/GE; Immunologic Deficiency Syndromes/IM; Interferon Type I/IM; Kidney/*IM; Major Histocompatibility Complex/*; Mice; Mice, Inbred BALB C; Mice, Nude; Mutation; Support, Non-U.S. Gov't; T-Lymphocytes/*IM.\r", 
+  ".A": [
+   "Urmson", 
+   "Farkas", 
+   "Autenried", 
+   "Halloran"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):187-9\r", 
+  ".T": "Three patterns of renal major histocompatibility complex product expression.\r", 
+  ".U": "90327366\r"
+ }, 
+ {
+  ".I": "273815", 
+  ".M": "Animal; Antibodies/*IM; Antibodies, Monoclonal/*IM; Endothelium, Vascular/*IM; Graft Rejection; Histocompatibility Antigens Class I/AN/*GE; Mice; Mice, Inbred Strains; Mice, Nude; Rats; Rats, Inbred Strains; Skin/BS; Skin Transplantation/*IM; Transplantation, Heterologous.\r", 
+  ".A": [
+   "Bogman", 
+   "de", 
+   "Koene"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):205-7\r", 
+  ".T": "Persistent expression of donor antigens in endothelium of long-standing skin xenografts and vulnerability to destruction by specific antibodies.\r", 
+  ".U": "90327370\r"
+ }, 
+ {
+  ".I": "273816", 
+  ".M": "Antigens, Surface/*AN; Cells, Cultured; Chromium Radioisotopes/DU; Colorimetry/MT; Cytotoxicity, Immunologic; Human; Lymphocyte Transformation; Lymphocytes/IM; Monocytes/*IM.\r", 
+  ".A": [
+   "Reinitz", 
+   "Tice"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):231-2\r", 
+  ".T": "Colorimetric assay for monocyte-expressed antigens in humans.\r", 
+  ".U": "90327382\r"
+ }, 
+ {
+  ".I": "273817", 
+  ".M": "B-Lymphocytes/DE/*IM; Biological Markers/*AN; Cycloheximide/*PD; Histocompatibility Antigens Class II/*AN; Human; Immunosuppression/*; Immunosuppressive Agents/*TU; Kidney Transplantation/*IM; Monensin/*PD; Monocytes/DE/*IM; Support, Non-U.S. Gov't.\r", 
+  ".A": [
+   "Dupont", 
+   "Crusiaux", 
+   "Andrien"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):233-4\r", 
+  ".T": "Decreased detection of class II major histocompatibility complex antigens on blood mononuclear cells from transplant recipients receiving immunosuppressive drugs: influence of cycloheximide and monensin.\r", 
+  ".U": "90327383\r"
+ }, 
+ {
+  ".I": "273818", 
+  ".M": "Animal; Antigen-Presenting Cells/*IM; Cell Adhesion/IM; Dendritic Cells/IM; Graft Rejection; HLA Antigens/*AN; Major Histocompatibility Complex/*; Mice; Mice, Inbred BALB C; Spleen/IM/TR; Support, Non-U.S. Gov't.\r", 
+  ".A": [
+   "Sherwood", 
+   "Brent", 
+   "Rayfield"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):239-41\r", 
+  ".T": "Major histocompatibility complex antigens are presented by murine host accessory cells.\r", 
+  ".U": "90327384\r"
+ }, 
+ {
+  ".I": "273819", 
+  ".M": "Animal; Capillaries/*IM; Dendritic Cells/*IM; Graft Survival; Heart Transplantation/*IM; Kidney Transplantation/*IM; Leukocytes/IM; Rats; Rats, Inbred Strains; Rats, Inbred WF; Renal Circulation; Support, U.S. Gov't, P.H.S.; Transplantation, Homologous.\r", 
+  ".A": [
+   "Halttunen", 
+   "Ferry", 
+   "Leszczynski"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):242-3\r", 
+  ".T": "Immunogenic potential of capillary bed components in rat renal allografts.\r", 
+  ".U": "90327385\r"
+ }, 
+ {
+  ".I": "273820", 
+  ".M": "Animal; Antigen-Presenting Cells/*IM; Cells, Cultured; Cytotoxicity, Immunologic; Female; Histocompatibility Antigens Class II/IM; Liver/*IM; Lymphocyte Transformation/*; Mice; Mice, Inbred C3H; Mice, Inbred Strains; Spleen/IM; Support, U.S. Gov't, P.H.S.; T-Lymphocytes, Cytotoxic/*IM.\r", 
+  ".A": [
+   "So", 
+   "Wilkes", 
+   "Platt", 
+   "Ascher", 
+   "Simmons"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):251-2\r", 
+  ".T": "Purified hepatocytes can stimulate allospecific cytolytic T lymphocytes in a mixed lymphocyte-hepatocyte culture.\r", 
+  ".U": "90327389\r"
+ }, 
+ {
+  ".I": "273821", 
+  ".M": "Cells, Cultured; Cyclosporins/*PD; Human; Leukocyte Culture Test, Mixed; Lymphocyte Transformation/*; Support, Non-U.S. Gov't; T-Lymphocytes/DE/*IM; Transplantation, Homologous.\r", 
+  ".A": [
+   "Kunkl", 
+   "Fenoglio", 
+   "Manca", 
+   "Caltabellotta", 
+   "Barocci", 
+   "Carozzi", 
+   "Valente", 
+   "Gessaga", 
+   "Celada"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):262\r", 
+  ".T": "Cyclosporine sensitivity of human alloreactive T lymphocytes depends on the strength of the allogeneic stimulus.\r", 
+  ".U": "90327392\r"
+ }, 
+ {
+  ".I": "273822", 
+  ".M": "Aging; Animal; Antibodies, Monoclonal/DU/IM; Antigens, Surface/*AN; Isoantibodies/*IM; Mice; Mice, Inbred C57BL; Rosette Formation/*; Support, Non-U.S. Gov't; T-Lymphocytes/*IM; Thymus Gland/*GD/IM.\r", 
+  ".A": [
+   "Levy", 
+   "Schlesinger", 
+   "Rabinowitz"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):279-80\r", 
+  ".T": "Age-related alteration in the effect of Thy-1 antibody on autorosette formation.\r", 
+  ".U": "90327396\r"
+ }, 
+ {
+  ".I": "273823", 
+  ".M": "Animal; Cross Reactions; Cytotoxicity, Immunologic/*; Leukocyte Culture Test, Mixed; Lymph Nodes/*IM; Major Histocompatibility Complex; Rats; Rats, Inbred Lew/IM; Rats, Inbred Strains/IM; Rats, Mutant Strains/*IM; Rats, Nude/*IM; Support, Non-U.S. Gov't; T-Lymphocytes/*IM.\r", 
+  ".A": [
+   "Schwinzer", 
+   "Hedrich", 
+   "Wonigeit"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):285-7\r", 
+  ".T": "The alloreactive potential of T-like cells from athymic nude rats (rnu/rnu).\r", 
+  ".U": "90327397\r"
+ }, 
+ {
+  ".I": "273824", 
+  ".M": "Animal; Cells, Cultured; Enterotoxins/*PD; Immune Tolerance/*; Kinetics; Mice; Mice, Inbred BALB C; Mice, Inbred C57BL; Spleen/*IM; Staphylococcus aureus/IM; Support, U.S. Gov't, P.H.S.; Suppressor Cells/DE/IM; T-Lymphocytes, Cytotoxic/DE/*IM.\r", 
+  ".A": [
+   "Patel", 
+   "Rogers", 
+   "Linna"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):288-9\r", 
+  ".T": "Suppression of murine alloimmune cytolytic T lymphocyte development by spleen cells incubated with staphylococcal enterotoxin B in vitro.\r", 
+  ".U": "90327398\r"
+ }, 
+ {
+  ".I": "273825", 
+  ".M": "Animal; Cell Movement/DE; Clone Cells; Dibutyryl Cyclic AMP/PD; Dinoprostone/*PD; Indomethacin/PD; Kinetics; Leukocyte Culture Test, Mixed; Mice; Mice, Inbred C57BL; Mice, Inbred DBA; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S.; T-Lymphocytes/CY/DE/*IM; Theophylline/PD.\r", 
+  ".A": [
+   "Jordan", 
+   "Hoffman", 
+   "Simmons"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):307-9\r", 
+  ".T": "Further characterization of the subset-specific effects of prostaglandin E2 on T lymphocyte clone function.\r", 
+  ".U": "90327400\r"
+ }, 
+ {
+  ".I": "273826", 
+  ".M": "Animal; Cell Separation; Cells, Cultured; Flow Cytometry; Human; Interleukin-1/*SE; Kinetics; Lymphocyte Transformation/*; Mice; Monocytes/*IM; Rosette Formation; Support, U.S. Gov't, Non-P.H.S.; Support, U.S. Gov't, P.H.S.; T-Lymphocytes/CY/*IM.\r", 
+  ".A": [
+   "Goeken", 
+   "Staggs"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):313-5\r", 
+  ".T": "Is secreted interleukin 1 necessary for T cell activation?\r", 
+  ".U": "90327402\r"
+ }, 
+ {
+  ".I": "273827", 
+  ".M": "Animal; Cells, Cultured; Cyclosporins/*PD; Dendritic Cells/DE/*IM/RE; DNA Replication/DE; Lymph Nodes/IM; Lymphocyte Transformation; Lymphocytes/IM; Mice; Mice, Inbred CBA; Spleen/IM; Tretinoin/*PD.\r", 
+  ".A": [
+   "Knight", 
+   "Bedford"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):320\r", 
+  ".T": "Effect of cyclosporine and retinoic acid on dendritic cell function.\r", 
+  ".U": "90327403\r"
+ }, 
+ {
+  ".I": "273828", 
+  ".M": "Animal; Antibodies, Monoclonal/DU; Cytotoxicity, Immunologic; Graft Rejection/*IM; Isoantigens/IM; Kidney/IM; Kidney Transplantation/*IM; Lymphocytes/CY/*IM; Rats; Rats, Inbred Lew; Rats, Inbred Strains; Spleen/IM; Support, Non-U.S. Gov't; Transplantation, Homologous.\r", 
+  ".A": [
+   "Bolton", 
+   "Armstrong", 
+   "Briggs", 
+   "Bradley"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):321-3\r", 
+  ".T": "Cellular requirements for first-set renal allograft rejection.\r", 
+  ".U": "90327404\r"
+ }, 
+ {
+  ".I": "273829", 
+  ".M": "Cell Line; Cells, Cultured; DNA Replication; Helper Cells/*IM; Histocompatibility Antigens/IM; Human; Isoantigens/*IM; Kinetics; Lymphocyte Transformation/*; Reference Values; Support, U.S. Gov't, P.H.S..\r", 
+  ".A": [
+   "Orosz", 
+   "Adams", 
+   "Ferguson"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):328-30\r", 
+  ".T": "Limiting dilution analysis of human alloantigen-reactive helper T lymphocytes.\r", 
+  ".U": "90327405\r"
+ }, 
+ {
+  ".I": "273830", 
+  ".M": "Antigens, CD/AN; Antigens, Differentiation, T-Lymphocyte/AN; Cells, Cultured; DNA Replication/*/DE; Human; Interleukin-1/PD; Kinetics; Lymphocyte Transformation/*; Phytohemagglutinins/PD; Protein Kinase C/ME; Receptors, Antigen, T-Cell/AN; Support, U.S. Gov't, P.H.S.; T-Lymphocytes/*IM; Tetradecanoylphorbol Acetate/PD.\r", 
+  ".A": [
+   "Melton", 
+   "Lakkis", 
+   "Deloria", 
+   "Williams", 
+   "Strom"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):331-2\r", 
+  ".T": "Requirements for primary T cell activation.\r", 
+  ".U": "90327406\r"
+ }, 
+ {
+  ".I": "273831", 
+  ".M": "Antigens, CD/AN; Antigens, Differentiation, T-Lymphocyte/AN; B-Lymphocytes/IM; Cells, Cultured; Clone Cells; Helper Cells/*IM; Homeostasis; Human; Interleukin-2/BI; Isoantigens/*IM; Receptors, Antigen, T-Cell/AN; Support, Non-U.S. Gov't.\r", 
+  ".A": [
+   "Pawelec", 
+   "Schneider", 
+   "Kalthoff", 
+   "Busch", 
+   "Blaurock", 
+   "Wernet"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):335\r", 
+  ".T": "Intrinsic regulation programs for responses to alloantigens within monoclonal human helper T lymphocyte populations.\r", 
+  ".U": "90327408\r"
+ }, 
+ {
+  ".I": "273832", 
+  ".M": "Antibodies, Monoclonal/DU; Antigen-Presenting Cells/*IM; Antigens, CD/*IM; Antigens, Differentiation, T-Lymphocyte/*IM; Cell Communication; Cells, Cultured; Human; Lymphocyte Transformation/*; Models, Biological; Receptors, Antigen, T-Cell/IM; Receptors, Immunologic/*IM; Support, U.S. Gov't, Non-P.H.S.; T-Lymphocytes/DE/*IM; Tetradecanoylphorbol Acetate/PD.\r", 
+  ".A": [
+   "Suthanthiran"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):336-7\r", 
+  ".T": "Human T cell activation: participation of Tll antigen (CD2, T,gp.50) in T cell-accessory cell interactions.\r", 
+  ".U": "90327409\r"
+ }, 
+ {
+  ".I": "273833", 
+  ".M": "Animal; Complement/IM; Cytotoxicity, Immunologic; Killer Cells, Natural/*IM; Mice; Mice, Inbred BALB C; Mice, Inbred C57BL; Models, Biological; Support, U.S. Gov't, P.H.S.; T-Lymphocytes, Cytotoxic/IM; Transplantation, Homologous/*IM.\r", 
+  ".A": [
+   "Hoffman", 
+   "Jordan", 
+   "Ascher", 
+   "Simmons"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):342-4\r", 
+  ".T": "The role of natural killer cells in the allograft response.\r", 
+  ".U": "90327410\r", 
+  ".W": "NK cells, present in sponge allografts between all genetic barriers tested, are present at the graft site several days before alloimmune CTL are detected. Both NK and alloimmune CTL possess the AGM1 surface marker. Systemic as well as local treatment with AGM1 antisera depletes NK activity as well as alloimmune CTL at the graft site. NK cells may function at the graft site to facilitate development of alloimmune CTL and/or NK cells may themselves differentiate into alloimmune CTL.\r"
+ }, 
+ {
+  ".I": "273834", 
+  ".M": "Animal; Antibodies, Monoclonal/DU; Cyclosporins/*PD; Kidney/CY/PA; Kidney Transplantation/*IM/PA; Leukocytes/CY/DE/*IM; Rats; Rats, Inbred Lew; Rats, Inbred Strains; Reference Values; Support, Non-U.S. Gov't; Transplantation, Homologous.\r", 
+  ".A": [
+   "McWhinnie", 
+   "Dallman", 
+   "Morris"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):345-7\r", 
+  ".T": "The influence of cyclosporine on cellular infiltration in rat renal allografts.\r", 
+  ".U": "90327411\r", 
+  ".W": "In this study donor specific blood transfusion of PVG recipients prevented rejection of DA strain kidneys but, paradoxically, failed to prevent the rapid and progressive accumulation of large numbers of mononuclear cells within enhanced grafts. Morphometric analysis showed that the percentage cellular infiltrate at day 3 was significantly greater in enhanced than in rejecting grafts but a notable feature in the phenotypic analysis of day 5 infiltrates was a markedly reduced number of MRC OX8 positive cells (Tc/s and NK cells) in enhanced grafts. Both rejecting and enhanced allografts showed a marked induction not only of class I but also of class II MHC antigens, and quantitative absorption analysis of donor class I MHC antigens indicated that induction occurred more rapidly in enhanced grafts. Taken together, these findings suggest that blood transfusion sensitizes the recipient, resulting in a more rapid allograft response, but that even in the presence of massive MHC/antigen induction and large numbers of infiltrating cells, immunoregulatory mechanisms are able to suppress the rejection response.\r"
+ }, 
+ {
+  ".I": "273835", 
+  ".M": "Animal; Cyclosporins/PD; Graft Survival; Histocompatibility Antigens Class II/AN; Kupffer Cells/DE/IM/*PA; Liver Transplantation/*/PA; Rats; Rats, Inbred BN; Rats, Inbred Lew; Rats, Inbred Strains; Support, Non-U.S. Gov't; Transplantation, Homologous.\r", 
+  ".A": [
+   "Gassel", 
+   "Engemann", 
+   "Thiede", 
+   "Hamelmann"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):351-3\r", 
+  ".T": "Replacement of donor Kupffer cells by recipient cells after orthotopic rat liver transplantation.\r", 
+  ".U": "90327412\r"
+ }, 
+ {
+  ".I": "273836", 
+  ".M": "Animal; Disease Models, Animal; Female; Graft Rejection/*IM; Immunosuppression/*; Lymphocytes/*IM; Mice; Mice, Inbred BALB C; Mice, Inbred C57BL; Support, Non-U.S. Gov't; Transplantation, Homologous/*IM.\r", 
+  ".A": [
+   "Thiede", 
+   "Hopt", 
+   "Wolken", 
+   "Schareck", 
+   "Muller", 
+   "Bockhorn"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):356-8\r", 
+  ".T": "Suppression of the immune response in rejected sponge matrix allografts.\r", 
+  ".U": "90327414\r"
+ }, 
+ {
+  ".I": "273837", 
+  ".M": "Animal; Cells, Cultured; Lymph Nodes/IM; Lymphocyte Transformation; Mice; Mice, Inbred Strains; Organ Specificity; Skin Transplantation/*IM; Spleen/IM; Support, U.S. Gov't, P.H.S.; T-Lymphocytes/*IM; T-Lymphocytes, Cytotoxic/IM; Transplantation, Homologous/*IM.\r", 
+  ".A": [
+   "Clemmings", 
+   "Hoffman", 
+   "Cahill", 
+   "Simmons", 
+   "Ascher"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):359-60\r", 
+  ".T": "Compartmentalization and lymphocyte traffic after allograft challenge.\r", 
+  ".U": "90327415\r"
+ }, 
+ {
+  ".I": "273838", 
+  ".M": "Animal; Heart Transplantation/*IM; Helper Cells/IM; Hypersensitivity, Delayed; Immunization, Passive; Phenotype; Rats; Rats, Inbred BN; Rats, Inbred Lew; Spleen/*TR; Support, Non-U.S. Gov't; T-Lymphocytes/CY/*IM; T-Lymphocytes, Cytotoxic/IM; Transplantation, Heterotopic; Transplantation, Homologous/*IM.\r", 
+  ".A": [
+   "Stepkowski", 
+   "Bitter-Suermann", 
+   "Duncan"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):361-3\r", 
+  ".T": "Functional analysis of TDTH and Tc cells infiltrating primary or secondary allografts.\r", 
+  ".U": "90327416\r"
+ }, 
+ {
+  ".I": "273839", 
+  ".M": "Animal; Antibodies, Monoclonal/DU; Graft Rejection/*IM; Heart Transplantation/*IM/PA; Histocompatibility Antigens Class II/*AN; Leukocytes/IM/PA; Rats; Rats, Inbred BN; Rats, Inbred Lew; Support, Non-U.S. Gov't; T-Lymphocytes/IM/PA; Transplantation, Homologous.\r", 
+  ".A": [
+   "Westra", 
+   "Romaniuk", 
+   "Ryffa", 
+   "Wildevuur", 
+   "Nieuwenhuis"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):374\r", 
+  ".T": "Infiltration pattern of rat heart allografts during rejection.\r", 
+  ".U": "90327419\r"
+ }, 
+ {
+  ".I": "273840", 
+  ".M": "Acute Disease; Biopsy; Graft Rejection/*IM; Human; Kidney/IM/UL; Kidney Transplantation/*IM/PA; Lymphocytes/*IM/UL; Microscopy, Electron; Phagocytes/IM/UL.\r", 
+  ".A": [
+   "Severi", 
+   "Vangelista", 
+   "Govoni", 
+   "Frasca", 
+   "Facchini", 
+   "Bonomini"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):375-7\r", 
+  ".T": "Lymphocyte-mesenchymal cell interaction in acute renal transplant rejection: an electron microscopy study.\r", 
+  ".U": "90327420\r"
+ }, 
+ {
+  ".I": "273841", 
+  ".M": "Animal; Immunity, Cellular; Inflammation; Kidney Function Tests; Kidney Transplantation/IM/PA/*PH; Rats; Rats, Inbred ACI; Rats, Inbred Strains; Support, U.S. Gov't, Non-P.H.S.; Support, U.S. Gov't, P.H.S.; Transplantation, Homologous.\r", 
+  ".A": [
+   "Kolbeck", 
+   "Scroggs", 
+   "Coffman", 
+   "Klotman", 
+   "Sanfilippo"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):379-81\r", 
+  ".T": "Associations between rat renal allograft function, inflammation, and host immunity.\r", 
+  ".U": "90327422\r"
+ }, 
+ {
+  ".I": "273842", 
+  ".M": "Animal; Antibodies, Monoclonal/DU; Cell Line; Cells, Cultured; Clone Cells; DNA Replication; Helper Cells/*IM/PA; Inflammation; Kidney Transplantation/*IM/PA; Lymphocyte Transformation; Rats; Rats, Inbred BN; Rats, Inbred Lew; Support, Non-U.S. Gov't; Transplantation, Homologous.\r", 
+  ".A": [
+   "Manca", 
+   "Ferry", 
+   "Jaakkola", 
+   "Halttunen", 
+   "Horsmanheimo", 
+   "Hayry"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):386-8\r", 
+  ".T": "T helper cells infiltrating kidney allografts: frequency and functional characterization.\r", 
+  ".U": "90327423\r"
+ }, 
+ {
+  ".I": "273843", 
+  ".M": "Antibodies, Monoclonal/DU; Biopsy, Needle; Cells, Cultured; Cytotoxicity, Immunologic; Graft Rejection/*IM; Human; Kidney Transplantation/*IM/PA; Lymphocytes/*IM/PA; T-Lymphocytes/*IM.\r", 
+  ".A": [
+   "Caillat", 
+   "Poisson", 
+   "Campos", 
+   "Debure", 
+   "Kreis", 
+   "Bach", 
+   "Chatenoud"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):389-91\r", 
+  ".T": "Functional analysis of lymphocytes recovered from human allograft undergoing rejection.\r", 
+  ".U": "90327424\r"
+ }, 
+ {
+  ".I": "273844", 
+  ".M": "Acute Disease; Cells, Cultured; Graft Rejection/*IM; Human; Immunoglobulins, Surface/AN; Inflammation; Kidney Transplantation/*IM/PA; Lymphocyte Transformation; Lymphocytes/*IM/PA; Monocytes/IM/PA; Phenotype; Spleen/IM; Support, Non-U.S. Gov't.\r", 
+  ".A": [
+   "Charpentier", 
+   "Bach", 
+   "Lang", 
+   "Hiesse", 
+   "Fries"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):392-3\r", 
+  ".T": "In situ analysis of cells involved in irreversible acute rejection of human renal allografts.\r", 
+  ".U": "90327425\r"
+ }, 
+ {
+  ".I": "273845", 
+  ".M": "Antibodies, Monoclonal/DU; Antigens, Surface/AN; B-Lymphocytes/IM/PA; Cells, Cultured; Graft Rejection/*/IM; Human; HLA Antigens/AN; Inflammation; Kidney Transplantation/IM/*PA; Monocytes/*PA; Nephrectomy/*; Phenotype; Receptors, Interleukin-2/AN; Transplantation, Homologous.\r", 
+  ".A": [
+   "Nikaein", 
+   "McQueen", 
+   "Boyer", 
+   "Landesberg", 
+   "Ryan", 
+   "Insel"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):398-400\r", 
+  ".T": "Functional characterization of renal infiltrating cells following allograft nephrectomy.\r", 
+  ".U": "90327426\r"
+ }, 
+ {
+  ".I": "273846", 
+  ".M": "Acute Disease; Antibodies, Monoclonal/DU; B-Lymphocytes/IM; Cells, Cultured; Clone Cells; Graft Rejection/*IM; Human; Inflammation; Kidney Transplantation/*IM/PA; Lymphocyte Transformation; Phenotype; T-Lymphocytes/*IM/PA.\r", 
+  ".A": [
+   "Moreau", 
+   "Bonneville", 
+   "Peyrat", 
+   "Godard", 
+   "Jacques", 
+   "Soulillou"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):401-2\r", 
+  ".T": "Function and phenotypes of T lymphocytes cloned from human rejected grafts.\r", 
+  ".U": "90327427\r"
+ }, 
+ {
+  ".I": "273847", 
+  ".M": "Adult; Antigens, CD/*AN; Biopsy; Case Report; Diabetes Mellitus, Insulin-Dependent/SU; Female; Graft Rejection/IM; Human; HLA-DR Antigens/AN; Lymphocyte Transformation/*; Pancreas Transplantation/*IM/PA; Phenotype; Support, Non-U.S. Gov't; Support, U.S. Gov't, Non-P.H.S.; Support, U.S. Gov't, P.H.S.; T-Lymphocytes/*IM/PA; Transplantation, Homologous.\r", 
+  ".A": [
+   "Binimelis", 
+   "Sutherland", 
+   "Sibley", 
+   "de", 
+   "Barbosa"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):403\r", 
+  ".T": "Phenotypes of in vivo-activated T lymphocytes from a pancreas allograft.\r", 
+  ".U": "90327428\r"
+ }, 
+ {
+  ".I": "273848", 
+  ".M": "Cells, Cultured; Corneal Transplantation/*IM/PA; Graft Rejection/*IM; Human; HLA-DR Antigens/*IM; Inflammation; Support, U.S. Gov't, P.H.S.; T-Lymphocytes/*IM/PA.\r", 
+  ".A": [
+   "Pollack", 
+   "Washington", 
+   "Matoba"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):408-9\r", 
+  ".T": "The propagation of HLA-specific T cells from failed corneal grafts.\r", 
+  ".U": "90327429\r"
+ }, 
+ {
+  ".I": "273849", 
+  ".M": "Animal; Cells, Cultured; Clone Cells; H-2 Antigens/*IM; Hypersensitivity, Delayed/*; Mice; Mice, Inbred C57BL; Mice, Inbred DBA; Mice, Inbred Strains; Spleen/IM; Support, U.S. Gov't, P.H.S.; T-Lymphocytes/*IM.\r", 
+  ".A": [
+   "Cahill", 
+   "Hoffman", 
+   "Clemmings", 
+   "Simmons", 
+   "Ascher"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):410-1\r", 
+  ".T": "Cloned T cells do not require host H-2 restrictions to elicit delayed-type hypersensitivity.\r", 
+  ".U": "90327430\r"
+ }, 
+ {
+  ".I": "273850", 
+  ".M": "Animal; Cytotoxicity, Immunologic/*; Epidermis/IM/TR; Female; H-2 Antigens/GE/IM; Leukocyte Culture Test, Mixed; Mice; Mice, Inbred CBA; Mice, Inbred C3H; Skin Transplantation/*IM; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S.; T-Lymphocytes, Cytotoxic/*IM; Transplantation, Isogeneic.\r", 
+  ".A": [
+   "Snider", 
+   "Steinmuller"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):421-3\r", 
+  ".T": "Nonspecific tissue destruction as a consequence of cytotoxic T lymphocyte interaction with antigen-specific target cells.\r", 
+  ".U": "90327431\r"
+ }, 
+ {
+  ".I": "273851", 
+  ".M": "Animal; Biological Markers/AN; Blood Platelets/ME; Cytotoxins/*IM; Graft Rejection/*IM; Heart Transplantation/*IM; Inflammation; Phospholipases A/AN; Rats; Rats, Inbred Lew; Rats, Inbred WF; Serotonin/BL; Support, Non-U.S. Gov't; Transplantation, Heterotopic; Transplantation, Homologous.\r", 
+  ".A": [
+   "Lowry", 
+   "Blais", 
+   "Marghesco", 
+   "Powell"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):424-5\r", 
+  ".T": "Immune effector mechanisms in organ allograft rejection. VIII: Inflammatory mediators and cytotoxins in rejecting rat cardiac allografts.\r", 
+  ".U": "90327432\r"
+ }, 
+ {
+  ".I": "273852", 
+  ".M": "Acute Disease; Animal; Antibodies/AN; Graft Rejection/*IM; Heart Transplantation/*IM; Hypersensitivity, Delayed/*; Mice; Skin Transplantation/IM.\r", 
+  ".A": [
+   "Eichwald", 
+   "Shelby"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):426-7\r", 
+  ".T": "Is delayed-type hypersensitivity the pathway of hyperacute rejection in transplanted mouse hearts?\r", 
+  ".U": "90327433\r"
+ }, 
+ {
+  ".I": "273853", 
+  ".M": "Animal; Cell Line; Comparative Study; Cytotoxicity, Immunologic/*; Graft Survival/IM; Rats; Rats, Inbred ACI; Rats, Inbred F344; Skin Transplantation/*IM; Spleen/IM; T-Lymphocytes, Cytotoxic/IM; Transplantation, Homologous.\r", 
+  ".A": [
+   "Tanaka", 
+   "Fujimoto", 
+   "Inoue", 
+   "Kashitani", 
+   "Orita"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):432-4\r", 
+  ".T": "Comparison of spontaneous cell-mediated cytotoxicity with immunologically specific cytotoxicity in rat skin allografts.\r", 
+  ".U": "90327434\r"
+ }, 
+ {
+  ".I": "273854", 
+  ".M": "Animal; Cell Separation; Cytotoxicity, Immunologic; Leukocyte Culture Test, Mixed; Lymphocyte Transformation; Male; Rats; Rats, Inbred Strains; Spleen/*TR; Support, Non-U.S. Gov't; Suppressor Cells/*IM/PH; T-Lymphocytes/CY; T-Lymphocytes, Cytotoxic/IM; Transplantation, Homologous/*IM.\r", 
+  ".A": [
+   "Duncan", 
+   "Bitter-Suermann", 
+   "Stepkowski"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):435-6\r", 
+  ".T": "Spontaneous acceptance of spleen allografts: role of T suppressor cells at the graft site.\r", 
+  ".U": "90327435\r"
+ }, 
+ {
+  ".I": "273855", 
+  ".M": "Animal; Comparative Study; Graft Rejection/*IM; Heart Transplantation/*IM; Lymphocytes/IM/*TR; Rats; Rats, Inbred Strains; Spleen/IM; Support, Non-U.S. Gov't; Transplantation, Homologous.\r", 
+  ".A": [
+   "Orlewska", 
+   "Olszewski"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):437-8\r", 
+  ".T": "Rejection of allogeneic lymphocytes and heart allografts from the same donor is mediated by different mechanisms.\r", 
+  ".U": "90327436\r"
+ }, 
+ {
+  ".I": "273856", 
+  ".M": "Animal; Arachidonic Acids/*ME; Dogs; Eicosanoids/*BI; Graft Rejection/*PH; Kidney/*PH; Kidney Cortex/PH; Kidney Medulla/PH; Kidney Transplantation/*PH; Reference Values; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S..\r", 
+  ".A": [
+   "Mangino", 
+   "Anderson", 
+   "DeSchryver", 
+   "Tyler", 
+   "Sicard", 
+   "Turk"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):444-5\r", 
+  ".T": "Arachidonic acid metabolism and renal allograft rejection.\r", 
+  ".U": "90327437\r"
+ }, 
+ {
+  ".I": "273857", 
+  ".M": "Animal; Antibodies, Monoclonal/DU; Bone Marrow/IM; Bone Marrow Transplantation/IM; Complement/IM; H-2 Antigens/AN; Immune Tolerance/*; Immunization, Passive/*; Mice; Mice, Inbred BALB C; Mice, Inbred C57BL; Spleen/IM/TR; Support, U.S. Gov't, Non-P.H.S.; T-Lymphocytes/*IM; Transplantation, Homologous/*IM.\r", 
+  ".A": [
+   "Pierce", 
+   "Watts", 
+   "Mallin", 
+   "Rhoads"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):446-7\r", 
+  ".T": "Role of donor T cells in the induction and transfer of allograft tolerance.\r", 
+  ".U": "90327438\r"
+ }, 
+ {
+  ".I": "273858", 
+  ".M": "Animal; Blood Transfusion/*; Graft Survival/*IM; Macaca mulatta; Skin Transplantation/*IM; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S.; Suppressor Cells/IM/*RE; Time Factors; Transplantation, Homologous; Ultraviolet Rays/*.\r", 
+  ".A": [
+   "Hoshinaga", 
+   "Kim", 
+   "Millington", 
+   "Mohanakumar", 
+   "Lee"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):448-50\r", 
+  ".T": "Induction of suppressor cells by ultraviolet-irradiated DST in monkey skin allografts.\r", 
+  ".U": "90327439\r"
+ }, 
+ {
+  ".I": "273859", 
+  ".M": "Animal; Blood Transfusion/*; Cyclosporins/*TU; Graft Survival/DE/*PH/RE; Heart Transplantation/*PH; Immunosuppression; Rats; Rats, Inbred ACI; Rats, Inbred Lew; Rats, Inbred WF; Support, U.S. Gov't, P.H.S.; Transplantation, Homologous; Ultraviolet Rays/*.\r", 
+  ".A": [
+   "Oluwole", 
+   "Lau", 
+   "Reemtsma", 
+   "Hardy"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):451-3\r", 
+  ".T": "Synergistic effect of UV-irradiated donor-specific transfusions with peritransplant cyclosporine on cardiac allograft survival in rats.\r", 
+  ".U": "90327440\r"
+ }, 
+ {
+  ".I": "273860", 
+  ".M": "Animal; Antilymphocyte Serum/*TU; Graft Rejection/IM/PH; Graft Survival/IM/PH; Heart Transplantation/*IM/PH; Immunosuppression/*; Rats; Rats, Inbred Strains; Rats, Inbred WKY; Support, Non-U.S. Gov't; Transplantation, Heterotopic.\r", 
+  ".A": [
+   "Olausson", 
+   "Mjornstedt", 
+   "Wramner", 
+   "Soderstrom", 
+   "Brynger"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):454-6\r", 
+  ".T": "Importance of the presence of antigen for induction of transplantation tolerance.\r", 
+  ".U": "90327441\r"
+ }, 
+ {
+  ".I": "273861", 
+  ".M": "Animal; Graft Rejection; Graft Survival/IM; Heart Transplantation/IM; Immunosuppression; Liver Transplantation/*IM; Rats; Rats, Inbred ACI; Rats, Inbred F344; Rats, Inbred Strains; Skin Transplantation/*IM; Transplantation, Homologous.\r", 
+  ".A": [
+   "Hasuike", 
+   "Monden", 
+   "Valdivia", 
+   "Kubota", 
+   "Kanai", 
+   "Gotoh", 
+   "Okamura", 
+   "Mori"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):457-8\r", 
+  ".T": "Three phases of immunologic unresponsiveness following liver grafting in rats.\r", 
+  ".U": "90327442\r"
+ }, 
+ {
+  ".I": "273862", 
+  ".M": "Animal; Antibodies, Monoclonal/AD/*TU; Bone Marrow Transplantation/*IM; Complement 1q/*IM; Graft vs Host Reaction; Host vs Graft Reaction; Immune Tolerance; Immunosuppression/*; Isoantibodies/*AD; Mice; Mice, Inbred CBA; Mice, Inbred C57BL; Skin Transplantation/*IM; Support, Non-U.S. Gov't.\r", 
+  ".A": [
+   "Thierfelder", 
+   "Kummer", 
+   "Schuh"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):459-61\r", 
+  ".T": "Transplantation tolerance following conditioning with C1q-affinity anti-Thy-1 monoclonal antibodies.\r", 
+  ".U": "90327443\r"
+ }, 
+ {
+  ".I": "273863", 
+  ".M": "Animal; Blood Transfusion/*; Cyclosporins/*TU; Graft Survival/*; Immunosuppression/*; Kidney Transplantation/*/IM; Male; Rats; Rats, Inbred BN; Rats, Inbred BUF; Rats, Inbred Lew; Rats, Inbred Strains; Rats, Inbred WKY; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S.; Transplantation, Homologous.\r", 
+  ".A": [
+   "Martin", 
+   "Hewitt", 
+   "Black", 
+   "Reyes", 
+   "Go"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):462-3\r", 
+  ".T": "Induction of long-term rat renal allograft survival: a specific synergistic effect of limited pretransplant cyclosporine combined with multiple nonspecific blood transfusions.\r", 
+  ".U": "90327444\r"
+ }, 
+ {
+  ".I": "273864", 
+  ".M": "Animal; Cell Membrane/*IM; Endoplasmic Reticulum/*IM; Graft Rejection/*; Histocompatibility Antigens Class I/*IM; Immunosuppression/*; Kidney Transplantation/*/IM; Rats; Rats, Inbred Lew; Rats, Inbred Strains; Support, Non-U.S. Gov't; Transplantation, Homologous.\r", 
+  ".A": [
+   "Foster", 
+   "Wood", 
+   "Morris"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):469\r", 
+  ".T": "Suppression of renal allograft rejection in the rat using purified plasma membrane and endoplasmic reticulum preparation expressing donor class I major histocompatibility complex antigen.\r", 
+  ".U": "90327445\r"
+ }, 
+ {
+  ".I": "273865", 
+  ".M": "Animal; Animals, Newborn; Antilymphocyte Serum/*TU; Bone Marrow Transplantation/*IM; Graft Survival/*; Immunosuppression/*; Mice; Mice, Inbred BALB C; Mice, Inbred C3H; Mice, Inbred Strains; Skin Transplantation/*IM; Support, U.S. Gov't, P.H.S.; Transplantation, Homologous.\r", 
+  ".A": [
+   "Gozzo", 
+   "Kowolenko"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):470-1\r", 
+  ".T": "Augmentation by donor bone marrow of the survival of neonatal skin transplants to ALS-treated recipients.\r", 
+  ".U": "90327446\r"
+ }, 
+ {
+  ".I": "273866", 
+  ".M": "Animal; Antilymphocyte Serum/*TU; Bone Marrow Transplantation/*IM; Dogs; Immune Tolerance/*; Immunosuppression/*; Kidney Transplantation/*IM; Lymphocyte Transformation; Lymphocytes/IM; Support, U.S. Gov't, P.H.S.; Transplantation, Homologous.\r", 
+  ".A": [
+   "Hartner", 
+   "De", 
+   "Markees", 
+   "Maki", 
+   "Monaco", 
+   "Gozzo"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):476-7\r", 
+  ".T": "Specific tolerance to canine renal allografts following treatment with fractionated bone marrow and antilymphocyte serum.\r", 
+  ".U": "90327447\r", 
+  ".W": "These results suggest (1) that ALS + BM fractions can be used to promote tolerance in long-term graft survivors; (2) that the presence of apparent BM cells of donor origin in the allograft in normally functioning kidneys may be related to the mechanism of allograft prolongation, and (3) that some promise of possible specific long-term immunosuppression exists clinically.\r"
+ }, 
+ {
+  ".I": "273867", 
+  ".M": "Animal; Antibody Formation; Graft Survival/*IM; Heart Transplantation/*IM; Hypersensitivity, Delayed; Rats; Rats, Inbred Lew; Rats, Inbred WF; Support, Non-U.S. Gov't; T-Lymphocytes, Cytotoxic/IM; Transplantation, Homologous.\r", 
+  ".A": [
+   "Kenick", 
+   "Lowry", 
+   "Forbes", 
+   "Lisbona"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):478-80\r", 
+  ".T": "Prolonged cardiac allograft survival following portal venous inoculation of allogeneic cells: what is \"hepatic tolerance\"?\r", 
+  ".U": "90327448\r"
+ }, 
+ {
+  ".I": "273868", 
+  ".M": "Animal; Antibody Formation; B-Lymphocytes/*IM; Chickens; Enzyme-Linked Immunosorbent Assay; Immune Tolerance/*; Immunization, Passive; Immunoglobulins/AN; Immunosuppression/*; Major Histocompatibility Complex; Serum Albumin, Bovine/AD/IM; Support, Non-U.S. Gov't.\r", 
+  ".A": [
+   "Toivanen", 
+   "Vainio", 
+   "Pink"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):481-2\r", 
+  ".T": "Induction of immunologic tolerance in bursal stem cells.\r", 
+  ".U": "90327449\r"
+ }, 
+ {
+  ".I": "273869", 
+  ".M": "Animal; Animals, Newborn; Cells, Cultured; Cytotoxicity, Immunologic; Immune Tolerance/*; Leukocyte Culture Test, Mixed; Mice; Mice, Inbred C57BL; Mice, Inbred Strains; Phenotype; Support, U.S. Gov't, P.H.S.; T-Lymphocytes/*IM; T-Lymphocytes, Cytotoxic/IM.\r", 
+  ".A": [
+   "Wood", 
+   "Streilein"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):483-5\r", 
+  ".T": "The nature of T cell repertoire modification in neonatal tolerance.\r", 
+  ".U": "90327450\r"
+ }, 
+ {
+  ".I": "273870", 
+  ".M": "Animal; Antibodies, Monoclonal/DU; Cell Separation; Cells, Cultured; Immune Tolerance/*; Leukocyte Culture Test, Mixed; Lymphocytes/IM/*RE/TR; Papio/*IM; Support, Non-U.S. Gov't; Suppressor Cells/IM; T-Lymphocytes/CY.\r", 
+  ".A": [
+   "Smit", 
+   "Stark", 
+   "Myburgh"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):490-2\r", 
+  ".T": "Mechanisms of immunologic tolerance following total lymphoid irradiation in the baboon.\r", 
+  ".U": "90327451\r"
+ }, 
+ {
+  ".I": "273871", 
+  ".M": "Animal; Antigens, CD4/*IM; Graft Rejection/IM; Heart Transplantation/*IM; Immune Tolerance; Phenotype; Rats; Rats, Inbred BN; Rats, Inbred Lew; Spleen/IM; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S.; T-Lymphocytes/*IM; Transplantation, Homologous.\r", 
+  ".A": [
+   "Padberg", 
+   "Kupiec-Weglinski", 
+   "Lord", 
+   "Towpik", 
+   "Tilney"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):493-4\r", 
+  ".T": "W3/25+ T cells mediate specific unresponsiveness in enhanced allograft recipients.\r", 
+  ".U": "90327452\r"
+ }, 
+ {
+  ".I": "273872", 
+  ".M": "Animal; Antigens, CD4/IM; Cyclosporins/TU; Graft Survival/*/IM; Heart Transplantation/*IM; Immune Tolerance; Immunization, Passive; Immunosuppression/*; Rats; Rats, Inbred BN; Rats, Inbred Strains; Rats, Inbred WF; Support, Non-U.S. Gov't; Suppressor Cells/*IM; Transplantation, Homologous.\r", 
+  ".A": [
+   "Hall", 
+   "Gurley", 
+   "Dorsch"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):495-6\r", 
+  ".T": "Specific unresponsiveness in rats with prolonged allograft survival is dependent upon the graft and suppressor T cells.\r", 
+  ".U": "90327453\r"
+ }, 
+ {
+  ".I": "273873", 
+  ".M": "Animal; Cyclosporins/*TU; DNA Replication; Graft Survival/IM; Heart Transplantation/*IM; Helper Cells/IM; Immunosuppression; Leukocyte Culture Test, Mixed; Lymph Nodes/IM; Lymphocytes/IM; Male; Rats; Rats, Inbred BN; Rats, Inbred Lew; Skin Transplantation/*IM; Support, U.S. Gov't, P.H.S.; Suppressor Cells/IM; Transplantation, Homologous.\r", 
+  ".A": [
+   "Towpik", 
+   "Kupiec-Weglinski", 
+   "Uhteg", 
+   "Padberg", 
+   "Tilney"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):497-8\r", 
+  ".T": "Immune responsiveness following skin grafting in cyclosporine-treated rats.\r", 
+  ".U": "90327454\r"
+ }, 
+ {
+  ".I": "273874", 
+  ".M": "Animal; Antigens, CD4/*IM; Cyclosporins/*TU; Graft Rejection; Heart Transplantation/*IM; Rats; Rats, Inbred Strains; Rats, Inbred WF; Support, Non-U.S. Gov't; Suppressor Cells/DE/*IM; Transplantation, Homologous.\r", 
+  ".A": [
+   "Hall", 
+   "Gurley", 
+   "Dorsch"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):504\r", 
+  ".T": "Tempo of induction of W3/25+ suppressor cells in cyclosporine-treated rat cardiac allograft recipients.\r", 
+  ".U": "90327457\r"
+ }, 
+ {
+  ".I": "273875", 
+  ".M": "Animal; B-Lymphocytes/IM; Graft Rejection/*IM; Graft Survival/IM; Helper Cells/*IM; Immunosuppression/*; Kidney Transplantation/*IM; Male; Phenotype; Rats; Rats, Inbred BN; Rats, Inbred Lew; Rats, Inbred Strains; Support, Non-U.S. Gov't; T-Lymphocytes/IM; T-Lymphocytes, Cytotoxic/*IM.\r", 
+  ".A": [
+   "Cranston", 
+   "Wood", 
+   "Carter", 
+   "Morris"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):505\r", 
+  ".T": "Suppression of allograft rejection in the rat by pretreatment with cells of the T-helper, but not T-cytotoxic suppressor phenotype.\r", 
+  ".U": "90327458\r"
+ }, 
+ {
+  ".I": "273876", 
+  ".M": "Animal; B-Lymphocytes/DE/*IM/TR; Chickens; Cyclophosphamide/PD; Graft vs Host Reaction/IM; Histocompatibility Antigens Class I/*IM; Immune Tolerance/*/DE; Interleukin-2/*PD; Skin Transplantation/*IM; Support, Non-U.S. Gov't; T-Lymphocytes/IM.\r", 
+  ".A": [
+   "Lehtonen", 
+   "Vainio", 
+   "Toivanen"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):508-10\r", 
+  ".T": "Transplantation tolerance to total chicken major histocompatibility complex (B-complex) antigen disparity is impaired by interleukin 2.\r", 
+  ".U": "90327460\r"
+ }, 
+ {
+  ".I": "273877", 
+  ".M": "Animal; Cells, Cultured; Graft Survival/*IM; Heart Transplantation/*IM; Immune Tolerance; Immunosuppression/*; Kidney Cortex/TR; Kidney Transplantation/*IM; Liver/CY/IM; Liver Transplantation/*IM; Male; Rats; Rats, Inbred Lew; Rats, Inbred Strains; Support, Non-U.S. Gov't; Transplantation, Homologous.\r", 
+  ".A": [
+   "Nakano", 
+   "Nakajima", 
+   "Segawa", 
+   "Kanehiro", 
+   "Murao", 
+   "Nakagawa", 
+   "Shiratori"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):511-3\r", 
+  ".T": "Immunologic significance of hepatocytes in tolerance induction after liver transplantation.\r", 
+  ".U": "90327461\r"
+ }, 
+ {
+  ".I": "273878", 
+  ".M": "Animal; Azathioprine/PD; Cyclosporins/*PD; Female; Mice; Mice, Inbred HRS; Neoplasms, Radiation-Induced/*IM; Skin/DE/RE; Skin Neoplasms/ET/*IM; Time Factors; Ultraviolet Rays/*.\r", 
+  ".A": [
+   "Nelson", 
+   "Eichwald", 
+   "Shelby"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):526-7\r", 
+  ".T": "Increased ultraviolet radiation-induced skin cancers in cyclosporine-treated mice.\r", 
+  ".U": "90327463\r"
+ }, 
+ {
+  ".I": "273879", 
+  ".M": "Animal; Antibodies, Monoclonal/DU; Cyclophosphamide/PD; Female; Hypersensitivity, Delayed/*; Kidney Transplantation/*IM; Phenotype; Rats; Rats, Inbred Strains; Rosette Formation; Support, Non-U.S. Gov't; Suppressor Cells/DE/*IM.\r", 
+  ".A": [
+   "Hutchinson", 
+   "Morris"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):528-30\r", 
+  ".T": "Alloreactive suppressor T cells.\r", 
+  ".U": "90327464\r"
+ }, 
+ {
+  ".I": "273880", 
+  ".M": "Animal; Animals, Newborn; Cell Line; Cells, Cultured; Clone Cells; Female; Leukocyte Culture Test, Mixed; Lymphocyte Transformation; Mice; Mice, Inbred BALB C; Mice, Inbred C57BL; Spleen/*IM; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S.; Suppressor Cells/CY/*IM; T-Lymphocytes, Cytotoxic/*IM.\r", 
+  ".A": [
+   "Schwadron", 
+   "Strober"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):533-5\r", 
+  ".T": "Cloned natural suppressor cells derived from the neonatal spleen: in vitro action and lineage.\r", 
+  ".U": "90327466\r"
+ }, 
+ {
+  ".I": "273881", 
+  ".M": "Animal; Blood Transfusion/*; Comparative Study; Heart Transplantation/*IM; Immunosuppression; Interleukin-2/*BI; Lymphocyte Transformation; Rats; Rats, Inbred Lew; Suppressor Cells/*IM; Transplantation, Homologous/*IM.\r", 
+  ".A": [
+   "Chevalier", 
+   "Lacroix", 
+   "Moreau", 
+   "Soulillou"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):544-6\r", 
+  ".T": "Blood transfusion plus allograft--but not blood transfusion alone--induce IL 2-producing suppressor cells in Lew-1A recipients of LEW-1W heart allograft.\r", 
+  ".U": "90327467\r"
+ }, 
+ {
+  ".I": "273882", 
+  ".M": "Animal; Antilymphocyte Serum/*IM; Bone Marrow/*IM; Cell Separation/MT; Centrifugation, Density Gradient/MT; Graft Survival/*IM; Hematopoietic Stem Cells/CY/*IM; Immunosuppression; Mice; Mice, Inbred C3H; Mice, Inbred Strains; Povidone; Silica; Skin Transplantation/*IM; Transplantation, Homologous.\r", 
+  ".A": [
+   "De", 
+   "Kowolenko", 
+   "Monaco", 
+   "Gozzo"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):547-8\r", 
+  ".T": "Isolation by continuous density gradient centrifugation and characterization of bone marrow cells active in prolonging allograft survival in antilymphocyte serum (ALS)-treated mice.\r", 
+  ".U": "90327468\r"
+ }, 
+ {
+  ".I": "273883", 
+  ".M": "Animal; Bone Marrow Transplantation/IM; Graft vs Host Reaction/*IM; Immunosuppression/*; Leukocyte Culture Test, Mixed; Mice; Mice, Inbred DBA; Mice, Inbred Strains; Spleen/TR; Support, Non-U.S. Gov't; Suppressor Cells/IM; T-Lymphocytes/*IM.\r", 
+  ".A": [
+   "Halle-Pannenko", 
+   "Bruley-Rosset", 
+   "Pritchard"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):549-50\r", 
+  ".T": "Veto cells are not responsible for alloimmunization-induced abrogation of lethal graft-versus-host reaction.\r", 
+  ".U": "90327469\r"
+ }, 
+ {
+  ".I": "273884", 
+  ".M": "Animal; Antigens, CD4/*IM; Cell Separation; Graft Rejection/*IM; Immunization, Passive; Rats; Rats, Inbred Strains; Spleen/*TR; Support, Non-U.S. Gov't; Suppressor Cells/CY/*IM; T-Lymphocytes/CY/*IM; Transplantation, Homologous.\r", 
+  ".A": [
+   "Duncan", 
+   "Bitter-Suermann", 
+   "Stepkowski"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):551-2\r", 
+  ".T": "W3/25+ and OX8+ T suppressor cells are required to maintain transplantation tolerance.\r", 
+  ".U": "90327470\r"
+ }, 
+ {
+  ".I": "273885", 
+  ".M": "Animal; Animals, Newborn; Bone Marrow Transplantation/IM; Immune Tolerance; Immunosuppression/*; Mice; Rats; Skin Transplantation/*IM; Suppressor Cells/*IM; T-Lymphocytes/IM/TR; Transplantation, Heterologous; Transplantation, Homologous.\r", 
+  ".A": [
+   "Holan", 
+   "Mazur-Kolecka", 
+   "Stedra", 
+   "Vancatova", 
+   "Skowron-Cendrzak"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):553\r", 
+  ".T": "Regulation of neonatal transplantation tolerance induction by natural suppressor and contrasuppressor cells.\r", 
+  ".U": "90327471\r"
+ }, 
+ {
+  ".I": "273886", 
+  ".M": "Animal; Antibody-Dependent Cell Cytotoxicity/*; Cells, Cultured; Female; Fetus/*IM; H-2 Antigens/IM; Haplotypes; Immunity, Cellular/*; Mice; Mice, Inbred Strains; Models, Biological; Placenta/*IM; Pregnancy; Support, U.S. Gov't, P.H.S.; T-Lymphocytes, Cytotoxic/*IM; Transplantation, Homologous; Trophoblast/*IM.\r", 
+  ".A": [
+   "Zuckermann", 
+   "Head"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):554-6\r", 
+  ".T": "Possible mechanism of non-rejection of the feto-placental allograft: trophoblast resistance to lysis by cellular immune effectors.\r", 
+  ".U": "90327472\r"
+ }, 
+ {
+  ".I": "273887", 
+  ".M": "Animal; Female; Fetus/*IM; Gestational Age; Histocompatibility Antigens/*AN; Histocompatibility Antigens Class I/*AN; Immunoglobulins, Fab; Placenta/*IM; Pregnancy; Pregnancy Proteins/*AN; Rats; Rats, Inbred WF; Skin Transplantation/IM; Support, U.S. Gov't, P.H.S.; Transplantation, Homologous.\r", 
+  ".A": [
+   "Ho", 
+   "Macpherson", 
+   "Kunz", 
+   "Gill"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):557-8\r", 
+  ".T": "Localization of the pregnancy-associated and the class I transplantation antigens on the placenta and fetus.\r", 
+  ".U": "90327473\r"
+ }, 
+ {
+  ".I": "273888", 
+  ".M": "Animal; Blood Transfusion/*; Graft Rejection/IM; Immunization, Passive; Immunosuppression/*; Liver Transplantation/*IM; Lymphocytes/*IM; Rats; Rats, Inbred Strains; Skin Transplantation/*IM; Transplantation, Homologous.\r", 
+  ".A": [
+   "Shinomiya", 
+   "Kamada"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):558-9\r", 
+  ".T": "Suppression of specific allograft reactivity of normal rat lymphocytes by treatment in vitro with serum from liver-grafted rats.\r", 
+  ".U": "90327474\r"
+ }, 
+ {
+  ".I": "273889", 
+  ".M": "Animal; Blotting, Northern; Female; Gene Expression Regulation; Genes, MHC Class I; Histocompatibility Antigens/AN/*GE; Nucleic Acid Hybridization; Placenta/*IM; Pregnancy; Pregnancy Proteins/AN/*GE; Pregnancy, Animal/*IM; Rats; Rats, Inbred Strains; Support, U.S. Gov't, P.H.S..\r", 
+  ".A": [
+   "Stranick", 
+   "Ho", 
+   "Locker", 
+   "Kunz", 
+   "Gill"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):559\r", 
+  ".T": "Regulation of major histocompatibility complex antigen expression during pregnancy.\r", 
+  ".U": "90327475\r"
+ }, 
+ {
+  ".I": "273890", 
+  ".M": "Animal; Dendritic Cells/*CY; Female; Histocompatibility Antigens Class II/AN; Pregnancy; Pregnancy, Animal/*IM; Rats; Rats, Inbred Strains; Reference Values; Support, U.S. Gov't, P.H.S.; Uterus/CY/*IM.\r", 
+  ".A": [
+   "Head", 
+   "Miller", 
+   "Kresge"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):565-6\r", 
+  ".T": "Dendritic accessory cells in the pregnant and nonpregnant rat uterus.\r", 
+  ".U": "90327476\r"
+ }, 
+ {
+  ".I": "273891", 
+  ".M": "Animal; Antibody Formation; Blood Transfusion; Cross Reactions; Crosses, Genetic; Erythrocytes/IM/*TR; Female; Isoantibodies/AN/*IM; Pregnancy; Pregnancy, Animal/*IM; Rats; Rats, Inbred Strains; Support, Non-U.S. Gov't.\r", 
+  ".A": [
+   "Cunningham", 
+   "Power", 
+   "Catto"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):567\r", 
+  ".T": "Effect of a single allogeneic pregnancy on the alloantibody response to a subsequent transfusion in rats.\r", 
+  ".U": "90327477\r"
+ }, 
+ {
+  ".I": "273892", 
+  ".M": "Animal; Blood Transfusion/*; Graft Rejection/*IM; Heart Transplantation/*IM; Histocompatibility Antigens Class I/IM; Histocompatibility Antigens Class II/IM; Liver Transplantation/*IM; Rats; Rats, Inbred Strains; Transplantation, Homologous.\r", 
+  ".A": [
+   "Kamada", 
+   "Shinomiya", 
+   "Tamaki"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):570-1\r", 
+  ".T": "Specific inhibition of heart allograft rejection by serum from liver-grafted rats.\r", 
+  ".U": "90327478\r"
+ }, 
+ {
+  ".I": "273893", 
+  ".M": "Animal; Antilymphocyte Serum/*TU; Bone Marrow Transplantation/*; Graft Survival/*; Immunosuppression; Rats; Rats, Inbred F344; Rats, Inbred WKY; Skin Transplantation/*; Time Factors.\r", 
+  ".A": [
+   "Sato", 
+   "Amada", 
+   "Fujimori", 
+   "Sawada", 
+   "Satake", 
+   "Taguchi", 
+   "Kasai"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):578\r", 
+  ".T": "Effect of antilymphocyte serum-treated bone marrow on skin graft survival in rats.\r", 
+  ".U": "90327480\r"
+ }, 
+ {
+  ".I": "273894", 
+  ".M": "Animal; Antibodies, Monoclonal/*TU; Graft Rejection/*/IM; Heart Transplantation/*/IM; Helper Cells/IM; Immunosuppression/*; Interleukin-2/BI; Interleukin-3/BI; Mice; Rats; Rats, Inbred Strains; Receptors, Interleukin-2/*IM; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S.; Suppressor Cells/IM; Transplantation, Homologous.\r", 
+  ".A": [
+   "Kupiec-Weglinski", 
+   "Padberg", 
+   "Uhteg", 
+   "Towpik", 
+   "Lord", 
+   "Ma", 
+   "Diamantstein", 
+   "Strom", 
+   "Tilney"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):591-3\r", 
+  ".T": "Anti-interleukin-2 receptor (IL-2R) antibody against rejection of organ grafts.\r", 
+  ".U": "90327481\r"
+ }, 
+ {
+  ".I": "273895", 
+  ".M": "Animal; Antibodies, Monoclonal/TU; Bismuth/*TU; Immunotoxins/*TU; Lymphoma/IM/RT/*TH; Neoplasm Transplantation; Radioisotopes/*TU; Rats; Rats, Inbred BN; Transplantation, Homologous.\r", 
+  ".A": [
+   "Stuart", 
+   "Perdrizet", 
+   "Steranka", 
+   "Buckingham", 
+   "Lopes", 
+   "Alvarez", 
+   "Rodwell", 
+   "McKearn", 
+   "Hines", 
+   "Atcher", 
+   "et"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):605-6\r", 
+  ".T": "Specific destruction of allogeneic tumor cells in vivo by a bismuth-212 immunotoxin.\r", 
+  ".U": "90327482\r"
+ }, 
+ {
+  ".I": "273896", 
+  ".M": "Animal; Antibodies, Monoclonal/CL/*IP; Ascites/IM; Cell Line; Chromatography, Gel/MT; Electrophoresis, Disc/MT; Enzyme-Linked Immunosorbent Assay; Hybridomas/IM; IgG/CL/*IP; Mice; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S..\r", 
+  ".A": [
+   "Cheng", 
+   "Morris"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):607-9\r", 
+  ".T": "A new, rapid, high-capacity chromatographic purification of IgG 1 monoclonal antibodies directly from mouse ascites fluid.\r", 
+  ".U": "90327483\r"
+ }, 
+ {
+  ".I": "273897", 
+  ".M": "Antibodies, Monoclonal/IM/*IP; B-Lymphocytes; Cell Line; Cell Transformation, Viral; Clone Cells; Cytotoxicity, Immunologic; Epstein-Barr Virus/GE; Human; Hybridomas/IM; Tumor Cells, Cultured/IM.\r", 
+  ".A": [
+   "Tsuji", 
+   "Ikewaki", 
+   "Matsuno"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):610-1\r", 
+  ".T": "Human monoclonal antibody by an established human-human hybridoma.\r", 
+  ".U": "90327484\r"
+ }, 
+ {
+  ".I": "273898", 
+  ".M": "Animal; Antibodies, Monoclonal/IM/*TU; Antigenic Determinants/AN; Dogs; Graft Rejection; Immunosuppression/*; Kidney Transplantation/*IM/PH; Leukocyte Count; Lymphocytes/IM; Mice; Support, U.S. Gov't, Non-P.H.S.; Support, U.S. Gov't, P.H.S.; Transplantation, Homologous.\r", 
+  ".A": [
+   "Carreno", 
+   "Esquenazi", 
+   "Olson", 
+   "Fuller", 
+   "Alejandro", 
+   "Milgrom", 
+   "Miller"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):612-4\r", 
+  ".T": "Comparison of two monoclonal antibodies affecting canine transplantation reactions.\r", 
+  ".U": "90327485\r"
+ }, 
+ {
+  ".I": "273899", 
+  ".M": "Animal; Antibodies, Monoclonal/*TU; Antigens, Differentiation, T-Lymphocyte/*IM; Complement/*IM; Complement 5/DF; Hypersensitivity, Delayed; Immunosuppression/*; Lymphocyte Transformation; Mice; Mice, Inbred A; Mice, Inbred BALB C; Mice, Inbred DBA; Receptors, Interleukin-2/*IM; Spleen/IM; Support, U.S. Gov't, P.H.S.; T-Lymphocytes/IM.\r", 
+  ".A": [
+   "Kelley", 
+   "Strom"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9011; 19(1 Pt 1):617\r", 
+  ".T": "Immunosuppression by anti-interleukin-2 receptor antibody but not anti-L3T4 requires terminal complement components.\r", 
+  ".U": "90327487\r"
+ }
+]

@@ -1,0 +1,3229 @@
+[
+ {
+  ".I": "33000", 
+  ".M": "Hallucinations/*PX; Human; Voice/*.\r", 
+  ".A": [
+   "Deahl"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8536):812\r", 
+  ".T": "Do patients see visions that talk? [letter]\r", 
+  ".U": "87171795\r"
+ }, 
+ {
+  ".I": "33001", 
+  ".M": "Analysis of Variance; Cholesterol/BL; Coronary Disease/*BL; Female; Human; Male; Middle Age; Risk.\r", 
+  ".A": [
+   "Kirkup"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8536):812-3\r", 
+  ".T": "Combined risk factors and coronary heart disease [letter]\r", 
+  ".U": "87171797\r"
+ }, 
+ {
+  ".I": "33002", 
+  ".M": "Adult; Cerebrospinal Fluid/*AN/CY; Diagnostic Tests, Routine/*MT; Human; Leukocyte Count; Meningitis/DI.\r", 
+  ".A": [
+   "Hayward", 
+   "Shapiro", 
+   "Oye"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8536):813\r", 
+  ".T": "Laboratory testing on cerebrospinal fluid [letter]\r", 
+  ".U": "87171798\r"
+ }, 
+ {
+  ".I": "33003", 
+  ".M": "Body Height; Body Weight; Female; Human; Male; Nutritional Status/*; Statistics.\r", 
+  ".A": [
+   "Evans", 
+   "Day"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8536):813-4\r", 
+  ".T": "Measures of nutrition [letter]\r", 
+  ".U": "87171799\r"
+ }, 
+ {
+  ".I": "33004", 
+  ".M": "Androgens/*AE; Animal; Human; Male; Meat/*AE; Meat-Packing Industry; Occupational Diseases/*CI; Prostatic Neoplasms/*CI.\r", 
+  ".A": [
+   "Johnson"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8536):814\r", 
+  ".T": "Prostate cancer and androgens [letter] [published erratum appears in Lancet 1987 Apr 25;1(8539):994]\r", 
+  ".U": "87171800\r"
+ }, 
+ {
+  ".I": "33005", 
+  ".M": "Adult; Haloperidol/*BL/TU; Human; Schizophrenia/*DT.\r", 
+  ".A": [
+   "Altamura", 
+   "Mauri", 
+   "Cavallaro", 
+   "Gorni"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8536):814-5\r", 
+  ".T": "Haloperidol metabolism and antipsychotic effect in schizophrenia [letter]\r", 
+  ".U": "87171801\r"
+ }, 
+ {
+  ".I": "33006", 
+  ".M": "Adult; Aged; Aged, 80 and over; Creatinine/*UR; Female; Glomerular Filtration Rate; Human; Middle Age; Probability.\r", 
+  ".A": [
+   "Bliss", 
+   "Vellupillai", 
+   "Julian", 
+   "Shaw", 
+   "Thomas"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8536):815\r", 
+  ".T": "Measured and predicted creatinine clearance [letter]\r", 
+  ".U": "87171802\r"
+ }, 
+ {
+  ".I": "33007", 
+  ".M": "Acute Disease; Delta Agent/IM; Delta Infection/*IM; Hepatitis B Antigens/AN; Human; IgM/AN.\r", 
+  ".A": [
+   "Buti", 
+   "Esteban", 
+   "Jardi", 
+   "Esteban", 
+   "Guardia"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8536):815\r", 
+  ".T": "Serological markers for delta hepatitis [letter]\r", 
+  ".U": "87171803\r"
+ }, 
+ {
+  ".I": "33008", 
+  ".M": "Adoption/*; Child Welfare/*LJ; Female; Great Britain; Human; Infant Welfare/*LJ; Infant, Newborn; Male; Mothers/*PX; Pregnancy; Surrogate Mothers/*PX.\r", 
+  ".A": [
+   "Brahams"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Lancet 8707; 1(8536):817\r", 
+  ".T": "Surrogacy, adoption, and custody.\r", 
+  ".U": "87171804\r"
+ }, 
+ {
+  ".I": "33009", 
+  ".M": "Body Height; Body Weight; Comparative Study; Coronary Disease/EP/*ET; Follow-Up Studies; Hawaii; Human; Japan/EH; Male; Obesity/*CO/EP; Risk; Skinfold Thickness.\r", 
+  ".A": [
+   "Donahue", 
+   "Abbott", 
+   "Bloom", 
+   "Reed", 
+   "Yano"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Lancet 8707; 1(8537):821-4\r", 
+  ".T": "Central obesity and coronary heart disease in men.\r", 
+  ".U": "87171805\r", 
+  ".W": "The relation between central body fat distribution, determined by measurement of subscapular skinfold thickness (SSF), and the development of definite coronary heart disease (CHD) was examined after 12 years of follow-up in a cohort of 7692 men who participated in the Honolulu Heart Program. The risk of incident coronary events was directly related to SSF. Compared with men in the lowest tertile of SSF, those in the middle tertile experienced a 70% excess of definite CHD. For those in the highest tertile, the excess more than doubled. For a given level of body mass index (BMI), SSF remains a significant and independent predictor of definite CHD, even after adjustment for age, total cholesterol, glucose, triglycerides, hypertensive status, and cigarette smoking. In contrast, the independent effect of BMI was not significant after adjustment for SSF. Thus centrally obese individuals are at increased risk of CHD, independent of BMI.\r"
+ }, 
+ {
+  ".I": "33010", 
+  ".M": "Adult; Case Report; Comparative Study; Cystadenoma/*BL; Female; Glycolipids/BL; Human; Lipoproteins/BL; Nuclear Magnetic Resonance/DU; Ovarian Neoplasms/*BL; Proteolipids/*BL; RNA, Messenger/AN; Spectrum Analysis.\r", 
+  ".A": [
+   "Mountford", 
+   "May", 
+   "Wright", 
+   "Mackinnon", 
+   "Dyne", 
+   "Holmes", 
+   "van", 
+   "Tattersall"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Lancet 8707; 1(8537):829-34\r", 
+  ".T": "Proteolipid identified by magnetic resonance spectroscopy in plasma of a patient with borderline ovarian tumour.\r", 
+  ".U": "87171809\r", 
+  ".W": "Magnetic resonance spectroscopy (MRS) can identify abnormal lipoproteins in the plasma of patients with premalignant and malignant tumours. Proteolipid complexes, 8-11 nm and 25-28 nm in size, were isolated from the plasma of a patient with a borderline ovarian tumour. These complexes, which generated a characteristically long MRS T2 relaxation value (greater than 400 ms), were disrupted by ribonuclease. None of the conventional lipoproteins had a T2 value above 160 ms. Chemical analysis of the proteolipid complexes showed a 20% glycolipid component, and MRS identified a fucosylated molecule as the origin of the long T2 value. 9 months after resection of all tumour, a visible lipoprotein band, possibly lipoprotein (a), persisted in the plasma but neither the long T2 relaxation value nor the 8-11 nm or 25-28 nm particles were present. The long T2 relaxation value in the MRS profile, found in isolated proteolipid and unfractionated plasma and serum of other patients with carcinoma of the ovary and colon, provides a non-invasive method of assaying for cancer.\r"
+ }, 
+ {
+  ".I": "33011", 
+  ".M": "Adult; Bile Acids and Salts/BL; Deoxycholic Acid/*AA; Drug Evaluation; Female; Follow-Up Studies; Human; Liver Cirrhosis, Biliary/*DT/PP; Liver Function Tests; Male; Middle Age; Pilot Projects; Prospective Studies; Pruritus/CI; Time Factors; Ursodeoxycholic Acid/AE/*TU.\r", 
+  ".A": [
+   "Poupon", 
+   "Chretien", 
+   "Poupon", 
+   "Ballet", 
+   "Calmus", 
+   "Darnis"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Lancet 8707; 1(8537):834-6\r", 
+  ".T": "Is ursodeoxycholic acid an effective treatment for primary biliary cirrhosis?\r", 
+  ".U": "87171810\r", 
+  ".W": "The effects of ursodeoxycholic acid (UDCA, 13-15 mg/kg body weight daily) were prospectively evaluated in fifteen patients with primary biliary cirrhosis (PBC). The mean concentration of UDCA in serum expressed as the percentage of total bile acids rose from 0% at baseline to 58% (SEM 9%) after 2 years' treatment, whereas total serum bile acid levels did not change significantly. The proportion of patients with pruritus necessitating the use of cholestyramine was significantly lower at 2 years than at baseline. Standard liver function tests improved in all the patients. At 2 years the average activities of gamma-glutamyltranspeptidase, alkaline phosphatases, and alanine aminotransferase and bilirubin levels were reduced (respectively 78%, 65%, 68%, and 36% of pretreatment values). In three patients who agreed to interrupt the ingestion of UDCA for 3 months after 2 years' treatment there was clear deterioration in liver function tests, which again improved after reinstitution of UDCA. These results suggest that long-term UDCA might be a safe and effective treatment for PBC, but a randomised, controlled, double-blind trial is urgently needed.\r"
+ }, 
+ {
+  ".I": "33012", 
+  ".M": "Aged; Evaluation Studies; Female; Fiber Optics; Heart Catheterization/*IS; Human; Male; Middle Age; Transducers, Pressure.\r", 
+  ".A": [
+   "Petch", 
+   "Taylor", 
+   "Wells"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Lancet 8707; 1(8537):836-7\r", 
+  ".T": "New fibreoptic cardiac catheter.\r", 
+  ".U": "87171811\r"
+ }, 
+ {
+  ".I": "33019", 
+  ".M": "Algorithms; Diagnosis/*; Education, Medical, Undergraduate; Philosophy, Medical; Problem Solving.\r", 
+  ".A": [
+   "Campbell"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Lancet 8707; 1(8537):849-51\r", 
+  ".T": "The diagnosing mind.\r", 
+  ".U": "87171819\r"
+ }, 
+ {
+  ".I": "33020", 
+  ".M": "Computers/*; Education, Medical/*; Education, Medical, Continuing; Education, Medical, Undergraduate; Technology, High-Cost.\r", 
+  ".A": [
+   "Golden", 
+   "Friedlander"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Lancet 8707; 1(8537):851-3\r", 
+  ".T": "Inverse technology and medical education.\r", 
+  ".U": "87171820\r"
+ }, 
+ {
+  ".I": "33021", 
+  ".M": "Adult; Asia; Child; Encephalitis Virus, Japanese/IM; Encephalitis, Japanese B/*PC; Female; Human; Immunization Schedule; Male; Pregnancy; Seasons; Support, Non-U.S. Gov't; Travel/*; Vaccination/*; Viral Vaccines/AD.\r", 
+  ".A": [
+   "Denning", 
+   "Kaneko"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Lancet 8707; 1(8537):853-4\r", 
+  ".T": "Should travellers to Asia be vaccinated against Japanese encephalitis?\r", 
+  ".U": "87171821\r"
+ }, 
+ {
+  ".I": "33022", 
+  ".M": "Adolescence; Adult; Aged; Child; Child, Preschool; Comparative Study; England; Human; Infant; Infant, Newborn; Middle Age; Neoplasms/*EP/MO; Nuclear Reactors/*; Wales.\r", 
+  ".A": [
+   "Cook-Mozaffari"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8537):855-6\r", 
+  ".T": "Cancer near nuclear installations [letter]\r", 
+  ".U": "87171822\r"
+ }, 
+ {
+  ".I": "33023", 
+  ".M": "Accidents, Occupational; Air Pollution, Radioactive/*AE; Europe; Human; Neoplasms/*EP; Nuclear Reactors; Ukraine.\r", 
+  ".A": [
+   "Jones"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8537):856\r", 
+  ".T": "Chernobyl and cancer epidemiology [letter]\r", 
+  ".U": "87171823\r"
+ }, 
+ {
+  ".I": "33024", 
+  ".M": "Blood/*; Evaluation Studies; Headache/ET/*PC; Human; Injections, Epidural; Spinal Puncture/*AE.\r", 
+  ".A": [
+   "Berrettini", 
+   "Simmons-Alling", 
+   "Nurnberger"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8537):856-7\r", 
+  ".T": "Epidural blood patch does not prevent headache after lumbar puncture [letter]\r", 
+  ".U": "87171824\r"
+ }, 
+ {
+  ".I": "33025", 
+  ".M": "Acupuncture/*; Asthma/*TH; Asthma, Exercise-Induced/*TH; Child; Human.\r", 
+  ".A": [
+   "Fung"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8537):857\r", 
+  ".T": "Acupuncture and asthma [letter]\r", 
+  ".U": "87171825\r"
+ }, 
+ {
+  ".I": "33026", 
+  ".M": "Adult; Case Report; Human; Male; Rhabdomyolysis/*ET; Running/*.\r", 
+  ".A": [
+   "Lonka", 
+   "Pedersen"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8537):857-8\r", 
+  ".T": "Fatal rhabdomyolysis in marathon runner [letter]\r", 
+  ".U": "87171826\r"
+ }, 
+ {
+  ".I": "33027", 
+  ".M": "Female; Human; Luteal Phase; Menstruation Disorders/*DI; Nomenclature; Prejudice/*.\r", 
+  ".A": [
+   "Abraham", 
+   "Llewellyn-Jones"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8537):858\r", 
+  ".T": "A sexist diagnosis [letter]\r", 
+  ".U": "87171827\r"
+ }, 
+ {
+  ".I": "33028", 
+  ".M": "Health Services Accessibility/*TD; Human; London; Mortality/*.\r", 
+  ".A": [
+   "Charlton", 
+   "Holland", 
+   "Lakhani", 
+   "Paul"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8537):858\r", 
+  ".T": "Variations in avoidable mortality and variations in health care [letter]\r", 
+  ".U": "87171829\r"
+ }, 
+ {
+  ".I": "33029", 
+  ".M": "Cefazolin/*TU; Follow-Up Studies; Hip/*SU; Hip Prosthesis/*; Human; Premedication/*; Surgical Wound Infection/*PC; Time Factors.\r", 
+  ".A": [
+   "Doyon", 
+   "Evrard", 
+   "Mazas", 
+   "Hill"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8537):860\r", 
+  ".T": "Long-term results of prophylactic cefazolin versus placebo in total hip replacement [letter]\r", 
+  ".U": "87171832\r"
+ }, 
+ {
+  ".I": "33030", 
+  ".M": "Case Report; Diagnosis, Differential; Facial Paralysis/*DI; Female; Human; Male; Middle Age; Tobacco/*; Tobacco, Smokeless/*.\r", 
+  ".A": [
+   "Linzer", 
+   "Miller"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8537):860\r", 
+  ".T": "Tobacco chewer's pseudopalsy [letter]\r", 
+  ".U": "87171833\r"
+ }, 
+ {
+  ".I": "33032", 
+  ".M": "Aged; Aminoacridines/*TU; Anesthesia, General/*AE; Cognition Disorders/*CI; Confusion/*CI; Drug Interactions; Human; Middle Age; Parasympatholytics/*AE; Syndrome; Tacrine/*TU.\r", 
+  ".A": [
+   "Hannington-Kiff"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8537):862\r", 
+  ".T": "Tetrahydroaminoacridine and the central anticholinergic syndrome [letter]\r", 
+  ".U": "87171837\r"
+ }, 
+ {
+  ".I": "33033", 
+  ".M": "Adipose Tissue/*AN; Chromatography, Gas; Female; Human; Male; 5,8,11,14,17-Eicosapentaenoic Acid/*AN.\r", 
+  ".A": [
+   "Katan", 
+   "van"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8537):862-3\r", 
+  ".T": "Eicosapentaenoic acid in fat [letter]\r", 
+  ".U": "87171838\r"
+ }, 
+ {
+  ".I": "33034", 
+  ".M": "Backache/*ET; Human; Male; Neoplasms, Embryonal and Mixed/*CO; Testicular Neoplasms/*CO.\r", 
+  ".A": [
+   "Woll", 
+   "Rankin"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8537):863\r", 
+  ".T": "Back pain and testicular germ cell tumours [letter]\r", 
+  ".U": "87171839\r"
+ }, 
+ {
+  ".I": "33035", 
+  ".M": "Adult; Anabolic Steroids/*AE; Body Constitution/*; Case Report; Female; Follow-Up Studies; Human; Male; Psychoses, Substance-Induced/*ET.\r", 
+  ".A": [
+   "Pope", 
+   "Katz"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8537):863\r", 
+  ".T": "Bodybuilder's psychosis [letter]\r", 
+  ".U": "87171840\r"
+ }, 
+ {
+  ".I": "33037", 
+  ".M": "England; Medical Records/*ST; Patient Care Team/*; Pilot Projects.\r", 
+  ".A": [
+   "Barber", 
+   "McKeever", 
+   "Tyas"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8537):865\r", 
+  ".T": "Shared records and patient care [letter]\r", 
+  ".U": "87171842\r"
+ }, 
+ {
+  ".I": "33038", 
+  ".M": "Education, Medical, Undergraduate/*MA; England; Medical Staff, Hospital/*SD.\r", 
+  ".A": [
+   "Scott"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8537):865\r", 
+  ".T": "Student numbers and manpower [letter]\r", 
+  ".U": "87171843\r"
+ }, 
+ {
+  ".I": "33039", 
+  ".M": "Blood Pressure/*; Comparative Study; Female; Heart Diseases/*PP; Human; Male; Prognosis.\r", 
+  ".A": [
+   "Coope"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8537):865-6\r", 
+  ".T": "Heart attacks and lowered blood pressure [letter]\r", 
+  ".U": "87171844\r"
+ }, 
+ {
+  ".I": "33041", 
+  ".M": "Adult; Amniocentesis/*AE; Case Report; Chorionic Villi/*PA; Female; Human; Pregnancy; Prenatal Diagnosis/*; Shock, Septic/*ET.\r", 
+  ".A": [
+   "Muggah", 
+   "D'Alton", 
+   "Hunter"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8537):867-8\r", 
+  ".T": "Chorionic villus sampling followed by genetic amniocentesis and septic shock [letter]\r", 
+  ".U": "87171848\r"
+ }, 
+ {
+  ".I": "33042", 
+  ".M": "Adult; Female; Hemoglobinuria, Paroxysmal/*CO; Human; Infant, Newborn; Pregnancy; Pregnancy Complications, Hematologic/*.\r", 
+  ".A": [
+   "De", 
+   "Krulik", 
+   "Debray"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8537):868\r", 
+  ".T": "Paroxysmal nocturnal haemoglobinuria and pregnancy [letter]\r", 
+  ".U": "87171849\r"
+ }, 
+ {
+  ".I": "33043", 
+  ".M": "Human; Methysergide/*AE; Retroperitoneal Fibrosis/*CI.\r", 
+  ".A": [
+   "Mitchinson"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8537):870\r", 
+  ".T": "Methysergide and retroperitoneal fibrosis [letter]\r", 
+  ".U": "87171853\r"
+ }, 
+ {
+  ".I": "33044", 
+  ".M": "Australia; Colonic Neoplasms/*GE; Female; Human; Male; Marriage; Rectal Neoplasms/*GE; Risk.\r", 
+  ".A": [
+   "Kune", 
+   "Kune", 
+   "Watson"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8537):870-1\r", 
+  ".T": "Colorectal cancer in spouses of colorectal cancer patients and controls [letter]\r", 
+  ".U": "87171854\r"
+ }, 
+ {
+  ".I": "33045", 
+  ".M": "Aged; Coronary Disease/*DI; Death, Sudden; Human.\r", 
+  ".A": [
+   "Fry"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8537):871\r", 
+  ".T": "Diagnosis of coronary heart disease [letter]\r", 
+  ".U": "87171855\r"
+ }, 
+ {
+  ".I": "33046", 
+  ".M": "Automobile Driving/*; Human; Hypersensitivity/*ET; Seasons.\r", 
+  ".A": [
+   "Nobel"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8537):872\r", 
+  ".T": "Convertible automobile touring and seasonal allergies [letter]\r", 
+  ".U": "87171857\r"
+ }, 
+ {
+  ".I": "33047", 
+  ".M": "Deafness/*CI; Drug Information Services/*; Enalapril/*AE; Human; International Cooperation; Prescriptions, Drug.\r", 
+  ".A": [
+   "Inman", 
+   "Rawson"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8537):872\r", 
+  ".T": "Deafness with enalapril and prescription event monitoring [letter]\r", 
+  ".U": "87171858\r"
+ }, 
+ {
+  ".I": "33048", 
+  ".M": "Case Report; Chronic Disease; Cough/CI/*DT; Female; Human; Indenes/*TU; Kininase II/*AE; Middle Age; Sulindac/*TU.\r", 
+  ".A": [
+   "Nicholls", 
+   "Gilchrist"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8537):872\r", 
+  ".T": "Sulindac and cough induced by converting enzyme inhibitors [letter]\r", 
+  ".U": "87171859\r"
+ }, 
+ {
+  ".I": "33049", 
+  ".M": "Case Report; Female; Human; Infant; Literature, Modern/*; Medicine in Literature/*; Thallium/*PO.\r", 
+  ".A": [
+   "Robb-Smith"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8537):872\r", 
+  ".T": "Thallium and A Pale Horse [letter]\r", 
+  ".U": "87171860\r"
+ }, 
+ {
+  ".I": "33050", 
+  ".M": "Accidents, Traffic; Adult; Behavior/DE; Case Report; Crime/*; Diazepam/AE; Drug Therapy/*AE; Female; Forensic Medicine; Great Britain; Homicide; Human; Infanticide; Lorazepam/AE; Male; Middle Age; Plants, Medicinal; Violence.\r", 
+  ".A": [
+   "Brahams"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Lancet 8707; 1(8537):874-5\r", 
+  ".T": "Iatrogenic crime: criminal behaviour in patients receiving drug treatment.\r", 
+  ".U": "87171861\r"
+ }, 
+ {
+  ".I": "33051", 
+  ".M": "Adult; Aged; Celiac Disease/DH/*IM; Cell Migration Inhibition; Dose-Response Relationship, Immunologic; Female; Gliadin/CS/*IM; Human; HLA Antigens/AN; Leukocytes/*IM; Male; Middle Age; Oncogene Proteins, Viral/*IM; Peptide Fragments/CS/*IM; Plant Proteins/*IM; Support, Non-U.S. Gov't.\r", 
+  ".A": [
+   "Karagiannis", 
+   "Priddle", 
+   "Jewell"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Lancet 8707; 1(8538):884-6\r", 
+  ".T": "Cell-mediated immunity to a synthetic gliadin peptide resembling a sequence from adenovirus 12.\r", 
+  ".U": "87171864\r", 
+  ".W": "Cell-mediated immunity to a synthetic peptide, which has a 12-residue sequence from A-gliadin analogous to part of an early-region protein (Elb) from adenovirus 12, was investigated in patients with coeliac disease, healthy subjects, and disease controls by means of an indirect leucocyte-migration-inhibition assay. Patients with coeliac disease being treated with a gluten-free diet showed a significantly greater response than healthy subjects (p less than 0.001) or patients with inflammatory bowel disease. This cellular immune response was dependent on antigen concentration and was not present in untreated coeliac patients.\r"
+ }, 
+ {
+  ".I": "33052", 
+  ".M": "Aged; Carotid Artery Diseases/*CO; Cerebral Ischemia, Transient/EP/ET; Cerebrovascular Disorders/EP/*ET/MO; Constriction, Pathologic; Female; Follow-Up Studies; Human; Male; Middle Age; Risk.\r", 
+  ".A": [
+   "Autret", 
+   "Pourcelot", 
+   "Saudeau", 
+   "Marchal", 
+   "Bertrand", 
+   "de"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Lancet 8707; 1(8538):888-90\r", 
+  ".T": "Stroke risk in patients with carotid stenosis.\r", 
+  ".U": "87171866\r", 
+  ".W": "In 242 neurologically symptomless patients with at least one non-occlusive carotid stenosis on ultrasonography (continuous wave doppler and echotomography-B mode imaging) 171 carotids showed 0-50% stenosis, 150 showed 50-75% stenosis, and 78 showed more than 75% stenosis. The mean follow-up was 29.4 months, with stroke and death as end points. Of the 56 deaths 2 were causally linked to a stroke (crude annual mortality index 9.57%). Of the 10 strokes 7 were judged to be infarctions in carotid territory. 7 out of 20 patients with transient ischaemic attacks (TIA) had ischaemic symptoms definitely related to carotid territory. The crude annual indices of specific stroke or TIA were 0.45% for nonstenotic carotid, 0.23% for 0-50% stenosis, 2.48% for 50-75% stenosis, and 1.71% for 75-99% stenosis. Stenoses of greater than 50% were associated with more ischaemic events than were lesser degrees of narrowing (p less than 0.01).\r"
+ }, 
+ {
+  ".I": "33053", 
+  ".M": "Equipment and Supplies; Gastroesophageal Reflux/*NU; Human; Infant; Infant Care/*; Infant, Newborn; Posture.\r", 
+  ".A": [
+   "McKenzie", 
+   "Pike"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Lancet 8707; 1(8538):895-6\r", 
+  ".T": "Portable unit for nursing infants in the prone position.\r", 
+  ".U": "87171869\r"
+ }, 
+ {
+  ".I": "33058", 
+  ".M": "Adrenal Cortex Hormones/AD/*AE; Human; Osteonecrosis/*CI/EP; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S..\r", 
+  ".A": [
+   "Felson", 
+   "Anderson"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Lancet 8707; 1(8538):902-6\r", 
+  ".T": "Across-study evaluation of association between steroid dose and bolus steroids and avascular necrosis of bone.\r", 
+  ".U": "87171874\r", 
+  ".W": "Studies investigating steroid dose and avascular necrosis of bone (AVN) have found either a weak association or none at all. This quantitative review of published studies has evaluated the effects of steroid dose and bolus steroids on the risk of AVN. 22 papers with sufficient information for analysis were identified. The mean steroid dose for the cohort was plotted against the percentage in whom AVN developed. Total dose was divided into non-bolus (oral) and bolus dose, and doses 1, 3, 6, and 12 months after beginning steroids were tested separately for their association with AVN risk. There was a strong correlation between daily total dose and AVN rate (r = 0.61-0.80). Oral dose was strongly correlated with AVN rate (r = 0.70-0.86), but bolus dose was not associated with AVN risk. This strong association between AVN and steroid dose contrasts with the weak relations found in case-control studies from individual centres in which cases and controls received similar steroid regimens and therefore did not differ greatly in steroid dose. The method of deriving a single exposure level per study and comparing the amount of exposure across studies may be useful in assessing whether a drug's toxicity is dose dependent.\r"
+ }, 
+ {
+  ".I": "33059", 
+  ".M": "Aged; Aged, 80 and over; Aorta, Abdominal; Aortic Aneurysm/PA/*SU; Aortic Rupture/EP/MO; Human; Male; Middle Age.\r", 
+  ".A": [
+   "Collin"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Lancet 8707; 1(8538):909\r", 
+  ".T": "Elective surgery for small abdominal aortic aneurysms.\r", 
+  ".U": "87171876\r"
+ }, 
+ {
+  ".I": "33060", 
+  ".M": "Adenocarcinoma/*DI; Adult; Aged; Case Report; Danazol/*AE/PD; Estrogens/PH; Female; Human; Pregnadienes/*AE; Tamoxifen/*AE/PD; Vaginal Neoplasms/*CI.\r", 
+  ".A": [
+   "Sagar"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8538):913\r", 
+  ".T": "Oestrogen modulators and clear cell carcinoma of vagina [letter]\r", 
+  ".U": "87171879\r"
+ }, 
+ {
+  ".I": "33061", 
+  ".M": "Adult; Aged; Bone Marrow/*DE; Breast Neoplasms/*DT; Case Report; Female; Human; Methotrexate/AD/AE; Middle Age; Mitomycins/AD/AE; Mitoxantrone/AD/AE.\r", 
+  ".A": [
+   "Marks", 
+   "Goodman", 
+   "Dougherty", 
+   "Ashford"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8538):915\r", 
+  ".T": "Myelosuppression after methotrexate, mitozantrone, and mitomycin C for treatment of advanced breast cancer [letter]\r", 
+  ".U": "87171882\r"
+ }, 
+ {
+  ".I": "33063", 
+  ".M": "Adult; Case Report; Fallopian Tubes/*; Female; Human; Infertility, Female/*TH; Insemination, Artificial/*; Methods; Middle Age; Ovum/*; Pregnancy.\r", 
+  ".A": [
+   "Craft", 
+   "Brinsden", 
+   "Simons", 
+   "Lewis", 
+   "Ah", 
+   "Hansen", 
+   "Robertson", 
+   "Serhal"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8538):916-7\r", 
+  ".T": "Successful births after ovum donation [letter]\r", 
+  ".U": "87171885\r"
+ }, 
+ {
+  ".I": "33064", 
+  ".M": "Hodgkin's Disease/*TH; Human; Medical Oncology.\r", 
+  ".A": [
+   "Rosenfelt", 
+   "Rosenbloom"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8538):917\r", 
+  ".T": "Who should treat Hodgkin's disease? [letter]\r", 
+  ".U": "87171888\r"
+ }, 
+ {
+  ".I": "33066", 
+  ".M": "Acquired Immunodeficiency Syndrome/*EP/TM; Adolescence; Adult; Female; Hepatitis B/*EP/TM; Human; Injections; Male; Scotland; Substance Abuse/*CO/EP.\r", 
+  ".A": [
+   "Follett", 
+   "Wallace", 
+   "McCruden"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8538):920\r", 
+  ".T": "HIV and HBV infection in drug abusers in Glasgow [letter]\r", 
+  ".U": "87171891\r"
+ }, 
+ {
+  ".I": "33067", 
+  ".M": "Acquired Immunodeficiency Syndrome/*PC/TM; Human; Needles/*; Substance Abuse/*CO; Syringes/*.\r", 
+  ".A": [
+   "Cook"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8538):920-1\r", 
+  ".T": "Syringe exchange [letter]\r", 
+  ".U": "87171892\r"
+ }, 
+ {
+  ".I": "33068", 
+  ".M": "Acquired Immunodeficiency Syndrome/*CO; Africa; Human; Strongyloidiasis/*CO.\r", 
+  ".A": [
+   "Petithory", 
+   "Derouin"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8538):921\r", 
+  ".T": "AIDS and strongyloidiasis in Africa [letter]\r", 
+  ".U": "87171893\r"
+ }, 
+ {
+  ".I": "33069", 
+  ".M": "Child, Preschool; Human; Indium/DU; Infant; Radioisotopes/DU; Rhabdomyosarcoma/*RI.\r", 
+  ".A": [
+   "Hoefnagel", 
+   "Voute", 
+   "de", 
+   "Behrendt"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8538):921\r", 
+  ".T": "Scintigraphic detection of rhabdomyosarcoma [letter]\r", 
+  ".U": "87171894\r"
+ }, 
+ {
+  ".I": "33070", 
+  ".M": "Diabetic Nephropathies/*; Human; Kidney Failure, Chronic/*ET.\r", 
+  ".A": [
+   "Paterson", 
+   "Dornan"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8538):922\r", 
+  ".T": "Diabetics and renal failure [letter]\r", 
+  ".U": "87171896\r"
+ }, 
+ {
+  ".I": "33071", 
+  ".M": "Diabetes Mellitus, Insulin-Dependent/ME/*TH; Diabetic Nephropathies/*PC; Human.\r", 
+  ".A": [
+   "German", 
+   "Karam"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8538):922\r", 
+  ".T": "Strict metabolic control and progression of incipient diabetic nephropathy [letter]\r", 
+  ".U": "87171897\r"
+ }, 
+ {
+  ".I": "33072", 
+  ".M": "Absorption; Adult; Aged; Colitis, Ulcerative/*DT/ME; Enema/*; Female; Human; Hydrocortisone/*AA/AD/ME/TU; Male; Middle Age.\r", 
+  ".A": [
+   "Cann", 
+   "Holdsworth"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8538):922-3\r", 
+  ".T": "Systemic absorption from hydrocortisone foam enema in ulcerative colitis [letter]\r", 
+  ".U": "87171898\r"
+ }, 
+ {
+  ".I": "33073", 
+  ".M": "Anticoagulants/TU; Cerebral Angiography; Human; Sinus Thrombosis/*DT/RA.\r", 
+  ".A": [
+   "Bousser"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8538):923\r", 
+  ".T": "Dural sinus thrombosis [letter]\r", 
+  ".U": "87171899\r"
+ }, 
+ {
+  ".I": "33074", 
+  ".M": "Case Report; Catheters, Indwelling/*AE; Child; Female; Heart Catheterization/*AE; Human; Tachycardia/*ET.\r", 
+  ".A": [
+   "Spearing", 
+   "Mackie", 
+   "Wright"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8538):924\r", 
+  ".T": "Ventricular arrhythmias despite an apparently correctly placed Hickman-Broviac catheter [letter]\r", 
+  ".U": "87171901\r"
+ }, 
+ {
+  ".I": "33075", 
+  ".M": "Female; Hemorrhoids/*TH; Human; Ligation/AE; Male; Sciatica/*ET.\r", 
+  ".A": [
+   "Rabau", 
+   "Werbin", 
+   "Rabey"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8538):924-5\r", 
+  ".T": "Sciatic-like referred pain after rubberband haemorrhoidal ligation [letter]\r", 
+  ".U": "87171902\r"
+ }, 
+ {
+  ".I": "33076", 
+  ".M": "Alcoholic Beverages/*AE; Blood Pressure/*DE; Human; Hypertension/*ET.\r", 
+  ".A": [
+   "Maheswaran", 
+   "Gill", 
+   "Beevers"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8538):925\r", 
+  ".T": "Alcohol and hypertension [letter]\r", 
+  ".U": "87171903\r"
+ }, 
+ {
+  ".I": "33078", 
+  ".M": "Breast Feeding/*; Carbimazole/AN/*TU; Female; Human; Methimazole/BL; Milk, Human/AN.\r", 
+  ".A": [
+   "Rylance", 
+   "Woods", 
+   "Donnelly", 
+   "Oliver", 
+   "Alexander"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8538):928\r", 
+  ".T": "Carbimazole and breastfeeding [letter]\r", 
+  ".U": "87171906\r"
+ }, 
+ {
+  ".I": "33079", 
+  ".M": "Adult; Deferoxamine/TU; Female; Human; Iron/*ME; Yersinia/ME; Yersinia Infections/*PP.\r", 
+  ".A": [
+   "Hughes", 
+   "Keidan", 
+   "Janmohamed", 
+   "Leyland"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8538):929\r", 
+  ".T": "Yersinia and iron [letter]\r", 
+  ".U": "87171910\r"
+ }, 
+ {
+  ".I": "33080", 
+  ".M": "Adult; Aged; Aged, 80 and over; Aggression/*DE; Drug Therapy, Combination; Female; Human; Male; Trazodone/*AD; Tryptophan/*AD.\r", 
+  ".A": [
+   "Wilcock", 
+   "Stevens", 
+   "Perkins"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8538):929-30\r", 
+  ".T": "Trazodone/tryptophan for aggressive behaviour [letter]\r", 
+  ".U": "87171911\r"
+ }, 
+ {
+  ".I": "33081", 
+  ".M": "Adult; Aorta, Thoracic/PP; Blood Flow Velocity; Female; Fetal Anoxia/BL/TH; Fetal Blood/AN; Fetal Growth Retardation/BL/PP/*TH; Human; Infant, Newborn; Oxygen/BL; Oxygen Inhalation Therapy/*/MT; Pregnancy.\r", 
+  ".A": [
+   "Nicolaides", 
+   "Campbell", 
+   "Bradley", 
+   "Bilardo", 
+   "Soothill", 
+   "Gibb"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Lancet 8707; 1(8539):942-5\r", 
+  ".T": "Maternal oxygen therapy for intrauterine growth retardation.\r", 
+  ".U": "87171914\r", 
+  ".W": "Humidified oxygen (55%) was administered continuously through a face mask to 5 patients whose pregnancies (4 singleton and 1 twin) were all complicated by severe intrauterine growth retardation, oligohydramnios, high blood-flow impedance in the fetal aorta and umbilical artery, and low mean blood-velocity in the fetal thoracic aorta. All the fetuses were hypoxic and 2 were acidotic. After maternal hyperoxygenation, the fetal pO2 increased to within or near the normal range, and resulted in a sustained increase in the mean blood-velocity in the fetal thoracic aorta. 5 fetuses survived with minimum neonatal morbidity. The effect of maternal hyperoxygenation on the fetal pO2 in such cases may prove to be a useful method of assessing placental function and guiding management.\r"
+ }, 
+ {
+  ".I": "33082", 
+  ".M": "Animal; Cell Fusion; Cell Transformation, Neoplastic/*IM; Human; Macrophages/*IM/PH; Melanoma/IM/PP; Neoplasm Invasiveness/PP; Neoplasm Metastasis/PP; Neoplasms/*IM/PP.\r", 
+  ".A": [
+   "Munzarova", 
+   "Kovarik"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Lancet 8707; 1(8539):952-4\r", 
+  ".T": "Is cancer a macrophage-mediated autoaggressive disease?\r", 
+  ".U": "87171917\r", 
+  ".W": "As part of their physiological functions macrophages secrete various products that influence tissue environment. They can also secrete tumour growth promoting substances and it is highly probable that they help to establish tumour supporting fibrovascular stroma. Macrophages may fuse with other cells (including neoplastic cells) and many malignant properties of these hybrids or of their progeny may be maintained by the macrophage genome. In addition processes that occur after fusion might be important in inducing malignant transformation, especially when fusion has occurred with initiated cells. Superficial spreading melanoma is an example that is in keeping with the hypothesis of cell fusion.\r"
+ }, 
+ {
+  ".I": "33083", 
+  ".M": "Child, Preschool; Hip Dislocation, Congenital/*DI; Human; Infant; Infant, Newborn; Methods; Movement; Sound/*DU.\r", 
+  ".A": [
+   "Stone", 
+   "Richardson", 
+   "Bennet"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Lancet 8707; 1(8539):954-5\r", 
+  ".T": "Another clinical test for congenital dislocation of the hip.\r", 
+  ".U": "87171918\r"
+ }, 
+ {
+  ".I": "33089", 
+  ".M": "Adolescence; Adult; Aged; Aged, 80 and over; Colonic Diseases, Functional/DI/*TH; Female; Follow-Up Studies; Human; Male; Middle Age; Prognosis; Prospective Studies.\r", 
+  ".A": [
+   "Harvey", 
+   "Mauad", 
+   "Brown"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Lancet 8707; 1(8539):963-5\r", 
+  ".T": "Prognosis in the irritable bowel syndrome: a 5-year prospective study.\r", 
+  ".U": "87171925\r", 
+  ".W": "To establish the short-term and long-term results of current treatment of irritable bowel syndrome (IBS), 104 patients were studied prospectively. All patients were treated similarly and the results were assessed after a few weeks and then after at least 5 years. IBS can be diagnosed more easily than has been suggested--72% of this series were correctly diagnosed by their referring doctor, and only 12% required radiological studies to exclude organic disease. The response to treatment was considerably better than expected, possibly because of the more aggressive use of high-fibre diets and bulking agents. Thus, 85% of patients were rendered virtually symptom-free in the short term, and 68% were still virtually symptom-free 5 years later. The response to treatment was better in men than in women, in those with constipation than with diarrhoea, when the symptoms had initially been triggered by an episode of acute diarrhoea, and in patients with a relatively short history. With a few simple investigations, sympathetic explanation, and appropriate treatment, most patients with IBS have a good prognosis.\r"
+ }, 
+ {
+  ".I": "33090", 
+  ".M": "Adult; Aged; Calcinosis/EP/*ET; Environmental Exposure; Female; Greece; Human; Lung Diseases/EP/*ET; Male; Mesothelioma/EP/*ET; Middle Age; Paint/AN; Pleural Neoplasms/EP/*ET; Silica/*AE; Silicic Acid/*AE/AN; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S.; X-Ray Diffraction.\r", 
+  ".A": [
+   "Langer", 
+   "Nolan", 
+   "Constantopoulos", 
+   "Moutsopoulos"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Lancet 8707; 1(8539):965-7\r", 
+  ".T": "Association of Metsovo lung and pleural mesothelioma with exposure to tremolite-containing whitewash.\r", 
+  ".U": "87171926\r", 
+  ".W": "Pleural thickening, bilateral pleural hyalinised plaques, and restrictive lung function are found among inhabitants of four small villages in northwestern Greece. Transbronchial biopsy samples from patients with disease contained tremolite fibres. Malignant pleural mesothelioma has now been reported in these villages and accounts for approximately 1% of the total mortality from 1981 to 1985. The principal whitewash once used in this area is predominantly asbestiform tremolite. The fibre is identical in every respect to fibres found in the lung tissues of people with Metsovo lung. The membrane activity of this tremolite is greater than that of the commercially used asbestiform amphiboles amosite and crocidolite. This measure of cytotoxicity lends further support to the hypothesis that this fibre is the agent of Metsovo lung and mesothelioma.\r"
+ }, 
+ {
+  ".I": "33091", 
+  ".M": "Age Factors; Health Services Misuse; Human; Israel; Length of Stay/*; Patient Discharge/*; Patient Readmission; Utilization Review.\r", 
+  ".A": [
+   "Mozes", 
+   "Halkin", 
+   "Katz", 
+   "Schiff", 
+   "Modan"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Lancet 8707; 1(8539):968-9\r", 
+  ".T": "Reduction of redundant hospital stay through controlled intervention.\r", 
+  ".U": "87171927\r", 
+  ".W": "With the aim of reducing redundant hospital stay through controlled intervention, preset criteria for inpatient care were applied on a medical ward. The proportion of unjustified hospital stay days fell by 52.6% and the average length of stay on the experimental ward declined from 6.3 days to 4.6 days. On a control medical ward there was practically no change. At one-month follow-up, patients from the two wards did not differ in death rate, readmission rate, or subjective evaluation of health status.\r"
+ }, 
+ {
+  ".I": "33092", 
+  ".M": "Antibodies, Viral/AN; Bovine Diarrhea Virus/IM; Female; Human; Infant, Newborn; Microcephaly/*ET/MI; Pestiviruses; Pregnancy; Pregnancy Complications, Infectious/*/IM; Togavirus Infections/*CO/IM.\r", 
+  ".A": [
+   "Potts", 
+   "Sever", 
+   "Tzan", 
+   "Huddleston", 
+   "Elder"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8539):972-3\r", 
+  ".T": "Possible role of pestiviruses in microcephaly [letter]\r", 
+  ".U": "87171928\r"
+ }, 
+ {
+  ".I": "33093", 
+  ".M": "Adjuvants, Immunologic/*AD/IM; Aged; Antibodies, Viral/AN; Glycoproteins/*AD/IM; Human; Influenza/*PC; Influenza Vaccine/*/IM; Orthomyxovirus Type A, Human/IM; Orthomyxoviruses Type B/IM; Vaccination/*.\r", 
+  ".A": [
+   "Profeta", 
+   "Guidi", 
+   "Meroni", 
+   "Palmieri", 
+   "Palladino", 
+   "Cantone", 
+   "Zanussi"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8539):973\r", 
+  ".T": "Influenza vaccination with adjuvant RU41740 in the elderly [letter]\r", 
+  ".U": "87171929\r"
+ }, 
+ {
+  ".I": "33094", 
+  ".M": "Animal; Coccidia/*IP; Cryptosporidiosis/TM; Cryptosporidium/*IP; Giardia/*IP; Giardiasis/TM; Human; Support, Non-U.S. Gov't; Water Microbiology/*; Water Supply/*.\r", 
+  ".A": [
+   "Isaac-Renton", 
+   "Fogel", 
+   "Stibbs", 
+   "Ongerth"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8539):973-4\r", 
+  ".T": "Giardia and Cryptosporidium in drinking water [letter]\r", 
+  ".U": "87171930\r"
+ }, 
+ {
+  ".I": "33095", 
+  ".M": "Cryptosporidiosis/EP/*PS; Diarrhea/EP/PS; Disease Outbreaks; Feces/*PS; Human; Osmotic Fragility; Ovum/PH.\r", 
+  ".A": [
+   "Baxby", 
+   "Blundell", 
+   "Hart"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8539):974\r", 
+  ".T": "Excretion of atypical oocysts by patients with cryptosporidiosis [letter]\r", 
+  ".U": "87171931\r"
+ }, 
+ {
+  ".I": "33096", 
+  ".M": "Aeromonas/*ME/PY; Animal; Cells, Cultured; Ion Channels/*ME; Sodium/*ME; Vibrio cholerae/*ME/PY.\r", 
+  ".A": [
+   "Tamplin", 
+   "Colwell", 
+   "Hall", 
+   "Kogure", 
+   "Strichartz"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8539):975\r", 
+  ".T": "Sodium-channel inhibitors produced by enteropathogenic Vibrio cholerae and Aeromonas hydrophila [letter]\r", 
+  ".U": "87171933\r"
+ }, 
+ {
+  ".I": "33097", 
+  ".M": "Blood Pressure Determination/*IS/MT; Child, Preschool; Human; Infant.\r", 
+  ".A": [
+   "Leumann"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8539):975\r", 
+  ".T": "Sphygmomanometer bladder length [letter]\r", 
+  ".U": "87171934\r"
+ }, 
+ {
+  ".I": "33099", 
+  ".M": "Abscess/MI; Aged; Aged, 80 and over; Carrier State/*MI; Case Report; Cholecystectomy; Gallbladder/*MI; Human; Male; Salmonella typhi/*IP; Typhoid/*MI.\r", 
+  ".A": [
+   "Sinnott", 
+   "Teall"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8539):976\r", 
+  ".T": "Persistent gallbladder carriage of Salmonella typhi [letter]\r", 
+  ".U": "87171936\r"
+ }, 
+ {
+  ".I": "33100", 
+  ".M": "Adult; Animal; Antibodies, Viral/*AN; Borrelia/*IM; Case Report; Disease Reservoirs/*; Horses/IM/*MI; Human; Lyme Disease/*TM; Male.\r", 
+  ".A": [
+   "Marcelis", 
+   "de", 
+   "Chaidron", 
+   "Bigaignon", 
+   "Kageruka", 
+   "Goubau"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8539):977\r", 
+  ".T": "Horse reservoir for Borrelia burgdorferi? [letter]\r", 
+  ".U": "87171937\r"
+ }, 
+ {
+  ".I": "33101", 
+  ".M": "Bacterial Infections/*CO; Ductus Arteriosus, Patent/CO/*DT; Human; Indomethacin/*TU; Infant, Newborn; Infant, Premature, Diseases/*DT.\r", 
+  ".A": [
+   "Salzer", 
+   "Salzer-Muhar", 
+   "Pollak", 
+   "Weninger"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8539):977\r", 
+  ".T": "Sepsis and indomethacin failure in premature infants with symptomatic patent ductus arteriosus [letter]\r", 
+  ".U": "87171938\r"
+ }, 
+ {
+  ".I": "33102", 
+  ".M": "Abdomen, Acute/*DI; Catheterization/*/IS/MT; Cytodiagnosis/*MT; Human; Suction/*.\r", 
+  ".A": [
+   "Stewart", 
+   "Gupta", 
+   "Purdie", 
+   "Isbister"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8539):978\r", 
+  ".T": "Fine-catheter aspiration cytology and the acute abdomen [letter]\r", 
+  ".U": "87171940\r"
+ }, 
+ {
+  ".I": "33103", 
+  ".M": "Adolescence; Case Report; Chest Pain/ET/*RA; Human; Lung/*RA; Male; Support, Non-U.S. Gov't.\r", 
+  ".A": [
+   "Dawson", 
+   "Allison"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8539):978-9\r", 
+  ".T": "New radiological manifestation of Texidor's twinge [letter]\r", 
+  ".U": "87171941\r"
+ }, 
+ {
+  ".I": "33104", 
+  ".M": "Brain Chemistry/*; Human; Putamen/ME; Receptors, Dopamine/*AN; Schizophrenia/*ME; Support, Non-U.S. Gov't.\r", 
+  ".A": [
+   "Reynolds", 
+   "Czudek", 
+   "Bzowej", 
+   "Seeman"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8539):979\r", 
+  ".T": "Dopamine receptor asymmetry in schizophrenia [letter]\r", 
+  ".U": "87171942\r"
+ }, 
+ {
+  ".I": "33105", 
+  ".M": "Aged/*; Drug Interactions; Drugs/*AE/ME; Human.\r", 
+  ".A": [
+   "Moore"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8539):980\r", 
+  ".T": "Clinical pharmacology and geriatrics [letter]\r", 
+  ".U": "87171943\r"
+ }, 
+ {
+  ".I": "33106", 
+  ".M": "Advertising/*ST; Canada; Drug Industry/*.\r", 
+  ".A": [
+   "Godden"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8539):980\r", 
+  ".T": "Monitoring drug advertisements [letter]\r", 
+  ".U": "87171944\r"
+ }, 
+ {
+  ".I": "33107", 
+  ".M": "Adult; Homeless Persons/*; Human; Male; Medical Indigency/*; Middle Age; Morbidity.\r", 
+  ".A": [
+   "Dickinson", 
+   "Dickinson"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8539):980-1\r", 
+  ".T": "Medical care for the homeless [letter]\r", 
+  ".U": "87171945\r"
+ }, 
+ {
+  ".I": "33108", 
+  ".M": "Cesarean Section/AE/*UT; Female; Ghana; Human; Pregnancy.\r", 
+  ".A": [
+   "Moran", 
+   "Busch"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8539):981\r", 
+  ".T": "Abdominal deliveries in Third World [letter]\r", 
+  ".U": "87171946\r"
+ }, 
+ {
+  ".I": "33109", 
+  ".M": "Periodicals/*/ST.\r", 
+  ".A": [
+   "Watts"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8539):981\r", 
+  ".T": "Journals [letter]\r", 
+  ".U": "87171947\r"
+ }, 
+ {
+  ".I": "33110", 
+  ".M": "Adult; Breast Neoplasms/*RA; Female; Human; Mammography/*; Middle Age.\r", 
+  ".A": [
+   "Hoskins"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8539):981\r", 
+  ".T": "Screening for breast cancer [letter]\r", 
+  ".U": "87171948\r"
+ }, 
+ {
+  ".I": "33111", 
+  ".M": "Dietary Fiber/*/*TU; Human.\r", 
+  ".A": [
+   "Jones"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8539):982\r", 
+  ".T": "Bran [letter]\r", 
+  ".U": "87171949\r"
+ }, 
+ {
+  ".I": "33112", 
+  ".M": "Acquired Immunodeficiency Syndrome/TM; Female; Gonorrhea/*EP/TM; Homosexuality; Human; Male; Sex Behavior/*.\r", 
+  ".A": [
+   "Lawrence", 
+   "Singaratnam"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8539):982-3\r", 
+  ".T": "Changes in sexual behaviour and incidence of gonorrhoea [letter]\r", 
+  ".U": "87171951\r"
+ }, 
+ {
+  ".I": "33113", 
+  ".M": "Blood Proteins/*/IM; Cross Reactions; Digoxin/IM; Female; Fetal Blood/AN; Human; Infant, Newborn/*BL.\r", 
+  ".A": [
+   "Seccombe", 
+   "Pudek"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8539):983\r", 
+  ".T": "Digoxin-like immunoreactive substances in the perinatal period [letter]\r", 
+  ".U": "87171952\r"
+ }, 
+ {
+  ".I": "33114", 
+  ".M": "Coronary Disease/EP/*PC; Dietary Fats/*AD; Greece; Human; Male; Plant Oils/*.\r", 
+  ".A": [
+   "Keys"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8539):983-4\r", 
+  ".T": "Olive oil and coronary heart disease [letter]\r", 
+  ".U": "87171954\r"
+ }, 
+ {
+  ".I": "33115", 
+  ".M": "Adult; Antibodies, Monoclonal/*AE/TU; Bacterial Infections/*ET; Case Report; Female; Gases/*; Human; Hypotension/ET; Portal Vein/*; Shock, Septic/*ET.\r", 
+  ".A": [
+   "Waymack", 
+   "Penn", 
+   "First", 
+   "Alexander"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8539):984\r", 
+  ".T": "Portal vein gas and sepsis after administration of OKT3 [letter]\r", 
+  ".U": "87171955\r"
+ }, 
+ {
+  ".I": "33116", 
+  ".M": "Biopsy, Needle/*AE; Human; Liver Neoplasms/*PA; Neoplasm Seeding/*.\r", 
+  ".A": [
+   "Mutch"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8539):984-5\r", 
+  ".T": "Safety of liver biopsy [letter]\r", 
+  ".U": "87171956\r"
+ }, 
+ {
+  ".I": "33118", 
+  ".M": "Female; Human; Linoleic Acids/*BL; Liver Cirrhosis, Biliary/*BL/PP; Male; Support, Non-U.S. Gov't.\r", 
+  ".A": [
+   "Braganza", 
+   "Day"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8539):987\r", 
+  ".T": "Serum octadeca-9-11 dienoic acid concentrations in primary biliary cirrhosis [letter]\r", 
+  ".U": "87171961\r"
+ }, 
+ {
+  ".I": "33119", 
+  ".M": "Angioneurotic Edema/*ET; Case Report; Food Hypersensitivity/*ET; Glutamates/*AE; Human; Male; Middle Age; Sodium Glutamate/*AE.\r", 
+  ".A": [
+   "Squire"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8539):988\r", 
+  ".T": "Angio-oedema and monosodium glutamate [letter]\r", 
+  ".U": "87171962\r"
+ }, 
+ {
+  ".I": "33120", 
+  ".M": "Antibodies, Viral/AN; Antibody Specificity; Dengue/CO/*IM; Dengue Virus/*IM; Human; IgM/*AN; Shock, Hemorrhagic/ET/*IM.\r", 
+  ".A": [
+   "Pang"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8707; 1(8539):988\r", 
+  ".T": "Dengue-specific IgM and dengue haemorrhagic fever/shock [letter]\r", 
+  ".U": "87171963\r"
+ }, 
+ {
+  ".I": "33121", 
+  ".M": "France; HIV/*; International Cooperation/*; Patents/*LJ; United States.\r", 
+  ".A": [
+   "Baltimore", 
+   "Benacerraf", 
+   "Berg", 
+   "Bernard", 
+   "Dausset", 
+   "Dulbecco", 
+   "Gros", 
+   "Holley", 
+   "Jacob", 
+   "Luria", 
+   "et"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Nature 8707; 326(6111):326\r", 
+  ".T": "AIDS agreement [letter]\r", 
+  ".U": "87172972\r"
+ }, 
+ {
+  ".I": "33122", 
+  ".M": "Acquired Immunodeficiency Syndrome/DI/*EP/TM; Antibodies, Viral/AN; Blood Transfusion; Great Britain; Human; HIV/IM; Probability; Risk; Time Factors; United States.\r", 
+  ".A": [
+   "Rees"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Nature 8707; 326(6111):343-5\r", 
+  ".T": "The sombre view of AIDS.\r", 
+  ".U": "87172980\r", 
+  ".W": "Extrapolation from short-term data is risky, but the development of AIDS among those infected with HIV by blood transfusions, if properly described by a normal distribution, suggests a 15-year mean incubation and a high incidence of disease among carriers of the virus.\r"
+ }, 
+ {
+  ".I": "33124", 
+  ".M": "Adolescence; Body Height; Body Weight; Breast/GD; Child; Female; Genitalia/GD; Hormones/PH; Human; LH/PH; Male; Puberty/*; Sex Maturation; Somatotropin/PH.\r", 
+  ".A": [
+   "Fujii", 
+   "Felice"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Prim Care 8707; 14(1):1-12\r", 
+  ".T": "Physical growth and development: current concepts.\r", 
+  ".U": "87176099\r", 
+  ".W": "The process we call puberty is complex and still poorly understood. Some of the hormonal effects have been discussed, but much work remains before the specific mechanisms are defined. Genetic and nutritional influences affect puberty and further complicate the study of this population. Knowledge of the developmental sequence and SMR scale is useful in clinical practice. Understanding the changes that an adolescent is experiencing will help in the early diagnosis of abnormalities in growth and development. This knowledge will also serve as a guide in providing useful anticipatory guidance.\r"
+ }, 
+ {
+  ".I": "33126", 
+  ".M": "Adolescence; Adolescent Behavior/*; Contraception/*/MT; Contraceptive Devices; Contraceptives, Oral, Hormonal/AD/AE; Diethylstilbestrol/AD; Female; Human; Intrauterine Devices; Male; Norethindrone/AA/AD.\r", 
+  ".A": [
+   "Kreutner"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Prim Care 8707; 14(1):121-38\r", 
+  ".T": "Adolescent contraception.\r", 
+  ".U": "87176102\r", 
+  ".W": "Many adolescents are at risk for unplanned pregnancy. Health professionals who care for adolescents should be familiar with the various contraceptive methods and their suitability for teenagers. Each method, with its pros and cons, is described in this article. Ultimately, the health care provider is advised to tailor contraception to fit the needs of the individual patient.\r"
+ }, 
+ {
+  ".I": "33127", 
+  ".M": "Adolescence; Adolescent Psychology/*; Case Report; Child; Child Development; Defense Mechanisms; Female; Human; Identification (Psychology); Male; Parent-Child Relations; Peer Group; Physician-Patient Relations; Psychotherapy; Self Concept.\r", 
+  ".A": [
+   "Lohner"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Prim Care 8707; 14(1):13-23\r", 
+  ".T": "Adolescent psychosocial growth and development.\r", 
+  ".U": "87176103\r", 
+  ".W": "This discussion has dealt with the nature of adolescence in the context of our culture. The stages of early adolescence (10 to 13 years), middle adolescence (14 to 17 years), and late adolescence (over 17 years) were examined separately and in some detail. Other characteristics of adolescence in general were examined, as were some of the factors influencing adult-adolescent interactions as well as the relationship between the adolescent and the society. Lastly, some of the ways in which this knowledge can be useful clinically were discussed, along with approaches to working successfully with teenagers and making their care a most enjoyable and rewarding part of clinical practice.\r"
+ }, 
+ {
+  ".I": "33128", 
+  ".M": "Adolescence; Analeptics/TU; Attention Deficit Disorder with Hyperactivity/DI; Case Report; Education, Special; Human; Learning Disorders/DI/*ET/TH; Male; Parent-Child Relations; Physicians, Family.\r", 
+  ".A": [
+   "Black"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Prim Care 8707; 14(1):203-23\r", 
+  ".T": "Adolescents with learning problems.\r", 
+  ".U": "87176107\r", 
+  ".W": "The adolescent with learning problems presents a multifaceted diagnostic and therapeutic challenge to the primary care clinician. The adolescent failing in school often manifests secondary affective symptoms that tend to obscure underlying developmental deficits. Inadequate educational experiences, family stress, environmental deprivation, and preoccupation with nonacademic sources of gratification can further cloud the picture. Efforts at remediation must overcome the tendency of medical and school professionals, parents, and students themselves to be overly pessimistic about the long-term outcome. With the knowledge of the common causes of school failure and developmental dysfunction in this age group, the general physician can reach a reasonable diagnosis, develop a functional profile of strengths and weaknesses, and collaborate with parents, educators, and the adolescent to effect a comprehensive management plan. The physician's ongoing involvement can be a very important factor stimulating the school to continue to evaluate an individual student's needs and abilities. Parents may need assistance to recognize their child's own strengths and to help the child utilize them appropriately. If the adolescent is helped to see that he or she can make important contributions to society within the spectrum of his or her talents, then the clinician has played a crucial role in the development of a potentially happy and successful adult.\r"
+ }, 
+ {
+  ".I": "33129", 
+  ".M": "Adolescence; Family; Human; Physician's Role; Physicians, Family; Risk; Substance Abuse/*DI/PX/TH; Tetrahydrocannabinol/UR.\r", 
+  ".A": [
+   "MacKenzie", 
+   "Jacobs"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Prim Care 8707; 14(1):225-35\r", 
+  ".T": "Recognizing the adolescent drug abuser.\r", 
+  ".U": "87176108\r", 
+  ".W": "Adolescents are at high risk for using and abusing illicit drugs. Guidelines for recognizing drug abusers are presented as well as a staging process for progression of drug use. The family physician is in an ideal position to identify young users/abusers and to assist them and their families in obtaining much needed assistance.\r"
+ }, 
+ {
+  ".I": "33130", 
+  ".M": "Adolescence/*; Chronic Disease; Diphtheria Toxoid/AD; Ethics, Medical; Female; Human; Immunization/*; Immunologic Deficiency Syndromes/IM; Institutionalization; Legislation, Medical; Male; Measles Vaccine/AD; Mumps Vaccine/AD; Poliovirus Vaccine, Oral/AD; Pregnancy; Rabies Vaccine/AD; Rubella Vaccine/AD; Sex Behavior; Substance Abuse/CO; Tetanus Toxoid/AD; Travel; Tuberculosis/IM; Viral Hepatitis Vaccines/AD.\r", 
+  ".A": [
+   "Brookman"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Prim Care 8707; 14(1):25-39\r", 
+  ".T": "Immunizations during the adolescent years.\r", 
+  ".U": "87176109\r", 
+  ".W": "This article discusses routine immunization against tetanus, diphtheria, polio, measles, mumps, and rubella and tuberculin testing in adolescents who have been fully immunized in childhood and in those with incomplete immunizations. Recommendations are provided for routine and special immunization needs related to travel, employment, leisure activities, substance abuse, sexual activity, pregnancy, parenthood, chronic disease, and immunosuppressed states. Legal, ethical, and public health issues related to immunization of minors are reviewed.\r"
+ }, 
+ {
+  ".I": "33131", 
+  ".M": "Adolescence/*; Blood Cell Count; Child Health Services/*; Cholesterol/BL; Hepatitis B Virus/IP; Human; Mass Screening; Proteinuria/UR; Sex Behavior; Vision Tests.\r", 
+  ".A": [
+   "Long"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Prim Care 8707; 14(1):41-7\r", 
+  ".T": "Routine screening tests for the adolescent.\r", 
+  ".U": "87176110\r", 
+  ".W": "Routine preventive health examinations for adolescents should be conducted annually, and screening tests are an important part of such periodic evaluations. This article outlines the recommended screening tests for all teenagers, and defines the additional screening tests necessary for high risk youth. Annual health screening interventions serve to encourage the development of health-promoting behaviors and preventive health awareness among adolescents.\r"
+ }, 
+ {
+  ".I": "33132", 
+  ".M": "Adolescence/*; Appointments and Schedules; Child Health Services/*; Confidentiality; Fees and Charges; Human; Office Management; Patient Education; Pelvis; Personnel Staffing and Scheduling; Physical Examination; Private Practice/*.\r", 
+  ".A": [
+   "Buchta"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Prim Care 8707; 14(1):49-56\r", 
+  ".T": "Seeing adolescent patients in private practice.\r", 
+  ".U": "87176111\r", 
+  ".W": "Seeing adolescent patients in private practice can be a challenging experience. Practical suggestions concerning the office setting scheduling, staffing, and billing are outlined. Physician attributes seen from an adolescent viewpoint are also enumerated. Finally, indications for pelvic examinations in this age group, interviewing, and confidentiality are discussed.\r"
+ }, 
+ {
+  ".I": "33133", 
+  ".M": "Adolescence/*; Adult; Body Image; Case Report; Child Development; Chronic Disease/*PX; Death; Family; Female; Hospitalization; Human; Male; Parent-Child Relations; Peer Group; Physicians, Family; Support, Non-U.S. Gov't; Terminal Care/PX.\r", 
+  ".A": [
+   "Buhlmann", 
+   "Fitzpatrick"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Prim Care 8707; 14(1):57-68\r", 
+  ".T": "Caring for an adolescent with a chronic illness.\r", 
+  ".U": "87176112\r", 
+  ".W": "Although early, mid, and late adolescence are transient psychological periods, the teenager must master these three phases to complete the psychological stages and tasks of adolescence. Because chronic disease delays or alters these phases, it becomes imperative for the primary care physician to reassess psychological development periodically for appropriate and intensive counseling. With the advantage of continuous contact with the family and the understanding of the family's structure and interpersonal relationships, the primary care physician may be able to: alleviate struggles for control that may seriously impede care, encourage the teenager to accomplish the psychological tasks of adolescence, both during hospitalization and in follow-up outpatient care visits, promote the adolescent's participation in his or her own health care, and ultimately enhance both the family's and the teenager's adaptation to a chronic illness. Finally, during the terminal phase of an illness, the primary care physician will be able to help the adolescent find meaning in his or her short life, provide the support to help the teenager to disengage from life with dignity, and provide a supportive relationship to the parents and siblings.\r"
+ }, 
+ {
+  ".I": "33134", 
+  ".M": "Adolescence; Adolescent Medicine/*; Case Report; Child; Communication; Culture/*; Ethnic Groups/PX; Family; Female; Health Education; Human; Male; Medicine, Traditional; Physician-Patient Relations; Physicians/PX; Professional-Family Relations; Refugees/PX; Social Values; United States.\r", 
+  ".A": [
+   "Nidorf", 
+   "Morgan"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Prim Care 8707; 14(1):69-82\r", 
+  ".T": "Cross cultural issues in adolescent medicine.\r", 
+  ".U": "87176113\r", 
+  ".W": "This article provides general guidelines and principles for physicians caring for adolescent patients from various cultural backgrounds. Suggestions are offered for managing the special problems presented by new immigrants. Case vignettes are liberally used to illustrate health care issues.\r"
+ }, 
+ {
+  ".I": "33135", 
+  ".M": "Acquired Immunodeficiency Syndrome/*DI; Antibodies, Viral/AN; France; Human; HIV/IM; Patents/*; United States.\r", 
+  ".A": [
+   "Barnes"
+  ], 
+  ".P": "NEWS.\r", 
+  ".S": "Science 8707; 236(4797):17\r", 
+  ".T": "AIDS patent dispute settled [news]\r", 
+  ".U": "87177959\r"
+ }, 
+ {
+  ".I": "33136", 
+  ".M": "Acquired Immunodeficiency Syndrome/IM/MI/*TM; Cell Communication; Human; HIV/PH/*PY; Immunity, Cellular; Virus Replication.\r", 
+  ".A": [
+   "Marx"
+  ], 
+  ".P": "NEWS.\r", 
+  ".S": "Science 8707; 236(4800):390-2\r", 
+  ".T": "The AIDS virus--well known but a mystery [news]\r", 
+  ".U": "87178014\r"
+ }, 
+ {
+  ".I": "33137", 
+  ".M": "Consumer Product Safety/*; Drugs/ME/*ST; Human; Therapeutic Equivalency.\r", 
+  ".A": [
+   "Birdsall", 
+   "Uretsky"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Nurs 8707; 87(4):431-2\r", 
+  ".T": "How safe are generic drugs?\r", 
+  ".U": "87181863\r"
+ }, 
+ {
+  ".I": "33138", 
+  ".M": "Child; Female; Human; Iatrogenic Disease/*EC; Infant; Male; Malpractice/*LJ; Medical Staff, Hospital/*LJ; Middle Age; Nursing Staff, Hospital/*LJ; Pregnancy; United States.\r", 
+  ".A": [
+   "Cushing"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Nurs 8707; 87(4):435-6, 440\r", 
+  ".T": "Million-dollar errors.\r", 
+  ".U": "87181864\r"
+ }, 
+ {
+  ".I": "33139", 
+  ".M": "Data Collection; Employee Incentive Plans; Human; Intensive Care Units/MA; Nursing Staff, Hospital/*SD; Personnel Selection/MT; Statistics; United States.\r", 
+  ".A": [
+   "Curran", 
+   "Minnick", 
+   "Moss"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Nurs 8707; 87(4):444-7\r", 
+  ".T": "Who needs nurses?\r", 
+  ".U": "87181865\r"
+ }, 
+ {
+  ".I": "33140", 
+  ".M": "Antibody Formation; Human; Immune System/*PH; Immunity, Cellular.\r", 
+  ".A": [
+   "Abernathy"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Nurs 8707; 87(4):456-9\r", 
+  ".T": "How the immune system works.\r", 
+  ".U": "87181866\r"
+ }, 
+ {
+  ".I": "33141", 
+  ".M": "Biological Products; Human; Immunotherapy/*MT; Neoplasms/*TH.\r", 
+  ".A": [
+   "Abernathy"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Nurs 8707; 87(4):458-9\r", 
+  ".T": "Biological response modifiers.\r", 
+  ".U": "87181867\r"
+ }, 
+ {
+  ".I": "33142", 
+  ".M": "Antibodies, Monoclonal/AE/DU/*TU; Human; Neoplasms/NU/TH.\r", 
+  ".A": [
+   "Rieger"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Nurs 8707; 87(4):469-73\r", 
+  ".T": "Monoclonal antibodies.\r", 
+  ".U": "87181871\r"
+ }, 
+ {
+  ".I": "33143", 
+  ".M": "Bone Wires; Fracture Fixation; Human; Mandibular Fractures/*NU/TH; Mouthwashes/AD; Oral Hygiene/*MT; Postoperative Care/*; Povidone-Iodine/AD; Surgical Nursing.\r", 
+  ".A": [
+   "Freedman", 
+   "Devine"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Nurs 8707; 87(4):474-5\r", 
+  ".T": "A clean break: postop oral care.\r", 
+  ".U": "87181872\r"
+ }, 
+ {
+  ".I": "33144", 
+  ".M": "Displacement (Psychology); Human; Nurse-Patient Relations/*; Transference (Psychology)/*.\r", 
+  ".A": [
+   "Relling-Garskof"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Nurs 8707; 87(4):476-8\r", 
+  ".T": "Transferring the past to the present.\r", 
+  ".U": "87181873\r"
+ }, 
+ {
+  ".I": "33145", 
+  ".M": "Adult; Aged; California; Female; Human; Lung Diseases, Obstructive/NU/PX/*RH; Male; Mexico; Middle Age; Motivation; Oxygen Inhalation Therapy; Ships/*; Travel/*; West Indies.\r", 
+  ".A": [
+   "Burns"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Nurs 8707; 87(4):479-82\r", 
+  ".T": "Cruising with COPD.\r", 
+  ".U": "87181874\r"
+ }, 
+ {
+  ".I": "33146", 
+  ".M": "Case Report; Child; Family/*; Female; Human; Organ Procurement; Tissue Donors/*.\r", 
+  ".A": [
+   "Coolican"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Nurs 8707; 87(4):483-5\r", 
+  ".T": "Katie's legacy.\r", 
+  ".U": "87181875\r"
+ }, 
+ {
+  ".I": "33147", 
+  ".M": "Employment/*; Human; New York City; Nurses/*; Nursing Staff, Hospital.\r", 
+  ".A": [
+   "Ballman"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Nurs 8707; 87(4):497-500, 502-4, 506-8\r", 
+  ".T": "Nursing in the Big Apple: AJN JobFocus.\r", 
+  ".U": "87181876\r"
+ }, 
+ {
+  ".I": "33148", 
+  ".M": "Career Mobility/*; Culture/*; Hospital Administration/*; Human; Nursing Staff, Hospital/*.\r", 
+  ".A": [
+   "Smith"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Nurs 8707; 87(4):513-4\r", 
+  ".T": "Getting ahead in the corporate culture.\r", 
+  ".U": "87181877\r"
+ }, 
+ {
+  ".I": "33149", 
+  ".M": "Education, Nursing, Graduate/*; Educational Measurement/*; Human; School Admission Criteria/*; Schools, Nursing/*; United States.\r", 
+  ".A": [
+   "Williams"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Nurs 8707; 87(4):517-20\r", 
+  ".T": "Applying to graduate school.\r", 
+  ".U": "87181878\r"
+ }, 
+ {
+  ".I": "33150", 
+  ".M": "Attitude to Death; Human; Male; Nursing Staff, Hospital/PX; Resuscitation/NU/*PX.\r", 
+  ".A": [
+   "Richards"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Nurs 8707; 87(4):580\r", 
+  ".T": "My first jump start.\r", 
+  ".U": "87181882\r"
+ }, 
+ {
+  ".I": "33151", 
+  ".M": "Acquired Immunodeficiency Syndrome/*CO/PX; Brain Diseases/CO/*MI; Depressive Disorder/ET; Human; HIV/*IP; Male; Organic Mental Disorders/*ET/MI.\r", 
+  ".A": [
+   "Thomas"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Am J Psychiatry 8707; 144(4):537-8\r", 
+  ".T": "The AIDS virus and the CNS [letter]\r", 
+  ".U": "87182130\r"
+ }, 
+ {
+  ".I": "33152", 
+  ".M": "Acquired Immunodeficiency Syndrome/*CO/DI; Adult; Antibodies, Viral/*AN; Female; Florida; Haiti/EH; Homosexuality; Human; HIV/*IM; Male; Prospective Studies; Risk; Tuberculosis, Pulmonary/*CO.\r", 
+  ".A": [
+   "Pitchenik", 
+   "Burr", 
+   "Suarez", 
+   "Fertel", 
+   "Gonzalez", 
+   "Moas"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am Rev Respir Dis 8707; 135(4):875-9\r", 
+  ".T": "Human T-cell lymphotropic virus-III (HTLV-III) seropositivity and related disease among 71 consecutive patients in whom tuberculosis was diagnosed. A prospective study.\r", 
+  ".U": "87182650\r", 
+  ".W": "The incidence of tuberculosis has recently risen in Southeast Florida. In order to determine the number and proportion of tuberculosis cases and the characteristics of tuberculosis that might be related to human T-cell lymphotrophic virus-III (HTLV-III) infection, all patients seen by the Dade County Florida Public Health Department-Tuberculosis Clinic during a 6-month period were medically evaluated and screened for HTLV-III antibody by an enzyme-linked immunosorbent assay. Of 71 consecutive patients confirmed to have tuberculosis (70 by culture) during the study period, 22 (31%) were seropositive and 49 (69%) were seronegative for HTLV-III antibody. The seropositive group had a significantly higher proportion of patients who were black, Haitian, and within the age group of 25 to 44 yr. The seropositive group also had a significantly higher rate of mild-to-moderate serum aspartate transaminase elevations (less than or equal to 5 times normal), tuberculin skin test false negativity, extrapulmonary tuberculosis (especially lymphatic), and pulmonary tuberculosis with an atypical radiographic picture. The seropositive group had a significantly lower proportion of patients with sputum cultures positive for M. tuberculosis. There was no significant difference between the groups with respect to the proportion of patients with positive sputum smears when sputum cultures were positive, serious antituberculosis drug reactions (requiring discontinuation of therapy), or percent of home contacts who were tuberculin skin tested and found to be positive. At the time of the diagnosis of tuberculosis, only 6 (27%) of the seropositive patients with tuberculosis had clinical evidence of AIDS or AIDS-related complex (unexplained thrush).(ABSTRACT TRUNCATED AT 250 WORDS)\r"
+ }, 
+ {
+  ".I": "33153", 
+  ".M": "Animal; Animals, Newborn/*; Bronchopulmonary Dysplasia/ET; Cell Movement; Hyaline Membrane Disease/*PA; Infant, Newborn; Lung/*PA; Macaca nemestrina; Macrophages/*PA; Neutrophils/*PA; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S.; Time Factors.\r", 
+  ".A": [
+   "Jackson", 
+   "Chi", 
+   "Wilson", 
+   "Truog", 
+   "Teh", 
+   "Hodson"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am Rev Respir Dis 8707; 135(4):937-40\r", 
+  ".T": "Sequence of inflammatory cell migration into lung during recovery from hyaline membrane disease in premature newborn monkeys.\r", 
+  ".U": "87182661\r", 
+  ".W": "The appearance of polymorphonuclear leukocytes (PMN) and macrophages (MAC) in lung during the development of hyaline membrane disease (HMD) may be important in lung injury and repair. These inflammatory cells may cause additional lung injury during recovery from HMD and contribute to the development of bronchopulmonary dysplasia (BPD). By morphometric methods, we compared the proportion of PMN and MAC in lung tissue of premature M. nemestrina monkeys with HMD to the proportion of these cells in the lungs of healthy control animals of a similar postnatal age and to fetuses of the same gestational age. Expressed as a fraction of all lung cells, healthy premature control monkeys have the same %PMN and %MAC in lung tissue as fetal animals. However, during the development of acute HMD, there is an increase in %PMN (p less than 0.05), but not in %MAC, compared to fetal animals. During recovery, there is a greater than 10-fold increase in %MAC (p less than 0.02), but no significant additional increase in %PMN compared to animals with acute HMD. We conclude that the sequence of inflammatory cell migration into the premature lung injured during HMD is first a polymorphonuclear one, followed by entry of macrophages. Control of this inflammatory response during recovery from HMD may play a role in the pathogenesis of BPD.\r"
+ }, 
+ {
+  ".I": "33154", 
+  ".M": "Acquired Immunodeficiency Syndrome/CF/CO/*MI; Human; HIV/*IP; Nervous System Diseases/CF/ET/*MI; Support, Non-U.S. Gov't.\r", 
+  ".A": [
+   "Hollander", 
+   "Levy"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Ann Intern Med 8707; 106(5):692-5\r", 
+  ".T": "Neurologic abnormalities and recovery of human immunodeficiency virus from cerebrospinal fluid.\r", 
+  ".U": "87182698\r", 
+  ".W": "Infectious human immunodeficiency virus (HIV) was recovered from 30 of 48 cerebrospinal fluid specimens from seropositive persons with and without neurologic symptoms or disease. Of 16 patients with only neurologic problems or other HIV-related conditions, but not the acquired immunodeficiency syndrome (AIDS), 11 had virus recovered; over half of those with AIDS also had virus isolated. Patients with headache or altered mental status had the highest recovery rate of HIV from cerebrospinal fluid. Although virus was primarily found in patients with detectable neurologic disease, it was also isolated from 5 of 8 patients with normal neurologic examinations. Two of these patients had fever alone. The presence of virus in cerebrospinal fluid did not necessarily correlate with isolation of virus from the serum. These findings suggest that HIV may at times replicate preferentially in the brain and that its presence may not immediately cause neurologic signs or symptoms.\r"
+ }, 
+ {
+  ".I": "33155", 
+  ".M": "Cefamandole/PD; Ceftriaxone/PD; Cephalosporins/*PD; Cephalothin/PD; Cephradine/PD; Coagulase/ME; Human; Methicillin/PD; Microbial Sensitivity Tests; Penicillin Resistance; Staphylococcus/*DE/EN; Staphylococcus aureus/DE; Staphylococcus epidermidis/DE.\r", 
+  ".A": [
+   "Menzies", 
+   "Cornere", 
+   "MacCulloch"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Antimicrob Agents Chemother 8707; 31(1):42-5\r", 
+  ".T": "Cephalosporin susceptibility of methicillin-resistant, coagulase-negative staphylococci.\r", 
+  ".U": "87183410\r", 
+  ".W": "Coagulase-negative staphylococci were tested for susceptibility to methicillin, cephradine, ceftriaxone, cephalothin, and cefamandole by standard broth microdilution. Most of the 26 methicillin-resistant isolates were susceptible to cephalothin and cefamandole, but very few were susceptible to ceftriaxone, and none was susceptible to cephradine. The proportion of bacterial cells that grew in the presence of 128 micrograms of methicillin per ml was calculated for each methicillin-resistant isolate. Those with every cell or 1 in 10 cells resistant to 128 micrograms of methicillin per ml included the isolates that were most resistant to the cephalosporins and highly resistant to methicillin. Those with 1 cell resistant in 10(5) or 10(6) cells were the isolates most susceptible to the cephalosporins, and their methicillin MICs were lower. When cells resistant to 128 micrograms of methicillin per ml were used as inocula for broth microdilution tests, resistance to cephradine remained the same, but resistance to ceftriaxone, cephalothin, and cefamandole increased significantly. Cefamandole was the only cephalosporin which retained antibacterial activity against some methicillin-resistant isolates (12 of 26). Cephradine, ceftriaxone, cephalothin, and cefamandole resistance appeared to be expressed by the same cells that expressed methicillin resistance. In this way, cross resistance was demonstrated between methicillin and the cephalosporins.\r"
+ }, 
+ {
+  ".I": "33156", 
+  ".M": "Adolescence; Carcinogens/AE; Child; Child, Preschool; Employment; Family; Female; Hodgkin's Disease/*ET; Human; Infant; Infant, Newborn; Leukemia/*ET; Lymphoma, Non-Hodgkin's/*ET; Male; Morbidity; Parents; Pregnancy; Pregnancy Complications; Prenatal Exposure Delayed Effects; Radiography/AE; Risk; Support, Non-U.S. Gov't.\r", 
+  ".A": [
+   "McKinney", 
+   "Cartwright", 
+   "Saiu", 
+   "Mann", 
+   "Stiller", 
+   "Draper", 
+   "Hartley", 
+   "Hopton", 
+   "Birch", 
+   "Waterhouse", 
+   "et"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Arch Dis Child 8707; 62(3):279-87\r", 
+  ".T": "The inter-regional epidemiological study of childhood cancer (IRESCC): a case control study of aetiological factors in leukaemia and lymphoma [published erratum appears in Arch Dis Child 1987 Jun;62(6):644]\r", 
+  ".U": "87183625\r", 
+  ".W": "The inter-regional epidemiological study of childhood cancer analysed data on 234 children diagnosed with leukaemia or lymphoma and 468 controls matched for age and sex. A wide range of potential risk factors was examined, including prenatal exposure to x rays, maternal drug ingestion and smoking, child's medical history, and parental medical conditions and occupation. Calculations were completed for leukaemia or lymphoma and diagnostic subgroups, as defined by laboratory confirmed cell type. In utero exposure to narcotic analgesics was weakly associated with leukaemia or lymphoma but no other antenatal factors gave significant risks. New associations were identified for skin diseases in both parents and congenital abnormalities in the mothers of children with leukaemia. For past medical conditions in the child, viral disease occurring under 6 months of age increased the risk for acute lymphoblastic leukaemia. Fewer children in the leukaemia or lymphoma group had been immunised compared with the control groups. Case children diagnosed over the age of 9 years were more likely than controls to have had four or more previous episodes of illness. Overall, these results indicate that prenatal factors may be less important than postnatal or genetic influences in the development of leukaemia or lymphoma in children.\r"
+ }, 
+ {
+  ".I": "33157", 
+  ".M": "Animal; Body Weight; Hemoglobins/AN; Iron/AD/*DF/TU; Male; Myeloperoxidase/*ME; Neutrophils/EN/*PH; Oxygen/*ME; Phagocytosis; Rats; Rats, Inbred Strains; Superoxide/ME; Support, U.S. Gov't, P.H.S.; Tetradecanoylphorbol Acetate/PD; Zymosan/PD.\r", 
+  ".A": [
+   "Murakawa", 
+   "Bland", 
+   "Willis", 
+   "Dallman"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Blood 8708; 69(5):1464-8\r", 
+  ".T": "Iron deficiency and neutrophil function: different rates of correction of the depressions in oxidative burst and myeloperoxidase activity after iron treatment.\r", 
+  ".U": "87185839\r", 
+  ".W": "The polymorphonuclear granulocyte (PMN) kills ingested bacteria by mechanisms that include myeloperoxidase (MPO) and a sudden increase in oxygen consumption (the oxidative burst), both of which are iron dependent. The magnitude of the oxidative burst and activity of MPO were determined in PMNs during the progression of iron deficiency (ID) and following its treatment in rats. As ID developed, the oxidative burst after zymosan activation was less depressed than the activity of MPO. There was no change in the oxidative burst after activation with phorbol myristate acetate (PMA) or in the generation of superoxide (O2-) by NADPH oxidase-containing particles from PMNs. Following iron treatment, impairment of the oxidative burst after zymosan activation was corrected after 1 day. In contrast, the deficit in MPO activity was not corrected until 7 days after initiation of iron treatment. The pattern of recovery in MPO activity after iron treatment corresponded to the prolonged period of maturation of the PMN primary granule since the formation of primary granules, which contain MPO, takes place only in the early, mitotic stages of maturation. The tendency of the PMN to maintain the oxidative burst allows the cell to preserve its capacity for bacterial killing during the progression of iron deficiency.\r"
+ }, 
+ {
+  ".I": "33158", 
+  ".M": "Acid-Base Equilibrium/*; Adolescence; Adult; Child; Comparative Study; Cystic Fibrosis/DT/*ME; Duodenum/*ME; Female; Food; Human; Hydrogen-Ion Concentration; Intestinal Absorption; Lipase/TU; Male; Pancreatic Extracts/TU; Pancreatin/TU; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S.; Tablets, Enteric-Coated.\r", 
+  ".A": [
+   "Youngberg", 
+   "Berardi", 
+   "Howatt", 
+   "Hyneck", 
+   "Amidon", 
+   "Meyer", 
+   "Dressman"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Dig Dis Sci 8708; 32(5):472-80\r", 
+  ".T": "Comparison of gastrointestinal pH in cystic fibrosis and healthy subjects.\r", 
+  ".U": "87189521\r", 
+  ".W": "The primary objective of this study was to define the pH conditions under which supplemental pancreatic enzyme preparations must function in the upper gastrointestinal tract. The hypothesis was that normal or greater acid output in patients with cystic fibrosis (CF), combined with low pancreatic bicarbonate output, results in an acidic duodenal pH, compromising both dosage-form performance and enzyme activity. Gastrointestinal pH profiles were obtained in 10 CF and 10 healthy volunteers under fasting and postprandial conditions. A radiotelemetric monitoring method, the Heidelberg capsule, was used to continuously monitor pH. Postprandial duodenal pH was lower in CF than in healthy subjects, especially in the first postprandial hour (mean time greater than pH 6 was 5 min in CF, 11 min in healthy subjects, P less than 0.05). Based on the dissolution pH profiles of current enteric-coated pancreatic enzyme products, the duodenal postprandial pH in CF subjects may be too acidic to permit rapid dissolution of current enteric-coated dosage forms. However, the pH was above 4 more than 90% of the time on the average, suggesting that irreversible lipase inactivation in the duodenum is not likely to be a significant limitation to enzyme efficacy. Overall results suggest that slow dissolution of pH-sensitive coatings, rather than enzyme inactivation, may contribute to the failure of enteric-coated enzyme supplements to normalize fat absorption.\r"
+ }, 
+ {
+  ".I": "33159", 
+  ".M": "Consumer Satisfaction/EC/TD; Critical Care/EC/TD; Delivery of Health Care/EC/TD; Nursing Staff, Hospital/SD; Quality of Health Care/EC/*TD; United States.\r", 
+  ".A": [
+   "Dunbar"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Heart Lung 8708; 16(3):23A, 26A-27A, 30A passim\r", 
+  ".T": "Quality: from imperatives to innovations.\r", 
+  ".U": "87193854\r", 
+  ".W": "I have outlined the quality issues facing critical care nurses today and have also presented some challenges for the future. Critical care nurses must now enter a new era characterized by unification, collaboration and involvement, increased professional autonomy, and caring to meet the customer's expectations for quality in fact and quality in perception. Through innovation, critical care nurses can control the pace of change and influence quality in critical care. Recall the kaleidoscope and remember that its intent is to make the whole seem more than the sum of its parts. The image on the horizon is a dynamic and powerful nursing profession as a whole, with critical care nurses assuming an essential and more important role. In fact, the image on the horizon looks bright to me.\r"
+ }, 
+ {
+  ".I": "33160", 
+  ".M": "Absenteeism; Critical Care/*PX; Hospital Bed Capacity, 500 and over; Hospitals, Teaching; Human; Nursing Staff, Hospital/*PX; Occupational Diseases/*PX; Ontario; Questionnaires; Stress, Psychological/*PX.\r", 
+  ".A": [
+   "MacNeil", 
+   "Weisz"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Heart Lung 8708; 16(3):274-7\r", 
+  ".T": "Critical care nursing stress: another look.\r", 
+  ".U": "87193860\r"
+ }, 
+ {
+  ".I": "33161", 
+  ".M": "Adult; Critical Care/*PX; Female; Human; Life Change Events/*; Male; Middle Age; Nursing Staff, Hospital/*PX; Occupational Diseases/*DI/ET/PX; Psychological Tests/MT; Questionnaires; Stress, Psychological/*DI/ET/PX; Support, Non-U.S. Gov't.\r", 
+  ".A": [
+   "Spoth", 
+   "Konewko"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Heart Lung 8708; 16(3):278-84\r", 
+  ".T": "Intensive care staff stressors and life event changes across multiple settings and work units [published erratum appears in Heart Lung 1987 Nov;16(6 Pt 1):705]\r", 
+  ".U": "87193861\r"
+ }, 
+ {
+  ".I": "33162", 
+  ".M": "Cardiac Output/*; Comparative Study; Evaluation Studies; Heart Catheterization/MT; Human; Ice; Oxygen/BL; Temperature/*; Thermodilution/IS/MT; Time Factors.\r", 
+  ".A": [
+   "Daily", 
+   "Mersch"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Heart Lung 8708; 16(3):294-300\r", 
+  ".T": "Thermodilution cardiac outputs using room and ice temperature injectate: comparison with the Fick method.\r", 
+  ".U": "87193863\r"
+ }, 
+ {
+  ".I": "33163", 
+  ".M": "Activities of Daily Living; Analysis of Variance; Comparative Study; Evaluation Studies; Hospitalization; Hospitals, Urban; Human; Michigan; Myocardial Infarction/NU/*RH; Patient Discharge; Patient Education/*/MT; Psychological Tests; Support, Non-U.S. Gov't.\r", 
+  ".A": [
+   "Raleigh", 
+   "Odtohan"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Heart Lung 8708; 16(3):311-7\r", 
+  ".T": "The effect of a cardiac teaching program on patient rehabilitation.\r", 
+  ".U": "87193866\r"
+ }, 
+ {
+  ".I": "33164", 
+  ".M": "Adult; Aged; Case Report; Catheters, Indwelling/AE; Cross Infection/DI/*ET; Fluid Therapy/*AE; Human; Infusions, Intravenous/*AE; Male; Thrombophlebitis/DI/*ET.\r", 
+  ".A": [
+   "Sacks-Berg", 
+   "Strampfer", 
+   "Cunha"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Heart Lung 8708; 16(3):318-20\r", 
+  ".T": "Suppurative thrombophlebitis caused by intravenous line sepsis.\r", 
+  ".U": "87193867\r"
+ }, 
+ {
+  ".I": "33165", 
+  ".M": "Models, Theoretical/*; Nursing Care/*; Research/MT.\r", 
+  ".A": [
+   "Mishel"
+  ], 
+  ".P": "EDITORIAL.\r", 
+  ".S": "Heart Lung 8708; 16(3):321-2\r", 
+  ".T": "Consider an alternative [editorial]\r", 
+  ".U": "87193868\r"
+ }, 
+ {
+  ".I": "33166", 
+  ".M": "Adolescence; Adult; Child; Coma/*TH; Decision Making; Human; Informed Consent/*LJ; Patient Advocacy/LJ.\r", 
+  ".A": [
+   "Erickson", 
+   "Hopkins"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Heart Lung 8708; 16(3):323-5\r", 
+  ".T": "Gray areas: informed consent in pediatric and comatose adult patients.\r", 
+  ".U": "87193869\r"
+ }, 
+ {
+  ".I": "33168", 
+  ".M": "Human; Nursing Staff, Hospital/*; Research/MT; Research Support/*.\r", 
+  ".A": [
+   "Stangeland"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Heart Lung 8708; 16(3):341\r", 
+  ".T": "Networking and working with a mentor: keys to eliciting support for clinical research as a staff nurse [letter]\r", 
+  ".U": "87193871\r"
+ }, 
+ {
+  ".I": "33169", 
+  ".M": "Human; Respiration, Artificial/*MT; Sodium Chloride/*AD.\r", 
+  ".A": [
+   "Sievers", 
+   "Donald"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Heart Lung 8708; 16(3):342-3\r", 
+  ".T": "The use of bolus normal saline instillations in artificial airways: is it useful or necessary? [letter]\r", 
+  ".U": "87193872\r"
+ }, 
+ {
+  ".I": "33170", 
+  ".M": "Cholesterol/*AN; Cholesterol, Dietary/*AD; Food Analysis; Human.\r", 
+  ".A": [
+   "Smith"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Heart Lung 8708; 16(3):343\r", 
+  ".T": "Cholesterol knowledge, avoidance, and monitoring among the American public [letter]\r", 
+  ".U": "87193873\r"
+ }, 
+ {
+  ".I": "33171", 
+  ".M": "Burns/*NU; Education, Nursing, Continuing; Human; Nurse Clinicians/*; Questionnaires; Role/*.\r", 
+  ".A": [
+   "Gonzales"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "J Burn Care Rehabil 8708; 8(1):25-7\r", 
+  ".T": "Burn clinical nurse specialist/nurse clinician roles and role development.\r", 
+  ".U": "87194999\r"
+ }, 
+ {
+  ".I": "33172", 
+  ".M": "Burn Units/OG; Burns/*CO; Human; Texas; Wound Infection/*TH.\r", 
+  ".A": [
+   "McManus"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "J Burn Care Rehabil 8708; 8(1):32-5\r", 
+  ".T": "Patterns of infection over the past ten years. Historical patterns.\r", 
+  ".U": "87195001\r"
+ }, 
+ {
+  ".I": "33174", 
+  ".M": "Bacterial Infections/PC; Burn Units; Burns/CO/*NU; Drug Resistance, Microbial; Gram-Negative Bacteria; Hospital Design and Construction; Human; Wound Infection/*NU/PC.\r", 
+  ".A": [
+   "Marvin"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "J Burn Care Rehabil 8708; 8(1):35-9\r", 
+  ".T": "Patterns of infection over the past ten years. Resistance patterns.\r", 
+  ".U": "87195003\r"
+ }, 
+ {
+  ".I": "33175", 
+  ".M": "Adolescence; Adult; Antibiotics/*TU; Bacterial Infections/*PC; Burns/*CO; Candidiasis/PC; Child; Human; Middle Age; Nystatin/TU; Wound Infection/MI/*PC.\r", 
+  ".A": [
+   "Purdue"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "J Burn Care Rehabil 8708; 8(1):39-43\r", 
+  ".T": "Patterns of infection over the past ten years. Infection patterns, 1982-1984.\r", 
+  ".U": "87195004\r"
+ }, 
+ {
+  ".I": "33176", 
+  ".M": "Antibiotics/TU; Bacterial Infections/EP/PC; Burns/*CO; Candidiasis/EP/PC; Human; Wound Infection/*EP/MO/PC.\r", 
+  ".A": [
+   "Ward"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "J Burn Care Rehabil 8708; 8(1):43-6\r", 
+  ".T": "Patterns of infection over the past ten years. Emerging patterns.\r", 
+  ".U": "87195005\r"
+ }, 
+ {
+  ".I": "33177", 
+  ".M": "Adolescence; Adult; Aged; Antibiotics/*TU; Bacteria/DE/IP; Bacterial Infections/DT/*MI; Blood/*MI; Burns/*CO; Human; Microbial Sensitivity Tests; Middle Age; Wound Infection/DT/*MI.\r", 
+  ".A": [
+   "Boswick"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "J Burn Care Rehabil 8708; 8(1):46-8\r", 
+  ".T": "Patterns of infection over the past ten years. Blood culture patterns.\r", 
+  ".U": "87195006\r"
+ }, 
+ {
+  ".I": "33178", 
+  ".M": "Bacterial Infections/*MI; Biopsy; Burns/*CO/MI; Human; Wound Infection/*MI.\r", 
+  ".A": [
+   "Yurt"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "J Burn Care Rehabil 8708; 8(1):48-9\r", 
+  ".T": "Patterns of infection over the past ten years. Biopsy patterns.\r", 
+  ".U": "87195007\r"
+ }, 
+ {
+  ".I": "33179", 
+  ".M": "Administration, Topical; Anti-Infective Agents, Local/*AD/TU; Bacterial Infections/*PC; Burns/*CO; Cross Infection/PC; Human; Wound Infection/*PC.\r", 
+  ".A": [
+   "Hartford"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "J Burn Care Rehabil 8708; 8(1):49-53\r", 
+  ".T": "Patterns of infection over the past ten years. Topical therapy for infection control.\r", 
+  ".U": "87195008\r"
+ }, 
+ {
+  ".I": "33180", 
+  ".M": "Adolescence; Bacterial Infections/*MO; Burns/*CO/MO; Candidiasis/*MO; Child; Human; Wound Infection/*MO.\r", 
+  ".A": [
+   "Law"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "J Burn Care Rehabil 8708; 8(1):53-5\r", 
+  ".T": "Patterns of infection over the past ten years. Mortality patterns.\r", 
+  ".U": "87195009\r"
+ }, 
+ {
+  ".I": "33181", 
+  ".M": "Burn Units/*; Burns/*RH/*TH; Chicago; Hospitals, University; Human; Intensive Care Units/*; Physical Therapy/*.\r", 
+  ".A": [
+   "Johnson", 
+   "Schubert"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "J Burn Care Rehabil 8708; 8(1):56-60\r", 
+  ".T": "University of Chicago Burn Center: physical therapists care for wounds.\r", 
+  ".U": "87195010\r"
+ }, 
+ {
+  ".I": "33182", 
+  ".M": "Aged; Burns/*PC; Child; Child, Preschool; Health Education; Heat; Human; Parents/ED; Risk; Water.\r", 
+  ".A": [
+   "Maley", 
+   "Achauer"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "J Burn Care Rehabil 8708; 8(1):61-5\r", 
+  ".T": "Prevention of tap water scald burns.\r", 
+  ".U": "87195011\r"
+ }, 
+ {
+  ".I": "33183", 
+  ".M": "Accidents, Home/PC; Burns/*PC; Child; Household Articles/*; Human.\r", 
+  ".A": [
+   "Thompson", 
+   "Achauer"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "J Burn Care Rehabil 8708; 8(1):66\r", 
+  ".T": "Need a gift? Burn prevention forum.\r", 
+  ".U": "87195012\r"
+ }, 
+ {
+  ".I": "33184", 
+  ".M": "Burn Units/*ST; Burns/CO/*NU; Human; Intensive Care Units/*ST; Quality Assurance, Health Care; Wound Infection/*PC.\r", 
+  ".A": [
+   "Gordon"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "J Burn Care Rehabil 8708; 8(1):67\r", 
+  ".T": "Burn care protocols--infection control in the burn unit. Introduction.\r", 
+  ".U": "87195013\r"
+ }, 
+ {
+  ".I": "33186", 
+  ".M": "Burn Units/*ST; Burns/CO/*NU; Cross Infection/PC; Florida; Hospitals, University; Human; Hygiene; Intensive Care Units/*ST; Quality Assurance, Health Care; Wound Infection/*PC.\r", 
+  ".A": [
+   "Varas"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "J Burn Care Rehabil 8708; 8(1):68-70\r", 
+  ".T": "Burn care protocols--infection control in the burn unit. University of Miami/Jackson Memorial Hospital Burn Center.\r", 
+  ".U": "87195015\r"
+ }, 
+ {
+  ".I": "33187", 
+  ".M": "Burn Units/*ST; Burns/CO/*NU; Cross Infection/PC; Human; Hygiene; Intensive Care Units/*ST; Quality Assurance, Health Care; Texas; Wound Infection/*PC.\r", 
+  ".A": [
+   "Walter", 
+   "Rodgers"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "J Burn Care Rehabil 8708; 8(1):70-1\r", 
+  ".T": "Burn care protocols--infection control in the burn unit. Review of infection control procedure at Jackson Memorial Hospital Burn Center, from Parkland Memorial Hospital, Dallas.\r", 
+  ".U": "87195016\r"
+ }, 
+ {
+  ".I": "33188", 
+  ".M": "Burn Units/*ST; Burns/CO/*NU; Human; Intensive Care Units/*ST; Washington; Wound Infection/*PC.\r", 
+  ".A": [
+   "Marvin"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "J Burn Care Rehabil 8708; 8(1):71\r", 
+  ".T": "Burn care protocols--infection control in burn unit. Review of infection control procedure at Jackson Memorial Hospital Burn Center, From Harborview Hospital, Seattle.\r", 
+  ".U": "87195017\r"
+ }, 
+ {
+  ".I": "33189", 
+  ".M": "Animal; Complement/*IM; Complement 1/IM; Complement 2/IM; Complement 4/IM; Complement 9/IM; Giardia/*IM; Human; IgM/ME; Kinetics; Properdin Factor B/IM; Support, U.S. Gov't, P.H.S..\r", 
+  ".A": [
+   "Deguchi", 
+   "Gillin", 
+   "Gigli"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "J Clin Invest 8708; 79(5):1296-302\r", 
+  ".T": "Mechanism of killing of Giardia lamblia trophozoites by complement.\r", 
+  ".U": "87195422\r", 
+  ".W": "Only antibodies of the IgM class support the lytic effect of complement on Giardia lamblia (GL). We sensitized GL trophozoites (SGL) at 4 degrees C with serum containing anti-GL antibodies or IgM purified from this serum, and either normal human serum (NHS), complement 2-deficient human serum (C2d-HS), or C4-deficient guinea pig serum was used as source of complement. SGL were killed by NHS (86%) and by the deficient sera (50 and 40%, respectively), suggesting activation of the alternative pathway. However, the reaction was inhibited by Mg-EGTA. These observations led to studies of the role of C1. The lytic effect of NHS and C2d-HS on SGL was abolished by immunochemically depleting C1 from these sera, and reconstituted by adding purified C1q plus C1r and C1s. Factor B-depleted C2d-HS also lost its capacity to mediate killing, but reconstitution with factor B led to a dose-dependent increase in the killing of SGL. We next investigated the participation of the membrane attack complex in this system. SGL carrying C5b to C7 were lysed when incubated with C8 alone (56%); the addition of C9 further increased killing (98%), while C9 in the absence of C8 had no effect. We concluded that although activation of the classical pathway produces lysis of SGL, lysis may also proceed through a unique pathway of complement activation that requires C1 and factor B, but is independent of C4 and C2. Lysis of SGL can be accomplished by C5b to C8 in the absence of C9.\r"
+ }, 
+ {
+  ".I": "33190", 
+  ".M": "Animal; Autoradiography; Hydrogen Peroxide/*TO; Kidney Glomerulus/*DE; Microscopy, Electron; Myeloperoxidase/*ME; Proteinuria/ME; Rats; Rats, Inbred Strains; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S..\r", 
+  ".A": [
+   "Johnson", 
+   "Couser", 
+   "Chi", 
+   "Adler", 
+   "Klebanoff"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "J Clin Invest 8708; 79(5):1379-87\r", 
+  ".T": "New mechanism for glomerular injury. Myeloperoxidase-hydrogen peroxide-halide system.\r", 
+  ".U": "87195435\r", 
+  ".W": "Reactive oxygen species, particularly hydrogen peroxide (H2O2), participate in neutrophil-mediated glomerulonephritis. However, the mechanism of H2O2 neptrotoxicity is unknown. Myeloperoxidase (MPO), a neutrophil cationic enzyme that localizes in glomeruli, can react with H2O2 and halides to form highly reactive products. We tested the hypothesis that the MPO-H2O2-halide system may induce glomerular injury by infusing MPO followed by H2O2 in a chloride-containing solution into the renal artery of rats. Controls received MPO or H2O2 alone. MPO-H2O2-perfused rats developed significant proteinuria, endothelial cell swelling, and epithelial cell foot process effacement, whereas control kidneys were normal. In the presence of free 125I, MPO-H2O2-perfused rats incorporated large amounts of 125I, localized to the glomerular basement membrane and mesangium by autoradiography, into glomeruli. Glomerular iodination was greatly decreased or absent in controls. The MPO-H2O2-halide system causes glomerular injury and may be important in neutrophil-mediated glomerulonephritis.\r"
+ }, 
+ {
+  ".I": "33191", 
+  ".M": "Antibodies, Monoclonal/DU; Blood Platelets/*IM; Flow Cytometry; Human; IgG/IM; Platelet Aggregation; Receptors, Fc/GE/*IM; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S.; Variation (Genetics).\r", 
+  ".A": [
+   "Rosenfeld", 
+   "Ryan", 
+   "Looney", 
+   "Anderson", 
+   "Abraham", 
+   "Leddy"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "J Immunol 8708; 138(9):2869-73\r", 
+  ".T": "Human Fc gamma receptors: stable inter-donor variation in quantitative expression on platelets correlates with functional responses.\r", 
+  ".U": "87196406\r", 
+  ".W": "Evidence has recently been presented that a 40,000 dalton membrane sialoglycoprotein (p40) shared by monocytes and granulocytes serves as the human platelet receptor for aggregated IgG. We now report that the platelets of normal donors exhibit stable quantitative differences in the expression of this receptor molecule, as determined by flow cytometry using fluorescent staining with murine monoclonal antibody to p40 (mab IV.3). These inter-donor differences were reproducible on repeated testing over at least 4 mo. In concurrent assays, the binding of mab IV.3 to each donor's platelets was highly correlated with the binding of heat-aggregated human IgG, also assayed by flow cytometry. The biological relevance of this quantitative variation in IV.3 binding is suggested by its reproducible correlation with platelet responsiveness to aggregated IgG measured by aggregometry. Such stable quantitative variation in platelet Fc receptor expression among individual humans could contribute to differences in severity of certain pathologic processes initiated by IgG-containing immune complexes.\r"
+ }, 
+ {
+  ".I": "33192", 
+  ".M": "Animal; Antibodies, Monoclonal/*ME; Antibody-Dependent Cell Cytotoxicity/*; Antigen-Antibody Complex; Antigens, Surface/AN; Human; IgG/*ME; Immunoglobulin Isotypes; Lymphocytes/CL/*ME; Mice; Receptors, Fc/*ME; Support, U.S. Gov't, P.H.S..\r", 
+  ".A": [
+   "Anasetti", 
+   "Martin", 
+   "Morishita", 
+   "Badger", 
+   "Bernstein", 
+   "Hansen"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "J Immunol 8708; 138(9):2979-81\r", 
+  ".T": "Human large granular lymphocytes express high affinity receptors for murine monoclonal antibodies of the IgG3 subclass.\r", 
+  ".U": "87196424\r", 
+  ".W": "We have evaluated the ability of murine monoclonal antibodies to mediate antibody-dependent cell-mediated cytotoxicity (ADCC) by human lymphoid cells. Purified large granular lymphocytes (LGL) and interleukin 2-dependent cloned LGL lines having a CD2+/CD16+/CD3- phenotype were tested as effector cells in an ADCC assay by using a family of IgG isotype switch variant anti-Thy-1.1 antibodies against 51Cr-labeled Thy-1.1+ murine SL2 thymoma target cells, a system in which human cells have no spontaneous cytotoxicity. Cytotoxicity was greatest when using the IgG3, followed in rank order by the IgG2a and IgG2b. No cytotoxicity was observed with the IgG1 antibody. Because the antigen-binding regions of the antibodies are identical, the differences in cytotoxicity directly reflect the relative affinity of LGL Fc receptors for each antibody isotype.\r"
+ }, 
+ {
+  ".I": "33193", 
+  ".M": "Animal; Antibodies, Monoclonal/*IM; Antibody Specificity; Antigen-Antibody Reactions; Basophils/IM; Binding, Competitive; Histamine Liberation/*; IgE/*ME; Macromolecular Systems; Mast Cells/*IM; Mice; Rats; Receptors, Fc/*IM; Support, Non-U.S. Gov't.\r", 
+  ".A": [
+   "Baniyash", 
+   "Alkalay", 
+   "Eshhar"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "J Immunol 8708; 138(9):2999-3004\r", 
+  ".T": "Monoclonal antibodies specific to the alpha-subunit of the mast cell's Fc epsilon R block IgE binding and trigger histamine release.\r", 
+  ".U": "87196428\r", 
+  ".W": "In an attempt to block the interactions between IgE and its receptor on mast cells (Fc epsilon R), we have established anti-Fc epsilon R monoclonal antibodies (mAb) by fusion of myeloma cells with mouse splenocytes immunized with irradiated rat basophilic leukemia (RBL) cells. Two anti-Fc epsilon R mAb were obtained (denoted 4.7 and 5.14) that could specifically bind to RBL and mast cells. This binding could be inhibited by IgE. The mAb and their F(ab')2 fragments inhibited 125I-IgE binding to RBL cell and triggered cell degranulation. The Fab' fragments, on the other hand, could only inhibit IgE binding but did not stimulate cell degranulation. Furthermore, these monovalent fragments inhibited RBL and mast cell degranulation induced by IgE-antigen complexes both in vitro and in vivo in the passive cutaneous anaphylaxis reaction. The number of mAb 4.7 and 5.14 molecules bound per RBL cells was similar to that of IgE; nevertheless, mAb 4.7 and 5.14 recognized different epitopes on the IgE receptor. Immunoprecipitation and immunoblotting analysis demonstrated that the mAb reacted with the alpha-subunit of the Fc epsilon R. Our findings establish the anti-Fc epsilon R mAb as a useful reagent for the isolation and characterization of the Fc epsilon R's alpha-subunit and the monomeric (Fab') for blocking the IgE-Fc epsilon R interactions.\r"
+ }, 
+ {
+  ".I": "33194", 
+  ".M": "Evaluation Studies; Factor XII/AN; Female; Human; Kallikrein/*BL; Kininogens/BL; Microchemistry; Prekallikrein/*BL; Protease Inhibitors/PD; Spectrophotometry; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S..\r", 
+  ".A": [
+   "De", 
+   "Scott", 
+   "Colman"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "J Lab Clin Med 8708; 109(5):601-7\r", 
+  ".T": "Evaluation of a microassay for human plasma prekallikrein.\r", 
+  ".U": "87196881\r", 
+  ".W": "Current methods for determining plasma prekallikrein, one of three zymogens of the contact phase of plasma proteolysis, are laborious and impractical for general use in a clinical laboratory. Therefore, we have developed a simple, reliable assay using commercially available reagents. By use of the substrate H-D-Pro-Phe-Arg-p-nitroanilide-HCI (S-2302), a functional assay, performed in a 96-well microplate, was designed to measure prekallikrein in plasma. Measures were taken to destroy the naturally occurring plasma protease inhibitors of kallikrein without affecting the integrity of the plasma prekallikrein, which allowed complete activation of the zymogen to virtually 100% of predicted activity when compared with that of purified kallikrein. Besides permitting full activation, the use of low pH to destroy critical plasma protease inhibitors allowed the conversion of prekallikrein to kallikrein in as many as 44 plasma samples at one time without the tedious individual timing step usually required to activate each sample. An excellent correlation was found (r = 0.92) when this functional microassay was compared with a functional spectrophotometric assay performed in three subject populations: normal individuals, women receiving oral contraceptives (who frequently exhibit high plasma prekallikrein concentrations), and patients with liver disease (who manifest low plasma prekallikrein levels). This plasma prekallikrein microassay should facilitate the increased determination of plasma prekallikrein in pathophysiologic conditions as well as the monitoring of the progression of various diseases in which contact activation occurs.\r"
+ }, 
+ {
+  ".I": "33195", 
+  ".M": "Adult; Communication; Comparative Study; Health Facilities/*; Health Facility Environment/ST; Health Facility Moving/*; Human; Job Satisfaction/*; Kentucky; Middle Age; Nursing Staff, Hospital/*PX; Self Concept.\r", 
+  ".A": [
+   "Ireson", 
+   "Powers"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "J Nurs Adm 8708; 17(5):15-20\r", 
+  ".T": "Relocation: the impact on staff nurses.\r", 
+  ".U": "87197658\r", 
+  ".W": "To stay competitive in the marketplace, many hospitals are renovating their physical plants to a more hotel-like appearance. Others are downsizing their units, reflecting the decreased demand for acute care beds. As these changes are made, patients and nurses are temporarily relocated to other places in the institution. How does this relocation of nurses impact their professional functioning and self-esteem? Based on their study of four groups of nurses who were relocated, the authors discuss their recommendations for making relocation a positive experience.\r"
+ }, 
+ {
+  ".I": "33196", 
+  ".M": "Administrative Personnel/*; Data Collection/MT; Decision Making, Organizational/*; Fees and Charges; Nurse Administrators/*; Nursing Staff, Hospital/EC/UT; Physical Therapy Department, Hospital/EC; Professional Staff Committees; Time Factors.\r", 
+  ".A": [
+   "Barhyte", 
+   "Christman"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "J Nurs Adm 8708; 17(5):21-4\r", 
+  ".T": "Administrator decisions: data are better than opinions.\r", 
+  ".U": "87197659\r", 
+  ".W": "Nurse executives, in the current economic climate, may be requested to make decisions about resuming tasks that historically had been in the nursing domain but presently are done by other disciplines. Since these decisions shape nursing services in a variety of ways, support by non-nursing colleagues is important. This study reports a decision-making strategy that enhanced receptivity throughout the corporation. The strategy used a data base and involved non-nursing leadership persons in examining the issue.\r"
+ }, 
+ {
+  ".I": "33197", 
+  ".M": "Decision Making; Interviews/*MT; Job Application; Personnel Management/*MT; Personnel Selection/*MT; Problem Solving; Professional Competence.\r", 
+  ".A": [
+   "Walters"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "J Nurs Adm 8708; 17(5):25-9\r", 
+  ".T": "An innovative method of job interviewing.\r", 
+  ".U": "87197660\r", 
+  ".W": "When the right candidate is hired for the right position, both the institution and the individual benefit. The individual has increased job satisfaction, is more likely to remain in the position longer, and is more productive. The author describes a method of job interviewing that objectively measures the abilities of candidates so that the best candidate for the position can be hired.\r"
+ }, 
+ {
+  ".I": "33198", 
+  ".M": "Female; Human; Male; Nurses, Male/*; Obstetrical Nursing/*; Pregnancy; United States.\r", 
+  ".A": [
+   "Brown"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "J Nurs Adm 8708; 17(5):3\r", 
+  ".T": "Male nurses: do they belong in obstetrics?\r", 
+  ".U": "87197661\r"
+ }, 
+ {
+  ".I": "33199", 
+  ".M": "Adult; Burnout, Professional/*PX; Comparative Study; Female; Home Care Services/*; Human; Middle Age; New York; Nursing Staff/*PX; Skilled Nursing Facilities/*; Stress, Psychological/*PX.\r", 
+  ".A": [
+   "Stanek"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "J Nurs Adm 8708; 17(5):3, 29\r", 
+  ".T": "An analysis of professional nurse burnout in two selected nursing care settings.\r", 
+  ".U": "87197662\r"
+ }, 
+ {
+  ".I": "33200", 
+  ".M": "Culture/*; Human; Organizational Objectives; Organizations/*.\r", 
+  ".A": [
+   "del"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "J Nurs Adm 8708; 17(5):30-3\r", 
+  ".T": "An organizational checklist.\r", 
+  ".U": "87197663\r"
+ }, 
+ {
+  ".I": "33201", 
+  ".M": "Credentialing/*MT; Nursing Staff, Hospital/*ST; Pennsylvania; Quality Assurance, Health Care/*.\r", 
+  ".A": [
+   "Murray"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "J Nurs Adm 8708; 17(5):33\r", 
+  ".T": "Credentialing: a pathway to quality.\r", 
+  ".U": "87197664\r"
+ }, 
+ {
+  ".I": "33202", 
+  ".M": "Career Mobility/*; Clinical Competence; Models, Theoretical; Nursing Staff, Hospital/*OG.\r", 
+  ".A": [
+   "Sanford"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "J Nurs Adm 8708; 17(5):34-7\r", 
+  ".T": "Clinical ladders: do they serve their purpose?\r", 
+  ".U": "87197665\r", 
+  ".W": "Clinical ladders may benefit the needs of hospitals and occasionally the needs of individual nurses, but do they meet our professional need to recognize clinical excellence in nursing? Analysis of this issue and its impact on nursing is presented through review of pertinent literature. Conceptual and structural frameworks currently used in clinical ladder programs are discussed. The author then presents a promotional model more appropriate to the needs of nurses and nursing.\r"
+ }, 
+ {
+  ".I": "33203", 
+  ".M": "HIV/*DE; Microbial Sensitivity Tests; Povidone/*AA; Povidone-Iodine/*PD.\r", 
+  ".A": [
+   "Goldenheim"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "JAMA 8708; 257(18):2434\r", 
+  ".T": "Inactivation of HIV by povidone-iodine [letter]\r", 
+  ".U": "87199096\r"
+ }, 
+ {
+  ".I": "33204", 
+  ".M": "Aldosterone/UR; Diet, Sodium-Restricted; Human; Kallikrein/*UR; Kininogens/*UR; Kinins/*UR; Sodium/AD/DU; Support, U.S. Gov't, P.H.S.; Water/DU/PD; Water-Electrolyte Balance/*.\r", 
+  ".A": [
+   "Weinberg", 
+   "Belknap", 
+   "Trebbin", 
+   "Solomon"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Kidney Int 8708; 31(3):836-41\r", 
+  ".T": "Effects of changing salt and water balance on renal kallikrein, kininogen and kinin.\r", 
+  ".U": "87199695\r", 
+  ".W": "The kallikrein-kininogen-kinin system (KKK) has been implicated in the renal sodium excretion response to changes in dietary sodium. However, both increases and decreases in the activity of this system have been observed when urinary sodium excretion is augmented by a variety of maneuvers. To further evaluate the potential physiologic role of this system, we measured three components of the KKK system in urine. Total kallikrein, intact kininogen, and kinin were measured twice in normal individuals during balance on both a high (250 mEq/day) or low (10 mEq/day) sodium intake. A consistent and significant reduction in the activity of all three components of the KKK system was noted during the high salt intake. Furthermore, during the high sodium intake, further acute reductions in components of this system were observed when an acute saline but not water load was administered. The consistent response of the various components of the KKK system to both acute and chronic sodium loading suggests that the system is physiologically linked to the regulation of sodium balance. However, the directional changes argue against a primary natriuretic effect of this system.\r"
+ }, 
+ {
+  ".I": "33205", 
+  ".M": "Blood Glucose/ME; Case Report; Child, Preschool; Hormones, Synthetic/*AD; Human; Hypoglycemia/*ET; Hypopituitarism/BL; Infant, Newborn; Injections, Intramuscular; Male; Risk; Somatomedins/PH; Somatotropin/*AD; Time Factors.\r", 
+  ".A": [
+   "Press", 
+   "Notarfrancesco", 
+   "Genel"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Lancet 8708; 1(8540):1002-4\r", 
+  ".T": "Risk of hypoglycaemia with alternate-day growth hormone injections.\r", 
+  ".U": "87200374\r", 
+  ".W": "Fasting hypoglycaemia developed in three growth hormone deficient children after the start of treatment with synthetic growth hormone. The effects, which occurred 36-60 h after each injection, may have been due to insulin-like effects of endogenous somatomedins after waning of insulin antagonism induced by growth hormone. Daily growth hormone injections may be necessary to maintain normal plasma glucose levels in young children.\r"
+ }, 
+ {
+  ".I": "33206", 
+  ".M": "Adolescence; Child; Child, Preschool; Coxsackie B Viruses/GE/*IP; Coxsackievirus Infections/*MI; Dermatomyositis/*MI; Female; Genes, Viral; Human; Infant; Male; Middle Age; Muscular Dystrophy/MI; Myositis/*MI; Nucleic Acid Hybridization; Retrospective Studies; RNA, Viral/AN; Support, Non-U.S. Gov't.\r", 
+  ".A": [
+   "Bowles", 
+   "Dubowitz", 
+   "Sewry", 
+   "Archard"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Lancet 8708; 1(8540):1004-7\r", 
+  ".T": "Dermatomyositis, polymyositis, and Coxsackie-B-virus infection.\r", 
+  ".U": "87200375\r", 
+  ".W": "Coxsackie-B-virus-specific probes prepared by reverse transcription of purified virus genomic RNA and molecular cloning techniques were used in quantitative slot-blot hybridisations to test for the presence of virus RNA in skeletal muscle biopsy samples. The samples tested were from two patients with adult polymyositis, seven with juvenile dermatomyositis, four with Duchenne muscular dystrophy, and six normal controls. Of the nine patients with inflammatory muscle disease, five were positive for Coxsackie-B-virus RNA; no viral sequences were found in the ten Duchenne muscular dystrophy and control biopsy samples.\r"
+ }, 
+ {
+  ".I": "33210", 
+  ".M": "Adult; Animal; Cattle; Chronic Disease; Comparative Study; Crohn Disease/*ET/MI/VE; Human; Infant; Mycobacterium/IP; Paratuberculosis/*ET/MI.\r", 
+  ".A": [
+   "Morgan"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Lancet 8708; 1(8540):1017-9\r", 
+  ".T": "Johne's and Crohn's. Chronic inflammatory bowel diseases of infectious aetiology?\r", 
+  ".U": "87200383\r"
+ }, 
+ {
+  ".I": "33211", 
+  ".M": "Administration, Topical; Adult; Alopecia/*DT/ME; Drug Evaluation; Human; Male; Minoxidil/AD/ME/*TU; Skin Absorption.\r", 
+  ".A": [
+   "de", 
+   "Nater", 
+   "Herxheimer"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Lancet 8708; 1(8540):1019-22\r", 
+  ".T": "Minoxidil: hope for the bald?\r", 
+  ".U": "87200384\r"
+ }, 
+ {
+  ".I": "33212", 
+  ".M": "Anoxemia/*PC; Duodenoscopy/AE; Endoscopy/*AE; Esophagoscopy/AE; Female; Gastroscopy/AE; Human; Injections, Intravenous; Intubation, Gastrointestinal/*; Male; Midazolam/AD; Middle Age; Oxygen/*AD; Support, Non-U.S. Gov't.\r", 
+  ".A": [
+   "Bell", 
+   "Bown", 
+   "Morden", 
+   "Coady", 
+   "Logan"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Lancet 8708; 1(8540):1022-4\r", 
+  ".T": "Prevention of hypoxaemia during upper-gastrointestinal endoscopy by means of oxygen via nasal cannulae.\r", 
+  ".U": "87200385\r", 
+  ".W": "Hypoxaemia during oesophagogastroduodenoscopy is well documented and contributes to cardiac arrhythmias and occasional deaths from endoscopy. In 50 patients sedated with intravenous midazolam and examined with a large-diameter endoscope, oxygen desaturation was abolished by giving oxygen (2 litres/min) by way of nasal cannulae throughout the procedure.\r"
+ }, 
+ {
+  ".I": "33213", 
+  ".M": "Administration, Oral; Carbamazepine/*PO; Charcoal/*AD; Half-Life; Human.\r", 
+  ".A": [
+   "Boldy", 
+   "Heath", 
+   "Ruddock", 
+   "Vale", 
+   "Prescott"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8708; 1(8540):1027\r", 
+  ".T": "Activated charcoal for carbamazepine poisoning [letter]\r", 
+  ".U": "87200388\r"
+ }, 
+ {
+  ".I": "33214", 
+  ".M": "Aluminum/*ME; Animal; Brain/*ME; Central Nervous System/*ME; Nose/*ME; Olfactory Pathways/*ME; Rabbits; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S..\r", 
+  ".A": [
+   "Perl", 
+   "Good"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8708; 1(8540):1028\r", 
+  ".T": "Uptake of aluminium into central nervous system along nasal-olfactory pathways [letter]\r", 
+  ".U": "87200389\r"
+ }, 
+ {
+  ".I": "33215", 
+  ".M": "Antibodies, Viral/*AN; Caucasoid Race/*; Cuba; Dengue Virus/*IM; Human.\r", 
+  ".A": [
+   "Morier", 
+   "Kouri", 
+   "Guzman", 
+   "Soler"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8708; 1(8540):1028-9\r", 
+  ".T": "Antibody-dependent enhancement of dengue 2 virus in people of white descent in Cuba [letter]\r", 
+  ".U": "87200390\r"
+ }, 
+ {
+  ".I": "33216", 
+  ".M": "Coronary Disease/*MO; Human; New Zealand.\r", 
+  ".A": [
+   "Beaglehole"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8708; 1(8540):1031\r", 
+  ".T": "Coronary heart disease mortality rates [letter]\r", 
+  ".U": "87200394\r"
+ }, 
+ {
+  ".I": "33217", 
+  ".M": "Acquired Immunodeficiency Syndrome/*IM; Adult; Case Report; Delta Agent/*IM; Delta Infection/IM; Hepatitis Antibodies/*AN; Hepatitis B Antigens/*AN; Human; Male; Middle Age.\r", 
+  ".A": [
+   "Grippon", 
+   "Ribiere", 
+   "Cadranel", 
+   "Pelletier", 
+   "Pillot", 
+   "Emerit", 
+   "Opolon"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8708; 1(8540):1031\r", 
+  ".T": "Long-term delta antigenaemia without appearance of delta antibody in two immunodeficient patients [letter]\r", 
+  ".U": "87200395\r"
+ }, 
+ {
+  ".I": "33218", 
+  ".M": "Aged; Aged, 80 and over; Female; Human; Male; Middle Age; Parkinson Disease, Symptomatic/*CI; Tranquilizing Agents, Major/*AE.\r", 
+  ".A": [
+   "Bamrah", 
+   "Soni"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8708; 1(8540):1031-2\r", 
+  ".T": "Drug-induced Parkinson's disease [letter]\r", 
+  ".U": "87200396\r"
+ }, 
+ {
+  ".I": "33219", 
+  ".M": "Animal; Botulinum Toxins/TO; Botulism/*DI; Diagnosis, Differential; Dogs; Neural Conduction; Polyradiculoneuritis/*DI; Receptors, Sensory/DE.\r", 
+  ".A": [
+   "van"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8708; 1(8540):1033\r", 
+  ".T": "Botulism and Guillain-Barre syndrome [letter]\r", 
+  ".U": "87200399\r"
+ }, 
+ {
+  ".I": "33220", 
+  ".M": "Animal; Female; Fetal Death/*DI; Gonadotropins, Chorionic/AN; Human; Mice; Pregnancy; Pregnancy Complications, Hematologic; Pregnancy Trimester, First; Thrombocytopenia/CO; Time Factors.\r", 
+  ".A": [
+   "McLean"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8708; 1(8540):1033-4\r", 
+  ".T": "Early embryo loss [letter]\r", 
+  ".U": "87200401\r"
+ }, 
+ {
+  ".I": "33221", 
+  ".M": "Administration, Oral; Adult; Afferent Pathways/DE; Case Report; Clonidine/*AD; Comparative Study; Home Care Services; Human; Infusions, Intravenous; Male; Palliative Treatment/*; Paraplegia/CO.\r", 
+  ".A": [
+   "Petros", 
+   "Wright"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8708; 1(8540):1034\r", 
+  ".T": "Epidural and oral clonidine in domiciliary control of deafferentation pain [letter]\r", 
+  ".U": "87200402\r"
+ }, 
+ {
+  ".I": "33222", 
+  ".M": "Case Report; Human; Hyponatremia/CI; Kidney Failure, Acute/*CI; Male; Middle Age; Sucrose/*AE; Wound Infection/*DT.\r", 
+  ".A": [
+   "Debure", 
+   "Gachot", 
+   "Lacour", 
+   "Kreis"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8708; 1(8540):1034-5\r", 
+  ".T": "Acute renal failure after use of granulated sugar in deep infected wound [letter]\r", 
+  ".U": "87200403\r"
+ }, 
+ {
+  ".I": "33223", 
+  ".M": "Statistics/*.\r", 
+  ".A": [
+   "Newman"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8708; 1(8540):1036\r", 
+  ".T": "Confidence intervals [letter]\r", 
+  ".U": "87200405\r"
+ }, 
+ {
+  ".I": "33225", 
+  ".M": "Adolescence; Bahamas; Female; Human; Mothers/PX; Pregnancy/*; Pregnancy in Adolescence/*; Pregnancy, Unwanted/*.\r", 
+  ".A": [
+   "Lovel", 
+   "Antwi", 
+   "Nottage"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8708; 1(8540):1036-7\r", 
+  ".T": "Yesterday's unwanted babies: today's teenage pregnancies [letter]\r", 
+  ".U": "87200407\r"
+ }, 
+ {
+  ".I": "33226", 
+  ".M": "Adolescence; Autoantibodies/*AN; Cytoplasmic Granules/IM; Human; Male; Middle Age; Neutrophils/*IM; Vasculitis/*IM.\r", 
+  ".A": [
+   "Wathen", 
+   "Harrison"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8708; 1(8540):1037\r", 
+  ".T": "Circulating anti-neutrophil antibodies in systemic vasculitis [letter]\r", 
+  ".U": "87200408\r"
+ }, 
+ {
+  ".I": "33227", 
+  ".M": "Adult; Cholesterol/BL; Human; Hypercholesterolemia, Familial/*DI; Infant; Infant, Newborn.\r", 
+  ".A": [
+   "Asami", 
+   "Sakai"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8708; 1(8540):1038\r", 
+  ".T": "Neonatal screening for hypercholesterolaemia [letter]\r", 
+  ".U": "87200410\r"
+ }, 
+ {
+  ".I": "33228", 
+  ".M": "Climacteric/*PX; Depressive Disorder/*DT; Drug Implants; Drug Therapy, Combination; Emotions/*DE; Estrogens/*AD; Female; Human; Irritable Mood/*DE; Norethindrone/AD; Testosterone/*AD.\r", 
+  ".A": [
+   "Sherwin"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8708; 1(8540):1038-9\r", 
+  ".T": "Effect of hormone implants on psychological disorders in the climacteric [letter]\r", 
+  ".U": "87200411\r"
+ }, 
+ {
+  ".I": "33229", 
+  ".M": "Benzyl Alcohols/*AE; Benzyl Compounds/*AE; Case Report; Female; Glucosephosphate Dehydrogenase Deficiency/CO; Hemolysis/*DE; Human; Medicine, Ayurvedic/*; Middle Age; Plants, Medicinal/*.\r", 
+  ".A": [
+   "Baker", 
+   "Thomas"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8708; 1(8540):1039-40\r", 
+  ".T": "Herbal medicine precipitating massive haemolysis [letter]\r", 
+  ".U": "87200412\r"
+ }, 
+ {
+  ".I": "33230", 
+  ".M": "Bronchi/*AN; Ciprofloxacin/*AN; Human; Pneumococcal Infections/DT.\r", 
+  ".A": [
+   "Honeybourne", 
+   "Wise", 
+   "Andrews"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8708; 1(8540):1040\r", 
+  ".T": "Ciprofloxacin penetration into lungs [letter]\r", 
+  ".U": "87200413\r"
+ }, 
+ {
+  ".I": "33231", 
+  ".M": "Female; Griseofulvin/*AE; Human; Hungary; Maternal-Fetal Exchange; Pregnancy; Twins, Conjoined/*.\r", 
+  ".A": [
+   "Metneki", 
+   "Czeizel"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8708; 1(8540):1042\r", 
+  ".T": "Griseofulvin teratology [letter]\r", 
+  ".U": "87200416\r"
+ }, 
+ {
+  ".I": "33232", 
+  ".M": "Adult; Breast Neoplasms/*CI; Contraceptives, Oral/*AE; Female; Human.\r", 
+  ".A": [
+   "Meirik", 
+   "Lund", 
+   "Adami", 
+   "Bergstrom", 
+   "Christoffersen", 
+   "Bergsjo"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8708; 1(8540):1042\r", 
+  ".T": "Oral contraceptives and breast cancer [letter]\r", 
+  ".U": "87200417\r"
+ }, 
+ {
+  ".I": "33233", 
+  ".M": "Adult; Case Report; Cryptosporidiosis/*DI; Female; Fetal Distress/DI; Gastroenteritis/DI; Human; Infant, Newborn; Intestinal Diseases, Parasitic/*DI; Pregnancy; Pregnancy Complications, Infectious/*DI; Prenatal Diagnosis.\r", 
+  ".A": [
+   "Dale", 
+   "Gordon", 
+   "Thomson", 
+   "Urquhart"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8708; 1(8540):1042-3\r", 
+  ".T": "Perinatal infection with cryptosporidium [letter]\r", 
+  ".U": "87200418\r"
+ }, 
+ {
+  ".I": "33234", 
+  ".M": "Adult; Aged; Case Report; Convulsions/*PP; Creatinine/UR; Female; Human; Kidney/*PP; Male; Middle Age.\r", 
+  ".A": [
+   "Nielsen", 
+   "Garsdal", 
+   "Hansen", 
+   "Rasmussen", 
+   "Jensen"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8708; 1(8540):1043\r", 
+  ".T": "Impairment of renal function after generalised seizures [letter]\r", 
+  ".U": "87200419\r"
+ }, 
+ {
+  ".I": "33235", 
+  ".M": "Case Report; Chromosome Deletion/*; Chromosomes, Human, Pair 13/*; Female; Human; Infant; Retinoblastoma/DI/*GE.\r", 
+  ".A": [
+   "Jones"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8708; 1(8540):1043\r", 
+  ".T": "Retinoblastoma and deletions of chromosome 13 [letter]\r", 
+  ".U": "87200420\r"
+ }, 
+ {
+  ".I": "33236", 
+  ".M": "England; Family Planning/*; Female; Human; Infant, Newborn; Knowledge, Attitudes, Practice/*; Male; Malpractice/*; Pregnancy; Sterilization, Sexual/*.\r", 
+  ".A": [
+   "Brahams"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Lancet 8708; 1(8540):1045\r", 
+  ".T": "Doctor's duty of care to give advice in therapeutic and non-therapeutic contexts.\r", 
+  ".U": "87200421\r"
+ }, 
+ {
+  ".I": "33237", 
+  ".M": "Adult; Aged; Comparative Study; Echocardiography; Female; Histocytochemistry; Human; Male; Middle Age; Myocardial Contraction/*; Myocardium/UL; Spondylitis, Ankylosing/GE/PA/*PP.\r", 
+  ".A": [
+   "Brewerton", 
+   "Gibson", 
+   "Goddard", 
+   "Jones", 
+   "Moore", 
+   "Pease", 
+   "Revell", 
+   "Shapiro", 
+   "Swettenham"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Lancet 8708; 1(8540):995-8\r", 
+  ".T": "The myocardium in ankylosing spondylitis. A clinical, echocardiographic, and histopathological study.\r", 
+  ".U": "87200422\r", 
+  ".W": "Cardiac function was investigated in men with ankylosing spondylitis (AS) age 21-65 years who had no cardiorespiratory symptoms or known abnormalities of heart or lungs. Chest radiographs and standard electrocardiograms were normal in 73 of 74 subjects. In echocardiographs of 30 men, left atrial size and left ventricular cavity size and wall thickness were normal. Minor abnormalities in the valve roots were present in 3 older men. Early diastolic abnormalities of the left ventricle were demonstrated in 16 of 30 subjects. This finding was confirmed by repetition of the echocardiography a year later in 15 subjects and by comparison of 11 probands with their healthy brothers. Myocardial tissue obtained at necropsy from 28 AS patients without ischaemic or valvular heart disease or hypertension was studied. A mild, diffuse increase of interstitial connective tissue was seen but there was no inflammatory change or amyloid. Computerised image analysis showed 30.7% interstitial reticulin compared with 17.7% in age/sex matched controls (p less than 0.0001).\r"
+ }, 
+ {
+  ".I": "33238", 
+  ".M": "Adult; Aged; Aged, 80 and over; Chronic Disease; Glomerular Filtration Rate; Human; Hydronephrosis/CO; Hypertension/*ET/TH; Male; Middle Age; Prospective Studies; Sodium/UR; Support, Non-U.S. Gov't; Urinary Catheterization; Urination Disorders/*CO.\r", 
+  ".A": [
+   "Jones", 
+   "George", 
+   "O'Reilly", 
+   "Barnard"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Lancet 8708; 1(8541):1052-4\r", 
+  ".T": "Reversible hypertension associated with unrecognised high pressure chronic retention of urine [published erratum appears in Lancet 1987 May 23;1(8543):1220]\r", 
+  ".U": "87200425\r", 
+  ".W": "The cardiovascular effects of relief of obstruction were examined in 21 patients with painless urinary retention and hydronephrosis and hydroureter associated with hypertension (diastolic blood pressure 95-120 mm Hg, mean 107, 11 patients), severe peripheral oedema (8 patients), raised jugular venous pressure (5 patients), or clinical evidence of pulmonary oedema (5 patients). Before relief of obstruction fractional sodium excretion was appropriate for the reduced rate of glomerular filtration. After urethral catheterisation blood pressure fell (p less than 0.001) and the other cardiovascular abnormalities were rapidly reversed without further therapeutic measures. This improvement was associated with an increase (p less than 0.05) in both absolute and fractional urinary sodium excretion that was greatest at 24 h. 5% of patients undergoing surgery for obstructive disorders of the lower urinary tract have hydronephrosis and hydroureter. Hypertension related to chronic urinary tract obstruction may be the commonest form of surgically correctable renal hypertension.\r"
+ }, 
+ {
+  ".I": "33239", 
+  ".M": "Acetylgalactosamine/AA/ME; Actuarial Analysis; Breast Neoplasms/ME/MO/*PA; Female; Follow-Up Studies; Hemagglutinins/*ME; Human; Lectins/*ME; Lymphatic Metastasis; Menopause; Middle Age; Neoplasm Recurrence, Local/*ME; Oligosaccharides/ME; Probability; Prognosis; Retrospective Studies; Snails; Support, Non-U.S. Gov't; Time Factors.\r", 
+  ".A": [
+   "Leathem", 
+   "Brooks"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Lancet 8708; 1(8541):1054-6\r", 
+  ".T": "Predictive value of lectin binding on breast-cancer recurrence and survival.\r", 
+  ".U": "87200426\r", 
+  ".W": "A new approach for predicting long-term survival of breast-cancer patients is the detection of carbohydrate expression in paraffin-embedded sections of the primary tumour. The binding of a lectin (HPA), derived from the albumin gland of the Roman snail, Helix pomatia, to N-acetyl-galactosaminyl oligosaccharides appears valuable in assessing long-term prognosis. The clinical progress of 179 patients, followed-up for 15-20 years, was related to staining of paraffin sections of their primary breast cancers by HPA. All patients had had mastectomy but were not stratified by pathology or treatment. There were significant differences, in premenopausal patients, between groups with and without HPA staining in both time to first recurrence and survival time. HPA binding provides an extra tool for staging to aid decisions in early adjuvant treatment, with the advantage of being applicable to routinely fixed paraffin-embedded material.\r"
+ }, 
+ {
+  ".I": "33240", 
+  ".M": "Adult; Aged; Angina Pectoris/*PP; Angiography; Coronary Vessels/RA; Female; Human; Infusions, Intra-Arterial; Isosorbide Dinitrate/TU; Middle Age; Myocardial Infarction/*CI; Neuropeptide Y/*AD/AE.\r", 
+  ".A": [
+   "Clarke", 
+   "Davies", 
+   "Kerwin", 
+   "Hackett", 
+   "Larkin", 
+   "Dawbarn", 
+   "Lee", 
+   "Bloom", 
+   "Yacoub", 
+   "Maseri"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Lancet 8708; 1(8541):1057-9\r", 
+  ".T": "Coronary artery infusion of neuropeptide Y in patients with angina pectoris.\r", 
+  ".U": "87200427\r", 
+  ".W": "Neuropeptide Y was infused into a coronary artery of 6 patients with typical angina but no significant coronary stenosis. 3 patients had transient myocardial ischaemia, shown by typical pain and electrocardiographic change, at doses of 0.2 pmol/kg per min in 2 patients and 1.0 pmol/kg per min in 1 patient. The arteriographic appearances suggested constriction of small vessels rather than constriction of epicardial coronary arteries. The ischaemia was completely reversed by intracoronary administration of isosorbide dinitrate with no adverse sequelae. This is the first demonstration of myocardial ischaemia in man induced by a peptide neurotransmitter.\r"
+ }, 
+ {
+  ".I": "33247", 
+  ".M": "Acquired Immunodeficiency Syndrome/*EP/TM; Disease Outbreaks/*; Epidemiologic Methods/*; Great Britain; Homosexuality; Human; Male; Models, Theoretical; Probability; Sex Behavior; Support, Non-U.S. Gov't; Time Factors.\r", 
+  ".A": [
+   "Anderson", 
+   "Medley", 
+   "Blythe", 
+   "Johnson"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Lancet 8708; 1(8541):1073-5\r", 
+  ".T": "Is it possible to predict the minimum size of the acquired immunodeficiency syndrome (AIDS) epidemic in the United Kingdom?\r", 
+  ".U": "87200436\r", 
+  ".W": "A mathematical model of the dynamics of transmission of human immunodeficiency virus within the male homosexual population in the United Kingdom demonstrates that even the minimum size of the acquired immunodeficiency syndrome (AIDS) epidemic in the United Kingdom (based upon the assumption that all transmission ceased at the end of 1986) is difficult to predict. Model predictions are particularly sensitive to assumptions about the distributed incubation period of the disease, differences in frequency and patterns of sexual activity, and the proportion of infected people in whom AIDS later develops. More accurate predictions will depend on the collection of data on the incubation period of the disease, the infectiousness of infected persons, and on the numbers of new sexual partners of each sex per person and the duration of each partnership.\r"
+ }, 
+ {
+  ".I": "33248", 
+  ".M": "Acute Disease; Aged; Albuterol/AD; Asthma/*DT; Beclomethasone/AD; Case Report; Drug Interactions; Female; Human; Ibuprofen/*AE.\r", 
+  ".A": [
+   "Ayres", 
+   "Fleming", 
+   "Whittington"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8708; 1(8541):1082\r", 
+  ".T": "Asthma death due to ibuprofen [letter]\r", 
+  ".U": "87200439\r"
+ }, 
+ {
+  ".I": "33249", 
+  ".M": "Acupuncture/*; Asthma/*TH; Human.\r", 
+  ".A": [
+   "Skrabanek"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8708; 1(8541):1082-3\r", 
+  ".T": "Acupuncture and asthma [letter]\r", 
+  ".U": "87200440\r"
+ }, 
+ {
+  ".I": "33250", 
+  ".M": "Acupuncture/*MT; Cisplatin/*AE; Human; Male; Nausea/PC; Support, Non-U.S. Gov't; Vomiting/*PC.\r", 
+  ".A": [
+   "Dundee", 
+   "Ghaly", 
+   "Fitzpatrick", 
+   "Lynch", 
+   "Abram"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8708; 1(8541):1083\r", 
+  ".T": "Acupuncture to prevent cisplatin-associated vomiting [letter]\r", 
+  ".U": "87200441\r"
+ }, 
+ {
+  ".I": "33251", 
+  ".M": "Blood Platelets/*AN; Diet; Human; 5,8,11,14,17-Eicosapentaenoic Acid/AD/*BL.\r", 
+  ".A": [
+   "Akos"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8708; 1(8541):1083\r", 
+  ".T": "Eicosapentaenoic acid [letter]\r", 
+  ".U": "87200442\r"
+ }, 
+ {
+  ".I": "33253", 
+  ".M": "Amniocentesis/AE; Chorionic Villi/*PA; Evaluation Studies; Female; Human; Pregnancy; Prenatal Diagnosis; Safety.\r", 
+  ".A": [
+   "Schulman"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8708; 1(8541):1085\r", 
+  ".T": "Safety of chorionic villus sampling [letter]\r", 
+  ".U": "87200445\r"
+ }, 
+ {
+  ".I": "33254", 
+  ".M": "Endoscopy/*MT; Evaluation Studies; Human; Reference Standards; Television/*; X-Rays.\r", 
+  ".A": [
+   "Okano", 
+   "Kodama", 
+   "Takino"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8708; 1(8541):1086-7\r", 
+  ".T": "Television endoscopy with prerecorded images for comparison [letter]\r", 
+  ".U": "87200447\r"
+ }, 
+ {
+  ".I": "33255", 
+  ".M": "Betamethasone/*AA; Burns/*DT; Case Report; Clobetasol/*AA/AD; Female; First Aid/*; Human; Ointments.\r", 
+  ".A": [
+   "Hindson", 
+   "Hazell", 
+   "Wickramasinghe"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8708; 1(8541):1087-8\r", 
+  ".T": "Clobetasol propionate ointment as first-aid for burns [letter]\r", 
+  ".U": "87200449\r"
+ }, 
+ {
+  ".I": "33256", 
+  ".M": "Disease Outbreaks; Human; Legionella/*CL; Legionellosis/EP; Scotland.\r", 
+  ".A": [
+   "Tobin", 
+   "McKinney", 
+   "Fallon"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8708; 1(8541):1088-9\r", 
+  ".T": "Subgroups of Legionella pneumophila serogroup 1 [letter]\r", 
+  ".U": "87200451\r"
+ }, 
+ {
+  ".I": "33257", 
+  ".M": "Aged; Anesthesia/*AE; Case Report; Human; Male; Parasympatholytics/*AE; Physostigmine/TU; Premedication/*AE; Syndrome; Unconsciousness/*CI.\r", 
+  ".A": [
+   "Beech", 
+   "Hell", 
+   "Nightingale"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8708; 1(8541):1089\r", 
+  ".T": "Central anticholinergic syndrome [letter]\r", 
+  ".U": "87200452\r"
+ }, 
+ {
+  ".I": "33258", 
+  ".M": "Human; Rhabdomyolysis/*ET; Running/*; Virus Diseases/CO.\r", 
+  ".A": [
+   "Boyd"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8708; 1(8541):1089\r", 
+  ".T": "Fatal rhabdomyolysis in marathon runner [letter]\r", 
+  ".U": "87200453\r"
+ }, 
+ {
+  ".I": "33260", 
+  ".M": "Drug Information Services/*; European Economic Community/*; Human.\r", 
+  ".A": [
+   "Berry"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8708; 1(8541):1091\r", 
+  ".T": "Eurohealth [letter]\r", 
+  ".U": "87200455\r"
+ }, 
+ {
+  ".I": "33261", 
+  ".M": "Clinical Trials/*; Comparative Study; Data Collection; Double-Blind Method; Drug Industry/*; Human; Prostaglandins, Synthetic/TU; Random Allocation; Ranitidine/TU; Stomach Ulcer/DT.\r", 
+  ".A": [
+   "Lauritsen", 
+   "Havelund", 
+   "Laursen", 
+   "Rask-Madsen"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8708; 1(8541):1091\r", 
+  ".T": "Withholding unfavourable results in drug company sponsored clinical trials [letter]\r", 
+  ".U": "87200457\r"
+ }, 
+ {
+  ".I": "33262", 
+  ".M": "Case Report; Child; Cytomegalic Inclusion Disease/CO; Diagnosis, Differential; Female; Human; Infant; Phagocytosis; Reticuloendotheliosis/*CL; Syndrome.\r", 
+  ".A": [
+   "Henter", 
+   "Elinder", 
+   "Soder", 
+   "Ost"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8708; 1(8541):1091-2\r", 
+  ".T": "Histiocytosis syndromes in children [letter]\r", 
+  ".U": "87200458\r"
+ }, 
+ {
+  ".I": "33263", 
+  ".M": "Acquired Immunodeficiency Syndrome/*TM; Human; Infant, Newborn; Infant, Premature, Diseases/*TM; Milk, Human/*.\r", 
+  ".A": [
+   "Lucas"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8708; 1(8541):1092-3\r", 
+  ".T": "AIDS and human milk bank closures [letter]\r", 
+  ".U": "87200460\r"
+ }, 
+ {
+  ".I": "33264", 
+  ".M": "Acquired Immunodeficiency Syndrome/*PC; Human; Laboratory Infection/*PC; Methods; Specimen Handling/*.\r", 
+  ".A": [
+   "Hay"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8708; 1(8541):1094\r", 
+  ".T": "Laboratory safety and HIV [letter]\r", 
+  ".U": "87200463\r"
+ }, 
+ {
+  ".I": "33265", 
+  ".M": "Arthropods/*MI; Cells, Cultured; Human; HIV/*PH; Virus Replication/*.\r", 
+  ".A": [
+   "Srinivasan", 
+   "York", 
+   "Bohan"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8708; 1(8541):1094-5\r", 
+  ".T": "Lack of HIV replication in arthropod cells [letter]\r", 
+  ".U": "87200464\r"
+ }, 
+ {
+  ".I": "33266", 
+  ".M": "Adult; Female; Human; Infant, Newborn; Smoking/*; Tobacco Smoke Pollution/*; Vasomotor System/*PH.\r", 
+  ".A": [
+   "Chirico", 
+   "Locatelli", 
+   "Rondini", 
+   "Gasparoni", 
+   "Severi", 
+   "Ravagni", 
+   "Danesino"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8708; 1(8541):1095-6\r", 
+  ".T": "Effect of active and passive smoking on vascular reactivity in mothers and infants [letter]\r", 
+  ".U": "87200465\r"
+ }, 
+ {
+  ".I": "33267", 
+  ".M": "Adult; Aged; Aged, 80 and over; Breast Neoplasms/*MO; England; Female; Follow-Up Studies; Human; Middle Age; Time Factors.\r", 
+  ".A": [
+   "Al-Fouadi", 
+   "Sorahan", 
+   "Prior"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8708; 1(8541):1096-7\r", 
+  ".T": "Long-term survival of women diagnosed with breast cancer 1936-50 [letter]\r", 
+  ".U": "87200467\r"
+ }, 
+ {
+  ".I": "33268", 
+  ".M": "Aged; Case Report; Dementia/*PX; Grief/*; Human; Male.\r", 
+  ".A": [
+   "Summerfield", 
+   "Smellie"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8708; 1(8541):1097\r", 
+  ".T": "Bereavement and severe dementia [letter]\r", 
+  ".U": "87200468\r"
+ }, 
+ {
+  ".I": "33269", 
+  ".M": "Adult; Anorexia Nervosa/*PX; Case Report; Female; Human; Suicide, Attempted/PX.\r", 
+  ".A": [
+   "Galvao-Teles", 
+   "Sampaio"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8708; 1(8541):1097\r", 
+  ".T": "Psychologically determined death in anorexia nervosa [letter]\r", 
+  ".U": "87200469\r"
+ }, 
+ {
+  ".I": "33270", 
+  ".M": "Epinephrine/*AD; Heart Arrest/*DT; Human; Intubation, Intratracheal.\r", 
+  ".A": [
+   "Marchant"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8708; 1(8541):1098\r", 
+  ".T": "Endotracheal adrenaline in cardiac arrest [letter]\r", 
+  ".U": "87200471\r"
+ }, 
+ {
+  ".I": "33271", 
+  ".M": "Arm/AH; Bangladesh; Child; Human; Nutrition Disorders/DI; Nutritional Status/*.\r", 
+  ".A": [
+   "Briend", 
+   "Rowland", 
+   "Wojtyniak"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8708; 1(8541):1098-9\r", 
+  ".T": "Measures of nutritional status [letter]\r", 
+  ".U": "87200472\r"
+ }, 
+ {
+  ".I": "33272", 
+  ".M": "Encephalitis Virus, Japanese/*IM; Encephalitis, Japanese B/*PC; Human; Vaccination/*; Viral Vaccines/*.\r", 
+  ".A": [
+   "Janosi"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8708; 1(8541):1099\r", 
+  ".T": "Vaccination against Japanese encephalitis [letter]\r", 
+  ".U": "87200473\r"
+ }, 
+ {
+  ".I": "33273", 
+  ".M": "Adolescence; Case Report; Female; Great Britain; Human; Mental Retardation/*/PX; Patient Advocacy/*LJ; Sterilization, Sexual/*.\r", 
+  ".A": [
+   "Brahams"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Lancet 8708; 1(8541):1099-100\r", 
+  ".T": "House of Lords upholds decision to sterilise 17-year-old mentally handicapped girl.\r", 
+  ".U": "87200474\r"
+ }, 
+ {
+  ".I": "33274", 
+  ".M": "Female; Human; Methods; Middle Age; Osteoporosis/*DI; Time Factors.\r", 
+  ".A": [
+   "Christiansen", 
+   "Riis", 
+   "Rodbro"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Lancet 8708; 1(8542):1105-8\r", 
+  ".T": "Prediction of rapid bone loss in postmenopausal women.\r", 
+  ".U": "87200475\r", 
+  ".W": "Bone loss was determined in 178 women in the early postmenopausal period by photon absorptiometry measurement of forearm bone mineral content (BMC) every 3 months for 2 years. With a sequential cut-off technique, the results of a single determination of body fat mass, urinary calcium and hydroxyproline, and serum alkaline phosphatase, carried out at the first examination, correctly identified 79% of \"fast bone losers\" (bone loss greater than 3% annually) and 78% of \"slow bone losers\". With this simple approach the majority of women at highest risk of osteoporotic fractures in later life can be identified in the early postmenopausal period and started on prophylactic hormone replacement therapy.\r"
+ }, 
+ {
+  ".I": "33275", 
+  ".M": "Adult; Arthritis, Rheumatoid/*DT; Female; Follow-Up Studies; Human; Male; Middle Age; Prognosis; Support, Non-U.S. Gov't.\r", 
+  ".A": [
+   "Scott", 
+   "Symmons", 
+   "Coulton", 
+   "Popert"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Lancet 8708; 1(8542):1108-11\r", 
+  ".T": "Long-term outcome of treating rheumatoid arthritis: results after 20 years.\r", 
+  ".U": "87200476\r", 
+  ".W": "Outcome of therapy, in terms of functional capacity, radiological measures of joint damage, erythrocyte sedimentation rate (ESR), rheumatoid factor, and mortality, was determined prospectively in 112 consecutive rheumatoid arthritis (RA) patients treated for 20 years at one centre, where a policy of active treatment was pursued with the use of gold, chloroquine, steroids, and, in resistant cases, penicillamine or cytotoxic drugs. By 20 years 35% were dead. Mortality was often attributable to RA. Function improved in the early years of treatment but declined considerably between 10 and 20 years. At 20 years 19% were severely disabled. Radiographs showed related evidence of increasing joint destruction. The ESR and rheumatoid factor levels changed little. Age, late presentation, and rheumatoid factor seropositivity at presentation were poor prognostic factors. The concept of \"remission-inducing\" drugs is fallacious. Early treatment may be advantageous, but the prognosis of RA is not good.\r"
+ }, 
+ {
+  ".I": "33282", 
+  ".M": "Drugs/AD/*AN; Human; Weights and Measures/*.\r", 
+  ".A": [
+   "Prescott", 
+   "Proudfoot", 
+   "Widdop", 
+   "Volans", 
+   "Vale", 
+   "Whiting", 
+   "Griffin", 
+   "Wells"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Lancet 8708; 1(8542):1127-9\r", 
+  ".T": "Who needs molar units for drugs?\r", 
+  ".U": "87200485\r", 
+  ".W": "The standardisation of units for drug concentration measurement in clinical medicine is an urgent necessity. The obvious choice is mass units based on the litre. A change to molar units for drug concentrations would make no sense unless drugs were also prescribed in moles, which would cause disruption and inconvenience. There would be considerable danger to patients and the change would be expensive. Most importantly, molar units for drugs will not benefit doctors or their patients. Mass units should be retained and proposals for the adoption of molar units should be abandoned.\r"
+ }, 
+ {
+  ".I": "33283", 
+  ".M": "Animal; Belgium; Food Microbiology/*; Food Poisoning/EP/*ET; Human; Meat/*; Swine; Yersinia enterocolitica; Yersinia Infections/EP/*ET.\r", 
+  ".A": [
+   "Tauxe", 
+   "Vandepitte", 
+   "Wauters", 
+   "Martin", 
+   "Goossens", 
+   "De", 
+   "Van", 
+   "Thiers"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Lancet 8708; 1(8542):1129-32\r", 
+  ".T": "Yersinia enterocolitica infections and pork: the missing link.\r", 
+  ".U": "87200486\r", 
+  ".W": "To determine the risk factors for Yersinia enterocolitica (YE) infection in Belgium, which is the country with the highest incidence of this infection, 40 persons with YE infections due to serotype O:3 (n = 36) or O:9 (n = 4) were compared with matched controls. Most patients had acute gastroenteritis; 1 had a liver abscess. 20% were admitted to hospital; the mean duration of hospital stay was 9 days. YE infection was strongly associated with eating raw pork in the 2 weeks before onset (odds ratio = 12, p = 0.00002), a factor that accounted for 58% of the YE infections studied. 14 (18%) of 79 families surveyed at a well-baby clinic fed their children raw pork from a median age of 18 months. Specific control measures to reduce contamination and consumption of raw pork may reduce the incidence of YE infections.\r"
+ }, 
+ {
+  ".I": "33284", 
+  ".M": "Human; Medical History Taking; Pain/*ET.\r", 
+  ".A": [
+   "Swartout"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Lancet 8708; 1(8542):1133-4\r", 
+  ".T": "Some pains I have known.\r", 
+  ".U": "87200487\r"
+ }, 
+ {
+  ".I": "33285", 
+  ".M": "Actuarial Analysis/*; Human; Outcome and Process Assessment (Health Care)/*MT; Prognosis; Quality of Life/*.\r", 
+  ".A": [
+   "Smith"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Lancet 8708; 1(8542):1134-6\r", 
+  ".T": "Qualms about QALYs.\r", 
+  ".U": "87200488\r"
+ }, 
+ {
+  ".I": "33286", 
+  ".M": "Adult; Cardiovascular Diseases/*ET; Female; Human; Hysterectomy/*AE; Menopause/*PH; Menopause, Premature/*PH; Risk.\r", 
+  ".A": [
+   "Punnonen", 
+   "Ikalainen", 
+   "Seppala"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8708; 1(8542):1139\r", 
+  ".T": "Premenopausal hysterectomy and risk of cardiovascular disease [letter]\r", 
+  ".U": "87200489\r"
+ }, 
+ {
+  ".I": "33287", 
+  ".M": "Adult; Human; Mali; Schistosomiasis/EP/*TM; Spain/EH; Travel.\r", 
+  ".A": [
+   "Corachan", 
+   "Escosa", 
+   "Mas", 
+   "Ruiz", 
+   "Campo"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8708; 1(8542):1139-40\r", 
+  ".T": "Clinical presentation of Schistosoma intercalatum infestation [letter]\r", 
+  ".U": "87200490\r"
+ }, 
+ {
+  ".I": "33288", 
+  ".M": "Case Report; Female; Human; Hypnosis/*; Middle Age; Vomiting/*TH.\r", 
+  ".A": [
+   "Cadranel", 
+   "Tarbe", 
+   "Elouaer-Blanc", 
+   "Ruszniewski", 
+   "Mignon", 
+   "Bonfils"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8708; 1(8542):1140\r", 
+  ".T": "Hypnosis for intractable vomiting [letter]\r", 
+  ".U": "87200491\r"
+ }, 
+ {
+  ".I": "33289", 
+  ".M": "Antigens, Bacterial/*IM; Campylobacter fetus/*IM; Campylobacter Infections/*IM/UR; Feces/AN; Human; IgA/*AN; Support, U.S. Gov't, Non-P.H.S..\r", 
+  ".A": [
+   "Lane", 
+   "Batchelor", 
+   "Bourgeois", 
+   "Burr", 
+   "Olson"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8708; 1(8542):1141\r", 
+  ".T": "Urine and faecal IgA response during naturally acquired infection with Campylobacter jejuni [letter]\r", 
+  ".U": "87200494\r"
+ }, 
+ {
+  ".I": "33292", 
+  ".M": "Blood Glucose/*AN; Human; Metacarpophalangeal Joint; Osteoarthritis/*ET; Self Care/*AE.\r", 
+  ".A": [
+   "Bernstein"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8708; 1(8542):1143\r", 
+  ".T": "Osteoarthritis after blood-glucose self-monitoring [letter]\r", 
+  ".U": "87200497\r"
+ }, 
+ {
+  ".I": "33293", 
+  ".M": "Adult; Aged; Complement Activation/*; Female; Human; Middle Age; Scleroderma, Systemic/*IM.\r", 
+  ".A": [
+   "Senaldi", 
+   "Vergani", 
+   "McWhirter", 
+   "Black"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8708; 1(8542):1143-4\r", 
+  ".T": "Complement activation in progressive systemic sclerosis [letter]\r", 
+  ".U": "87200498\r"
+ }, 
+ {
+  ".I": "33294", 
+  ".M": "Anemia/*ET; Female; Fetal Diseases/*ET; Human; Parvovirus Infections/*CO; Pregnancy; Pregnancy Complications, Infectious/*ET.\r", 
+  ".A": [
+   "Gray", 
+   "Davidson", 
+   "Anand"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8708; 1(8542):1144\r", 
+  ".T": "Human parvovirus and fetal anaemia [letter]\r", 
+  ".U": "87200499\r"
+ }, 
+ {
+  ".I": "33295", 
+  ".M": "Adult; Agricultural Workers' Diseases/*TM; Animal; Case Report; Female; Human; Ornithosis/*TM/VE; Pregnancy; Pregnancy Complications, Infectious/*ET; Sheep; Sheep Diseases/*TM.\r", 
+  ".A": [
+   "Helm", 
+   "Smart", 
+   "Gray", 
+   "Cumming", 
+   "Lambie", 
+   "Smith", 
+   "Allan"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8708; 1(8542):1144-5\r", 
+  ".T": "Exposure to Chlamydia psittaci in pregnancy [letter]\r", 
+  ".U": "87200500\r"
+ }, 
+ {
+  ".I": "33296", 
+  ".M": "Fatigue/*ET/PX; Human.\r", 
+  ".A": [
+   "Kennedy"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8708; 1(8542):1145\r", 
+  ".T": "Fatigue and fatigability [letter]\r", 
+  ".U": "87200501\r"
+ }, 
+ {
+  ".I": "33297", 
+  ".M": "Human; Neoplasms, Radiation-Induced/*; Risk.\r", 
+  ".A": [
+   "Saunders"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8708; 1(8542):1145\r", 
+  ".T": "Radiation and cancer epidemiology [letter]\r", 
+  ".U": "87200502\r"
+ }, 
+ {
+  ".I": "33298", 
+  ".M": "Human; International Cooperation/*; Medicine/*; Politics/*; South Africa.\r", 
+  ".A": [
+   "Dommisse"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8708; 1(8542):1146\r", 
+  ".T": "Boycotts and medicine [letter]\r", 
+  ".U": "87200503\r"
+ }, 
+ {
+  ".I": "33299", 
+  ".M": "Human; Substance Abuse/*UR; Substance Dependence/UR.\r", 
+  ".A": [
+   "Strang"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8708; 1(8542):1146\r", 
+  ".T": "Urine testing and drug abuse [letter]\r", 
+  ".U": "87200504\r"
+ }
+]

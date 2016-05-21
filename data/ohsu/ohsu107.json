@@ -1,0 +1,3390 @@
+[
+ {
+  ".I": "32100", 
+  ".M": "Diabetes Mellitus, Insulin-Dependent/*CO; Diabetic Nephropathies/*TH; Great Britain; Human; Kidney Failure, Chronic/*TH; Middle Age; United States.\r", 
+  ".A": [
+   "Friedman"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8518):1285\r", 
+  ".T": "Diabetes with kidney failure [letter]\r", 
+  ".U": "87063002\r"
+ }, 
+ {
+  ".I": "32101", 
+  ".M": "Fallopian Tubes; Female; Human; Infertility, Male/TH; Insemination, Artificial/*MT; Insemination, Artificial, Homologous/*MT; Male; Oocytes; Pregnancy/*; Spermatozoa.\r", 
+  ".A": [
+   "Yovich", 
+   "Matson"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8518):1287\r", 
+  ".T": "Pregnancy rates after high intrauterine insemination of husband's spermatozoa or gamete intrafallopian transfer [letter]\r", 
+  ".U": "87063005\r"
+ }, 
+ {
+  ".I": "32102", 
+  ".M": "Adult; Case Report; Emergencies; Female; Human; Hysterectomy/*; Pregnancy; Pregnancy Complications/*SU; Uterine Hemorrhage/*SU.\r", 
+  ".A": [
+   "Smith"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8518):1287-8\r", 
+  ".T": "Obstetric hysterectomy [letter]\r", 
+  ".U": "87063006\r"
+ }, 
+ {
+  ".I": "32103", 
+  ".M": "Acquired Immunodeficiency Syndrome/CO; Human; Hyperplasia; Male; Neoplasm Regression, Spontaneous; Sarcoma, Kaposi's/ET/*PA/PP.\r", 
+  ".A": [
+   "Brooks"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Lancet 8703; 2(8519):1309-11\r", 
+  ".T": "Kaposi's sarcoma: a reversible hyperplasia.\r", 
+  ".U": "87063012\r", 
+  ".W": "Kaposi's sarcoma has many unusual features: for example, the pronounced male preponderance; its appearance in \"crops\" rather than as primary tumour with metastases; a substantial rate of spontaneous remission; the predictability of involved sites; the lack of aneuploidy; and the strong association with immunodeficiency. These features and other evidence suggest that it is not a malignant neoplasm but a benign, potentially controllable and reversible hyperplasia.\r"
+ }, 
+ {
+  ".I": "32108", 
+  ".M": "Acquired Immunodeficiency Syndrome/*EP; Forecasting; Human; Mathematics; Probability; United States.\r", 
+  ".A": [
+   "Brookmeyer", 
+   "Gail"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Lancet 8703; 2(8519):1320-2\r", 
+  ".T": "Minimum size of the acquired immunodeficiency syndrome (AIDS) epidemic in the United States.\r", 
+  ".U": "87063018\r", 
+  ".W": "A new method based on the reported incubation period of transfusion-associated AIDS was used to estimate the number of AIDS cases likely to arise in the USA among those infected before 1986. Between 1986 and 1991 102,000 new cases are projected, with a total cumulative incidence of 135,000 AIDS cases. These estimates do not account for new infections after 1985 nor very long incubation periods and are thus the smallest numbers to be expected. Even if new infections can be effectively prevented, the epidemic will be five times larger than the number of cases observed so far.\r"
+ }, 
+ {
+  ".I": "32109", 
+  ".M": "Adult; Aged; Female; Great Britain; Hospital Records/*; Human; Male; Mental Disorders/*; Middle Age; Patient Advocacy/*; Physician-Patient Relations; Records/*.\r", 
+  ".A": [
+   "Sergeant"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Lancet 8703; 2(8519):1322-5\r", 
+  ".T": "Should psychiatric patients be granted access to their hospital records?\r", 
+  ".U": "87063019\r"
+ }, 
+ {
+  ".I": "32110", 
+  ".M": "Anemia/*DT/ET; Erythropoietin/*TU; Hemodialysis/*; Human; Kidney Failure, Chronic/CO/TH.\r", 
+  ".A": [
+   "Zins", 
+   "Drueke", 
+   "Zingraff", 
+   "Bererhi", 
+   "Kreis", 
+   "Naret", 
+   "Delons", 
+   "Castaigne", 
+   "Peterlongo", 
+   "Casadevall", 
+   "et"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8519):1329\r", 
+  ".T": "Erythropoietin treatment in anaemic patients on haemodialysis [letter]\r", 
+  ".U": "87063022\r"
+ }, 
+ {
+  ".I": "32111", 
+  ".M": "Animal; Case Report; Child, Preschool; Europe; Human; Male; Middle Age; Orthomyxovirus Infections/*EP/MI; Orthomyxovirus Type A, Porcine/*IP; Orthomyxoviruses Type A/*IP; Swine/MI.\r", 
+  ".A": [
+   "de", 
+   "de", 
+   "Bangma", 
+   "van", 
+   "Kerckhaert", 
+   "Paccaud", 
+   "Wicki", 
+   "Wunderli"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8519):1329-30\r", 
+  ".T": "Isolation of swine-influenza-like A(H1N1) viruses from man in Europe, 1986 [letter]\r", 
+  ".U": "87063023\r"
+ }, 
+ {
+  ".I": "32112", 
+  ".M": "Blood Pressure/*; Cholesterol/*BL; Coronary Disease/*MO; Human; Male.\r", 
+  ".A": [
+   "Campbell"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8519):1331\r", 
+  ".T": "Serum cholesterol, blood pressure, and mortality [letter]\r", 
+  ".U": "87063026\r"
+ }, 
+ {
+  ".I": "32113", 
+  ".M": "Barium Sulfate/*DU; Colon/*RA; Colonoscopy/*/EC; Enema/*; Human.\r", 
+  ".A": [
+   "Aldridge", 
+   "Sim"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8519):1331-2\r", 
+  ".T": "Colonoscopy and barium enemas [letter]\r", 
+  ".U": "87063027\r"
+ }, 
+ {
+  ".I": "32114", 
+  ".M": "Child; Female; Human; Infant; Infant, Newborn; Lipid Metabolism, Inborn Errors/*CO; Male; Sudden Infant Death/*ET.\r", 
+  ".A": [
+   "Harpey", 
+   "Charpentier", 
+   "Paturneau-Jouas"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8519):1332\r", 
+  ".T": "Sudden infant death syndrome and inherited disorders of fat metabolism [letter]\r", 
+  ".U": "87063029\r"
+ }, 
+ {
+  ".I": "32115", 
+  ".M": "Adult; Anus Neoplasms/*CO; Carcinoma, Squamous Cell/*CO; Case Report; Condylomata Acuminata/CO; Human; Male; Papillomaviruses; Tumor Virus Infections/*CO.\r", 
+  ".A": [
+   "Hill", 
+   "Coghill"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8519):1333\r", 
+  ".T": "Human papillomavirus in squamous carcinoma of anus [letter]\r", 
+  ".U": "87063031\r"
+ }, 
+ {
+  ".I": "32116", 
+  ".M": "Breast Neoplasms/*DT; Combined Modality Therapy; Female; Human; Middle Age.\r", 
+  ".A": [
+   "Padmanabhan", 
+   "Rubens", 
+   "Howell"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8519):1333-4\r", 
+  ".T": "Adjuvant chemotherapy in early breast cancer [letter]\r", 
+  ".U": "87063032\r"
+ }, 
+ {
+  ".I": "32117", 
+  ".M": "Female; Human; Male; Neural Tube Defects/EP/*GE; Sex Differentiation; Sex Ratio/*; Support, Non-U.S. Gov't; X Chromosome/*PH.\r", 
+  ".A": [
+   "Hall"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8519):1334-5\r", 
+  ".T": "Neural tube defects, sex ratios, and X inactivation [letter]\r", 
+  ".U": "87063033\r"
+ }, 
+ {
+  ".I": "32118", 
+  ".M": "Dihydroergotoxine/*AE; Human.\r", 
+  ".A": [
+   "Krupp", 
+   "Loew"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8519):1335\r", 
+  ".T": "Co-dergocrine [letter]\r", 
+  ".U": "87063035\r"
+ }, 
+ {
+  ".I": "32119", 
+  ".M": "Chromosomes, Human, Pair 13; Chromosomes, Human, Pair 3; Eye Neoplasms/*GE; Human; Male; Melanoma/*GE; Pancreatic Neoplasms/*GE; Retinoblastoma/*GE.\r", 
+  ".A": [
+   "DerKinderen", 
+   "Koten", 
+   "Den", 
+   "Tan", 
+   "Beemer"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8519):1335-6\r", 
+  ".T": "Retinoblastoma, melanoma, and pancreatic cancer [letter]\r", 
+  ".U": "87063036\r"
+ }, 
+ {
+  ".I": "32120", 
+  ".M": "Adult; Case Report; Female; Hemochromatosis/CO/*GE; Human; Male; Pedigree; Thrombocytopenia/CO/*GE.\r", 
+  ".A": [
+   "Milnes", 
+   "Schofield", 
+   "Low-Beer"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8519):1336\r", 
+  ".T": "Genetic haemochromatosis and thrombocytopenia [letter]\r", 
+  ".U": "87063037\r"
+ }, 
+ {
+  ".I": "32121", 
+  ".M": "Confidentiality/*; Employment/*; Human; Medical Records/*; Physical Examination.\r", 
+  ".A": [
+   "Mariner", 
+   "Dinsdale", 
+   "Kingsbury"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8519):1337\r", 
+  ".T": "Confidentiality of pre-employment health screening [letter]\r", 
+  ".U": "87063038\r"
+ }, 
+ {
+  ".I": "32122", 
+  ".M": "Anesthesiology/*; Defensive Medicine/*; Great Britain; Human; Legislation, Medical/*; Malpractice/*.\r", 
+  ".A": [
+   "Tomlin"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8519):1337\r", 
+  ".T": "Legal interference and clinical freedom [letter]\r", 
+  ".U": "87063039\r"
+ }, 
+ {
+  ".I": "32123", 
+  ".M": "Female; Fetal Alcohol Syndrome/*CO; Human; Mental Retardation/*ET; Pregnancy.\r", 
+  ".A": [
+   "Livingston", 
+   "Lyall"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8519):1337-8\r", 
+  ".T": "Contribution of fetal alcohol syndrome to mental retardation [letter]\r", 
+  ".U": "87063040\r"
+ }, 
+ {
+  ".I": "32124", 
+  ".M": "Anesthesia/*; Awareness/*; Cognition/*; Human; Memory.\r", 
+  ".A": [
+   "Wilson", 
+   "Spiegelhalter"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8519):1338\r", 
+  ".T": "Awareness during anaesthesia [letter]\r", 
+  ".U": "87063041\r"
+ }, 
+ {
+  ".I": "32125", 
+  ".M": "Brain Death/*; Human.\r", 
+  ".A": [
+   "Kennett"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8519):1338\r", 
+  ".T": "Brain death [letter]\r", 
+  ".U": "87063042\r"
+ }, 
+ {
+  ".I": "32126", 
+  ".M": "Blood Pressure/*; Diastole; Human; Systole.\r", 
+  ".A": [
+   "Venning"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8519):1338-9\r", 
+  ".T": "Diastolic versus systolic [letter]\r", 
+  ".U": "87063043\r"
+ }, 
+ {
+  ".I": "32127", 
+  ".M": "Adult; Female; Hepatitis B Antibodies/*BI; Human; Male; Middle Age; Viral Hepatitis Vaccines/*IM.\r", 
+  ".A": [
+   "Barnass", 
+   "Davies", 
+   "Bentley"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8519):1339\r", 
+  ".T": "Can seroconversion rates to hepatitis vaccine among healthy subjects be improved? [letter]\r", 
+  ".U": "87063044\r"
+ }, 
+ {
+  ".I": "32128", 
+  ".M": "Adult; Hepatitis B Antibodies/*BI; Hepatitis B Surface Antigens/AN/IM; Human; Middle Age; Occupational Diseases/PC; Students, Medical; Viral Hepatitis Vaccines/*IM.\r", 
+  ".A": [
+   "Hengster", 
+   "Kofler", 
+   "Eigentler", 
+   "Larcher", 
+   "Petzer", 
+   "Schulz", 
+   "Fritsch", 
+   "Dierich"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8519):1339-40\r", 
+  ".T": "Efficacy of Pasteur hepatitis B vaccine in medical students [letter]\r", 
+  ".U": "87063045\r"
+ }, 
+ {
+  ".I": "32129", 
+  ".M": "Hepatitis B Antibodies/*BI; Human; Injections, Intradermal; Viral Hepatitis Vaccines/*AD/IM.\r", 
+  ".A": [
+   "Irving", 
+   "Alder", 
+   "Kurtz", 
+   "Juel-Jensen"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8519):1340\r", 
+  ".T": "Intradermal vaccination against hepatitis B [letter]\r", 
+  ".U": "87063046\r"
+ }, 
+ {
+  ".I": "32130", 
+  ".M": "Acetaldehyde/IM/*ME; Alcoholism/*IM; Blood Proteins/*ME; Haptens/*; Human.\r", 
+  ".A": [
+   "Whyte"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8519):1340-1\r", 
+  ".T": "Haptenisation of serum proteins by acetaldehyde [letter]\r", 
+  ".U": "87063048\r"
+ }, 
+ {
+  ".I": "32131", 
+  ".M": "Adult; Cocaine/*; Dystonia/*CI; Haloperidol/*AE; Human; Male; Substance Dependence/*PP.\r", 
+  ".A": [
+   "Kumor", 
+   "Sherer", 
+   "Jaffe"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8519):1341-2\r", 
+  ".T": "Haloperidol-induced dystonia in cocaine addicts [letter]\r", 
+  ".U": "87063050\r"
+ }, 
+ {
+  ".I": "32132", 
+  ".M": "Human; Lymphoma/*PA; Stains and Staining.\r", 
+  ".A": [
+   "Mul"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8519):1342\r", 
+  ".T": "Anti-T-cell-receptor staining of lymphomas [letter]\r", 
+  ".U": "87063051\r"
+ }, 
+ {
+  ".I": "32133", 
+  ".M": "Biopsy/*; Breast Neoplasms/*PA/SU; Female; Human.\r", 
+  ".A": [
+   "Baildam", 
+   "Howell", 
+   "Turnbull", 
+   "Barnes", 
+   "Sellwood", 
+   "Baildham"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8519):1342-3\r", 
+  ".T": "Tumour information from needle biopsy [letter] [published erratum appears in Lancet 1986 Dec 20-27;2(8521-22):1474]\r", 
+  ".U": "87063052\r"
+ }, 
+ {
+  ".I": "32134", 
+  ".M": "Campylobacter Infections/*ET; Gastrointestinal Diseases/*ET; Human; Obesity/*TH.\r", 
+  ".A": [
+   "Lee", 
+   "Carrick", 
+   "Borody"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8519):1343\r", 
+  ".T": "Campylobacter pyloridis infection as possible complication of weight loss therapy [letter]\r", 
+  ".U": "87063053\r"
+ }, 
+ {
+  ".I": "32135", 
+  ".M": "Case Report; Female; Fibrocystic Disease of Breast/DT; Human; Middle Age; Migraine/*DT; Tamoxifen/*TU.\r", 
+  ".A": [
+   "Powles"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8519):1344\r", 
+  ".T": "Prevention of migrainous headaches by tamoxifen [letter]\r", 
+  ".U": "87063055\r"
+ }, 
+ {
+  ".I": "32136", 
+  ".M": "Adolescence; Africa; Arthritis, Rheumatoid/EP/*ET; Child; Human; Tuberculosis/*CO/EP.\r", 
+  ".A": [
+   "Mets", 
+   "Mubiligi"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8519):1344\r", 
+  ".T": "Rheumatoid arthritis and tuberculosis in Africa [letter]\r", 
+  ".U": "87063056\r"
+ }, 
+ {
+  ".I": "32137", 
+  ".M": "Clinical Competence/*; Great Britain; Human; Infant, Newborn; Malpractice/*.\r", 
+  ".A": [
+   "Brahams"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Lancet 8703; 2(8519):1346-7\r", 
+  ".T": "A doctor's inexperience is no defence to a claim for negligence.\r", 
+  ".U": "87063057\r"
+ }, 
+ {
+  ".I": "32138", 
+  ".M": "Adult; Contraceptives, Oral/AD; Estradiol/BL; Estrogens/*BL; Female; Human; Luteal Phase; Menstrual Cycle/*; Progesterone/BL; Prolactin/BL; Suicide, Attempted/*; Wechsler Scales.\r", 
+  ".A": [
+   "Fourestie", 
+   "de", 
+   "Roudot-Thoraval", 
+   "Fulli-Lemaire", 
+   "Cremniter", 
+   "Nahoul", 
+   "Fournier", 
+   "Lejonc"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Lancet 8703; 2(8520):1357-60\r", 
+  ".T": "Suicide attempts in hypo-oestrogenic phases of the menstrual cycle [published erratum appears in Lancet 1987 Jan 17;1(8525):176]\r", 
+  ".U": "87063060\r", 
+  ".W": "The phase of the menstrual cycle in women who had attempted suicide was determined by structured interview. 108 young women were investigated within 24 h of the attempt. Patients were grouped according to menstrual week and whether they used oral contraception (OC) (n = 73) or not (n = 35). In OC non-users suicide attempts were associated with low plasma oestradiol: they tended to happen during the first week of the menstrual cycle (42%) and after the fourth week (12%). Frequency of suicide attempts did not vary significantly during the menstrual cycle in OC users. In OC non-users, low oestradiol production may predispose to depression and attempted suicide.\r"
+ }, 
+ {
+  ".I": "32139", 
+  ".M": "Adult; Aged; Cardiac Output; Female; Follow-Up Studies; Heart/*PP; Heart Diseases/*PP; Heart Rate; Human; Male; Middle Age; Myocardial Infarction/PP; Pulmonary Wedge Pressure; Stroke Volume; Support, Non-U.S. Gov't.\r", 
+  ".A": [
+   "Tan"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Lancet 8703; 2(8520):1360-3\r", 
+  ".T": "Cardiac pumping capability and prognosis in heart failure.\r", 
+  ".U": "87063061\r", 
+  ".W": "In 63 patients with severe acute or chronic heart failure maximum cardiac performance was determined by calculation of the maximum hydraulic power output achieved by the heart during dobutamine challenge. After one year, all but 3 of the 23 patients with maximum cardiac power output (Wmax) less than the normal resting value of 1 W had died of progressive heart failure. Of the 40 with Wmax more than 1 W, all but 4 (who died suddenly) survived longer than one year. Hydraulic power output is a clinically important measure of cardiac pumping performance and a maximum power output value below the normal resting value indicates that long-term survival is unlikely.\r"
+ }, 
+ {
+  ".I": "32140", 
+  ".M": "Adolescence; Adult; Aged; Aged, 80 and over; Aging; Female; Human; Intervertebral Disk/*; Lumbar Vertebrae; Middle Age; Nuclear Magnetic Resonance/*DU; Spinal Diseases/*DI/PA.\r", 
+  ".A": [
+   "Powell", 
+   "Wilson", 
+   "Szypryt", 
+   "Symonds", 
+   "Worthington"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Lancet 8703; 2(8520):1366-7\r", 
+  ".T": "Prevalence of lumbar disc degeneration observed by magnetic resonance in symptomless women.\r", 
+  ".U": "87063063\r", 
+  ".W": "302 women aged 16-80 without symptoms of spinal disease had their lumbar intervertebral discs examined by magnetic resonance. The prevalence of one or more degenerate discs increased linearly with age but disc degeneration was already present in over one-third of women aged 21-40; these young women may prove to be at special risk of disc prolapse later in life. The high prevalence of symptomless disc degeneration must be taken into account when magnetic resonance is used for assessment of spinal symptoms.\r"
+ }, 
+ {
+  ".I": "32146", 
+  ".M": "Adult; Age Factors; Blood Pressure; Cholesterol/BL; Comparative Study; Coronary Disease/*ET/MO; Follow-Up Studies; Great Britain; Human; Male; Middle Age; Prospective Studies; Risk; Smoking/*; Support, Non-U.S. Gov't; Time Factors.\r", 
+  ".A": [
+   "Cook", 
+   "Shaper", 
+   "Pocock", 
+   "Kussick"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Lancet 8703; 2(8520):1376-80\r", 
+  ".T": "Giving up smoking and the risk of heart attacks. A report from The British Regional Heart Study.\r", 
+  ".U": "87063071\r", 
+  ".W": "In a prospective study of 7735 middle-aged men, both current and ex-cigarette-smokers had a risk of a major IHD event, within an average 6.2 years of screening, more than twice that in men who had never smoked cigarettes; men who had given up smoking more than 20 years ago still had an increased risk. This excess risk among ex-smokers is only to a small extent explained by their higher blood pressure, serum total cholesterol, and body-mass index. An increased prevalence of IHD in men who had recently given up smoking also made a small contribution to excess risk. In both current and former cigarette smokers, the number of years a man had smoked cigarettes (\"smoking-years\") was the clearest indicator of IHD risk due to cigarettes. The major benefit of giving up smoking may lie in halting the accumulation of smoking years.\r"
+ }, 
+ {
+  ".I": "32147", 
+  ".M": "Adolescence; Adult; Aged; Alcohol Drinking/*; Cardiovascular Diseases/ET; Comparative Study; Gastrointestinal Diseases/ET; Hospitalization; Human; Liver Diseases/ET; Male; Middle Age; Morbidity/*; Myocardial Infarction/ET; Respiratory Tract Diseases/ET; Risk; Support, Non-U.S. Gov't.\r", 
+  ".A": [
+   "Chick", 
+   "Duffy", 
+   "Lloyd", 
+   "Ritson"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Lancet 8703; 2(8520):1380-3\r", 
+  ".T": "Medical admissions in men: the risk among drinkers.\r", 
+  ".U": "87063072\r", 
+  ".W": "Information on alcohol consumption was elicited by the same method from men in a general population survey and from male medical inpatients in a hospital serving that population. A measure of risk controlling for age, the logarithm of the odds ratio, showed that for liver disorders, upper gastrointestinal disorders, myocardial infarction, other cardiovascular disorders, and respiratory disorders, rising consumption of alcohol was related to increased risk of hospital admission relative to abstention. The risk of admission for the remaining heterogeneous category of disorders was lower than that for abstention, perhaps reflecting the effect of chronic illness on drinking habits, and also suggesting that the link between alcohol consumption and medical diagnoses is not simply due to greater frankness about drinking in hospital inpatients.\r"
+ }, 
+ {
+  ".I": "32148", 
+  ".M": "Female; Human; Prejudice/*; Premenstrual Syndrome/*DI; Women's Rights.\r", 
+  ".A": [
+   "Severino", 
+   "Mortati"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Lancet 8703; 2(8520):1386\r", 
+  ".T": "A sexist diagnosis?\r", 
+  ".U": "87063074\r"
+ }, 
+ {
+  ".I": "32150", 
+  ".M": "Caloric Intake/*; Depressive Disorder/CO/*DI; Human; Sleep Disorders/*ET.\r", 
+  ".A": [
+   "Carroll"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8520):1390\r", 
+  ".T": "Sleep disruption, calorie restriction, and biological markers for depression [letter]\r", 
+  ".U": "87063076\r"
+ }, 
+ {
+  ".I": "32151", 
+  ".M": "Child; Erythema/*PP; Female; Human; Male; Time Factors.\r", 
+  ".A": [
+   "Joseph"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8520):1390-1\r", 
+  ".T": "Incubation period of fifth disease [letter]\r", 
+  ".U": "87063077\r"
+ }, 
+ {
+  ".I": "32152", 
+  ".M": "Foot/*BS; Human; Ischemia/*DI; Muscles/BS; Nuclear Magnetic Resonance/DU; Phosphorus/DU.\r", 
+  ".A": [
+   "Hands", 
+   "Payne", 
+   "Bore", 
+   "Morris", 
+   "Radda"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8520):1391\r", 
+  ".T": "Magnetic resonance spectroscopy in ischaemic feet [letter]\r", 
+  ".U": "87063078\r"
+ }, 
+ {
+  ".I": "32153", 
+  ".M": "Acquired Immunodeficiency Syndrome/*EP; Adolescence; Adult; Contraceptive Devices, Male/*; Female; Germany, West; Human; Middle Age; Prostitution/*LJ.\r", 
+  ".A": [
+   "Smith", 
+   "Smith"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8520):1392\r", 
+  ".T": "Lack of HIV infection and condom use in licensed prostitutes [letter]\r", 
+  ".U": "87063080\r"
+ }, 
+ {
+  ".I": "32154", 
+  ".M": "Adult; Case Report; Chewing Gum/*; Human; Hypercholesterolemia/*CI; Lipids/BL; Male; Nicotine/*AD/AE.\r", 
+  ".A": [
+   "Dousset", 
+   "Gutierres", 
+   "Dousset"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8520):1393-4\r", 
+  ".T": "Hypercholesterolaemia after administration of nicotine chewing gum [letter]\r", 
+  ".U": "87063083\r"
+ }, 
+ {
+  ".I": "32155", 
+  ".M": "Acute Disease; Asthma/*DT; Human; Theophylline/*BL.\r", 
+  ".A": [
+   "Wiggins"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8520):1394\r", 
+  ".T": "Bedside theophylline assay in severe acute asthma [letter]\r", 
+  ".U": "87063084\r"
+ }, 
+ {
+  ".I": "32156", 
+  ".M": "DNA/AN; Female; Human; Male; Patient Acceptance of Health Care/*; Pregnancy; Prenatal Diagnosis/*MT; Retinitis Pigmentosa/*DI; Support, Non-U.S. Gov't.\r", 
+  ".A": [
+   "Pawlowitzki", 
+   "Ruther", 
+   "Brunsmann", 
+   "von"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8520):1394-5\r", 
+  ".T": "Acceptability of prenatal diagnosis for retinitis pigmentosa [letter]\r", 
+  ".U": "87063085\r"
+ }, 
+ {
+  ".I": "32157", 
+  ".M": "Attitude to Health/*; Human; Kidney, Polycystic/*DI; Risk.\r", 
+  ".A": [
+   "Zerres", 
+   "Stephan"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8520):1395\r", 
+  ".T": "Attitudes to early diagnosis of polycystic kidney disease [letter]\r", 
+  ".U": "87063086\r"
+ }, 
+ {
+  ".I": "32158", 
+  ".M": "Airway Obstruction/*CI; Case Report; Enalapril/*AE; Female; Human; Hypertension/DT; Middle Age; Nose Diseases/*CI.\r", 
+  ".A": [
+   "Fennerty", 
+   "Littley", 
+   "Reid"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8520):1395-6\r", 
+  ".T": "Enalapril-induced nasal blockage [letter]\r", 
+  ".U": "87063087\r"
+ }, 
+ {
+  ".I": "32159", 
+  ".M": "Adult; Body Water/*AN; Brain Chemistry/*DE; Case Report; Female; Human; Lupus Erythematosus, Systemic/*DT; Methylprednisolone/TU.\r", 
+  ".A": [
+   "Houssiau", 
+   "Devogelaer", 
+   "Mathurin"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8520):1396\r", 
+  ".T": "Changes in brain water in systemic lupus erythematosus [letter]\r", 
+  ".U": "87063088\r"
+ }, 
+ {
+  ".I": "32161", 
+  ".M": "Adult; Case Report; Female; Hemoglobinuria, Paroxysmal/*; Human; Infant, Newborn; Male; Pregnancy; Pregnancy Complications, Hematologic/*; Pregnancy, Multiple.\r", 
+  ".A": [
+   "Beresford", 
+   "Gudex", 
+   "Symmans"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8520):1396-7\r", 
+  ".T": "Paroxysmal nocturnal haemoglobinuria and pregnancy [letter]\r", 
+  ".U": "87063090\r"
+ }, 
+ {
+  ".I": "32162", 
+  ".M": "Beverages/*; Evaluation Studies; Fruit/*; Human; Kidney Failure, Chronic/*DH; Potassium/AN.\r", 
+  ".A": [
+   "Heath", 
+   "Walker", 
+   "Park"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8520):1397\r", 
+  ".T": "Is it necessary to deny patients with renal failure fruit-flavoured beverages? [letter]\r", 
+  ".U": "87063091\r"
+ }, 
+ {
+  ".I": "32163", 
+  ".M": "Adult; Aged; Aluminum/*BL; Case Report; Female; Hemodialysis/AE; Human; Kidney Failure, Acute/*BL; Male; Middle Age.\r", 
+  ".A": [
+   "Davenport", 
+   "Roberts"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8520):1397-8\r", 
+  ".T": "Serum aluminium levels in acute renal failure [letter]\r", 
+  ".U": "87063092\r"
+ }, 
+ {
+  ".I": "32164", 
+  ".M": "Case Report; Cyclosporins/AE/*ME; Human; Kidney Diseases/*CI; Male; Middle Age.\r", 
+  ".A": [
+   "Leunissen", 
+   "Beuman", 
+   "Bosman", 
+   "van"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8520):1398\r", 
+  ".T": "Cyclosporin metabolites and nephrotoxicity [letter]\r", 
+  ".U": "87063093\r"
+ }, 
+ {
+  ".I": "32165", 
+  ".M": "Antibodies, Viral/*AN; Distemper Virus, Canine/IM/*PY; Evaluation Studies; Human; Osteitis Deformans/*ET; Support, U.S. Gov't, Non-P.H.S..\r", 
+  ".A": [
+   "Hamill", 
+   "Baughn", 
+   "Mallette", 
+   "Musher", 
+   "Wilson"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8520):1399\r", 
+  ".T": "Serological evidence against role for canine distemper virus in pathogenesis of Paget's disease of bone [letter]\r", 
+  ".U": "87063094\r"
+ }, 
+ {
+  ".I": "32166", 
+  ".M": "Bone Diseases, Metabolic/*ET; Diseases in Twins; Human; Infant, Low Birth Weight/*; Infant, Newborn; Infant, Premature, Diseases/*ET.\r", 
+  ".A": [
+   "Morgan", 
+   "Evans"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8520):1399-400\r", 
+  ".T": "Osteopenia in very low birthweight infants [letter]\r", 
+  ".U": "87063095\r"
+ }, 
+ {
+  ".I": "32167", 
+  ".M": "Antibodies, Bacterial/*AN; Finland; Human; London; Spondylitis, Ankylosing/*IM; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S.; Yersinia enterocolitica/*IM.\r", 
+  ".A": [
+   "Toivanen", 
+   "Stahlberg", 
+   "Granfors", 
+   "Ebringer"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8520):1400\r", 
+  ".T": "Absence of antibodies to Yersinia enterocolitica in patients with ankylosing spondylitis in London [letter]\r", 
+  ".U": "87063096\r"
+ }, 
+ {
+  ".I": "32168", 
+  ".M": "Child, Preschool; Drug Evaluation; Erythrocytes/*IM; Human; Infant; Lymphocytes/*; Male; Phagocytosis/*; Podophyllotoxin/*AA; Remission Induction; Reticuloendotheliosis/*DT; Teniposide/*TU.\r", 
+  ".A": [
+   "Henter", 
+   "Elinder", 
+   "Finkel", 
+   "Soder"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8520):1402\r", 
+  ".T": "Successful induction with chemotherapy including teniposide in familial erythrophagocytic lymphohistiocytosis [letter]\r", 
+  ".U": "87063099\r"
+ }, 
+ {
+  ".I": "32169", 
+  ".M": "Animal; Antibodies, Monoclonal/*DU; Campylobacter/*CL; Campylobacter Infections/DI; Human; Mice; Mice, Inbred DBA.\r", 
+  ".A": [
+   "Engstrand", 
+   "Pahlson", 
+   "Gustavsson", 
+   "Schwan"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8520):1402-3\r", 
+  ".T": "Monoclonal antibodies for rapid identification of Campylobacter pyloridis [letter]\r", 
+  ".U": "87063100\r"
+ }, 
+ {
+  ".I": "32170", 
+  ".M": "Air Pollutants, Environmental/*TO; Animal; Cyanates/*TO; Eye/*PA; Lung/*PA; Pilot Projects; Rats; Time Factors.\r", 
+  ".A": [
+   "Gassert", 
+   "MacKenzie", 
+   "Kerr", 
+   "Andersson", 
+   "Salmon"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8520):1403\r", 
+  ".T": "Long term pathology of lung, eye, and other organs following acute exposure of rats to methyl isocyanate [letter]\r", 
+  ".U": "87063101\r"
+ }, 
+ {
+  ".I": "32171", 
+  ".M": "Adult; Case Report; Female; Hodgkin's Disease/DT; Human; Lymphoma, Non-Hodgkin's/DT; Male; Middle Age; Prednisolone/*AD; Psychoses, Substance-Induced/*PC; Tablets, Enteric-Coated.\r", 
+  ".A": [
+   "Glynne-Jones", 
+   "Vernon", 
+   "Bell"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8520):1404\r", 
+  ".T": "Is steroid psychosis preventable by divided doses? [letter]\r", 
+  ".U": "87063102\r"
+ }, 
+ {
+  ".I": "32172", 
+  ".M": "Adult; Airway Obstruction/*TH; Case Report; Esophagus; Human; Male; Middle Age; Silicones/*TU; Simethicone/*TU.\r", 
+  ".A": [
+   "Campbell", 
+   "Sykes"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8520):1405\r", 
+  ".T": "Non-endoscopic relief of oesophageal obstruction [letter]\r", 
+  ".U": "87063106\r"
+ }, 
+ {
+  ".I": "32173", 
+  ".M": "Aerosols; Airway Resistance/DE; Albuterol/AD/*AE; Bronchi/*PP; Female; Human; Hydrogen-Ion Concentration; Infant; Male; Osmolar Concentration; Respiratory Sounds/*DT; Time Factors.\r", 
+  ".A": [
+   "O'Callaghan", 
+   "Milner", 
+   "Swarbrick"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Lancet 8703; 2(8521-22):1424-5\r", 
+  ".T": "Paradoxical deterioration in lung function after nebulised salbutamol in wheezy infants.\r", 
+  ".U": "87063112\r", 
+  ".W": "In 13 infants with a history of wheezing, airways resistance and specific conductance worsened after administration of nebulised salbutamol (0.5 ml sabutamol respirator solution in 1.5 ml normal saline). This paradoxical bronchoconstriction was greatest at 5 min and lasted for up to 15 min. The nebulised solution was found to be acidic and hypo-osmolar, both of which properties have been linked to bronchoconstriction in asthmatic subjects, but even with an initially iso-osmolar solution osmolality increased with time of nebulisation because of evaporation.\r"
+ }, 
+ {
+  ".I": "32180", 
+  ".M": "Diagnosis/*; Diagnostic Errors; Human; Medical History Taking; Physical Examination; Physician-Patient Relations.\r", 
+  ".A": [
+   "McCormick"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Lancet 8703; 2(8521-22):1434-5\r", 
+  ".T": "Diagnosis: the need for demystification.\r", 
+  ".U": "87063120\r"
+ }, 
+ {
+  ".I": "32181", 
+  ".M": "Aged; Arthritis, Rheumatoid/ET/PX; Attitude; Disease/*PX; Human; Interview, Psychological; Middle Age; Models, Psychological; Patient Education; Physician-Patient Relations/*.\r", 
+  ".A": [
+   "Williams", 
+   "Wood"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Lancet 8703; 2(8521-22):1435-7\r", 
+  ".T": "Common-sense beliefs about illness: a mediating role for the doctor.\r", 
+  ".U": "87063121\r", 
+  ".W": "A great deal is said these days about how important it is for doctors to pay attention to the patient's beliefs about his or her disease. Better knowledge of such beliefs, it is argued, will enable the doctor to counter ignorance, enhance communication, and reduce non-compliance. The view advanced here is that the significance of patients' beliefs and their frequent resistance to rational correction will emerge only if they are seen as components in a process of \"narrative reconstruction\". It is suggested that the main difficulty is not ignorance but rather the fact that doctor and patient have different purposes: whereas the doctor's objective is to explain the aetiology of the disease, the patient may be more concerned to make sense of the disruption caused by the disease.\r"
+ }, 
+ {
+  ".I": "32182", 
+  ".M": "Aged; Art/*; Art Therapy; Handicapped/*; Hospital Design and Construction/*; Human; London; New York City.\r", 
+  ".A": [
+   "Baron"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Lancet 8703; 2(8521-22):1438-41\r", 
+  ".T": "Art in hospitals and for the disadvantaged in New York and London.\r", 
+  ".U": "87063122\r"
+ }, 
+ {
+  ".I": "32183", 
+  ".M": "Angina Pectoris/*DI/PX; Attitude; Evaluation Studies; Exertion; Human; Risk.\r", 
+  ".A": [
+   "Bassan"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Lancet 8703; 2(8521-22):1442-3\r", 
+  ".T": "Who's afraid of angina pectoris? Separating the symptom from the marker.\r", 
+  ".U": "87063123\r", 
+  ".W": "100 cardiologists were asked for their views on the risk associated with an episode of exertional angina in patients with stable angina. 58% thought that such an episode carried some risk of permanent damage or death, and 78% advised their patients to avoid anginal pain. In contrast, exercise studies done during the evaluation of anti-anginal drugs indicate that exertional angina can be provoked frequently and repeatedly without apparent risk, and other studies have shown that repeated exercise to the onset of angina is not only safe but improves exercise tolerance. Epidemiological investigations suggest that sudden death and myocardial infarction do not commonly occur during exertion, and our knowledge of pathology indicates that both events are usually caused by acute coronary thrombosis. Many physicians seem to treat the symptom of angina because they are unduly motivated by fear of the underlying potentially fatal disease for which angina is a marker. Such an attitude will tend to cause undue anxiety among patients, will lead to unnecessary restriction of patients' activities, and may result in excessive invasive treatment of mild angina.\r"
+ }, 
+ {
+  ".I": "32184", 
+  ".M": "Acute Disease; Evaluation Studies; Handicapped/*PX; Human; Intelligence/*; Microcomputers; Neuropsychological Tests; Quality of Life; Rehabilitation/*.\r", 
+  ".A": [
+   "Wilson", 
+   "McMillan"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Lancet 8703; 2(8521-22):1444-6\r", 
+  ".T": "Finding able minds in disabled bodies.\r", 
+  ".U": "87063124\r"
+ }, 
+ {
+  ".I": "32185", 
+  ".M": "Europe; Evaluation Studies; Internal Medicine/*ED; International Educational Exchange/*; Language; Medical Staff, Hospital/*ED.\r", 
+  ".A": [
+   "van", 
+   "Dickinson"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Lancet 8703; 2(8521-22):1446-8\r", 
+  ".T": "The European exchange scheme for junior doctors in internal medicine. An exciting and successful experiment.\r", 
+  ".U": "87063125\r"
+ }, 
+ {
+  ".I": "32186", 
+  ".M": "Case Report; Desensitization (Psychology); Female; Human; Imagination/*; Middle Age; Muscle Relaxation; Placebos/*; Plethysmography; Raynaud's Disease/PX/TH.\r", 
+  ".A": [
+   "Melmed", 
+   "Roth", 
+   "Beer", 
+   "Edelstein"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Lancet 8703; 2(8521-22):1448-9\r", 
+  ".T": "Montaigne's insight: placebo effect and symptom anticipation are two sides of the same coin.\r", 
+  ".U": "87063126\r"
+ }, 
+ {
+  ".I": "32187", 
+  ".M": "Antineoplastic Agents, Combined/*TU; Case Report; Female; Fibrosarcoma/CN/*DT; Human; Infant; Soft Tissue Neoplasms/CN/*DT.\r", 
+  ".A": [
+   "Delepine", 
+   "Cornille", 
+   "Desbois", 
+   "Delepine", 
+   "Voisin"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8521-22):1453-4\r", 
+  ".T": "Complete response of congenital fibrosarcoma to chemotherapy [letter]\r", 
+  ".U": "87063129\r"
+ }, 
+ {
+  ".I": "32188", 
+  ".M": "Disease Outbreaks/*; Human; India; Male; Shock, Septic/*EP; Social Control, Formal; Staphylococcal Infections/*EP.\r", 
+  ".A": [
+   "Naidu", 
+   "Rathna", 
+   "Nirmala", 
+   "Devi", 
+   "Rajyalakshmi"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8521-22):1454-5\r", 
+  ".T": "Outbreak of non-menstrual fatal staphylococcal toxic shock syndrome in India [letter]\r", 
+  ".U": "87063131\r"
+ }, 
+ {
+  ".I": "32189", 
+  ".M": "Dioxins/*AE; Environmental Exposure; Human; Italy; Lymphoma/*EP; Sarcoma/*EP; Soft Tissue Neoplasms/*EP; Tetrachlorodibenzodioxin/*AE.\r", 
+  ".A": [
+   "Merlo", 
+   "Puntoni"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8521-22):1455\r", 
+  ".T": "Soft-tissue sarcomas, malignant lymphomas, and 2,3,7,8-TCDD exposure in Seveso [letter]\r", 
+  ".U": "87063132\r"
+ }, 
+ {
+  ".I": "32190", 
+  ".M": "Case Report; Cimetidine/AE; Female; Histamine H2 Receptor Blockaders/*AE; Human; Middle Age; Parotitis/*CI; Ranitidine/AE; Recurrence.\r", 
+  ".A": [
+   "Caraman", 
+   "Netter", 
+   "Semin-Cosson", 
+   "Parrot", 
+   "Trechot", 
+   "Azoulay"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8521-22):1455-6\r", 
+  ".T": "Recurrent parotitis with H2 receptor antagonists [letter]\r", 
+  ".U": "87063133\r"
+ }, 
+ {
+  ".I": "32191", 
+  ".M": "Ankle; Edema/*CI; Human; Hypertension/*DT; Nifedipine/*AE.\r", 
+  ".A": [
+   "Opie"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8521-22):1456\r", 
+  ".T": "Fluid retention with nifedipine in antihypertensive therapy [letter]\r", 
+  ".U": "87063135\r"
+ }, 
+ {
+  ".I": "32193", 
+  ".M": "Hepatitis B/PC; Human; Scotland; Social Control, Formal/*; Vaccination; Viral Hepatitis Vaccines/*.\r", 
+  ".A": [
+   "Peterkin", 
+   "Crawford"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8521-22):1458-9\r", 
+  ".T": "Hepatitis B vaccine for police forces? [letter]\r", 
+  ".U": "87063137\r"
+ }, 
+ {
+  ".I": "32194", 
+  ".M": "Aorta, Abdominal/RA; Aortic Aneurysm/*RA; Aortitis/*RA; Human; Tomography, X-Ray Computed.\r", 
+  ".A": [
+   "Dixon", 
+   "Sherwood"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8521-22):1459\r", 
+  ".T": "Inflammatory abdominal aortic aneurysms [letter]\r", 
+  ".U": "87063138\r"
+ }, 
+ {
+  ".I": "32196", 
+  ".M": "Acyclovir/AD; Chickenpox/*PC; Female; Human; Immunoglobulins/*AD; Infant, Newborn; Maternal-Fetal Exchange; Pregnancy; Varicella-Zoster Virus/IM.\r", 
+  ".A": [
+   "Carter", 
+   "Duffy", 
+   "Lloyd"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8521-22):1459-60\r", 
+  ".T": "Neonatal varicella infection [letter]\r", 
+  ".U": "87063140\r"
+ }, 
+ {
+  ".I": "32197", 
+  ".M": "Government Agencies/*; Great Britain; Health Education/*TD.\r", 
+  ".A": [
+   "Draper"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8521-22):1461\r", 
+  ".T": "Future of Health Education Council [letter]\r", 
+  ".U": "87063143\r"
+ }, 
+ {
+  ".I": "32198", 
+  ".M": "England; Health Resources/*SD; Human; Population Growth/*; Scotland.\r", 
+  ".A": [
+   "Weatherburn"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8521-22):1461\r", 
+  ".T": "Population growth and resource allocation [letter]\r", 
+  ".U": "87063144\r"
+ }, 
+ {
+  ".I": "32199", 
+  ".M": "Diacetylmorphine/*; Great Britain; Human; Legislation, Drug/*.\r", 
+  ".A": [
+   "Hammersley"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8521-22):1461-2\r", 
+  ".T": "Legalising heroin [letter]\r", 
+  ".U": "87063145\r"
+ }, 
+ {
+  ".I": "32200", 
+  ".M": "Amrinone/*; Drug Industry/ST; London; Research/ST.\r", 
+  ".A": [
+   "Griffin"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8521-22):1462\r", 
+  ".T": "Conduct of research on amrinone [letter]\r", 
+  ".U": "87063146\r"
+ }, 
+ {
+  ".I": "32201", 
+  ".M": "Africa; Attitude to Death/*; Female; Human; Infant, Newborn; Mother-Child Relations/*.\r", 
+  ".A": [
+   "Ogunbekun"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8521-22):1462\r", 
+  ".T": "Death of a child in Africa [letter]\r", 
+  ".U": "87063147\r"
+ }, 
+ {
+  ".I": "32202", 
+  ".M": "Animal; Blood Coagulation Disorders/*TH; Brain Chemistry/*; Comparative Study; Evaluation Studies; Human; Liver Diseases/*BL; Rabbits; Species Specificity; Thromboplastin/*TU.\r", 
+  ".A": [
+   "Kitchen", 
+   "Malia", 
+   "Greaves", 
+   "Preston"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8521-22):1463\r", 
+  ".T": "Comparison of human and rabbit brain thromboplastin in evaluation of haemostatic defect of liver disease [letter]\r", 
+  ".U": "87063149\r"
+ }, 
+ {
+  ".I": "32203", 
+  ".M": "Bronchial Neoplasms/*CO; Esophageal Neoplasms/*CO; Human; Prosthesis/*; Tracheoesophageal Fistula/*TH.\r", 
+  ".A": [
+   "Davidson", 
+   "Hatfield", 
+   "Jones"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8521-22):1463\r", 
+  ".T": "Prosthesis for malignant oesophago-respiratory fistula [letter]\r", 
+  ".U": "87063150\r"
+ }, 
+ {
+  ".I": "32204", 
+  ".M": "Child; Dominance, Cerebral/*; Epilepsy/*SU; Human; Male.\r", 
+  ".A": [
+   "Scott"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8521-22):1463-4\r", 
+  ".T": "Cerebral dominance and epilepsy surgery [letter]\r", 
+  ".U": "87063151\r"
+ }, 
+ {
+  ".I": "32205", 
+  ".M": "Aged; Aged, 80 and over; Behavior/DE; Case Report; Dementia/*DT; Drug Therapy, Combination; Female; Human; Trazodone/*AD; Tryptophan/*AD.\r", 
+  ".A": [
+   "Greenwald", 
+   "Marin", 
+   "Silverman"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8521-22):1464-5\r", 
+  ".T": "Serotoninergic treatment of screaming and banging in dementia [letter]\r", 
+  ".U": "87063153\r"
+ }, 
+ {
+  ".I": "32206", 
+  ".M": "Diarrhea/*ET; Follow-Up Studies; Human; Postoperative Complications/*; Vagotomy/*AE.\r", 
+  ".A": [
+   "Malchow-Moller", 
+   "Frederiksen", 
+   "Sparso", 
+   "Henriksen", 
+   "Krag", 
+   "Jensen"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8521-22):1465\r", 
+  ".T": "Postvagotomy diarrhoea [letter]\r", 
+  ".U": "87063154\r"
+ }, 
+ {
+  ".I": "32207", 
+  ".M": "Dihydroergotamine/*AD/AE; Drug Evaluation; Drug Therapy, Combination; Heparin/*AD/AE; Human; Pulmonary Embolism/*PC; Risk; Wounds and Injuries/CO.\r", 
+  ".A": [
+   "Schlag", 
+   "Poigenfurst", 
+   "Gaudernak"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8521-22):1465\r", 
+  ".T": "Risk/benefit of heparin-dihydroergotamine thromboembolic prophylaxis [letter]\r", 
+  ".U": "87063155\r"
+ }, 
+ {
+  ".I": "32208", 
+  ".M": "Heparin/*AN; Human; Mast Cells/*AN.\r", 
+  ".A": [
+   "Scully", 
+   "Ellis", 
+   "Kakkar"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8521-22):1466\r", 
+  ".T": "Heparin and mast cells [letter]\r", 
+  ".U": "87063156\r"
+ }, 
+ {
+  ".I": "32209", 
+  ".M": "Adult; Aged; Aged, 80 and over; Diabetic Nephropathies/*EP; England; Female; Human; Kidney Failure, Chronic/*EP; Male; Middle Age; Retrospective Studies.\r", 
+  ".A": [
+   "Scott", 
+   "McHugh", 
+   "Martin"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8521-22):1466-7\r", 
+  ".T": "End-stage renal failure in diabetes [letter]\r", 
+  ".U": "87063158\r"
+ }, 
+ {
+  ".I": "32210", 
+  ".M": "Child; Evaluation Studies; Heterozygote Detection; Human; Parents; Skull/*RA; Tomography, X-Ray Computed; Tuberous Sclerosis/*GE.\r", 
+  ".A": [
+   "Fryer", 
+   "Chalmers", 
+   "Osborne"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8521-22):1467\r", 
+  ".T": "Examining the parents of children with tuberous sclerosis [letter]\r", 
+  ".U": "87063159\r"
+ }, 
+ {
+  ".I": "32211", 
+  ".M": "Catheters, Indwelling; Human; Peritoneal Dialysis, Continuous Ambulatory/*AE/MT; Peritonitis/ET.\r", 
+  ".A": [
+   "Grefberg"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8521-22):1467\r", 
+  ".T": "Renewal of Tenckhoff catheters [letter]\r", 
+  ".U": "87063160\r"
+ }, 
+ {
+  ".I": "32212", 
+  ".M": "Case Report; Esophagus/*; Female; Heating/*MT; Human; Hypothermia/*TH; Intubation/*IS; Middle Age.\r", 
+  ".A": [
+   "Kristensen", 
+   "Drenck", 
+   "Jordening"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8521-22):1467-8\r", 
+  ".T": "Simple system for central rewarming of hypothermic patients [letter]\r", 
+  ".U": "87063161\r"
+ }, 
+ {
+  ".I": "32213", 
+  ".M": "Adult; Evaluation Studies; Female; Human; Insemination, Artificial/*MT; Insemination, Artificial, Homologous/*MT; Peritoneal Cavity; Pregnancy.\r", 
+  ".A": [
+   "Forrler", 
+   "Badoc", 
+   "Moreau", 
+   "Dellenbach", 
+   "Cranz", 
+   "Clavert", 
+   "Rumpler"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8521-22):1468\r", 
+  ".T": "Direct intraperitoneal insemination: first results confirmed [letter]\r", 
+  ".U": "87063162\r"
+ }, 
+ {
+  ".I": "32214", 
+  ".M": "Antibodies, Bacterial/*AN; Borrelia/*IM; Borrelia Infections/*DI; Case Report; Cerebrospinal Fluid/MI; Child; Human; Leukocyte Count; Lymphocytes; Male; Meningitis/*DI.\r", 
+  ".A": [
+   "Huppertz", 
+   "Sticht-Groh", 
+   "Schwan"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8521-22):1468-9\r", 
+  ".T": "Borderline antibody response in initial stages of lymphocytic meningitis does not rule out borreliosis [letter]\r", 
+  ".U": "87063163\r"
+ }, 
+ {
+  ".I": "32215", 
+  ".M": "Human; Iron/*ME; Psychomotor Agitation/*CI; Tranquilizing Agents, Major/*AE.\r", 
+  ".A": [
+   "Pall", 
+   "Williams", 
+   "Blake"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8521-22):1469\r", 
+  ".T": "Iron, akathisia, and antipsychotic drugs [letter]\r", 
+  ".U": "87063164\r"
+ }, 
+ {
+  ".I": "32216", 
+  ".M": "Aged; Case Report; Female; Human; Male; Marriage; Syphilis/*DI.\r", 
+  ".A": [
+   "Harries"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8521-22):1469\r", 
+  ".T": "Syphilis in the elderly [letter]\r", 
+  ".U": "87063165\r"
+ }, 
+ {
+  ".I": "32217", 
+  ".M": "Adolescence; Aerosols; Atropine Derivatives/*AE; Case Report; Dilatation; Human; Male; Middle Age; N-Isopropylatropine/AD/*AE; Pneumonia, Aspiration/DT; Pupil/*DE; Tetanus/DT.\r", 
+  ".A": [
+   "Helprin", 
+   "Clarke"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8521-22):1469\r", 
+  ".T": "Unilateral fixed dilated pupil associated with nebulised ipratropium bromide [letter]\r", 
+  ".U": "87063166\r"
+ }, 
+ {
+  ".I": "32218", 
+  ".M": "Fatty Acids/*ME; Human; Infant; Metabolism, Inborn Errors/*DI/GE; Prospective Studies; Sudden Infant Death/*.\r", 
+  ".A": [
+   "Bennett", 
+   "Variend", 
+   "Pollitt"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8703; 2(8521-22):1470\r", 
+  ".T": "Screening siblings for inborn errors of fatty acid metabolism in families with a history of sudden infant death [letter]\r", 
+  ".U": "87063169\r"
+ }, 
+ {
+  ".I": "32219", 
+  ".M": "Animal; Binding Sites; Chromatography, Gel; Muscle, Smooth/*ME; Myosin/*ME; Rabbits; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S.; Vanadium/ME.\r", 
+  ".A": [
+   "Okamoto", 
+   "Sekine", 
+   "Grammer", 
+   "Yount"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Nature 8703; 324(6092):78-80\r", 
+  ".T": "The essential light chains constitute part of the active site of smooth muscle myosin [published erratum appears in Nature 1987 Jan 22-28;325(6102):374]\r", 
+  ".U": "87065035\r", 
+  ".W": "Myosin, a major contractile protein, characteristically possesses a long coiled-coil alpha-helical tail and two heads. Each head contains both an actin binding site and an ATPase site and is formed from the NH2-terminal half of one of the two heavy chains (relative molecular mass, Mr, 200,000) and a pair of light chains; the so-called regulatory and essential light chains of approximately Mr 20,000 each. Recently we have identified Trp 130 of the myosin heavy chain from rabbit skeletal muscle as an active-site amino-acid residue after labelling with a new photoaffinity analogue of ADP, N-(4-azido-2-nitrophenyl)-2-aminoethyl diphosphate (NANDP). Nonspecific labelling was eliminated by first trapping NANDP at the active site with thiol crosslinking agents. Exclusive labelling of the heavy chains with no labelling of the light chains agreed with previous findings that the heavy chains alone contain the actin-activated Mg-ATPase activity of rabbit skeletal myosin. Here we report similar photolabelling experiments with smooth muscle myosin (chicken gizzard) in which 3H-NANDP is trapped at the active site with vanadate and which show that both the heavy chains and the essential light chains are labelled. The results indicate that both chains contribute to the ATP binding site and represent the first direct evidence for participation of the essential light chains in the active site of any type of myosin.\r"
+ }, 
+ {
+  ".I": "32220", 
+  ".M": "Codon/*; Comparative Study; Evolution; HIV/*GE; RNA, Messenger/*; RNA, Viral/GE.\r", 
+  ".A": [
+   "Sharp"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Nature 8703; 324(6093):114\r", 
+  ".T": "What can AIDS virus codon usage tell us? [letter]\r", 
+  ".U": "87065043\r"
+ }, 
+ {
+  ".I": "32221", 
+  ".M": "Adenoviruses, Human/GE; Animal; Base Sequence; Genes, Structural; Genes, Viral; Globin/GE; Nucleic Acid Precursors/*GE; Oncogene Proteins, Viral/GE; Rabbits; RNA Splicing/*; RNA, Messenger/*GE; Support, Non-U.S. Gov't.\r", 
+  ".A": [
+   "Eperon", 
+   "Estibeiro", 
+   "Eperon"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Nature 8703; 324(6094):280-2\r", 
+  ".T": "The role of nucleotide sequences in splice site selection in eukaryotic pre-messenger RNA.\r", 
+  ".U": "87065073\r", 
+  ".W": "Alternative splicing of eukaryotic messenger RNA precursors is now known to be of widespread importance in generating multiple transcripts from a single gene. This phenomenon has emphasized the problem of the way in which splice sites are selected; recent studies have discussed the role of secondary structure or affinity and spatial relationships in this selection. Splice site sequences vary widely, although a loose consensus has been derived for the 9 bases around the 5' splice site and for a longer region around the 3' splice site. Mutagenesis experiments have defined the sequences essential for a potential 5' splice site, but, except for some experiments with the E1a gene of adenovirus, these experiments have not examined 5' splice site sequences for features responsible for site preference where alternative splicing sites exist. Such tests require a choice of site: an appropriate reference site and a constant position at which test sites are introduced. We have begun a series of experiments designed to show whether splice site sequences can be ranked in a hierarchy of preferential use. Here we show that the archetypal consensus sequence is used efficiently, and characterize the cryptic sites of beta-globin: sequences alone can explain why these sites are not normally used. We also show with the E1a gene of adenovirus, a simple example of alternative splicing, that one of the two 5' splice sites used by this gene is intrinsically stronger. We also demonstrate that tandem repeats and secondary structure influence the choice of sites in vivo. We discuss the mechanism of splice site selection.\r"
+ }, 
+ {
+  ".I": "32222", 
+  ".M": "Adenine Nucleotides/ME; Animal; Base Sequence; Cytosine Nucleotides/ME; Exons; Globin/*GE; Guanine Nucleotides/ME; Introns/*; Mutation; Nucleic Acid Precursors/*GE/ME; Rabbits; RNA Splicing/*; RNA, Messenger/*GE/ME; Support, Non-U.S. Gov't; Thymine Nucleotides/ME.\r", 
+  ".A": [
+   "Hornig", 
+   "Aebi", 
+   "Weissmann"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Nature 8703; 324(6097):589-91\r", 
+  ".T": "Effect of mutations at the lariat branch acceptor site on beta-globin pre-mRNA splicing in vitro.\r", 
+  ".U": "87065146\r", 
+  ".W": "Introns are excised from full-length transcripts (pre-messenger RNAs) of eukaryotic genes in two steps. First, the pre-mRNA is cleaved at the 5' splice site and a branched (lariat) intermediate is formed. Then, cleavage at the 3' splice site and ligation of the two exons leads to the release of the lariat intron. The intron sequence which accepts the 5' end to form the lariat branch is strictly conserved in yeast, but shows more variation in eukaryotes. To investigate the requirements for branch formation in eukaryotes further, we have studied in vitro splicing of a rabbit globin gene intron with mutations of the normal branch-accepting adenosine nucleotide. We conclude that all four nucleotides can serve as branch acceptors, but that A and C are preferred to G and U in lariat formation. Mutation of the normal A to G or U can lead to an A residue one nucleotide upstream of the normal branch site being used instead. Only branches to A or C participate efficiently in the second splicing step.\r"
+ }, 
+ {
+  ".I": "32223", 
+  ".M": "Accident Prevention/*; Athletic Injuries/PC; Brain Injuries/*PC; Central Nervous System/*IN; Crime/PC; Human; Legislation; Protective Devices; Spinal Cord Injuries/*PC; Transportation; Trauma Centers/OG; United States; Wounds, Gunshot/PC.\r", 
+  ".A": [
+   "McGuire"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Nurs Clin North Am 8703; 21(4):549-54\r", 
+  ".T": "Issues in the prevention of neurotrauma.\r", 
+  ".U": "87066883\r", 
+  ".W": "Over one half of all neurotrauma occurs in or by motor vehicles. The other causes of neurotrauma are falls, violent assaults, sports and recreation, and firearms. The victims who survive are left with paralysis, disfigurement, loss of sight and hearing, seizures, epilepsy, psychiatric disorders, amnesia--in short, significant and often permanent impairment. To permanently prevent this annual human destruction, the prevention agenda should include advocating for air bags in all cars, helmet use for all motorcyclists, the elimination of handguns, and the regionalization of all trauma care. After this is accomplished, we can continue working on preventing other neurotrauma problems.\r"
+ }, 
+ {
+  ".I": "32225", 
+  ".M": "Adolescence; Adult; Bed Rest/AE; Brain Injuries/NU; Critical Care/*; Female; Head Injuries/CL/ET/*NU; Human; Male; Neurologic Examination; Nursing Assessment; Nutrition; Seizures/PC; Water-Electrolyte Imbalance/PC; Wounds and Injuries/PC.\r", 
+  ".A": [
+   "Gardner"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Nurs Clin North Am 8703; 21(4):555-62\r", 
+  ".T": "Acute management of the head-injured adult.\r", 
+  ".U": "87066885\r", 
+  ".W": "Acute nursing management of the head-injured adult is both complex and challenging. Knowledge of the underlying pathophysiology and understanding the goals of medical and nursing management allow the nurse to organize and evaluate appropriate nursing interventions.\r"
+ }, 
+ {
+  ".I": "32226", 
+  ".M": "Adult; Cognition Disorders/ET/NU; Head Injuries/CO/NU/*RH; Human; Neuromuscular Diseases/ET/NU; Patient Care Planning/*; Sensation; Social Behavior.\r", 
+  ".A": [
+   "Baggerly"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Nurs Clin North Am 8703; 21(4):577-87\r", 
+  ".T": "Rehabilitation of the adult with head trauma.\r", 
+  ".U": "87066887\r", 
+  ".W": "The changes incurred as a result of brain injury are often devastating. The approaches outlined in this article merely scratch the surface because the list of possible deficits is inexhaustible. The behavioral and cognitive capacity during the various phases of recovery dictate the intervention method that will be appropriate and successful, with concepts and tasks progressing from the simple to the more complex. When confusion, agitation, and inappropriate behavior are evident, safety is a prime concern. Some individuals do not progress beyond this stage. Placement and appropriate future planning are major issues in this situation. When behavior becomes more appropriate, inpatient rehabilitation efforts will be most beneficial and successful, with the focus on helping the individual regain functional skills. Improvement may be rather dramatic during this time, especially when compared with previous stages. Recovery beyond this point, with intact memory, goal-directed behavior, adequate socialization skills, and vocational rehabilitation, occurs over an extended period of time, perhaps years. With discharge, new concerns for the individual and family emerge as the reality of the situation becomes clearer. Health care providers in the community setting must recognize the effects of injury on the individual and the resulting psychosocial stresses and strains on the individual and family. Adequate neuromedical and neuropsychological follow-up are essential during the outpatient recovery phase to monitor progress and provide input for future plans.\r"
+ }, 
+ {
+  ".I": "32227", 
+  ".M": "Acute Disease; Cardiovascular Diseases/ET/NU; Female; Human; Immobilization; Male; Movement Disorders/ET/NU; Nursing Assessment/*; Respiration Disorders/ET/NU; Respiration, Artificial; Sleep Disorders/NU; Spinal Cord Injuries/EP/*NU; United States.\r", 
+  ".A": [
+   "Metcalf"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Nurs Clin North Am 8703; 21(4):589-98\r", 
+  ".T": "Acute phase management of persons with spinal cord injury: a nursing diagnosis perspective.\r", 
+  ".U": "87066888\r", 
+  ".W": "The focus of this article is to provide the reader with a greater understanding of acute spinal cord injury from the nursing diagnosis perspective. Nurses have a significant role to play in the acute care phase, which will have an even greater and long-lasting impact on the quality of life for persons with spinal cord injury.\r"
+ }, 
+ {
+  ".I": "32228", 
+  ".M": "Airway Obstruction/ET/TH; Communication; Critical Care/*; Facial Bones/IN; Facial Injuries/TH; Fractures/CL/DI; Human; Maxillofacial Injuries/CO/NU/*TH; Nursing Diagnosis; Nutrition.\r", 
+  ".A": [
+   "Lower"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Nurs Clin North Am 8703; 21(4):611-28\r", 
+  ".T": "Maxillofacial trauma.\r", 
+  ".U": "87066890\r", 
+  ".W": "Maxillofacial trauma runs the full gamut from minor discomfort to life-threatening injuries. Principles of airway management, adequate breathing, and circulation are paramount in the initial management. Health care professionals must anticipate problems based on a knowledge of anatomy and the pathophysiology of facial trauma and initiate treatment measures that decrease morbidity and mortality. Creative nursing approaches, based on a knowledge of physiologic needs and pathophysiologic consequences of facial trauma, are the keys in the convalescent phase as the patients struggle with alterated anatomy, sensory losses, and fear.\r"
+ }, 
+ {
+  ".I": "32229", 
+  ".M": "Adaptation, Psychological/*; Adolescence; Brain Injuries/*PX; Case Report; Critical Care/PX; Human; Life Change Events/*; Male; Professional-Family Relations; Professional-Patient Relations; Spinal Cord Injuries/NU/*PX; Stress, Psychological/PC.\r", 
+  ".A": [
+   "Bourdon"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Nurs Clin North Am 8703; 21(4):629-40\r", 
+  ".T": "Psychological impact of neurotrauma in the acute care setting.\r", 
+  ".U": "87066891\r", 
+  ".W": "Meeting the psychological needs of neurotrauma patients in the acute care setting is a challenging experience. Nurses must be aware of and cope with their own emotional responses to devastating losses experienced by the spinal cord injured and head trauma patients. Specific interventions for neurology patients can be designed to minimize the psychological trauma imposed by intensive care units. Assisting the patient through the initial crisis period and establishing short-term, realistic goals is crucial. The acute care setting and the successful management of psychological needs are the foundation the neurotrauma patient builds on as he begins the long, arduous journey through the rehabilitation process.\r"
+ }, 
+ {
+  ".I": "32230", 
+  ".M": "Adaptation, Psychological; Adolescence; Adult; Case Report; Central Nervous System/*IN; Child; Child, Preschool; Crisis Intervention; Family/*; Female; Human; Life Change Events; Male; Professional-Family Relations; Social Identification; Social Support.\r", 
+  ".A": [
+   "Richmond", 
+   "Craig"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Nurs Clin North Am 8703; 21(4):641-51\r", 
+  ".T": "Family-centered care for the neurotrauma patient.\r", 
+  ".U": "87066892\r", 
+  ".W": "Nursing management of the family of the neurotrauma patient is a challenging experience. Whether the family is first encountered during their initial days of crisis or following discharge to the home, they require individualized, thoughtful nursing care. Indeed, according to Bond, the pattern of stresses the family encounters changes with time, with one of the most significant points being in the first days after discharge from the hospital when they realize and accept the full extent of the victim's deficits. It is to this end that nursing intervention throughout hospitalization is geared, and it is during this time that we cannot forget that nursing management may still be required. In the case of neurotrauma, the patient and family are not \"cured\" when they leave the hospital, for many their problems are just beginning. Let us develop mechanisms through which continued professional support can be made available to the families of neurologically impaired patients both during and following hospitalization.\r"
+ }, 
+ {
+  ".I": "32232", 
+  ".M": "Adolescence; Adult; Aged; Child; Child, Preschool; Coma/CL/DI; Disability Evaluation/*; Human; Medical Records; Middle Age; Wounds and Injuries/*CL/DI.\r", 
+  ".A": [
+   "Thompson", 
+   "Dains"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Nurs Clin North Am 8703; 21(4):655-72\r", 
+  ".T": "Indices of injury. Development and status.\r", 
+  ".U": "87066894\r", 
+  ".W": "Each of the indices of injury provides a systematic method by which to collect and report data about the trauma victim. Since the 1960s, researchers and physicians have tried to develop predictive tools which are capable of evaluating the current status of the victim as well as determining morbidity and mortality. This article traces the development of indices of injury and provides their current status.\r"
+ }, 
+ {
+  ".I": "32233", 
+  ".M": "Emergency Service, Hospital/OG; Human; Job Description; Nurse Clinicians/*; Role/*; Trauma Centers/*OG.\r", 
+  ".A": [
+   "McArdle", 
+   "Murrin"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Nurs Clin North Am 8703; 21(4):673-5\r", 
+  ".T": "Role of the trauma nurse coordinator.\r", 
+  ".U": "87066895\r", 
+  ".W": "Trauma center designation paved the way for an exciting, expanded nursing role, the Trauma Nurse Coordinator. This position has evolved to include, not only the in-hospital role, but also a role in government. This article focuses on the role of the trauma nurse coordinator in the health care system.\r"
+ }, 
+ {
+  ".I": "32234", 
+  ".M": "Aortic Rupture/DI; Contusions/DI; Creatine Kinase/BL; Electrocardiography; Heart Injuries/DI/*NU; Heart Rupture/DI; Human; Nursing Assessment/*; Wounds, Nonpenetrating/DI/*NU.\r", 
+  ".A": [
+   "Hammond"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Nurs Clin North Am 8703; 21(4):677-84\r", 
+  ".T": "Nursing assessment of blunt cardiac trauma.\r", 
+  ".U": "87066896\r", 
+  ".W": "Cardiac injuries due to blunt trauma are common and contribute to the overall mortality of the trauma victim. Such injuries may be difficult to detect, and the clinician must maintain a high degree of suspicion for their presence. Clinical findings are nonspecific, but the nurse should focus on assessing the adequacy of cardiac output and tissue perfusion. Initial management of the patient with blunt cardiac trauma is the same as for any trauma patient: stabilization of airway, breathing, and circulation. Intravascular volume replacement is an important aspect of the resuscitation. Injuries such as aortic transection or ventricular rupture lead to exsanguination and the need for rapid infusion of large volumes of blood. On the other hand, cardiac function may be severely depressed with myocardial contusion and septal or valvular rupture; volume replacement must proceed cautiously.\r"
+ }, 
+ {
+  ".I": "32235", 
+  ".M": "Adult; Airway Obstruction/NU; Cardiac Tamponade/NU; Child; Drainage/NU; Flail Chest/NU; Hemothorax/NU; Human; Nursing Assessment/*; Patient Care Planning/*; Pneumothorax/NU; Rib Fractures/NU; Thoracic Injuries/*NU.\r", 
+  ".A": [
+   "Parker"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Nurs Clin North Am 8703; 21(4):685-92\r", 
+  ".T": "Thoracic trauma. Nursing assessment and management.\r", 
+  ".U": "87066897\r", 
+  ".W": "The importance of the respiratory system to total body functioning cannot be overemphasized. It is imperative that the nurse realize that the first priority in trauma care is to maintain and support the respiratory system. The nurse must be able to rapidly and effectively perform a primary survey, recognize the clinical manifestations of life-threatening thoracic injuries, and intervene in the care of the patient to help stabilize and maintain the patient's respiratory function. The nurse must not only be able to asses, but must also be able to technically intervene rapidly and effectively. Other potential life-threatening injuries must remain uppermost in the nurse's mind. Continual, ongoing monitoring of the patient's status must be an integral part of the nurse's actions. If these activities are judiciously employed, perhaps the mortality rate will decrease and the thoracic trauma victim will survive, capable of leading a full and productive life in our society. This is quality patient care.\r"
+ }, 
+ {
+  ".I": "32236", 
+  ".M": "Coma/NU; Critical Care/*NU; Fluid Therapy; Head Injuries/*NU/TH; Human; Intracranial Pressure; Neurologic Examination; Nursing Assessment; Respiration Disorders/NU; Spinal Cord Injuries/*NU/TH; Urination Disorders/NU.\r", 
+  ".A": [
+   "Nikas"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Nurs Clin North Am 8703; 21(4):693-704\r", 
+  ".T": "Resuscitation of patients with central nervous system trauma.\r", 
+  ".U": "87066898\r", 
+  ".W": "The care patients with spinal cord or head injury receive in the acute phase of their injury is critical to outcome. The basics of trauma care are of primary importance to the patient with central nervous system trauma. In the SCI patient, extreme care must be used in establishing an airway. The focus in the head-injured patient is to provide adequate oxygenation and ventilation sufficient to cause hypocarbia. Proper immobilization of the neck is a priority concomitant to establishing an airway in the SCI patient, while control of ICP is a challenge in the head-injured patient. Paramedics, nurses, and physicians who are aware of these important factors in caring for the neurotrauma patient will ensure the patient every chance of functional recovery.\r"
+ }, 
+ {
+  ".I": "32237", 
+  ".M": "Amniocentesis; Female; Fetal Distress/*NU; Hemodynamics; Human; Irrigation; Labor, Premature/PC; Medical History Taking; Nursing Assessment/*; Peritoneal Cavity; Physical Examination; Pregnancy; Pregnancy Complications/*NU; Resuscitation; Wounds and Injuries/*NU/PP.\r", 
+  ".A": [
+   "Bremer", 
+   "Cassata"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Nurs Clin North Am 8703; 21(4):705-16\r", 
+  ".T": "Trauma in pregnancy.\r", 
+  ".U": "87066899\r", 
+  ".W": "The pregnant woman is exposed to the same risks as the non-pregnant woman for sustaining a traumatic injury, but because of the multiple physiologic changes that occur during pregnancy, the assessment and treatment of such patients must be adapted accordingly. This article discusses these normal physiologic changes, their effect on response to trauma, and the comprehensive care of the patient using the nursing process.\r"
+ }, 
+ {
+  ".I": "32238", 
+  ".M": "Adult; Amputation, Traumatic/NU; Child; Compartment Syndromes/NU; Crush Syndrome/NU; Embolism, Fat/NU; Fractures/NU; Fractures, Open/NU; Hand Injuries/NU; Human; Nursing Assessment/*; Pelvic Bones/IN; Wound Infection/PC; Wounds and Injuries/DI/*NU; Wounds, Penetrating/NU.\r", 
+  ".A": [
+   "Maher"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Nurs Clin North Am 8703; 21(4):717-27\r", 
+  ".T": "Early assessment and management of musculoskeletal injuries.\r", 
+  ".U": "87066900\r", 
+  ".W": "Permanent disability following musculoskeletal injury can often be prevented with prompt recognition and appropriate temporary or definitive management. This article has highlighted some specific injuries and guidelines for emergency treatment.\r"
+ }, 
+ {
+  ".I": "32239", 
+  ".M": "Adaptation, Psychological; Communication; Culture; Defense Mechanisms; Emotions; Family; Guilt; Human; Nurse-Patient Relations/*; Nursing Staff, Hospital/PX; Pain/PX; Self Concept; Stress, Psychological/*PX; Wounds and Injuries/*PX.\r", 
+  ".A": [
+   "Lenehan"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Nurs Clin North Am 8703; 21(4):729-40\r", 
+  ".T": "Emotional impact of trauma.\r", 
+  ".U": "87066901\r", 
+  ".W": "The psychosocial care of trauma patients is a serious responsibility and a gratifying aspect of trauma nursing. Intervention with patients facing the threat of their own death is a challenging one. Many studies and theories guide us in meeting the challenge and suggest that there is more to the emotional impact of trauma than most realize, and that interventions should be more than just automatic responses based on popular wisdom.\r"
+ }, 
+ {
+  ".I": "32240", 
+  ".M": "Adult; Burns/NU; Child; Child, Preschool; Emergency Medical Services/*; Human; Infant; Monitoring, Physiologic; Specialties, Nursing; Spinal Cord Injuries/NU; Transportation of Patients/*; Wounds and Injuries/*NU.\r", 
+  ".A": [
+   "Lee"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Nurs Clin North Am 8703; 21(4):741-9\r", 
+  ".T": "Transport of the critically ill trauma patient.\r", 
+  ".U": "87066902\r", 
+  ".W": "Nurses play an important role in the transport of critically ill trauma patients. The special problems one encounters in ground and/or air transfers must be anticipated. The patient should be prepared both physically and emotionally for this process, and all nurses involved in the transport should work together to insure positive patient outcome.\r"
+ }, 
+ {
+  ".I": "32242", 
+  ".M": "Adult; Aged; Female; Human; Male; Mass Screening; Middle Age; Primary Health Care/*MT; Sigmoidoscopy/*.\r", 
+  ".A": [
+   "Gardner"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Prim Care 8703; 13(3):543-7\r", 
+  ".T": "Flexible sigmoidoscopy in the primary care setting.\r", 
+  ".U": "87067993\r", 
+  ".W": "Flexible sigmoidoscopy has been universally endorsed for use by primary care physicians for early diagnosis of colorectal cancer. Patient selection, preparation, and procedure are discussed in this article.\r"
+ }, 
+ {
+  ".I": "32243", 
+  ".M": "Biopsy, Needle/IS/MT; Breast Neoplasms/DI/*PA; Economics, Medical; False Negative Reactions; Female; Head and Neck Neoplasms/DI/*PA; Human; Lymph Nodes/*PA; Male; Physical Examination; Thyroid Neoplasms/DI/*PA.\r", 
+  ".A": [
+   "Jackson", 
+   "Archibald"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Prim Care 8703; 13(3):549-64\r", 
+  ".T": "Fine-needle aspiration biopsy of thyroid, neck masses and lymph nodes, and breast masses.\r", 
+  ".U": "87067994\r", 
+  ".W": "Fine-needle aspiration biopsy is a relatively simple procedure that is becoming increasingly popular among physicians in the United States. It has provided significant advancement in the diagnosis of a number of pathologic conditions of the head and neck as well as other areas, especially those presenting as palpable masses or nodes. At present, many situations that previously would have required open biopsy or surgical removal of a mass lesion for diagnosis can now be diagnosed safely and accurately with fine-needle aspiration biopsy. The speed, safety, patient acceptability, low cost, and accuracy of fine-needle aspiration biopsy make it a valuable addition to any diagnostic armamentarium.\r"
+ }, 
+ {
+  ".I": "32244", 
+  ".M": "Acquired Immunodeficiency Syndrome/ET/IM; Adolescence; Adult; Antibodies, Viral/*AN; Hemophilia/*IM; Human; HIV/*AN; Male; New Mexico; Risk; Support, U.S. Gov't, P.H.S..\r", 
+  ".A": [
+   "Waskin", 
+   "Smith", 
+   "Simon", 
+   "Gribble", 
+   "Mertz"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "West J Med 8703; 145(4):477-80\r", 
+  ".T": "Prevalence of HTLV-III antibody among New Mexico residents with hemophilia.\r", 
+  ".U": "87071790\r"
+ }, 
+ {
+  ".I": "32245", 
+  ".M": "Birth Weight; Comparative Study; Erythrocytes/ME; Fatty Acids/AN/BL; Fatty Acids, Unsaturated/*BL; Fetal Blood/AN; Human; Infant Food/*AN; Infant, Newborn; Infant, Premature/*BL; Methylation; Milk, Human/*AN; Phospholipids/BL; Support, U.S. Gov't, P.H.S..\r", 
+  ".A": [
+   "Carlson", 
+   "Rhodes", 
+   "Ferguson"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Clin Nutr 8703; 44(6):798-804\r", 
+  ".T": "Docosahexaenoic acid status of preterm infants at birth and following feeding with human milk or formula.\r", 
+  ".U": "87073223\r", 
+  ".W": "The docosahexaenoic acid (DHA) status of preterm infants (less than 32 wk gestation) was measured as the molar percent of DHA in individual red blood cell phospholipids: 1) in cord venous blood immediately following delivery, 2) after infants were receiving greater than 60 kcal X kg X day of energy from oral-gastric feedings, and 3) at a mean of 7 wk later. Infants on full feeding received either preterm human milk or formula. The DHA concentration of all phospholipid classes declined between birth and the time at which enteral feedings constituted the primary source of energy. Subsequent feeding with preterm human milk increased the molar percent of red blood cell phospholipid DHA, while DHA declined further in infants fed formula. Infants fed human milk compared to those fed formula had a significantly higher molar percent of DHA in all red blood cell phospholipids studied.\r"
+ }, 
+ {
+  ".I": "32246", 
+  ".M": "Buttocks; Human; Injections, Intramuscular/NU/*ST; Needles; Support, Non-U.S. Gov't.\r", 
+  ".A": [
+   "Farley", 
+   "Joyce", 
+   "Long", 
+   "Roberts"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Nurs 8703; 86(12):1327, 1331\r", 
+  ".T": "Will that IM needle reach the muscle?\r", 
+  ".U": "87073543\r"
+ }, 
+ {
+  ".I": "32247", 
+  ".M": "Civil Rights/*LJ; Health Services/*SD; Human; Mental Health Services/LJ; Patient Compliance; Prisoners/*; Suicide/LJ; United States.\r", 
+  ".A": [
+   "Cushing"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Nurs 8703; 86(12):1333-4\r", 
+  ".T": "Who says prisoners have a right to health care?\r", 
+  ".U": "87073544\r"
+ }, 
+ {
+  ".I": "32248", 
+  ".M": "Human; Ophthalmoscopy/NU/*ST.\r", 
+  ".A": [
+   "Dellasega"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Am J Nurs 8703; 86(12):1337\r", 
+  ".T": "Inaccurate technique displayed on September cover? [letter]\r", 
+  ".U": "87073545\r"
+ }, 
+ {
+  ".I": "32249", 
+  ".M": "Constipation/*ET; Diabetic Coma/*UR; Female; Human; Hyperglycemic Hyperosmolar Nonketotic Coma/*UR; Potassium/*TU.\r", 
+  ".A": [
+   "Cooper"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Am J Nurs 8703; 86(12):1338\r", 
+  ".T": "Potassium is not a treatment for constipation [letter]\r", 
+  ".U": "87073546\r"
+ }, 
+ {
+  ".I": "32250", 
+  ".M": "Aged; Case Report; Female; Holidays/*; Human; Patient Advocacy/*.\r", 
+  ".A": [
+   "Richards"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Nurs 8703; 86(12):1345\r", 
+  ".T": "And to all a good night.\r", 
+  ".U": "87073547\r"
+ }, 
+ {
+  ".I": "32251", 
+  ".M": "Aged; Case Report; Female; Human; Oncologic Nursing/*; Patient Advocacy/*.\r", 
+  ".A": [
+   "Dickson"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Nurs 8703; 86(12):1346\r", 
+  ".T": "The Orange Blossom special.\r", 
+  ".U": "87073548\r"
+ }, 
+ {
+  ".I": "32252", 
+  ".M": "Ambulatory Surgery/*; Human; Medical Records/*; Patient Discharge/*; Postoperative Care.\r", 
+  ".A": [
+   "Mortensen", 
+   "McMullin"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Nurs 8703; 86(12):1347-9\r", 
+  ".T": "Discharge score for surgical outpatients.\r", 
+  ".U": "87073549\r"
+ }, 
+ {
+  ".I": "32253", 
+  ".M": "Airway Obstruction/*TH; Cardiovascular Agents/TU; Electric Countershock; Heart Arrest/*TH; Heart Massage; Human; Respiration, Artificial; Resuscitation/*ST.\r", 
+  ".A": [
+   "Scherer"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Nurs 8703; 86(12):1352-8\r", 
+  ".T": "ACLS guidelines. What nurses are saying about the drug changes.\r", 
+  ".U": "87073550\r"
+ }, 
+ {
+  ".I": "32254", 
+  ".M": "Adult; Aged; Brain Diseases, Metabolic/CO; Case Report; Central Nervous System Diseases/CO; Delirium/*DI/ET; Diagnosis, Differential; Female; Head Injuries/CO; Human; Hydrocephalus/CO; Male; Mental Status Schedule; Middle Age; Personality Disorders/*DI.\r", 
+  ".A": [
+   "Sullivan", 
+   "Fogel"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Nurs 8703; 86(12):1359-63\r", 
+  ".T": "Could this be delirium?\r", 
+  ".U": "87073551\r"
+ }, 
+ {
+  ".I": "32255", 
+  ".M": "Consultants; Employee Performance Appraisal/*; Human; Job Description; Nurse Clinicians/*ST; Peer Review/*; Personnel Management/*.\r", 
+  ".A": [
+   "Malone"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Nurs 8703; 86(12):1375-7\r", 
+  ".T": "Working with people. Evaluation of the clinical nurse specialist.\r", 
+  ".U": "87073552\r"
+ }, 
+ {
+  ".I": "32256", 
+  ".M": "Adaptation, Psychological; Case Report; Child; Child Psychology/*; Depression/DI/*PX; Diagnosis, Differential; Female; Human; Male; Stress, Psychological/*DI.\r", 
+  ".A": [
+   "Rhyne", 
+   "Brady", 
+   "Nelms", 
+   "Albright", 
+   "Murphy"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Nurs 8703; 86(12):1378-82\r", 
+  ".T": "Children at risk for depression.\r", 
+  ".U": "87073553\r"
+ }, 
+ {
+  ".I": "32257", 
+  ".M": "Human; Nursing Staff, Hospital/*OG; Personnel Management/*MT; Personnel Staffing and Scheduling/*MT; Software/*ST.\r", 
+  ".A": [
+   "O'Donohue"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Nurs 8703; 86(12):1407-8, 1412\r", 
+  ".T": "How to evaluate staffing software.\r", 
+  ".U": "87073554\r"
+ }, 
+ {
+  ".I": "32259", 
+  ".M": "Acquired Immunodeficiency Syndrome/MI/*TM; Anesthesiology/*/IS; Blood Coagulation Factors; Blood Transfusion; Critical Care; Drug Contamination; Human; HIV/IP; Protective Clothing; Sterilization; Surgery, Operative.\r", 
+  ".A": [
+   "Lee", 
+   "Soni"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Anaesthesia 8703; 41(10):1011-6\r", 
+  ".T": "AIDS and anaesthesia.\r", 
+  ".U": "87074104\r", 
+  ".W": "The Acquired Immune Deficiency Syndrome (AIDS) is a group of conditions which is reaching epidemic proportions. It is caused by a virus new to man, with an as yet poorly understood natural history, ominous prognosis and no known cure. Anaesthetists should be aware of the implications of dealing with increasing numbers of both diagnosed and undiagnosed AIDS patients and asymptomatic carriers in the fields of resuscitation, intensive therapy and theatre anaesthesia. The misunderstanding of AIDS is as extensive as the literature on the subject and a review of the current knowledge of the disease relevant to the anaesthetist is pertinent.\r"
+ }, 
+ {
+  ".I": "32260", 
+  ".M": "Anesthesia, General/AE; Apnea/*ET; Hernia, Inguinal/SU; Human; Infant; Infant, Newborn; Infant, Premature, Diseases/*ET; Periodicity; Postoperative Complications/*ET; Respiration Disorders/*ET.\r", 
+  ".A": [
+   "Welborn", 
+   "Ramirez", 
+   "Oh", 
+   "Ruttimann", 
+   "Fink", 
+   "Guzzetta", 
+   "Epstein"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Anesthesiology 8703; 65(6):658-61\r", 
+  ".T": "Postanesthetic apnea and periodic breathing in infants.\r", 
+  ".U": "87074237\r"
+ }, 
+ {
+  ".I": "32261", 
+  ".M": "Alprostadil/PD; Beta-Thromboglobulin/BL; Cardiopulmonary Bypass; Cytoplasmic Granules/PH; Exocytosis/DE; Extracorporeal Circulation/*; Human; Lactoferrin/SE; Leukocyte Count; Lidocaine/PD; Neutrophils/*PH; Pancreatopeptidase/SE; Platelet Count; Secretory Rate/DE; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S..\r", 
+  ".A": [
+   "Wachtfogel", 
+   "Kucich", 
+   "Greenplate", 
+   "Gluszko", 
+   "Abrams", 
+   "Weinbaum", 
+   "Wenger", 
+   "Rucinski", 
+   "Niewiarowski", 
+   "Edmunds", 
+   "et"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Blood 8704; 69(1):324-30\r", 
+  ".T": "Human neutrophil degranulation during extracorporeal circulation.\r", 
+  ".U": "87076971\r", 
+  ".W": "Cardiopulmonary bypass, especially when prolonged, may result in hemostatic failure and pulmonary dysfunction, which has been attributed to changes in platelets and leukocytes, respectively. It has been well documented that contact of blood with synthetic surfaces causes platelet activation. In this report, we explore mechanisms of the activation of neutrophils during simulated in vitro extracorporeal circulation and document the release of neutrophil lactoferrin and elastase during clinical cardiopulmonary bypass (CCB). Inhibition in the simulated circuit by prostaglandin E1 (PGE1) and lidocaine suggests different mechanisms for release of neutrophil-specific proteins. During CCB with a bubble oxygenator it was observed that platelet counts fell to 42% +/- 2% of baseline. In addition, beta-thromboglobulin antigen (beta TG), a platelet-specific, alpha-granule protein marker reflecting the release reaction, increased from 0.15 +/- 0.05 to 0.84 +/- 0.11 microgram/mL. Neutrophil counts decreased to 67% +/- 7% of prebypass levels but then gradually rose as bypass continued. Both lactoferrin, a neutrophil-specific granule marker, and neutrophil elastase, an azurophilic granule marker, increased in plasma threefold to 1.66 +/- 0.33 micrograms/mL and 1.65 +/- 0.68 microgram/mL, respectively, just before bypass was stopped. When fresh heparinized human blood was recirculated within an extracorporeal membrane oxygenator bypass circuit for 120 minutes, plasma beta-TG rose to 5.13 micrograms/mL, lactoferrin increased from 0.13 +/- 0.04 to 1.62 +/- 0.22 micrograms/mL, and neutrophil elastase rose from 0.05 +/- 0.02 to 1.86 +/- 0.41 micrograms/mL. At 120 minutes, lidocaine (100 mumol/L), which inhibits neutrophil activation, delayed release of lactoferrin (1.33 +/- 0.26 micrograms/mL) and markedly inhibited release of elastase (0.24 +/- 0.05 microgram/mL) but did not inhibit release of beta-TG antigen (5.66 micrograms/mL at 120 minutes). PGE1 (0.3 mumol/L) inhibited significantly the release of beta-TG (0.31 microgram/mL) and elastase (0.52 +/- 0.11 microgram/mL) and attenuated the release of lactoferrin (1.57 +/- 0.45 micrograms/mL).\r"
+ }, 
+ {
+  ".I": "32262", 
+  ".M": "Acquired Immunodeficiency Syndrome/IM; Antibodies, Viral/*IM; AIDS-Related Complex/IM; DNA Unwinding Proteins/*IM; Endonucleases/*IM; Genes, Viral; HIV/GE/*IM; Molecular Weight; Retroviridae Proteins/*IM; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S..\r", 
+  ".A": [
+   "Allan", 
+   "Coligan", 
+   "Lee", 
+   "Barin", 
+   "Kanki", 
+   "M'Boup", 
+   "McLane", 
+   "Groopman", 
+   "Essex"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Blood 8704; 69(1):331-3\r", 
+  ".T": "Immunogenic nature of a Pol gene product of HTLV-III/LAV.\r", 
+  ".U": "87076973\r", 
+  ".W": "The present studies were initiated to define the coding region of a 34 kilodalton (kd) protein (p34) frequently observed with antibodies from HTLV-III/LAV-infected people by immunoblotting and radioimmunoprecipitation (RIP) techniques. We have directly mapped this viral protein to the pol gene of HTLV-III/LAV by radiolabeled amino acid sequence analysis. This region at the 3' end of the pol gene is predicted to encode the endonuclease/integrase of the virus. The seroprevalence rate of antibodies to the pol gene products p64 and p53 and to the endonuclease p34 were evaluated. Of 161 HTLV-III/LAV seropositive people tested by immunoblotting procedures, greater than 98% had antibodies which reacted to p64/p53 and 92.6% reacted to p34 indicating that these viral proteins are highly immunogenic in nature. We have also analyzed the serum of nine healthy people living in West Africa who were infected with HTLV-IV, a closely related retrovirus. Nine of nine seropositive people had antibodies that cross-reacted to p34 of HTLV-III/LAV, whereas only seven of nine reacted to p64/p53. These studies and our earlier observations indicate that current diagnostic procedures for screening for HTLV-III/LAV infection may also detect HTLV-IV seropositive individuals, pointing to a need for more specific assay systems.\r"
+ }, 
+ {
+  ".I": "32263", 
+  ".M": "Acute Disease; Adolescence; Adult; Amylases/BL; Chronic Disease; Comparative Study; Female; Human; Male; Middle Age; Pancreatic Diseases/DI/*EN; Pancreatic Neoplasms/EN; Pancreatitis/EN; Pancreatopeptidase/*BL; Radioimmunoassay; Reference Values; Support, Non-U.S. Gov't.\r", 
+  ".A": [
+   "Hamano", 
+   "Hayakawa", 
+   "Kondo"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Dig Dis Sci 8704; 32(1):50-6\r", 
+  ".T": "Serum immunoreactive elastase in diagnosis of pancreatic diseases. A sensitive marker for pancreatic cancer.\r", 
+  ".U": "87079953\r", 
+  ".W": "Diagnostic significance of serum immunoreactive elastase-1 was studied in 137 patients with pancreatic disease, 335 with various nonpancreatic diseases, and 416 healthy controls by using radioimmunoassay. Frequency of abnormally high serum elastase values exceeding 410 ng/dl was 100% in acute pancreatitis (N = 14), 40% in chronic pancreatitis (N = 80), and 72% in pancreatic cancer (N = 43). In pancreatic cancer the mean value of serum elastase in resectable cancer (N = 19) was significantly higher than that in unresectable cancer (N = 24). Sensitivity, specificity, and efficiency of serum elastase in pancreatic cancer were 72.1%, 98.3%, and 95.9% against healthy controls; 72.1%, 85.9%, and 83.6% against nonpancreatic digestive diseases; and 72.1%, 60.0%, and 64.2% against chronic pancreatitis at a cutoff level of 410 ng/dl, respectively. High serum elastase could be a diagnostic clue to detect pancreatic duct obstruction due to pancreatic cancer, although further examination should be done by endoscopic retrograde pancreatography and other imaging studies.\r"
+ }, 
+ {
+  ".I": "32264", 
+  ".M": "Acyclovir/TU; Antiviral Agents/TU; Counseling; Female; Herpes Genitalis/*DI/DT; Herpes Gestationis/DI/DT; Herpes Labialis/DI/DT; Human; Infant, Newborn; Male; Pregnancy; Pregnancy Complications/DI/DT; Stomatitis, Herpetic/*DI/DT.\r", 
+  ".A": [
+   "Pazin", 
+   "Harger"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Dis Mon 8704; 32(12):725-824\r", 
+  ".T": "Management of oral and genital herpes simplex virus infections: diagnosis and treatment.\r", 
+  ".U": "87079976\r"
+ }, 
+ {
+  ".I": "32265", 
+  ".M": "Adult; Aged; Comparative Study; Drainage/*IS/MT; Heart Surgery/*; Human; Intubation/*MT; Male; Middle Age; Postoperative Care/*MT; Support, Non-U.S. Gov't; Thorax/*.\r", 
+  ".A": [
+   "Duncan", 
+   "Erickson", 
+   "Weigel"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Heart Lung 8704; 16(1):1-9\r", 
+  ".T": "Effect of chest tube management on drainage after cardiac surgery.\r", 
+  ".U": "87082820\r"
+ }, 
+ {
+  ".I": "32266", 
+  ".M": "Data Collection/*ST; Nursing Process/*; Research Design/*.\r", 
+  ".A": [
+   "Hartshorn"
+  ], 
+  ".P": "EDITORIAL.\r", 
+  ".S": "Heart Lung 8704; 16(1):100-1\r", 
+  ".T": "Research-based practice: the need for, use, and reporting of instrument reliability and validity [editorial]\r", 
+  ".U": "87082821\r"
+ }, 
+ {
+  ".I": "32267", 
+  ".M": "Choice Behavior/*; Human; Informed Consent/*; Patients/*PX.\r", 
+  ".A": [
+   "Fowler"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Heart Lung 8704; 16(1):102-4\r", 
+  ".T": "Ethical issues in critical care. Voluntariness.\r", 
+  ".U": "87082822\r"
+ }, 
+ {
+  ".I": "32268", 
+  ".M": "Equipment Failure; Human; Pacemaker, Artificial/*.\r", 
+  ".A": [
+   "Valladares", 
+   "Lemberg"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Heart Lung 8704; 16(1):105-8\r", 
+  ".T": "Problem solving for complications with the AICD.\r", 
+  ".U": "87082823\r"
+ }, 
+ {
+  ".I": "32270", 
+  ".M": "Adult; Aged; Blood Coagulation Tests/*; Blood Specimen Collection/*MT; Catheters, Indwelling/*; Female; Heparin/AD/*AE; Human; Male; Middle Age; Partial Thromboplastin Time/*; Support, Non-U.S. Gov't.\r", 
+  ".A": [
+   "Molyneaux", 
+   "Papciak", 
+   "Rorem"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Heart Lung 8704; 16(1):20-3\r", 
+  ".T": "Coagulation studies and the indwelling heparinized catheter.\r", 
+  ".U": "87082826\r"
+ }, 
+ {
+  ".I": "32271", 
+  ".M": "Adult; Aged; Anxiety/*PP; Asthma/*PP/PX; Female; Human; Male; Middle Age; Muscle Contraction/*; Muscle Relaxation/*; Respiration/*.\r", 
+  ".A": [
+   "Freedberg", 
+   "Hoffman", 
+   "Light", 
+   "Kreps"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Heart Lung 8704; 16(1):24-30\r", 
+  ".T": "Effect of progressive muscle relaxation on the objective symptoms and subjective responses associated with asthma.\r", 
+  ".U": "87082827\r", 
+  ".W": "Our findings suggest that PMR can increase an asthmatic's ability to cope with asthma, by enabling him or her to exert greater control over the symptoms associated with the disease. Findings of this study also offer insight into patient responses and give direction to the approaches needed in the individual treatment and education of asthmatics. Findings of this study also suggest that proper patient selection may be of importance when using self-management or behavior modification techniques in asthma. Maximum profit from future use of PMR in the behavioral treatment of asthma might be achieved by identifying patients who are characterized as moderate or high in panic-fear. They will receive the greatest benefit from this treatment modality.\r"
+ }, 
+ {
+  ".I": "32272", 
+  ".M": "Administrative Personnel/*; Chicago; Hospitals, Veterans; Human; Nurse Administrators/*; Outpatient Clinics, Hospital/*OG; Tuberculosis/*TH.\r", 
+  ".A": [
+   "Snukst-Torbeck", 
+   "Werhane", 
+   "Schraufnagel"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Heart Lung 8704; 16(1):30-3\r", 
+  ".T": "Treatment of tuberculosis in a nurse-managed clinic.\r", 
+  ".U": "87082828\r", 
+  ".W": "From July 1982 to January 1986, we saw 86 patients in the tuberculosis clinic; 77 (90%) were alcoholics; all were males, 71 (83%) were black, 14 (16%) were white, and one (1%) was hispanic. Of these, 10 patients (12%) failed to complete therapy and were referred to the Chicago Board of Health. Nine patients (10%) were dropped from the clinic: three moved from the state of Illinois, three died of nontuberculosis causes, and three were transferred to the Chest Clinic for other medical problems. Therefore, 67 patients (78%) successfully completed therapy. Our high rate of success is attributed to constant, high-intensity contact and consistent supervision of these potentially noncompliant patients.\r"
+ }, 
+ {
+  ".I": "32273", 
+  ".M": "Aged; Aged, 80 and over; Comparative Study; Female; Heart Surgery/*; Human; Male; Middle Age; Oxygen/*BL; Postoperative Care/*MT; Respiration, Artificial/*MT.\r", 
+  ".A": [
+   "Pierce", 
+   "Piazza"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Heart Lung 8704; 16(1):34-8\r", 
+  ".T": "Differences in postsuctioning arterial blood oxygen concentration values using two postoxygenation methods.\r", 
+  ".U": "87082829\r"
+ }, 
+ {
+  ".I": "32274", 
+  ".M": "Adolescence; Adult; Aged; Aged, 80 and over; Catheterization/*IS; Comparative Study; Evaluation Studies; Human; Insufflation; Middle Age; Oxygen/*AD; Respiratory Therapy/*IS/MT; Suction.\r", 
+  ".A": [
+   "Bodai", 
+   "Walton", 
+   "Briggs", 
+   "Goldstein"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Heart Lung 8704; 16(1):39-46\r", 
+  ".T": "A clinical evaluation of an oxygen insufflation/suction catheter.\r", 
+  ".U": "87082830\r"
+ }, 
+ {
+  ".I": "32275", 
+  ".M": "Case Report; Esophageal Fistula/*TH; Female; Fistula/*TH; Human; Middle Age; Pericardium/*.\r", 
+  ".A": [
+   "Naggar", 
+   "Daly", 
+   "Burke", 
+   "Swartz"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Heart Lung 8704; 16(1):47-9\r", 
+  ".T": "Successful medical management of esophagopericardial fistula.\r", 
+  ".U": "87082831\r", 
+  ".W": "Esophagopericardial fistula is a rare condition, usually presenting with cardiac tamponade, and is invariably fatal in the adult patient. In our patient the disorder resulted from fistulization secondary to a malignant tumor. Immediate decompression of resultant tense pneumopericardium can be accomplished safely through percutaneous pericardiocentesis without the need for surgery. Rarely, as in the present case, spontaneous closure of esophagopericardial fistula is encountered.\r"
+ }, 
+ {
+  ".I": "32276", 
+  ".M": "Case Report; Eye Diseases/*CO; Female; Heart Block/*ET; Human; Middle Age; Myocardial Diseases/*CO; Sarcoidosis/*CO; Time Factors.\r", 
+  ".A": [
+   "Ohtahara", 
+   "Kotake", 
+   "Hisatome", 
+   "Hasegawa", 
+   "Kasahara", 
+   "Kosaka", 
+   "Furuse", 
+   "Mashiba"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Heart Lung 8704; 16(1):66-8\r", 
+  ".T": "Complete atrioventricular block with a 22-month history of ocular sarcoidosis: a case report.\r", 
+  ".U": "87082835\r", 
+  ".W": "A 52-year-old woman with acute uveitis associated with ocular sarcoidosis developed complete atrioventricular block 22 months after the initial diagnosis was made. Cardiac sarcoidosis is a serious and, not infrequently, a fatal disease. Although it is difficult to establish the clinical diagnosis of cardiac sarcoidosis, a serial ECG is considered necessary in patients with any kind of sarcoidosis.\r"
+ }, 
+ {
+  ".I": "32277", 
+  ".M": "Adaptation, Psychological/*; Aged; Female; Human; Male; Marriage/*; Middle Age; Myocardial Infarction/*PX.\r", 
+  ".A": [
+   "Nyamathi"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Heart Lung 8704; 16(1):86-92\r", 
+  ".T": "The coping responses of female spouses of patients with myocardial infarction.\r", 
+  ".U": "87082838\r"
+ }, 
+ {
+  ".I": "32278", 
+  ".M": "Education/*; Family/*; Human; Intensive Care Units/*; Stress, Psychological/*PC.\r", 
+  ".A": [
+   "Chavez", 
+   "Faber"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Heart Lung 8704; 16(1):92-9\r", 
+  ".T": "Effect of an education-orientation program on family members who visit their significant other in the intensive care unit.\r", 
+  ".U": "87082840\r", 
+  ".W": "An education-orientation program given to family members may be an effective initial intervention technique for alleviating familial stress. The findings suggest that the intervention program had a positive effect on the experimental group. A comprehensive, ongoing program is needed to ensure that each family is given the attention they require to promote and maintain family function and integrity during the hospitalization crisis. Future research is needed to identify stressors perceived by family members and to identify effective nursing interventions that would decrease familial stress and promote and maintain the family integrity during the hospitalization crisis. Future research should be time-sequenced to examine the effect of an intervention program as initial coping mechanisms begin to diminish. Finally, research is needed to determine whether family intervention alleviates stress in the stricken family member.\r"
+ }, 
+ {
+  ".I": "32279", 
+  ".M": "Blood Coagulation Factors/ME; Blood Platelets/*PH; Blood Proteins/ME; Cell Survival; Complement/*ME; Complement Activation; Complement Inactivators/ME; Complement 3/ME; Complement 3 Convertase/ME; Complement 3b Inactivators/ME; Hemoglobinuria, Paroxysmal/*BL; Human; Membrane Proteins/ME; Support, U.S. Gov't, P.H.S..\r", 
+  ".A": [
+   "Devine", 
+   "Siegel", 
+   "Rosse"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "J Clin Invest 8704; 79(1):131-7\r", 
+  ".T": "Interactions of the platelets in paroxysmal nocturnal hemoglobinuria with complement. Relationship to defects in the regulation of complement and to platelet survival in vivo.\r", 
+  ".U": "87083928\r", 
+  ".W": "The blood cells of patients with paroxysmal nocturnal hemoglobinuria (PNH) have abnormal interactions with complement. The activity of the alternative pathway C3 convertase on the platelets of 9 out of 19 patients with PNH was elevated. 10 patients had C3 convertase activity within the normal range even though 80-95% of their platelets lacked the complement regulatory protein decay accelerating factor (DAF) that is absent from the affected blood cells in PNH. PNH and normal platelets released factor H when C3 was bound to their surfaces. This may account for the apparent regulation of C3 convertase activity on platelets that lack DAF. The abnormal uptake of the membrane attack complex of complement by PNH III erythrocytes was not seen in PNH platelets. 111Indium-labeled platelet survival times were normal in five of eight patients, which suggests that the lack of the membrane attack complex defect results in normal platelet survival in PNH.\r"
+ }, 
+ {
+  ".I": "32280", 
+  ".M": "Airway Obstruction/ET; Child; Female; Follow-Up Studies; Human; Infant, Low Birth Weight/*; Infant, Newborn; Lung/*PP; Male; Pulmonary Fibrosis/ET; Respiratory Airflow; Respiratory Distress Syndrome/*PP/TH; Respiratory Function Tests; Support, U.S. Gov't, P.H.S.; Time Factors.\r", 
+  ".A": [
+   "Mansell", 
+   "Driscoll", 
+   "James"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "J Pediatr 8704; 110(1):111-5\r", 
+  ".T": "Pulmonary follow-up of moderately low birth weight infants with and without respiratory distress syndrome.\r", 
+  ".U": "87085979\r", 
+  ".W": "Pulmonary function was measured in 18 children aged 6 to 9 years who had been born prematurely (mean birth weight 1760 +/- 555 g) and who had each received greater than 100 hours (mean 177 +/- 74 hours) of mechanical ventilation for respiratory distress syndrome (RDS). We used as controls 26 children aged 6 to 7 years who had been born prematurely (mean birth weight 1636 +/- 554 g) but who had required no treatment for pulmonary disease. Results for total lung capacity, FEV1, ratios of functional residual capacity and residual volume to total lung capacity, specific airway conductance, and alveolar plateau slope did not differ in the RDS and control groups. Eight of the 18 children in the RDS group had had radiologic evidence of bronchopulmonary dysplasia at 30 days and oxygen dependence at 30 days, but did not differ from the control group for any of the indices of pulmonary function. However, FEV1 and specific airway conductance were significantly reduced in the premature control group compared with children born at term. Therefore, factors associated with prematurity rather than combined effects of RDS and its treatment determined pulmonary function at age 6 to 9 years.\r"
+ }, 
+ {
+  ".I": "32281", 
+  ".M": "Adolescence; Adult; Cell Count; Cerebrospinal Fluid/AN/*CY; Cerebrospinal Fluid Proteins/AN; Child, Preschool; Chronic Disease; Diagnosis, Laboratory/*MT/UT; Diagnostic Tests, Routine; Evaluation Studies; False Positive Reactions; Glucose/CF; Hospital Bed Capacity, 500 and over; Human; Infant; Intracranial Pressure; Meningitis/DI; Multiple Sclerosis/CF; Outcome and Process Assessment (Health Care)/*; Retrospective Studies.\r", 
+  ".A": [
+   "Hayward", 
+   "Shapiro", 
+   "Oye"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Lancet 8704; 1(8523):1-4\r", 
+  ".T": "Laboratory testing on cerebrospinal fluid. A reappraisal.\r", 
+  ".U": "87088628\r", 
+  ".W": "555 consecutive cases in which cerebrospinal fluid (CSF) was sent for cell count were reviewed to determine which cerebrospinal-fluid tests affect diagnosis or therapy. Among 334 cases (60%) with a normal opening pressure, cell count, and protein, 1385 additional tests were done, but such tests were useful in only 3 patients (0.9%) with multiple sclerosis. Among 148 consecutive cases of bacterial, chronic infectious, and malignant meningitis the opening pressure, cell count, or protein was abnormal in all but 3 (2 childhood bacterial meningitis and 1 cryptococcal meningitis in a patient with the acquired immunodeficiency syndrome). If the opening pressure, cell count, and protein are normal, no additional CSF tests are needed in most instances; however, in immunocompromised patients and in those with possible multiple sclerosis or childhood bacterial meningitis additional tests may be indicated.\r"
+ }, 
+ {
+  ".I": "32282", 
+  ".M": "Acute Disease; Adult; Aged; Cerebrovascular Disorders/*ET; Epilepsy/*CO; Human; Middle Age; Prospective Studies; Risk; Support, Non-U.S. Gov't.\r", 
+  ".A": [
+   "Shinton", 
+   "Gill", 
+   "Zezulka", 
+   "Beevers"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Lancet 8704; 1(8523):11-3\r", 
+  ".T": "The frequency of epilepsy preceding stroke. Case-control study in 230 patients.\r", 
+  ".U": "87088629\r", 
+  ".W": "In a case-control study, evidence of previous epilepsy was sought in 230 consecutive patients under the age of 70 admitted to hospital with acute stroke. 8 (4.5%) of the 176 patients having their first stroke were epileptic, compared with 1 (0.6%) of the matched controls. 6 of the 8 epileptics started their seizures after the age of 30 years. 5 (9.3%) of the 54 patients who had had a previous stroke were epileptic, compared with none of the control patients. The findings support the idea that otherwise clinically undetectable cerebrovascular disease may present with seizures and that these can be a warning sign for a future stroke.\r"
+ }, 
+ {
+  ".I": "32288", 
+  ".M": "Drug Information Services/*; Great Britain; Human; Prescriptions, Drug.\r", 
+  ".A": [
+   "Herxheimer"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Lancet 8704; 1(8523):31-3\r", 
+  ".T": "Basic information that prescribers are not getting about drugs.\r", 
+  ".U": "87088640\r"
+ }, 
+ {
+  ".I": "32289", 
+  ".M": "Acute Disease; Administration, Oral; Bangladesh; Costs and Cost Analysis; Developing Countries; Diarrhea/*TH; Female; Fluid Therapy/EC/*ST; Human; Support, Non-U.S. Gov't.\r", 
+  ".A": [
+   "Stanton", 
+   "Rowland", 
+   "Clemens"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Lancet 8704; 1(8523):33-4\r", 
+  ".T": "Oral rehydration solution--too little or too much?\r", 
+  ".U": "87088641\r"
+ }, 
+ {
+  ".I": "32290", 
+  ".M": "Breast Neoplasms/DT; Human; Substance Withdrawal Syndrome/*; Tamoxifen/*AE.\r", 
+  ".A": [
+   "Canney", 
+   "Griffiths", 
+   "Latief", 
+   "Priestman"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8704; 1(8523):36\r", 
+  ".T": "Clinical significance of tamoxifen withdrawal response [letter]\r", 
+  ".U": "87088643\r"
+ }, 
+ {
+  ".I": "32291", 
+  ".M": "Adult; Alcohol, Ethyl/*AN; Breath Tests/*; Female; Human; Male; Middle Age; Social Control, Formal; Vital Capacity.\r", 
+  ".A": [
+   "Morris", 
+   "Taylor"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8704; 1(8523):37\r", 
+  ".T": "Failure to provide a sample for breath alcohol analysis [letter]\r", 
+  ".U": "87088645\r"
+ }, 
+ {
+  ".I": "32292", 
+  ".M": "Birth Weight/*; Comparative Study; Female; Human; Infant, Newborn; Male; Tobacco Smoke Pollution/*.\r", 
+  ".A": [
+   "MacArthur", 
+   "Knox"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8704; 1(8523):37-8\r", 
+  ".T": "Passive smoking and birthweight [letter]\r", 
+  ".U": "87088646\r"
+ }, 
+ {
+  ".I": "32293", 
+  ".M": "Blood-Brain Barrier/DE; Human; Parkinson Disease, Symptomatic/*CI; Pesticides/*AE.\r", 
+  ".A": [
+   "Hart"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8704; 1(8523):38\r", 
+  ".T": "Parkinson's disease and pesticides [letter]\r", 
+  ".U": "87088648\r"
+ }, 
+ {
+  ".I": "32294", 
+  ".M": "Antibiotics/*PD; Coagulase/*AN; Drug Resistance, Microbial; Glycopeptides/PD; Human; Staphylococcus/*DE/EN; Vancomycin/PD.\r", 
+  ".A": [
+   "Arioli", 
+   "Pallanza"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8704; 1(8523):39\r", 
+  ".T": "Teicoplanin-resistant coagulase-negative staphylococci [letter]\r", 
+  ".U": "87088650\r"
+ }, 
+ {
+  ".I": "32295", 
+  ".M": "Airway Obstruction/*DI; Evaluation Studies; Forced Expiratory Volume/*; Human.\r", 
+  ".A": [
+   "Tweeddale", 
+   "McHardy"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8704; 1(8523):41\r", 
+  ".T": "Assessment of airflow obstruction [letter]\r", 
+  ".U": "87088654\r"
+ }, 
+ {
+  ".I": "32297", 
+  ".M": "Coagulase/ME; Human; Peritoneal Dialysis, Continuous Ambulatory/*AE; Peritonitis/*ET; Staphylococcal Infections/*ET; Staphylococcus/*IP/ME.\r", 
+  ".A": [
+   "Beaman", 
+   "Solaro", 
+   "Adu", 
+   "Michael"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8704; 1(8523):42\r", 
+  ".T": "Peritonitis caused by slime-producing coagulase negative staphylococci in continuous ambulatory peritoneal dialysis [letter]\r", 
+  ".U": "87088656\r"
+ }, 
+ {
+  ".I": "32298", 
+  ".M": "Case Report; Female; Gastrointestinal Motility/*; Human; Middle Age; Nausea/PP; Vomiting/*PP.\r", 
+  ".A": [
+   "Wingate", 
+   "Kellow", 
+   "Gill", 
+   "Horowitz"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8704; 1(8523):42-3\r", 
+  ".T": "Vomiting and the migrating motor complex [letter]\r", 
+  ".U": "87088657\r"
+ }, 
+ {
+  ".I": "32299", 
+  ".M": "Aerospace Medicine/*; Azepines/TU; Human; Hypnotics and Sedatives/TU; Sleep/*; Travel/*.\r", 
+  ".A": [
+   "Binnie"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8704; 1(8523):43\r", 
+  ".T": "Sleep after transmeridian flights [letter]\r", 
+  ".U": "87088658\r"
+ }, 
+ {
+  ".I": "32300", 
+  ".M": "Abdomen; Abscess/*RI; Comparative Study; Evaluation Studies; Granulocytes/*; Human; Indium/DU; Oximes/*DU; Radioisotopes/DU; Technetium/*DU.\r", 
+  ".A": [
+   "Coakley", 
+   "Mountford"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8704; 1(8523):44\r", 
+  ".T": "99mTc-HMPAO for labelling leucocytes in infection [letter]\r", 
+  ".U": "87088660\r"
+ }, 
+ {
+  ".I": "32301", 
+  ".M": "Anesthesiology/*; Jurisprudence/*; Wales.\r", 
+  ".A": [
+   "Lunn"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8704; 1(8523):45\r", 
+  ".T": "Legal interference and clinical freedom [letter]\r", 
+  ".U": "87088661\r"
+ }, 
+ {
+  ".I": "32302", 
+  ".M": "Human; Medical Records/*; Physician-Patient Relations/*.\r", 
+  ".A": [
+   "Blau"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8704; 1(8523):45\r", 
+  ".T": "Patients reading their notes [letter]\r", 
+  ".U": "87088662\r"
+ }, 
+ {
+  ".I": "32303", 
+  ".M": "Adult; Case Report; Commitment of Mentally Ill/*LJ; England; Human; Male; Patient Advocacy/*.\r", 
+  ".A": [
+   "Edeh"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8704; 1(8523):45\r", 
+  ".T": "Patients' rights and the Mental Health Act [letter]\r", 
+  ".U": "87088663\r"
+ }, 
+ {
+  ".I": "32304", 
+  ".M": "Anesthesia/*; Child; Human; Parent-Child Relations/*.\r", 
+  ".A": [
+   "Davenport", 
+   "Valman"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8704; 1(8523):45-6\r", 
+  ".T": "Parents in the anaesthetic room [letter]\r", 
+  ".U": "87088664\r"
+ }, 
+ {
+  ".I": "32305", 
+  ".M": "Anemia/TH; Animal; Erythropoietin/*AE; Human; Kidney Failure, Acute/ET; Male; Rats; Rats, Inbred Strains; Uremia/CO.\r", 
+  ".A": [
+   "Gretz", 
+   "Lasserre", 
+   "Meisinger", 
+   "Strauch", 
+   "Waldherr", 
+   "Kraft", 
+   "Weidler"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8704; 1(8523):46\r", 
+  ".T": "Potential side-effects of erythropoietin [letter]\r", 
+  ".U": "87088665\r"
+ }, 
+ {
+  ".I": "32306", 
+  ".M": "Aged; Counseling; Female; Human; Male; Urinary Incontinence/*TH.\r", 
+  ".A": [
+   "Turner"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8704; 1(8523):46\r", 
+  ".T": "Urinary incontinence in elderly patients [letter]\r", 
+  ".U": "87088666\r"
+ }, 
+ {
+  ".I": "32307", 
+  ".M": "Brain Diseases/*ET; Coronary Vessels/*SU; Heart Valves/*SU; Human; Postoperative Complications/*.\r", 
+  ".A": [
+   "Taggart", 
+   "Reece", 
+   "Wheatley"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8704; 1(8523):47\r", 
+  ".T": "Cerebral deficit after elective cardiac surgery [letter]\r", 
+  ".U": "87088668\r"
+ }, 
+ {
+  ".I": "32308", 
+  ".M": "Acute Disease; Case Report; Female; Human; Middle Age; Paralysis/*DT; Piperidines/*TU; Postoperative Complications/*DT; Stomach Diseases/*DT.\r", 
+  ".A": [
+   "Cullen", 
+   "Campbell"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8704; 1(8523):47\r", 
+  ".T": "Cisapride in postoperative gastroparesis [letter]\r", 
+  ".U": "87088669\r"
+ }, 
+ {
+  ".I": "32309", 
+  ".M": "Human; Male; Metoclopramide/AE; Psychomotor Agitation/*CI; Tranquilizing Agents, Major/*AE.\r", 
+  ".A": [
+   "Isah", 
+   "Bateman"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8704; 1(8523):48\r", 
+  ".T": "Akathisia and antipsychotic drugs [letter]\r", 
+  ".U": "87088671\r"
+ }, 
+ {
+  ".I": "32310", 
+  ".M": "Adult; Case Report; Cryptosporidiosis/*CO; Diarrhea/CO; Failure to Thrive/*ET; Female; Finland; Human; Infant, Newborn; Male; Pregnancy; Pregnancy Complications, Infectious.\r", 
+  ".A": [
+   "Lahdevirta", 
+   "Jokipii", 
+   "Sammalkorpi", 
+   "Jokipii"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8704; 1(8523):48-9\r", 
+  ".T": "Perinatal infection with cryptosporidium and failure to thrive [letter]\r", 
+  ".U": "87088673\r"
+ }, 
+ {
+  ".I": "32311", 
+  ".M": "Child, Preschool; Comparative Study; Evaluation Studies; Female; Hepatitis B/*PC; Human; Immunization Schedule; Immunization, Secondary/*; Infant; Infant, Newborn; Risk; Viral Hepatitis Vaccines/*AD.\r", 
+  ".A": [
+   "Viladomiu", 
+   "Genesca", 
+   "Esteban", 
+   "Esteban", 
+   "Hernandez", 
+   "Guardia"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8704; 1(8523):49\r", 
+  ".T": "When should at-risk infants be boosted with hepatitis B vaccine? [letter]\r", 
+  ".U": "87088674\r"
+ }, 
+ {
+  ".I": "32312", 
+  ".M": "Female; Hospitals, District; Human; Insemination, Artificial/*MT; Pregnancy.\r", 
+  ".A": [
+   "Pampiglione", 
+   "Parsons", 
+   "Bolton", 
+   "Campbell"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8704; 1(8523):50\r", 
+  ".T": "GIFT in a district hospital [letter]\r", 
+  ".U": "87088677\r"
+ }, 
+ {
+  ".I": "32313", 
+  ".M": "Adult; Child; Cross Reactions; Female; Human; IgM/*AN; Parvovirus Infections/*IM; Pregnancy; Rubella/*IM.\r", 
+  ".A": [
+   "Lefrere", 
+   "Bricout", 
+   "Bertrand", 
+   "Nicholas", 
+   "Courouce"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8704; 1(8523):50\r", 
+  ".T": "Human parvovirus and rubella cross-reactions in specific IgM tests [letter]\r", 
+  ".U": "87088678\r"
+ }, 
+ {
+  ".I": "32314", 
+  ".M": "Cesarean Section; Emergencies; Female; Human; Hysterectomy/*; Pregnancy; Pregnancy Complications/*SU.\r", 
+  ".A": [
+   "Sturdee", 
+   "Rushton"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8704; 1(8523):50-1\r", 
+  ".T": "Obstetric hysterectomy [letter]\r", 
+  ".U": "87088679\r"
+ }, 
+ {
+  ".I": "32315", 
+  ".M": "Adult; Female; Human; Kidney Failure, Acute/*CO; Liver Cirrhosis, Alcoholic/*CO; Male; Middle Age; Pericarditis/*ET.\r", 
+  ".A": [
+   "Haskell", 
+   "Nidus"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8704; 1(8523):52\r", 
+  ".T": "Pericardial friction rubs in hepatorenal failure [letter]\r", 
+  ".U": "87088681\r"
+ }, 
+ {
+  ".I": "32316", 
+  ".M": "Embryo/*; Fertilization in Vitro; Research.\r", 
+  ".A": [
+   "Townsend"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8704; 1(8523):53\r", 
+  ".T": "Research on human embryos [letter]\r", 
+  ".U": "87088684\r"
+ }, 
+ {
+  ".I": "32317", 
+  ".M": "Africa; Human; Immunization; Travel/*; Yellow Fever/*PC.\r", 
+  ".A": [
+   "Waclawski", 
+   "Walker"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8704; 1(8524):100\r", 
+  ".T": "Yellow fever and the traveller [letter]\r", 
+  ".U": "87088687\r"
+ }, 
+ {
+  ".I": "32318", 
+  ".M": "Blood Donors/*; Chloroquine/*AD; Human; Malaria/*PC.\r", 
+  ".A": [
+   "White"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8704; 1(8524):100-1\r", 
+  ".T": "Chloroquine for donated blood? [letter]\r", 
+  ".U": "87088688\r"
+ }, 
+ {
+  ".I": "32319", 
+  ".M": "Agranulocytosis/*CI; Analgesics/*AE; Anemia, Aplastic/*CI; Dipyrone/AE; Human; Risk.\r", 
+  ".A": [
+   "Doll", 
+   "Lunde", 
+   "Moeschlin"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8704; 1(8524):101\r", 
+  ".T": "Analgesics, agranulocytosis, and aplastic anaemia [letter]\r", 
+  ".U": "87088689\r"
+ }, 
+ {
+  ".I": "32320", 
+  ".M": "Altitude Sickness/*CO; Anoxia/*CO; Brain Damage, Chronic/*ET; Female; Human; Male; Mountaineering/*.\r", 
+  ".A": [
+   "Cavaletti", 
+   "Moroni", 
+   "Garavaglia", 
+   "Tredici"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8704; 1(8524):101\r", 
+  ".T": "Brain damage after high-altitude climbs without oxygen [letter]\r", 
+  ".U": "87088690\r"
+ }, 
+ {
+  ".I": "32321", 
+  ".M": "Alzheimer's Disease/*IM; Antibodies, Monoclonal/AN; Axoplasmic Flow/*; Cross Reactions; Human; Intermediate Filament Proteins/*IM; Microtubule Proteins/*IM.\r", 
+  ".A": [
+   "Iqbal", 
+   "Grundke-Iqbal", 
+   "Wisniewski"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8704; 1(8524):102\r", 
+  ".T": "Alzheimer's disease, microtubule and neurofilament proteins, and axoplasmic flow [letter]\r", 
+  ".U": "87088691\r"
+ }, 
+ {
+  ".I": "32322", 
+  ".M": "Bile/*ME; Cholelithiasis/*ET; Cholesterol/ME; Human; Liver/*ME.\r", 
+  ".A": [
+   "van", 
+   "van"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8704; 1(8524):103\r", 
+  ".T": "Hepatic bile nucleation and gallstone disease [letter]\r", 
+  ".U": "87088693\r"
+ }, 
+ {
+  ".I": "32323", 
+  ".M": "Amrinone/AE; Drug Industry/*ST; Great Britain; Human; Social Control, Formal/*; Societies, Pharmaceutical/*.\r", 
+  ".A": [
+   "Wilmshurst"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8704; 1(8524):104\r", 
+  ".T": "An investigation by the ABPI (Association of the British Pharmaceutical Industry) [letter]\r", 
+  ".U": "87088695\r"
+ }, 
+ {
+  ".I": "32324", 
+  ".M": "Confidentiality/*; Employment/*; England; Health Status; Human; Occupational Health Services/*.\r", 
+  ".A": [
+   "Lee"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8704; 1(8524):104\r", 
+  ".T": "Confidentiality and pre-employment health screening [letter]\r", 
+  ".U": "87088696\r"
+ }, 
+ {
+  ".I": "32325", 
+  ".M": "Health Services/*ST; Sudan.\r", 
+  ".A": [
+   "Wahab"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8704; 1(8524):104\r", 
+  ".T": "Medicine in southern Sudan [letter]\r", 
+  ".U": "87088697\r"
+ }, 
+ {
+  ".I": "32326", 
+  ".M": "Arterial Occlusive Diseases/SU; Human; Laser Surgery/*IS; Vascular Surgery/*IS.\r", 
+  ".A": [
+   "Fourrier", 
+   "Brunetaud", 
+   "Prat", 
+   "Marache", 
+   "Lablanche", 
+   "Bertrand"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8704; 1(8524):105\r", 
+  ".T": "Percutaneous laser angioplasty with sapphire tip [letter]\r", 
+  ".U": "87088698\r"
+ }, 
+ {
+  ".I": "32328", 
+  ".M": "Adolescence; Adult; Aged; Child; Female; Human; HTLV Infections/*TM; Japan; Male; Maternal-Fetal Exchange; Middle Age; Pregnancy; Spinal Cord Diseases/*TM.\r", 
+  ".A": [
+   "Osame", 
+   "Igata", 
+   "Usuku", 
+   "Rosales", 
+   "Matsumoto"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8704; 1(8524):106\r", 
+  ".T": "Mother-to-child transmission in HTLV-I associated myelopathy [letter]\r", 
+  ".U": "87088700\r"
+ }, 
+ {
+  ".I": "32330", 
+  ".M": "Comparative Study; Esophageal Neoplasms/PA/RA; Human; Neoplasm Staging/*; Stomach Neoplasms/PA/*RA; Tomography, X-Ray Computed/*.\r", 
+  ".A": [
+   "Mason", 
+   "Rankin", 
+   "Taylor", 
+   "Rowe", 
+   "Linsell", 
+   "Owen", 
+   "Jourdan", 
+   "McColl"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8704; 1(8524):108\r", 
+  ".T": "Computerised tomographic scanning and staging of gastric carcinoma [letter]\r", 
+  ".U": "87088703\r"
+ }, 
+ {
+  ".I": "32331", 
+  ".M": "Analgesia; Anesthesia, Epidural; Clonidine/*AD; Human.\r", 
+  ".A": [
+   "Wells", 
+   "Hardy"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8704; 1(8524):108\r", 
+  ".T": "Epidural clonidine [letter]\r", 
+  ".U": "87088704\r"
+ }, 
+ {
+  ".I": "32332", 
+  ".M": "Abnormalities, Drug-Induced/*ET; Adult; Benzodiazepines/*AE; Female; Human; Maternal-Fetal Exchange; Pregnancy; Prospective Studies; Substance Abuse/*.\r", 
+  ".A": [
+   "Laegreid", 
+   "Olegard", 
+   "Wahlstrom", 
+   "Conradi"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8704; 1(8524):108-9\r", 
+  ".T": "Abnormalities in children exposed to benzodiazepines in utero [letter]\r", 
+  ".U": "87088705\r"
+ }, 
+ {
+  ".I": "32333", 
+  ".M": "Acute Disease; Adult; Case Report; Female; Human; Male; Pneumococcal Infections/*ET; Postoperative Complications/*; Splenectomy/*AE; Streptococcus pneumoniae.\r", 
+  ".A": [
+   "Hollis", 
+   "Marsh", 
+   "Marshall", 
+   "Robertson"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8704; 1(8524):110-1\r", 
+  ".T": "Overwhelming pneumococcal sepsis in healthy adults years after splenectomy [letter]\r", 
+  ".U": "87088707\r"
+ }, 
+ {
+  ".I": "32334", 
+  ".M": "Adult; Animal; Case Report; Cattle; Cattle Diseases/*TM; Conjunctivitis/*TM/VE; Eyelid Diseases/*TM/VE; Human; Male; Vaccinia/*TM; Zoonoses/*.\r", 
+  ".A": [
+   "Hall", 
+   "Stevens"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8704; 1(8524):111\r", 
+  ".T": "Ocular cowpox [letter]\r", 
+  ".U": "87088708\r"
+ }, 
+ {
+  ".I": "32335", 
+  ".M": "Fallopian Tubes; Female; Human; Insemination, Artificial/*MT; Oocytes/TR; Pregnancy.\r", 
+  ".A": [
+   "Matson", 
+   "Yovich"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8704; 1(8524):111-2\r", 
+  ".T": "Gamete intrafallopian transfer in a non-IVF unit [letter]\r", 
+  ".U": "87088709\r"
+ }, 
+ {
+  ".I": "32336", 
+  ".M": "Adult; Evaluation Studies; Female; Human; Insemination, Artificial/*MT; Insemination, Artificial, Homologous/*MT; Male; Peritoneal Cavity; Pregnancy.\r", 
+  ".A": [
+   "Curson", 
+   "Parsons"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8704; 1(8524):112\r", 
+  ".T": "Disappointing results with direct intraperitoneal insemination [letter]\r", 
+  ".U": "87088710\r"
+ }, 
+ {
+  ".I": "32337", 
+  ".M": "DNA/*AN; Hair/*AN; Human; Leukemia, Lymphocytic/*GE.\r", 
+  ".A": [
+   "Pilkington", 
+   "Summers", 
+   "Thein", 
+   "O'Connor", 
+   "Wainscoat"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8704; 1(8524):112\r", 
+  ".T": "Hair root DNA: a source of constitutional DNA in leukaemia [letter]\r", 
+  ".U": "87088711\r"
+ }, 
+ {
+  ".I": "32338", 
+  ".M": "Advertising/*LJ; Anti-Inflammatory Agents, Non-Steroidal/*/AE; Arthritis/DT; Drug Industry/*; Drug Labeling; Gastric Mucosa/DE; Great Britain; Human; Jurisprudence/*; Propionates/*/AE; Propionic Acids/*/AE; Prostaglandin Antagonists/AE.\r", 
+  ".A": [
+   "Collier", 
+   "Herxheimer"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Lancet 8704; 1(8524):113-4\r", 
+  ".T": "Roussel convicted of misleading promotion.\r", 
+  ".U": "87088712\r"
+ }, 
+ {
+  ".I": "32339", 
+  ".M": "Actuarial Analysis; Adult; Aged; Aged, 80 and over; Calcium/BL; Comparative Study; Creatinine/BL; Female; Follow-Up Studies; Human; Hypercalcemia/*MO/PP; Kidney/*PP; Male; Middle Age; Risk; Support, Non-U.S. Gov't; Sweden.\r", 
+  ".A": [
+   "Palmer", 
+   "Adami", 
+   "Bergstrom", 
+   "Jakobsson", 
+   "Akerstrom", 
+   "Ljunghall"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Lancet 8704; 1(8524):59-62\r", 
+  ".T": "Survival and renal function in untreated hypercalcaemia. Population-based cohort study with 14 years of follow-up.\r", 
+  ".U": "87088713\r", 
+  ".W": "172 persons with mild to moderate hypercalcaemia were followed up for 14 years. Life-table analyses showed that, among persons aged 70 years or less at the time of detection of the hypercalcaemia, survival was lower in the hypercalcaemic group than in a normocalcaemic age and sex matched control group. No such difference was found among older persons. The lower survival was related to degree of hypercalcaemia, and this held true when systolic and diastolic blood pressure, serum glucose, serum uric acid, and serum cholesterol were taken into account in a multivariate analysis. The lower survival seemed to be due mainly to deaths from diseases of the circulatory organs. No person with normal renal function at the beginning of the study period had a more than marginally raised serum creatinine at follow-up.\r"
+ }, 
+ {
+  ".I": "32340", 
+  ".M": "Arthritis, Rheumatoid/*ME; Bleomycins/DU; Case Report; Female; Glutathione/BL; Human; Infusions, Intravenous; Iron/*ME; Iron-Dextran Complex/AD/*AE; Knee Joint/PP; Lipid Peroxides/ME; Liver/ME; Middle Age; Support, Non-U.S. Gov't; Synovitis/*ME.\r", 
+  ".A": [
+   "Winyard", 
+   "Blake", 
+   "Chirico", 
+   "Gutteridge", 
+   "Lunec"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Lancet 8704; 1(8524):69-72\r", 
+  ".T": "Mechanism of exacerbation of rheumatoid synovitis by total-dose iron-dextran infusion: in-vivo demonstration of iron-promoted oxidant stress.\r", 
+  ".U": "87088716\r", 
+  ".W": "The mechanism by which a synovial flare occurred in a patient with rheumatoid arthritis after intravenous infusion of iron-dextran was investigated. After the infusion, serum and synovial-fluid iron-binding capacity became saturated, giving rise to low-molecular-mass iron chelates with the capacity to cause oxidative damage (\"bleomycin-iron\"). At the same time lipid peroxidation and the concentration of oxidised ascorbic acid (dehydroascorbate) increased in both serum and synovial fluid, and red-cell glutathione fell. These changes corresponded closely to an exacerbation of rheumatoid synovitis. Hepatic function was transiently disturbed 7 days after the infusion, reflecting hepatic oxidant stress within the iron-loaded liver. Such changes provide clear evidence that iron-catalysed oxidative reactions influence the inflammatory process in human beings.\r"
+ }, 
+ {
+  ".I": "32341", 
+  ".M": "Adult; Antibodies, Monoclonal/DU; Antigens, Bacterial/AN; Arthritis, Infectious/*ET; Chlamydia trachomatis/IM; Female; Human; Lymphogranuloma Venereum/*CO; Male.\r", 
+  ".A": [
+   "Keat", 
+   "Thomas", 
+   "Dixey", 
+   "Osborn", 
+   "Sonnex", 
+   "Taylor-Robinson"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Lancet 8704; 1(8524):72-4\r", 
+  ".T": "Chlamydia trachomatis and reactive arthritis: the missing link.\r", 
+  ".U": "87088717\r", 
+  ".W": "Reactive inflammatory arthritis is a common sequel to sexually acquired non-gonococcal genital-tract infection. Approximately 50% of cases are associated with Chlamydia trachomatis infection in the genital tract, although conventional cultures of joint material are sterile. Synovium, synovial-fluid cells, or both, from eight patients with sexually acquired reactive arthritis (SARA) and eight with knee effusions associated with other rheumatic diseases were examined by means of a fluorescein-labelled monoclonal antibody to C trachomatis ('Micro Trak'; Syva). Typical chlamydial elementary bodies were seen in joint material from five patients with SARA but in none of the controls. An inclusion-like cluster of elementary bodies was seen in one synovial biopsy sample. All five patients had high titres of serum chlamydial antibody. It is likely that the synovitis of SARA results directly from the presence of chlamydial elementary bodies in the joint.\r"
+ }, 
+ {
+  ".I": "32348", 
+  ".M": "Adult; Cardiovascular Diseases/MO; Comparative Study; Evaluation Studies; Female; Finland; Human; Male; Middle Age; Mortality/*; Neoplasms/MO; Occupations; Physicians/*/PX; Physicians, Women/PX; Sex Factors; Socioeconomic Factors; Suicide/EP.\r", 
+  ".A": [
+   "Rimpela", 
+   "Nurminen", 
+   "Pulkkinen", 
+   "Rimpela", 
+   "Valkonen"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Lancet 8704; 1(8524):84-6\r", 
+  ".T": "Mortality of doctors: do doctors benefit from their medical knowledge?\r", 
+  ".U": "87088725\r", 
+  ".W": "Official population and mortality statistics show that overall mortality of male doctors in Finland in 1971-80 was lower than that of all economically active men. Doctors had lower death rates from cardiovascular disease, tumours, other diseases, causes of death amenable to medical interventions, and accidents and violence, but not suicide. Except for tumours, mortality of male doctors was at the same level or higher than that of men in other professions. Risk of suicide was twice as high for male doctors as for other professions. The numbers of women doctors were too small for firm conclusions about their mortality to be drawn. It is concluded either that doctors do not use their professional knowledge and skills in a way that reduces their own mortality risk or that they are exposed to occupational hazards that cancel out such an effect. Possible hazards are more likely to be mental than physical or chemical.\r"
+ }, 
+ {
+  ".I": "32349", 
+  ".M": "Age Factors; Anthropometry; Arm/AH; Body Height; Body Weight; Brazil; Child, Preschool; Comparative Study; Evaluation Studies; Female; Human; Infant; Male; Nutrition Disorders/DI; Nutritional Status/*.\r", 
+  ".A": [
+   "Rees", 
+   "Henry", 
+   "Diskett", 
+   "Shears"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Lancet 8704; 1(8524):87-9\r", 
+  ".T": "Measures of nutritional status. Survey of young children in north-east Brazil.\r", 
+  ".U": "87088726\r", 
+  ".W": "In 738 children aged under 5 from three communities in north-east Brazil, nutritional status was assessed by four means-weight for age, height for age, weight for height, and middle upper arm circumference (MUAC). As judged by weight for age, 43% of children were adequately nourished and only 2% were severely malnourished. Stunting (less than 85% height for age) was seen in 8% and wasting (less than 70% weight for height) in 1%. There was poor agreement between MUAC (a measure of wasting) and weight for height when the conventional cut-off points for MUAC were applied. Although agreement improved with new MUAC cut-off points the probability of correct diagnosis of wasting (sensitivity) remained low. Although height for age and weight for height were the most useful measures of nutritional status, MUAC may be the best available in famine victims and refugees.\r"
+ }, 
+ {
+  ".I": "32350", 
+  ".M": "Adolescence; Adult; Aged; Evaluation Studies; Female; Gastroesophageal Reflux/DI/*PP; Human; Hydrogen-Ion Concentration; Male; Middle Age; Monitoring, Physiologic/*; Posture; Time Factors.\r", 
+  ".A": [
+   "Donald", 
+   "Ford", 
+   "Wilkinson"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Lancet 8704; 1(8524):89-92\r", 
+  ".T": "Is 24 h ambulatory oesophageal pH monitoring useful in a district general hospital?\r", 
+  ".U": "87088727\r", 
+  ".W": "53 of 61 patients successfully completed 24 h ambulatory monitoring of oesophageal pH. The indications were: symptoms suggestive of gastro-oesophageal reflux but with normal endoscopy (19 cases); atypical chest pain with normal endoscopy (21 cases); or respiratory symptoms possibly due to reflux (13 cases). A temporal association between abnormal reflux and the presenting symptoms was demonstrated in 25 patients (47%). 6 patients were shown to have respiratory symptoms after episodes of reflux which resolved on treatment of the reflux alone. Reflux occurring only in the erect posture was observed in some patients and may have been a manifestation of the irritable bowel syndrome. Reflux as a cause of symptoms was excluded in 14 patients. The procedure was well tolerated in most patients, simple to operate, and inexpensive.\r"
+ }, 
+ {
+  ".I": "32351", 
+  ".M": "Adult; Animal; Evaluation Studies; Female; Fishes/*; Food Hypersensitivity/*DI; Hair/IM; Human; London; Male; Quality Control.\r", 
+  ".A": [
+   "Sethi", 
+   "Lessof", 
+   "Kemeny", 
+   "Lambourn", 
+   "Tobin", 
+   "Bradley"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Lancet 8704; 1(8524):92-4\r", 
+  ".T": "How reliable are commercial allergy tests?\r", 
+  ".U": "87088728\r", 
+  ".W": "The ability to diagnose allergic disease was studied in 9 fish-allergic and 9 control subjects, who provided specimens of blood and hair for testing. All fish-allergic subjects had previously been shown at Guy's Hospital to have a positive skin prick test to fish. The specimens were submitted as coded, duplicate samples to five laboratories which all offer a commercial service in carrying out diagnostic tests for allergy. All five laboratories were not only unable to diagnose fish allergy but also reported many allergies in apparently non-allergic subjects and provided inconsistent results on duplicate samples from the same subject.\r"
+ }, 
+ {
+  ".I": "32352", 
+  ".M": "Adult; Bordetella Pertussis/IP; Carrier State/*; Child; Child, Preschool; Human; Infant; Nasopharynx/MI; Whooping Cough/*TM.\r", 
+  ".A": [
+   "Bass"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8704; 1(8524):96\r", 
+  ".T": "Is there a carrier state in pertussis? [letter]\r", 
+  ".U": "87088729\r"
+ }, 
+ {
+  ".I": "32353", 
+  ".M": "Citrates/*AN; Human; Phenytoin/*AN; Saliva/*AN.\r", 
+  ".A": [
+   "Knott", 
+   "Reynolds"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8704; 1(8524):97\r", 
+  ".T": "Citrate and salivary drug measurement [letter]\r", 
+  ".U": "87088731\r"
+ }, 
+ {
+  ".I": "32354", 
+  ".M": "Diarrheogenic Tumor/*TH; Human; Interferon Type I/*TU; Islet Cell Tumor/*TH; Pancreatic Neoplasms/*TH.\r", 
+  ".A": [
+   "Anderson", 
+   "Bloom"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8704; 1(8524):97\r", 
+  ".T": "Treatment of malignant endocrine pancreatic tumours with human leucocyte interferon [letter]\r", 
+  ".U": "87088732\r"
+ }, 
+ {
+  ".I": "32355", 
+  ".M": "Aged; Aged, 80 and over; Case Report; Cimetidine/AD/*AE; Female; Human; Injections, Intravenous; Tachycardia/*CI.\r", 
+  ".A": [
+   "Dickey", 
+   "Symington"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Lancet 8704; 1(8524):99-100\r", 
+  ".T": "Broad-complex tachycardia after intravenous cimetidine [letter]\r", 
+  ".U": "87088736\r"
+ }, 
+ {
+  ".I": "32356", 
+  ".M": "Child, Preschool; Cricoid Cartilage/*SU; Cysts/CO/PA; Female; Glottis; Human; Infant; Infant, Newborn; Laryngeal Cartilages/*SU; Laryngeal Diseases/CO/PA; Laryngostenosis/CO/PA/*SU; Male; Postoperative Complications; Reoperation; Respiratory Distress Syndrome/CO; Retrospective Studies; Support, Non-U.S. Gov't.\r", 
+  ".A": [
+   "Holinger", 
+   "Stankiewicz", 
+   "Livingston"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Laryngoscope 8704; 97(1):19-24\r", 
+  ".T": "Anterior cricoid split: the Chicago experience with an alternative to tracheotomy.\r", 
+  ".U": "87088765\r", 
+  ".W": "Twenty-six infants and children underwent anterior cricoid split (ACS) in an attempt to avoid tracheotomy. Twenty (77%) were extubated successfully without tracheotomy;six (23%) failed and required tracheotomy. Our experience corroborates that reported in the literature. To date, 106 (77%) of 138 patients who have undergone ACS have been extubated successfully without tracheotomy. These results substantiate the validity of the operation when done for the proper indications. Substantive glottic and tracheal pathology indicate a high likelihood of failure of ACS.\r"
+ }, 
+ {
+  ".I": "32358", 
+  ".M": "Acquired Immunodeficiency Syndrome/*TM; Adult; Blood Donors/*; Blood Transfusion/*AE; Child; Diagnostic Tests, Routine; Human; HIV/*IP; Risk; United States.\r", 
+  ".A": [
+   "Fisher"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Pediatrics 8704; 79(1):157-60\r", 
+  ".T": "Transfusion-associated acquired immunodeficiency syndrome--what is the risk?\r", 
+  ".U": "87091404\r"
+ }, 
+ {
+  ".I": "32359", 
+  ".M": "Animal; Cattle; Comparative Study; Human; Infant, Newborn; Pulmonary Gas Exchange; Pulmonary Surfactants/PD/*TU; Rabbits; Respiratory Distress Syndrome/*TH; Sheep; Support, U.S. Gov't, P.H.S.; Surface Properties; Ventilation-Perfusion Ratio.\r", 
+  ".A": [
+   "Ikegami", 
+   "Agata", 
+   "Elkady", 
+   "Hallman", 
+   "Berry", 
+   "Jobe"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Pediatrics 8704; 79(1):38-46\r", 
+  ".T": "Comparison of four surfactants: in vitro surface properties and responses of preterm lambs to treatment at birth.\r", 
+  ".U": "87091416\r", 
+  ".W": "Natural sheep surfactant, rabbit surfactant, human surfactant, and surfactant TA were compared for in vitro surface properties and for responses of preterm lambs to treatment. Equivalent amounts of sheep, rabbit, and human surfactants were needed to lower the surface tension to less than 10 dynes/cm, whereas four times less surfactant TA similarly lowered the surface tension. Surface-spreading rates were similar for the surfactants. The surface adsorption of the batch of human surfactant tested was much slower than was adsorption of the other surfactants. Ventilation was significantly improved in all surfactant-treated lambs relative to the control lambs, indicating the general efficacy of the surfactant treatments. Overall, surfactant TA had the best in vitro characteristics, yet the preterm lambs treated at birth with surfactant TA had lower PO2 values and higher ventilatory requirements than did the sheep surfactant-treated lambs. The in vivo responses to rabbit surfactant were intermediate between the responses to sheep surfactant and to surfactant TA. Human surfactant resulted in the least effective clinical response. More of the phosphatidylcholine associated with human surfactant and surfactant TA was lost from the alveoli and lung tissue after four hours of ventilation than was lost from sheep or rabbit surfactant-treated lambs. More intravascular radiolabeled albumin leaked into the alveoli of the surfactant TA-treated lambs than sheep or rabbit surfactant-treated lambs. The four surfactants also had different sensitivities to the effects on minimum surface tensions of the soluble proteins present in alveolar washes. The study demonstrates that the range of clinical responses was not predictable based on the in vitro surface properties that we measured.(ABSTRACT TRUNCATED AT 250 WORDS)\r"
+ }, 
+ {
+  ".I": "32360", 
+  ".M": "Costs and Cost Analysis; Diagnosis, Laboratory/ST; Facility Regulation and Control; Forecasting; Health Facilities/*; Laboratories/*ST; Pennsylvania; Physicians' Offices/*; Quality Control; Societies, Medical; United States.\r", 
+  ".A": [
+   "Bartola"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Prim Care 8704; 13(4):605-15\r", 
+  ".T": "Painless office laboratory regulation.\r", 
+  ".U": "87092763\r", 
+  ".W": "In summary, the attention focused on the work performed in the physicians' office laboratories need not create any apprehension on the part of the physician-directors. If the physician's office laboratory is subject to government regulations, be assured that the only objective is to provide assistance in accomplishing a mutual objective of quality work. The approach is one of a cooperative effort between professionals, and the physician's office laboratory should take advantage of the services, both consultation and training, offered by the regulatory agency. If the physician's office laboratory is not subject to regulations, the physician-director should personally direct the operation of his or her laboratory and keep abreast of the latest developments in laboratory medicine applicable to the specific areas of testing performed. The simplest way to do this is to take advantage of the voluntary certification programs being developed and any state or federal guidelines readily available.\r"
+ }, 
+ {
+  ".I": "32362", 
+  ".M": "Certification; Employee Performance Appraisal/ST; Job Description; Laboratories/*MA; Personnel Management/*ST; Personnel Selection/ST; Physicians' Offices; Practice Management, Medical/*ST; Quality Control; Technology, Medical/ST; United States.\r", 
+  ".A": [
+   "Crowley", 
+   "Tillman"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Prim Care 8704; 13(4):617-31\r", 
+  ".T": "Performance audit in the selection and management of personnel in the physician's office laboratory.\r", 
+  ".U": "87092765\r", 
+  ".W": "The performance audit does not contain any startling news about human performance. It does, however, provide a unique perspective from which to view human performance. It asks the user to relate systematically each part to the whole, to test a hypothesis against actual data, and to formulate solutions based on a strong rationale. We have of necessity described this process very briefly, suggesting how specific tools may be derived for immediate use in the office laboratory. We conclude with a reminder that much useful information in the performance audit can be captured by constructing three tables with the following headings: 1. Job Description, Requirements, Standards; 2. Requirements, Standards, Deficiencies, Potential Impact; 3. Deficiencies, Possible Causes, Possible Solutions. Thus, the performance audit can provide useful information in regard to selecting personnel (item 1), monitoring the performance of laboratory personnel (item 2), and trouble-shooting specific problems (item 3).\r"
+ }, 
+ {
+  ".I": "32363", 
+  ".M": "Adult; Case Report; Diagnosis, Laboratory/*MT/ST; Female; Health Facilities/*; Human; Microscopy/MT/ST; Physicians' Offices/*; Specimen Handling/MT/ST; Vaginitis/*DI/MI/PA.\r", 
+  ".A": [
+   "Addison"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Prim Care 8704; 13(4):633-46\r", 
+  ".T": "The role of the office laboratory in the diagnosis of vaginitis.\r", 
+  ".U": "87092766\r", 
+  ".W": "In this article, a standardized approach to the evaluation of a patient with vaginitis is presented. The article includes detailed descriptions of specimen collection techniques, slide preparation, and the microscopic examination. In addition, a series of case histories is presented demonstrating how laboratory findings can be interwoven with history and physical findings to provide the correct diagnosis.\r"
+ }, 
+ {
+  ".I": "32364", 
+  ".M": "Adolescence; Adult; Child; Diagnosis, Laboratory/*MT/ST; Epstein-Barr Virus/IP; Health Facilities/*; Human; Infectious Mononucleosis/*DI; Leukocyte Count; Leukocytes/PA; Physicians' Offices/*; Quality Control; Reagent Kits, Diagnostic/ST; Serodiagnosis.\r", 
+  ".A": [
+   "Thompson"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Prim Care 8704; 13(4):647-55\r", 
+  ".T": "The diagnosis of mononucleosis in the office laboratory.\r", 
+  ".U": "87092767\r", 
+  ".W": "Infectious mononucleosis has been known for a long time to be a common infection in young adults. It also infects children. In particular, children under the age of 2 years may not express the illness clinically. Diagnostic criteria vary but in young adults usually include the symptoms of fever, exudative tonsillitis, and cervical lymphadenopathy. Usually, there is a relative and absolute lymphocytosis, with 10 to 20 per cent or greater atypical lymphocytes. Rapid slide tests are accurate and economical and support the diagnosis when positive. False-positive results are known to occur with several other important disease processes; therefore, the clinical presentation and laboratory results must be interpreted in their appropriate context. Quality control is essential even for the rapid slide tests, and experienced examiners are required to review blood smears. The morphology of atypical lymphocytes varies greatly. In addition, morphology interpretation can be hampered by problems in preparation of slides or the holding of blood samples awaiting slide preparation. EBV-specific serodiagnosis has significantly enhanced our ability to study further and differentiate heterophil-negative syndromes that share clinical features with infectious mononucleosis. Acute, past, chronic, and no EBV infection can now be differentiated. Further diagnostic tests for other etiologic agents are necessary when all EBV tests are negative and the clinical situation requires appropriate diagnosis.\r"
+ }, 
+ {
+  ".I": "32365", 
+  ".M": "Adult; Aged; Aged, 80 and over; Case Report; Esterases/*UR; False Negative Reactions; Female; Human; Infant; Leukocytes/*EN; Male; Reagent Kits, Diagnostic/*ST; Urinary Tract Infections/DI.\r", 
+  ".A": [
+   "Culhane"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Prim Care 8704; 13(4):679-89\r", 
+  ".T": "Clinical uses of the leukocyte esterase test.\r", 
+  ".U": "87092770\r", 
+  ".W": "In summary, there are many current and potential uses of the leukocyte esterase dipstick. However, the studies in the literature supporting these uses have several methodologic problems that should make one cautious about relying on the test too heavily. Its use in the symptomatic patient should be secondary to a urinalysis, especially in those who as a group have significant sequelae from urinary tract infections. These include pregnant patients, diabetics, and geriatric patients who may be lacking signs and symptoms of infection. The dipstick is not meant as a replacement for the microscopic examination of the urine sediment; it should be used to direct one to examine urine specimens that would not normally be analyzed microscopically. Further studies controlling for symptoms and gender are needed to make the leukocyte esterase test more useful to the primary care physician.\r"
+ }, 
+ {
+  ".I": "32366", 
+  ".M": "Consultants/*; Diagnosis, Laboratory/IS; Industry/*; Laboratories/*; Marketing of Health Services/*; Physicians' Offices; Practice Management, Medical; United States.\r", 
+  ".A": [
+   "Cox", 
+   "Rieger"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Prim Care 8704; 13(4):691-7\r", 
+  ".T": "What to expect from a laboratory industry representative.\r", 
+  ".U": "87092771\r", 
+  ".W": "The role of the laboratory industry representative is changing. Today, industry representatives must play a much stronger role in providing the products, service, and information that physicians need to run their practices more effectively. They must not only continue to offer high-quality products that are accurate, reliable, and cost-efficient but also provide the product knowledge and services that enable their customers to use those products effectively. They must also be able to advise their customers on new legislation and changes in the market.\r"
+ }, 
+ {
+  ".I": "32367", 
+  ".M": "Chemistry, Clinical/*IS; Costs and Cost Analysis; Laboratories/EC/*ST; Licensure; Physicians' Offices; Practice Management, Medical/EC/*ST; Quality Control; Technology, Medical; Time.\r", 
+  ".A": [
+   "Baer", 
+   "Belsey"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Prim Care 8704; 13(4):699-711\r", 
+  ".T": "Assessing an office chemistry instrument.\r", 
+  ".U": "87092772\r", 
+  ".W": "Selection of appropriate testing systems depends on the characteristics and needs of the office. Clinical practice needs, work flow needs, and the analyst's ability must be balanced against the level of system complexity, automation, quality characteristics, and cost.\r"
+ }, 
+ {
+  ".I": "32368", 
+  ".M": "Blood Glucose/*AN; Bloodletting/IS; Glycosuria/*DI; Health Facilities/*; Human; Laboratories/*ST; Physicians' Offices/*; Quality Control; Self Care.\r", 
+  ".A": [
+   "Gwyther"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Prim Care 8704; 13(4):713-25\r", 
+  ".T": "Office glucose analysis.\r", 
+  ".U": "87092773\r", 
+  ".W": "The advent of dry chemistry techniques has made inexpensive glucose testing equipment available to physicians and their patients. The ability to measure blood glucose concentration quickly, in almost any setting, has eliminated urinary glucose monitoring as the parameter of choice for managing diabetic patients. Blood glucose monitoring has allowed improved control of diabetic patients who avail themselves of one of the techniques. The physician choosing to offer blood glucose testing in the office laboratory has a variety of test equipment from which to choose. Most physicians will want to own and operate an inexpensive, dedicated glucose reflectometer to test glucose samples in the office and to use in patient education. Machines used by both patients and physicians are about the same price. They are easy to learn to use. Office personnel must be trained to perform the procedure, teach it to patients, maintain the machine, and keep adequate quality control records.\r"
+ }, 
+ {
+  ".I": "32369", 
+  ".M": "Case Report; Digoxin/TU; Drug Therapy/*; Drugs/BL/*ME; Female; Health Facilities/*; Human; Kinetics; Laboratories/*; Male; Middle Age; Monitoring, Physiologic/*; Physicians' Offices/*; Specimen Handling; Theophylline/TU.\r", 
+  ".A": [
+   "Taylor"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Prim Care 8704; 13(4):743-60\r", 
+  ".T": "Office therapeutic drug monitoring.\r", 
+  ".U": "87092775\r", 
+  ".W": "Considerations necessary for appropriate therapeutic drug monitoring in the office practice setting have been presented. Practical issues focusing on clinical pharmacokinetics as well as serum drug concentration evaluation methods and techniques have been reviewed, with emphasis on orally administered medications.\r"
+ }, 
+ {
+  ".I": "32370", 
+  ".M": "Ampicillin/ME/*PD; Drug Combinations/ME/PD; Drug Synergism; Human; Kinetics; Methicillin/PD; Microbial Sensitivity Tests; Models, Biological; Penicillanic Acids/ME/*PD; Penicillin Resistance; Staphylococcus aureus/*DE.\r", 
+  ".A": [
+   "Kazmierczak", 
+   "Duez", 
+   "Pechinot", 
+   "Nordmann", 
+   "Labia"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Rev Infect Dis 8704; 8 Suppl 5:S549-54\r", 
+  ".T": "In vitro bactericidal activity of sulbactam plus ampicillin against methicillin-resistant Staphylococcus aureus.\r", 
+  ".U": "87093749\r", 
+  ".W": "By a microtiter checkerboard method, the in vitro bactericidal activity of sulbactam/ampicillin was tested against three groups of Staphylococcus aureus strains: group PR (penicillin-resistant through the production of penicillinase; methicillin-susceptible both at 30 degrees C in medium containing 5% NaCl and at 35 degrees C in medium without NaCl; n = 10); group MR1 (methicillin-resistant under the former conditions but not under the latter; n = 15); and group MR2 (methicillin-resistant under both sets of conditions; n = 20). Sulbactam/ampicillin was synergistic against all strains (fractional bactericidal index, less than or equal to 0.10). Moreover, there was a linear relation in each group between the different concentrations of the two antibiotics required for bactericidal activity. Thus, an equation of bactericidal synergy could be formulated for the combination. The bactericidal activity of sulbactam/ampicillin was assessed against one strain of each group and against a reference strain (S. aureus ATCC 6538 P) in an in vitro model simulating the kinetics of both antibiotics in human blood after intravenous administration of 2 g of ampicillin and 1 g of sulbactam. The observed rate of killing was approximately 99% except with the MR2 strains, against which the combination was bacteriostatic.\r"
+ }, 
+ {
+  ".I": "32371", 
+  ".M": "Acquired Immunodeficiency Syndrome/IM/*TM; Acute Disease; Adult; Antibodies, Viral/IP; Case Report; Human; HIV/IM; Male.\r", 
+  ".A": [
+   "Goldman", 
+   "Lang", 
+   "Lyman"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Am J Med 8704; 81(6):1122-3\r", 
+  ".T": "Acute AIDS viral infection [letter]\r", 
+  ".U": "87097303\r"
+ }, 
+ {
+  ".I": "32372", 
+  ".M": "Acquired Immunodeficiency Syndrome/CO/*IM; Adult; Antibodies, Viral/*AN; Enzyme-Linked Immunosorbent Assay; Helper Cells/IM; Human; Hypersensitivity, Delayed/IM; HIV/*IM; Immunoglobulins/AN; Leukocyte Count; Lymphocyte Transformation; Male; Middle Age; Prognosis; Sarcoma, Kaposi's/CO/*IM; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S..\r", 
+  ".A": [
+   "Afrasiabi", 
+   "Mitsuyasu", 
+   "Nishanian", 
+   "Schwartz", 
+   "Fahey"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Med 8704; 81(6):969-73\r", 
+  ".T": "Characterization of a distinct subgroup of high-risk persons with Kaposi's sarcoma and good prognosis who present with normal T4 cell number and T4:T8 ratio and negative HTLV-III/LAV serologic test results.\r", 
+  ".U": "87097311\r", 
+  ".W": "Three homosexual male patients with biopsy-proved Kaposi's sarcoma were classified as having the acquired immune deficiency syndrome (AIDS) by Centers for Disease Control criteria when first seen in 1983 and 1984. These patients, however, differed from most patients with AIDS and Kaposi's sarcoma in having normal CD4 cell numbers and normal CD4:CD8 ratio. Furthermore, these immunologic parameters remained normal for eight to 24 months of follow-up, and the disease did not progress. Results of recent testing of serum from these patients were negative for HTLV-III/LAV antibodies. The Kaposi's sarcoma was limited to skin (stage I tumors) and the patients did not have persistent lymphadenopathy, fever, night sweats, or weight loss. In contrast to AIDS, the serum immunoglobulin levels (IgG, IgA, IgM) and number of B cells that were spontaneously forming immunoglobulin were within normal range with no evidence of polyclonal activation. The lymphocyte proliferative responses to phytohemagglutinin and Candida were reduced in two of the three patients, and skin test anergy was observed in the two patients tested. These findings are not frequently encountered in other healthy, homosexually active men or in classic Kaposi's sarcoma. They may be indicative of functional T cell changes (without numerical changes) induced by factors other than HTLV-III/LAV virus, which made these homosexually active men susceptible to development of low-grade Kaposi's sarcoma lesions.\r"
+ }, 
+ {
+  ".I": "32373", 
+  ".M": "Acquired Immunodeficiency Syndrome/*MI; Human; HIV/*IP; Lymphocytes/*MI; Saliva/*MI.\r", 
+  ".A": [
+   "Pekovic", 
+   "Ajdukovic", 
+   "Tsoukas", 
+   "Lapointe", 
+   "Michaud", 
+   "Gilmore", 
+   "Gornitsky"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Am J Med 8704; 82(1):188-9\r", 
+  ".T": "Detection of human immunosuppressive virus in salivary lymphocytes from dental patients with AIDS [letter]\r", 
+  ".U": "87097378\r"
+ }, 
+ {
+  ".I": "32374", 
+  ".M": "Administrative Personnel/*; Human; Nurse Administrators/*; Task Performance and Analysis/*; Time and Motion Studies/*.\r", 
+  ".A": [
+   "Ferri"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Nurs 8704; 87(1):109-10\r", 
+  ".T": "In search of the excellent one-minute megatrend...or how to tolerate the five-minute burden.\r", 
+  ".U": "87097474\r"
+ }, 
+ {
+  ".I": "32375", 
+  ".M": "Acute Disease; Adult; Case Report; Epiglottitis/*ET/TH; Female; Human; Influenza/*CO; Laryngitis/*ET; Male.\r", 
+  ".A": [
+   "Cooper", 
+   "Najera"
+  ], 
+  ".P": "NEWS.\r", 
+  ".S": "Am J Nurs 8704; 87(1):12-3\r", 
+  ".T": "Flu alert: adult epiglottitis [news]\r", 
+  ".U": "87097475\r"
+ }, 
+ {
+  ".I": "32376", 
+  ".M": "Aged/PX; Female; Human; Nurse-Patient Relations/*; Nursing Homes; Touch/*.\r", 
+  ".A": [
+   "Dallam"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Nurs 8704; 87(1):140\r", 
+  ".T": "Touching you, touching me.\r", 
+  ".U": "87097477\r"
+ }, 
+ {
+  ".I": "32377", 
+  ".M": "Female; Human; Nursing Staff, Hospital/*PX; Nursing, Supervisory; Strikes, Employee/*; United States.\r", 
+  ".A": [
+   "Forfa"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Nurs 8704; 87(1):17-9\r", 
+  ".T": "Strike: more than two sides.\r", 
+  ".U": "87097478\r"
+ }, 
+ {
+  ".I": "32378", 
+  ".M": "Female; Human; Hysterectomy/*AE; Uterine Neoplasms/*RT/SU.\r", 
+  ".A": [
+   "Dell"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Am J Nurs 8704; 87(1):21\r", 
+  ".T": "Radiation therapy not to blame for all symptoms [letter]\r", 
+  ".U": "87097479\r"
+ }, 
+ {
+  ".I": "32379", 
+  ".M": "Adult; Clinical Competence/*; Female; Human; Interprofessional Relations; Male; Nursing Staff, Hospital/*PX/ST; Pattern Recognition, Visual; Perception; Pilot Projects; Support, U.S. Gov't, P.H.S..\r", 
+  ".A": [
+   "Benner", 
+   "Tanner"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Nurs 8704; 87(1):23-31\r", 
+  ".T": "Clinical judgment: how expert nurses use intuition.\r", 
+  ".U": "87097480\r"
+ }, 
+ {
+  ".I": "32380", 
+  ".M": "Disposable Equipment/EC/*ST; Equipment and Supplies, Hospital/*; Equipment Safety/*; Human; Nursing Staff, Hospital; Support, Non-U.S. Gov't; Support, U.S. Gov't, Non-P.H.S.; Support, U.S. Gov't, P.H.S..\r", 
+  ".A": [
+   "Radany", 
+   "Perry", 
+   "McCallum"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Nurs 8704; 87(1):35-8\r", 
+  ".T": "Is it safe to reuse disposables? [published erratum appears in Am J Nurs 1987 May;87(5):611]\r", 
+  ".U": "87097481\r"
+ }, 
+ {
+  ".I": "32381", 
+  ".M": "Critical Care/*MT; Human; Intubation, Intratracheal/IS/*NU; Respiration, Artificial; Suction/*MT; Tracheotomy/IS/NU.\r", 
+  ".A": [
+   "Hoffman", 
+   "Maszkiewicz"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Nurs 8704; 87(1):39-53\r", 
+  ".T": "Airway management for the critically ill patient.\r", 
+  ".U": "87097482\r"
+ }, 
+ {
+  ".I": "32382", 
+  ".M": "Adult; Female; Human; Interprofessional Relations/*; Nurse-Patient Relations; Nursing Staff, Hospital/*PX.\r", 
+  ".A": [
+   "Seddio"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Nurs 8704; 87(1):54-5\r", 
+  ".T": "Imprisoned within ourselves.\r", 
+  ".U": "87097483\r"
+ }, 
+ {
+  ".I": "32383", 
+  ".M": "Casts, Surgical/*; Home Nursing/*; Human; Self Care/*.\r", 
+  ".A": [
+   "Mather"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Nurs 8704; 87(1):56-8\r", 
+  ".T": "The secret to life in a spica.\r", 
+  ".U": "87097484\r"
+ }, 
+ {
+  ".I": "32384", 
+  ".M": "Equipment and Supplies, Hospital; Human; Intensive Care Units/*ST; Noise/*.\r", 
+  ".A": [
+   "Hilton"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Nurs 8704; 87(1):59-61\r", 
+  ".T": "The hospital racket: how noisy is your unit?\r", 
+  ".U": "87097485\r"
+ }, 
+ {
+  ".I": "32385", 
+  ".M": "Human; Infusion Pumps/AE/*NU; Injections, Spinal; Narcotics/*AD; Neoplasms/PP; Pain/DT.\r", 
+  ".A": [
+   "Waldman", 
+   "Feldstein", 
+   "Allen"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Nurs 8704; 87(1):63-4\r", 
+  ".T": "Troubleshooting intraspinal narcotic delivery systems.\r", 
+  ".U": "87097486\r"
+ }, 
+ {
+  ".I": "32386", 
+  ".M": "Human; Liver Diseases/*; Patient Education/*MT; Teaching Materials/*.\r", 
+  ".A": [
+   "Dobberstein"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Nurs 8704; 87(1):74\r", 
+  ".T": "The liver: to know it is to love it.\r", 
+  ".U": "87097487\r"
+ }, 
+ {
+  ".I": "32387", 
+  ".M": "Autoradiography; AIDS-Related Complex/*MI; Human; HIV/*IP; Lymph Nodes/*MI; Nucleic Acid Hybridization; RNA, Viral/AN; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S..\r", 
+  ".A": [
+   "Biberfeld", 
+   "Chayt", 
+   "Marselle", 
+   "Biberfeld", 
+   "Gallo", 
+   "Harper"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Pathol 8704; 125(3):436-42\r", 
+  ".T": "HTLV-III expression in infected lymph nodes and relevance to pathogenesis of lymphadenopathy.\r", 
+  ".U": "87097614\r", 
+  ".W": "In situ hybridization with a 35S-labeled probe of cryosections from 14 lymph nodes of HTLV-III/LAV-seropositive individuals with lymphadenopathy showed the presence of rare cells containing HTLV-III RNA at levels consistent with virus replication. Positive cells were observed at a frequency of only 1-10 per section. In all lymph nodes studied, including those showing follicular hyperplasia or involution, most of the cells expressing viral RNA were present in the follicular areas. Only a minority of such cells were found outside the follicles. The nature of the follicular, virus-replicating cells was not evident from the processed cryosections. After prolonged autoradiography, another pattern of hybridization was observed, suggesting low levels of viral RNA diffusely distributed throughout most, but not all, follicles. This may represent extracellular virus and/or virus-antibody complexes, but was not consistent with intracellular viral RNA or phagocytosed virus particles. Comparison of hybridization levels in relation to histology suggested a decrease in both the number of HTLV-III replicating cells as well as in the diffusely distributed viral RNA with progression of follicular involution. Our observations indicate that in HTLV-III-infected subjects, lymph node follicles are an important site of virus replication and trapping, suggesting a decisive role of the virus in the characteristic reactive and cytopathogenic changes of HTLV-III-associated lymphadenopathy.\r"
+ }, 
+ {
+  ".I": "32388", 
+  ".M": "Arthritis, Rheumatoid/*MI; Human; HIV/*IP.\r", 
+  ".A": [
+   "Galeazzi", 
+   "Tuzi", 
+   "Amici", 
+   "Benedetto"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Arthritis Rheum 8704; 29(12):1533-4\r", 
+  ".T": "Rheumatoid arthritis and human T cell lymphotropic retroviruses [letter]\r", 
+  ".U": "87100318\r"
+ }, 
+ {
+  ".I": "32389", 
+  ".M": "Birth Weight; Comparative Study; Data Collection; Female; Fetal Death/*EP; Gestational Age; Great Britain; Human; Infant Mortality/*; Infant, Newborn; Pregnancy; Support, Non-U.S. Gov't.\r", 
+  ".A": [
+   "Macfarlane", 
+   "Cole", 
+   "Hey"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Br J Obstet Gynaecol 8705; 93(12):1224-32\r", 
+  ".T": "Comparisons of data from regional perinatal mortality surveys.\r", 
+  ".U": "87100867\r", 
+  ".W": "The standard format in which NHS regions are invited to submit data from their perinatal mortality surveys for comparative analysis in the British Journal of Obstetrics and Gynaecology is described. Some examples of the way these data can and will be used to compare regional differences in mortality patterns are given and possible future developments are discussed. Although the term perinatal mortality is used in the title, it is hoped that surveys will cover stillbirths and neonatal deaths and also, where possible, late fetal deaths of less than 28 weeks gestation.\r"
+ }, 
+ {
+  ".I": "32390", 
+  ".M": "Birth Weight; Data Collection; Female; Fetal Death/*CL; Gestational Age; Human; Infant Mortality; Infant, Newborn; Nomenclature/*; Pregnancy; World Health Organization/*.\r", 
+  ".A": [
+   "Chiswick"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Br J Obstet Gynaecol 8705; 93(12):1236-8\r", 
+  ".T": "Commentary on current World Health Organization definitions used in perinatal statistics.\r", 
+  ".U": "87100869\r"
+ }, 
+ {
+  ".I": "32391", 
+  ".M": "Animal; Brain/*EN; Enzyme Induction; Estradiol/*PD; Female; Kallikrein/BI/GE/*ME; Male; Nucleic Acid Hybridization; Orchiectomy; Organ Specificity; Ovariectomy; Pituitary Gland/*EN; Pituitary Gland, Anterior/DE/*EN; Radioimmunoassay/MT; Rats; Rats, Inbred Strains; RNA, Messenger/GE; Sex Factors; Support, U.S. Gov't, P.H.S.; Translation, Genetic.\r", 
+  ".A": [
+   "Chao", 
+   "Chao", 
+   "Swain", 
+   "Tsai", 
+   "Margolius"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Endocrinology 8705; 120(2):475-82\r", 
+  ".T": "Tissue kallikrein in rat brain and pituitary: regional distribution and estrogen induction in the anterior pituitary.\r", 
+  ".U": "87105279\r", 
+  ".W": "We have detected tissue kallikrein and kallikrein mRNA in various brain regions with a kallikrein direct RIA and with nucleic acid hybridization using a kallikrein cDNA probe. In the direct RIA, rat urinary kallikrein-like activity was found in the pituitary and pineal glands, hypothalamus, cerebral cortex, cerebellum, and brain stem. Pituitary and pineal gland kallikrein concentrations were significantly higher than those in other regions. Only in pituitary was there a significant difference in tissue kallikrein concentration according to sex, with glands from female rats showing levels 4-fold higher than those from male rats. Kallikrein mRNAs were detected in all of the regions and were about 4-fold higher in female than in male pituitary gland. Northern blot analyses show sex dimorphism of pituitary kallikrein mRNA, similar in size to submandibular gland and kidney mRNA. In castrated male rats, whole pituitary kallikrein content was reduced to 50% of the control value and increased 1.7-fold with testosterone replacement and 18-fold with 17 beta-estradiol treatment. Neither T4 nor cortisol affected whole pituitary kallikrein levels in the castrated male rat, but testosterone decreased pituitary kallikrein in normal female rats by 35%. When anterior pituitary or neurointermediate lobe extracts were separately examined, immunoreactive kallikrein was 10.2- and 1.3-fold higher respectively, in female than in male rat lobes. Estradiol benzoate (30 micrograms/kg) administration increased kallikrein levels 90- and 22-fold, respectively, in the anterior pituitary of gonadectomized male and female rats, while it increased by only 40-50% kallikrein levels in the male and female neurointermediate lobe. In dot blot analysis, kallikrein mRNA levels were increased 5-fold by 17 beta-estradiol in the whole pituitary of castrated male rats. In the cytoplasmic dot hybridization analysis, estradiol benzoate treatment increased kallikrein mRNA levels 54-fold in the anterior pituitary of ovariectomized rats. The data show that a tissue kallikrein indistinguishable thus far from a urinary kallikrein is widely distributed in brain and pituitary and that levels of enzyme and mRNA are comparable in certain central sites. Kallikrein levels in the anterior and neurointermediate pituitaries are differentially regulated by estrogen.\r"
+ }, 
+ {
+  ".I": "32392", 
+  ".M": "Animal; Cell Division/DE; Cell Line; Clone Cells; Estradiol/*PD; Leydig Cell Tumor/*PA; Male; Mice; Receptors, Estradiol/ME; Support, Non-U.S. Gov't; Tissue Culture/MT; Vanadium/*PD.\r", 
+  ".A": [
+   "Sato", 
+   "Miyashita", 
+   "Maeda", 
+   "Noma", 
+   "Kishimoto", 
+   "Matsumoto"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Endocrinology 8705; 120(3):1112-20\r", 
+  ".T": "Effects of estrogen and vanadate on the proliferation of newly established transformed mouse Leydig cell line in vitro.\r", 
+  ".U": "87105348\r", 
+  ".W": "A permanent cell line (B-1-A-2) derived from an estrogen-responsive mouse Leydig cell tumor (T 124958-R) was established in culture. Although this cell line showed estrogen-induced enhancement of cell proliferation in vitro, a moderately high concentration (10(-8) M) of estradiol was required to stimulate maximum growth. A whole cell binding assay revealed that the B-1-A-2 cells contained estrogen receptors with relatively low affinity for estradiol (Kd, 10(-9)-10(-8) M). This estrogen receptor was found to have a mol wt of 65,000. In addition, incubation of the cells with [32P]orthophosphate and subsequent purification revealed that the estrogen receptor is phosphorylated. This finding prompted us to study the effect of phosphatase inhibitors on cell proliferation. The inclusion of vanadate (25 microM) in the culture medium resulted in a significant increase in estrogen sensitivity, showing a maximal growth stimulatory effect of estradiol at concentrations of 10(-10)-10(-9) M. Simultaneously, the conversion of the low affinity to the high affinity receptor (Kd, 10(-10)-10(-9) M) was induced by treatment of cells with vanadate. These data suggest that estrogen directly stimulates the growth of B-1-A-2 cells in culture, and that the sensitivity to estrogen can be altered by modulating the estrogen receptor possibly via a phosphorylation-dephosphorylation mechanism.\r"
+ }, 
+ {
+  ".I": "32393", 
+  ".M": "Acquired Immunodeficiency Syndrome/IM/*MI; Adolescence; Adult; Antibodies, Viral/AN; Carrier State/IM; DNA, Viral/AN; Hepatitis B e Antigens/AN; Hepatitis B Antibodies/AN; Hepatitis B Surface Antigens/IM; Homosexuality; Human; HIV/IM; Longitudinal Studies; Male; Middle Age; Support, Non-U.S. Gov't; Virus Replication.\r", 
+  ".A": [
+   "Krogsgaard", 
+   "Lindhardt", 
+   "Nielson", 
+   "Andersson", 
+   "Kryger", 
+   "Aldershvile", 
+   "Gerstoft", 
+   "Pedersen"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Hepatology 8705; 7(1):37-41\r", 
+  ".T": "The influence of HTLV-III infection on the natural history of hepatitis B virus infection in male homosexual HBsAg carriers.\r", 
+  ".U": "87107360\r", 
+  ".W": "The presence of antibodies to HTLV-III and markers of active hepatitis B virus replication was examined in a longitudinal study of 33 consecutive male homosexual HBsAg carriers. The mean follow-up time was 37 months (range = 4 to 109 months). All patients were initially hepatitis B virus DNA-positive and HBeAg positive. Antibodies to HTLV-III were detectable in eight patients while they were positive for both of these markers. One of them cleared hepatitis B virus DNA and seroconverted from HBeAg to anti-HBe. This corresponds to an annual clearance/seroconversion rate of 4% (95% confidence limits = 0 to 15%). In two patients, antibodies to HTLV-III appeared after clearance of hepatitis B virus DNA and HBeAg, and in one of them, hepatitis B virus DNA reappeared. Among the 25 patients negative for HTLV-III antibodies, the annual hepatitis B virus DNA clearance rate was 20% and HBeAg to anti-HBe seroconversion rate was 11% (95% confidence limits = 11 to 31% and 4 to 20% respectively). The observed hepatitis B virus DNA clearance rates in the two groups were significantly different (p less than 0.05). Disease activity, as determined by transaminase levels, was significantly lower in HTLV-III-infected individuals as compared to individuals without HTLV-III infection (p less than 0.05). Infection with HTLV-III may extend the period of active viral replication or even reactivate hepatitis B virus replication and seems to diminish inflammatory disease activity in chronic HBsAg carriers.\r"
+ }, 
+ {
+  ".I": "32394", 
+  ".M": "Crime/*; Fraud/*; Hospitals; Patient Discharge/*LJ; Transfer Agreement/LJ; United States; United States Federal Trade Commission.\r", 
+  ".A": [
+   "Burda"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Hospitals 8705; 61(4):68\r", 
+  ".T": "Discharge risks fraud, antitrust.\r", 
+  ".U": "87107505\r"
+ }, 
+ {
+  ".I": "32395", 
+  ".M": "Animal; Drug Synergism; Edema; Glucose Oxidase/*TO; Human; Hydrogen Peroxide/ME/*TO; In Vitro; Lung/DE/*PA; Male; Neutrophils/*EN; Oxygen/BL; Pancreatopeptidase/BL/IP/*TO; Rats; Rats, Inbred Strains; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S..\r", 
+  ".A": [
+   "Baird", 
+   "Cheronis", 
+   "Sandhaus", 
+   "Berger", 
+   "White", 
+   "Repine"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "J Appl Physiol 8705; 61(6):2224-9\r", 
+  ".T": "O2 metabolites and neutrophil elastase synergistically cause edematous injury in isolated rat lungs.\r", 
+  ".U": "87108940\r", 
+  ".W": "Addition of glucose oxidase (GO) increased H2O2 concentrations and decreased antielastolytic activities of beta-D-glucose containing perfusates of isolated rat lungs. Pretreatment with GO also caused acute edematous injury (increased lung weight gains, increased recovery of Ficoll in lung lavages, and increased pulmonary arterial pressures) in isolated lungs perfused with purified human neutrophil elastase (NE). Acute edematous injury in isolated lungs pretreated with GO and then NE exceeded levels found in lungs following addition of GO or NE alone or NE before GO. Simultaneous addition of catalase (an H2O2 scavenger) or methoxy-succinyl-L-alanyl-L-alanyl-prolyl-L-valine-chloromethyl ketone (an NE inhibitor, but not aminotriazole-inactivated catalase, N-tosyl-L-phenyl-alanine chloromethyl ketone (a chymotrypsin inhibitor) or N-alpha-p-tosyl-L-lysine chloromethyl ketone (a trypsin inhibitor), prevented acute edematous injury in isolated lungs perfused with both GO and NE. This observation indicated that injury was dependent on both H2O2 and NE, especially since the relative inactivating specificities of the inhibitors for H2O2 or NE, respectively, were confirmed under similar conditions in vitro. The synergistic nature of the interaction between H2O2 and NE-mediated injury was further clarified when GO- and NE-induced lung injury was prevented by addition of an oxidant-resistant NE inhibitor (Eglin-C), but not an oxidant-sensitive NE inhibitor (human alpha 1-protease inhibitor, alpha 1PI). Moreover, treatment with H2O2 also decreased the ability of alpha 1PI but not Eglin-C to decrease NE activity in vitro.(ABSTRACT TRUNCATED AT 250 WORDS)\r"
+ }, 
+ {
+  ".I": "32396", 
+  ".M": "Comparative Study; False Negative Reactions; Methicillin/*; Penicillin Resistance; Reagent Kits, Diagnostic/*; Staphylococcus aureus/*ME.\r", 
+  ".A": [
+   "Coles", 
+   "Brown"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "J Clin Pathol 8705; 39(12):1365\r", 
+  ".T": "\"Staphaurex\" negative, methicillin resistant Staphylococcus aureus [letter]\r", 
+  ".U": "87109880\r"
+ }, 
+ {
+  ".I": "32397", 
+  ".M": "Antibodies, Monoclonal/IM; Antigenic Determinants/IM; Binding Sites; Complement Activating Enzymes/*ME; Complement 3 Convertase/*ME; Complement 3b/*ME; Enzyme Precursors/*IM; Hemolysis; Human; Microscopy, Electron; Peptide Fragments/AN; Properdin Factor B/*IM/ME; Protein Conformation; Support, U.S. Gov't, P.H.S..\r", 
+  ".A": [
+   "Ueda", 
+   "Kearney", 
+   "Roux", 
+   "Volanakis"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "J Immunol 8705; 138(4):1143-9\r", 
+  ".T": "Probing functional sites on complement protein B with monoclonal antibodies. Evidence for C3b-binding sites on Ba.\r", 
+  ".U": "87110656\r", 
+  ".W": "We used four mouse monoclonal antibodies (Mab) as probes of functional sites of human complement protein B. Two Mab, HA4-1B (gamma 2a kappa) and HA4-15 (gamma 2a kappa), reacted with the same or adjacent epitopes on the Bb fragment of B, while the other two, HA4-1A (gamma 1 kappa) and FD3-20 (gamma 1 kappa), reacted with distinct epitopes on Ba. All reactive epitopes were expressed on native B and only one, recognized by the anti-Ba Mab HA4-1A was more reactive on isolated Ba than on B. These binding specificities were determined by direct binding radioassays and confirmed by inhibition studies. Immunoelectron microscopy of B and Bb in complex with anti-Ba and anti-Bb revealed that the recognized epitopes are on opposite sides of the molecule and are on discrete domains. All four Mab inhibited the hemolytic activity of B, although with different efficiencies and through different mechanisms. The main effect of the two anti-Bb Mab was an increased rate of loss of hemolytic sites from preformed EC3bBb C3 convertase presumably through accelerated dissociation of Bb. On the other hand, the main effect of the two anti-Ba Mab was inhibition of binding of B to C3b. HA4-1A was more efficient, inhibiting by 50% the binding of [125I]B to EC3b at 10 micrograms/ml as IgG and at 13 micrograms/ml as Fab. The data suggest that a binding site for C3b on intact B is located on the Ba portion of the molecule.\r"
+ }, 
+ {
+  ".I": "32398", 
+  ".M": "Blood Bactericidal Activity/DE; Cell Adhesion/DE; Human; Immunity, Cellular/DE; In Vitro; Lymphokines/*PD; Neutrophils/*PH; Phagocytosis/DE; Receptors, Fc/IM; Support, U.S. Gov't, P.H.S..\r", 
+  ".A": [
+   "Borish", 
+   "Rocklin"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "J Immunol 8705; 138(5):1475-9\r", 
+  ".T": "Effects of leukocyte inhibitory factor (LIF) on neutrophil phagocytosis and bactericidal activity.\r", 
+  ".U": "87110709\r", 
+  ".W": "Human leukocyte inhibitory factor (LIF) is a lymphokine initially defined by its ability to inhibit the random migration of neutrophils. We have recently demonstrated that LIF also potentiates a number of f-met-leu-phe-mediated functions as well as enhancing one Fc receptor-mediated function (antibody-dependent cellular cytotoxicity). In this paper, we have extended our studies involving the effects of LIF on the neutrophil, specifically its effect on phagocytosis and bactericidal activity. We demonstrate that LIF (2 U/ml) potentiates phagocytosis of opsonized heat-killed Staphylococcus aureus (up to 57.2%) and sheep erythrocytes (124.4%) as well as unopsonized latex particles (59.9%). Phagocytosis of opsonized sheep erythrocytes was inhibited by an anti-neutrophil Fc receptor antibody with control PMN but not using the LIF-treated PMN. LIF (1/2 to 1 U) also potentiates the killing of S. aureus by up to 51.6%. Higher concentrations of LIF (greater than or equal to 4 U) inhibits killing. These effects were shown not to be associated with an increase in Fc receptor availability. It is therefore possible that potentiation of these neutrophil activities by LIF may occur either as a result of increased receptor turnover or, more likely, secondary to an increase in nonspecific neutrophil adherence. These studies further support the concept that LIF may have an important role in vivo in inflammation and immunity.\r"
+ }, 
+ {
+  ".I": "32399", 
+  ".M": "Animal; Carboxypeptidase Transpeptidase/AN; Carrier Proteins/AN; Cephalothin/PD/*TU; Drug Therapy, Combination; Endocarditis, Bacterial/*DT/MI; Gentamicins/PD/*TU; Membrane Potentials; Methicillin/PD; Penicillin Resistance; Rabbits; Staphylococcal Infections/*DT/MI; Staphylococcus aureus/DE/ME; Streptomycin/ME.\r", 
+  ".A": [
+   "Chambers", 
+   "Miller"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "J Infect Dis 8705; 155(3):581-5\r", 
+  ".T": "Emergence of resistance to cephalothin and gentamicin during combination therapy for methicillin-resistant Staphylococcus aureus endocarditis in rabbits.\r", 
+  ".U": "87110889\r"
+ }
+]

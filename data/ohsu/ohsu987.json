@@ -1,0 +1,4723 @@
+[
+ {
+  ".I": "295800", 
+  ".M": "Azathioprine/AD; Cyclosporins/AD; Drug Therapy, Combination; Human; Hypercholesterolemia/CO; Hyperlipidemia/CO; Immunosuppression/*MT; Kidney Transplantation/*PH; Lipids/*BL; Lipoproteins/ME; Methylprednisolone/AD; Prospective Studies; Support, Non-U.S. Gov't.\r", 
+  ".A": [
+   "Isoniemi", 
+   "Tikkanen", 
+   "Hayry", 
+   "Eklund", 
+   "Hockerstedt", 
+   "Salmela", 
+   "Ahonen"
+  ], 
+  ".P": "CLINICAL TRIAL; JOURNAL ARTICLE; RANDOMIZED CONTROLLED TRIAL.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1029-31\r", 
+  ".T": "Lipid profiles with triple drug immunosuppressive therapy and with double drug combinations after renal transplantation and stable graft function.\r", 
+  ".U": "91111461\r"
+ }, 
+ {
+  ".I": "295801", 
+  ".M": "Blood Transfusion; Cyclosporins/TU; Graft Rejection; Graft Survival; Human; Immunosuppression/*MT; Kidney Transplantation/*IM; Support, Non-U.S. Gov't; Suppressor Cells/IM; Suppressor Factors, Immunologic/*BL; Tissue Donors.\r", 
+  ".A": [
+   "Yuzawa", 
+   "Otsuka", 
+   "Yu", 
+   "Sharma", 
+   "Iwasaki", 
+   "Fukao", 
+   "Iwasaki"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1036-8\r", 
+  ".T": "Immunosuppressive factors in patients after donor-specific transfusion with administration of cyclosporine.\r", 
+  ".U": "91111463\r"
+ }, 
+ {
+  ".I": "295802", 
+  ".M": "Adult; Creatinine/BL; Cyclosporins/AD/*PK; Double-Blind Method; Fluconazole/*TU; Human; Kidney Transplantation/*MT; Middle Age; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S..\r", 
+  ".A": [
+   "Canafax", 
+   "Graves", 
+   "Hilligoss", 
+   "Carleton", 
+   "Gardner", 
+   "Matas"
+  ], 
+  ".P": "CLINICAL TRIAL; JOURNAL ARTICLE; RANDOMIZED CONTROLLED TRIAL.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1041-2\r", 
+  ".T": "Increased cyclosporine levels as a result of simultaneous fluconazole and cyclosporine therapy in renal transplant recipients: a double-blind, randomized pharmacokinetic and safety study.\r", 
+  ".U": "91111465\r"
+ }, 
+ {
+  ".I": "295803", 
+  ".M": "Antibodies, Anti-Idiotypic/GE/*IM; B-Lymphocytes/IM; Blotting, Southern; Gene Rearrangement, B-Lymphocyte, Heavy Chain; Genes, Immunoglobulin; Graft Survival; Human; HLA Antigens/IM; Kidney Transplantation/*IM; Leukocyte Culture Test, Mixed; Lymphocyte Transformation.\r", 
+  ".A": [
+   "Singal", 
+   "Leber", 
+   "Harnish", 
+   "Frame", 
+   "Joseph", 
+   "Blajchman"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1059-61\r", 
+  ".T": "Molecular genetic basis for the antiidiotypic antibody response associated with successful renal allograft survival in humans.\r", 
+  ".U": "91111472\r"
+ }, 
+ {
+  ".I": "295804", 
+  ".M": "Antibodies, Monoclonal/*TU; Azathioprine/TU; Communicable Diseases/CO; Cyclosporins/TU; Drug Therapy, Combination; Graft Rejection; Graft Survival; Human; Immunosuppression/*MT; Kidney Transplantation/*MT; Prednisone/TU; Prospective Studies; Receptors, Interleukin-2/*IM; Support, U.S. Gov't, P.H.S.; Survival Analysis.\r", 
+  ".A": [
+   "Kirkman", 
+   "Shapiro", 
+   "Carpenter", 
+   "McKay", 
+   "Milford", 
+   "Ramos", 
+   "Tilney", 
+   "Waldmann", 
+   "Zimmerman", 
+   "Strom"
+  ], 
+  ".P": "CLINICAL TRIAL; JOURNAL ARTICLE; RANDOMIZED CONTROLLED TRIAL.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1066-7\r", 
+  ".T": "A randomized prospective trial of anti-Tac monoclonal antibody in human renal transplantation.\r", 
+  ".U": "91111474\r"
+ }, 
+ {
+  ".I": "295805", 
+  ".M": "Antibodies, Monoclonal/*IM; Antibody Affinity; Dose-Response Relationship, Immunologic; Human; In Vitro; Lymphocyte Transformation; Macromolecular Systems; Receptors, Interleukin-2/*IM; T-Lymphocytes/*IM.\r", 
+  ".A": [
+   "Jacques", 
+   "Audrain", 
+   "Boeffard", 
+   "Soulillou"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1068-9\r", 
+  ".T": "Concerted action of monoclonal antibodies directed at the P55 and P75 chains of the human interleukin-2 receptor.\r", 
+  ".U": "91111475\r"
+ }, 
+ {
+  ".I": "295806", 
+  ".M": "Adult; Antibodies, Monoclonal/*TU; Antigens, Differentiation, T-Lymphocyte/*IM; Communicable Diseases/CO; Graft Rejection; Human; Immunosuppression/*MT; Kidney Transplantation/*MT; Middle Age; Opportunistic Infections/CO; Receptors, Antigen, T-Cell/*IM; Support, Non-U.S. Gov't.\r", 
+  ".A": [
+   "Frenken", 
+   "Hoitsma", 
+   "Tax", 
+   "Koene"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1072-3\r", 
+  ".T": "Prophylactic use of anti-CD3 monoclonal antibody WT32 in kidney transplantation.\r", 
+  ".U": "91111477\r"
+ }, 
+ {
+  ".I": "295807", 
+  ".M": "Alprostadil/*AA/PD; Arachidonate 5-Lipoxygenase/*AI/PD; Cell Survival/DE; Cytotoxicity, Immunologic/DE; Human; Immunity, Cellular/DE; Immunosuppressive Agents/*; In Vitro; Interleukin-2/BI; Killer Cells, Natural/IM; Lymphocyte Transformation/DE; Receptors, Interleukin-2/ME; Support, Non-U.S. Gov't; T-Lymphocytes/*DE/IM; T-Lymphocytes, Cytotoxic/IM.\r", 
+  ".A": [
+   "Weir", 
+   "Li", 
+   "Gomolka", 
+   "Peppler", 
+   "O'Bryan-Tear", 
+   "Moran"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1074-7\r", 
+  ".T": "Immunosuppressive properties of enisoprost and a 5-lipoxygenase inhibitor (SC 45662).\r", 
+  ".U": "91111478\r"
+ }, 
+ {
+  ".I": "295808", 
+  ".M": "Adult; ABO Blood-Group System; Blood Group Incompatibility; Female; Graft Rejection; Guanidines/*TU; Histocompatibility; Human; HLA Antigens/IM; Immunosuppression/MT; Immunosuppressive Agents/*; Isoantibodies/IM; Kidney Transplantation/*MT/PH; Male; Middle Age; Support, Non-U.S. Gov't; T-Lymphocytes/IM.\r", 
+  ".A": [
+   "Takahashi", 
+   "Tanabe", 
+   "Ooba", 
+   "Yagisawa", 
+   "Nakazawa", 
+   "Teraoka", 
+   "Hayasaka", 
+   "Kawaguchi", 
+   "Ito", 
+   "Toma", 
+   "et"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1078-82\r", 
+  ".T": "Prophylactic use of a new immunosuppressive agent, deoxyspergualin, in patients with kidney transplantation from ABO-incompatible or preformed antibody-positive donors.\r", 
+  ".U": "91111479\r"
+ }, 
+ {
+  ".I": "295809", 
+  ".M": "Animal; Dose-Response Relationship, Drug; Graft Rejection/*DE; Graft Survival/DE; Immunosuppressive Agents/*; Isoxazoles/*PD; Kidney/PA/PH; Kidney Transplantation/*IM; Rats; Rats, Inbred Strains; Skin Transplantation/*IM; Time Factors.\r", 
+  ".A": [
+   "Kuchle", 
+   "Thoenes", 
+   "Langer", 
+   "Schorlemmer", 
+   "Bartlett", 
+   "Schleyerbach"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1083-6\r", 
+  ".T": "Prevention of kidney and skin graft rejection in rats by leflunomide, a new immunomodulating agent.\r", 
+  ".U": "91111480\r"
+ }, 
+ {
+  ".I": "295810", 
+  ".M": "Drug Therapy, Combination; Graft Rejection/*DE; Guanidines/*AD; Human; Immunosuppression/MT; Kidney Transplantation/*IM/PH; Methylprednisolone/*AD; Support, Non-U.S. Gov't; Time Factors.\r", 
+  ".A": [
+   "Amemiya", 
+   "Dohi", 
+   "Otsubo", 
+   "Endo", 
+   "Nagano", 
+   "Ishibashi", 
+   "Hirano", 
+   "Sato", 
+   "Kurita", 
+   "Fukao"
+  ], 
+  ".P": "CLINICAL TRIAL; JOURNAL ARTICLE; MULTICENTER STUDY.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1087-9\r", 
+  ".T": "Markedly enhanced therapeutic effect of deoxyspergualin on acute rejection when combined with methylprednisolone in kidney recipients.\r", 
+  ".U": "91111481\r"
+ }, 
+ {
+  ".I": "295811", 
+  ".M": "Antigens, Differentiation, T-Lymphocyte/IM; Cells, Cultured; Cyclosporins/*AD; Cytotoxicity, Immunologic/*DE; Drug Synergism; Human; Immunity, Cellular/DE; In Vitro; Leukocyte Culture Test, Mixed; Lymphocyte Transformation/*DE; Phytohemagglutinins/PD; Polyenes/AD; Receptors, Antigen, T-Cell/IM; Support, U.S. Gov't, P.H.S.; T-Lymphocytes/*DE/IM.\r", 
+  ".A": [
+   "Kahan", 
+   "Gibbons", 
+   "Tejpal", 
+   "Chou", 
+   "Stepkowski"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1090-1\r", 
+  ".T": "Synergistic effect of the rapamycin-cyclosporine combination: median effect analysis of in vitro immune performances by human T lymphocytes in PHA, CD3, and MLR proliferative and cytotoxicity assays.\r", 
+  ".U": "91111482\r"
+ }, 
+ {
+  ".I": "295812", 
+  ".M": "Antibodies, Monoclonal/*TU; Blood Vessels/IM; Endothelium, Vascular/IM; Graft Rejection/*; Graft Survival; Human; Immunosuppression/*MT; Isoantibodies/IM; Kidney Transplantation/IM/*MT/PA; Receptors, Antigen, T-Cell/*IM; Risk Factors; Survival Analysis.\r", 
+  ".A": [
+   "Hillebrand", 
+   "Dendorfer", 
+   "Feucht", 
+   "Brockmeyer", 
+   "Gokel", 
+   "Illner", 
+   "Abendroth", 
+   "Kasper", 
+   "Land"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1092-3\r", 
+  ".T": "Vascular rejection episodes reduce success in renal graft outcome after therapy with BMA 031.\r", 
+  ".U": "91111483\r"
+ }, 
+ {
+  ".I": "295813", 
+  ".M": "Adolescence; Adult; Child; Cyclosporins/AD; Drug Therapy, Combination; Graft Rejection/DE; Guanidines/AE/*TU; Human; Immunosuppression/MT; Immunosuppressive Agents/*; Kidney Transplantation/*MT/PA; Middle Age.\r", 
+  ".A": [
+   "Okazaki", 
+   "Sato", 
+   "Jimbo", 
+   "Senga", 
+   "Amada", 
+   "Oguma"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1094-5\r", 
+  ".T": "Prophylactic use of deoxyspergualin in living related renal transplantation.\r", 
+  ".U": "91111484\r"
+ }, 
+ {
+  ".I": "295814", 
+  ".M": "Adult; Azathioprine/AD; Cyclosporins/AD; Female; Graft Rejection; Graft Survival; Guanidines/*TU; Human; Immunosuppression/*MT; Immunosuppressive Agents/*AD; Kidney Transplantation/*MT; Male; Prednisone/AD.\r", 
+  ".A": [
+   "Koyama", 
+   "Amemiya", 
+   "Taguchi", 
+   "Watanabe", 
+   "Nagashima", 
+   "Suzuki", 
+   "Omoto"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1096-8\r", 
+  ".T": "Prophylactic use of deoxyspergualin in a quadruple immunosuppressive protocol in renal transplantation.\r", 
+  ".U": "91111485\r"
+ }, 
+ {
+  ".I": "295815", 
+  ".M": "Antibodies, Monoclonal/AE/*TU; Graft Rejection/*; Graft Survival; Human; Kidney Transplantation/*IM; Leukocyte Count; Opportunistic Infections/CO; Steroids/TU; T-Lymphocytes/IM.\r", 
+  ".A": [
+   "Pfeffer", 
+   "Jakobsen", 
+   "Albrechtsen", 
+   "Sodal", 
+   "Brekke", 
+   "Bentdal", 
+   "Leivestad", 
+   "Fauchald", 
+   "Flatmark"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1099-100\r", 
+  ".T": "BMA 031 effectively reverses steroid-resistant rejection in renal transplants.\r", 
+  ".U": "91111486\r"
+ }, 
+ {
+  ".I": "295816", 
+  ".M": "Age Factors; Cyclosporins/*AE; Diabetes Mellitus/CO; Female; Human; Immunosuppression/*AE/MT; Kidney Transplantation/*AE; Lymphoma/EP/ET; Male; Neoplasms/EP/*ET; Sex Factors; Skin Neoplasms/EP/ET; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S..\r", 
+  ".A": [
+   "Gruber", 
+   "Skjei", 
+   "Sothern", 
+   "Robison", 
+   "Tzardis", 
+   "Moss", 
+   "Gillingham", 
+   "Canafax", 
+   "Matas", 
+   "Dunn"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1104-5\r", 
+  ".T": "Cancer development in renal allograft recipients treated with conventional and cyclosporine immunosuppression.\r", 
+  ".U": "91111488\r"
+ }, 
+ {
+  ".I": "295817", 
+  ".M": "Age Factors; Azathioprine/*AE; Cadaver; Cyclosporins/*AE; Drug Therapy, Combination; Human; Immunosuppression/AE/MT; Kidney Transplantation/*AE/MT; Neoplasms/*ET; Risk Factors; Support, Non-U.S. Gov't.\r", 
+  ".A": [
+   "Sheil", 
+   "Disney", 
+   "Mathew", 
+   "Amiss", 
+   "Excell"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1111-2\r", 
+  ".T": "Cancer development in cadaveric donor renal allograft recipients treated with azathioprine (AZA) or cyclosporine (CyA) or AZA/CyA.\r", 
+  ".U": "91111491\r"
+ }, 
+ {
+  ".I": "295818", 
+  ".M": "Cyclosporins/PD/TU; Human; Immunosuppression/*MT; Isoantigens/IM; Kidney Transplantation/*IM/MT; Leukocyte Culture Test, Mixed; Lymphocyte Transformation/DE; Methylprednisolone/PD/TU; Prognosis.\r", 
+  ".A": [
+   "Pollak", 
+   "Dumble", 
+   "Lazda", 
+   "Maddux", 
+   "Stormoen", 
+   "Ward"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1113-4\r", 
+  ".T": "Utility of an in vitro immunoassay to guide immunosuppressive therapy.\r", 
+  ".U": "91111492\r"
+ }, 
+ {
+  ".I": "295819", 
+  ".M": "Biopsy, Needle; Graft Rejection; Human; Immunosuppression/*MT; Kidney Transplantation/IM/MT/*PA; Macrophages/PA.\r", 
+  ".A": [
+   "Egidi", 
+   "Stucchi", 
+   "Cantu", 
+   "Ponticelli"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1115-6\r", 
+  ".T": "Cellular infiltrates during different immunosuppressive regimens in renal transplantation.\r", 
+  ".U": "91111493\r"
+ }, 
+ {
+  ".I": "295820", 
+  ".M": "Adult; Animal; Antilymphocyte Serum/*IM; Graft Survival; Horses; Human; Immunosuppression/*MT; Kidney Transplantation/*MT; Rabbits; Species Specificity; Survival Analysis.\r", 
+  ".A": [
+   "Cole", 
+   "Harding", 
+   "Robinson", 
+   "Bear", 
+   "Cardella"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1120-1\r", 
+  ".T": "Comparison of equine and rabbit antilymphocyte preparations in renal transplantation.\r", 
+  ".U": "91111495\r"
+ }, 
+ {
+  ".I": "295821", 
+  ".M": "Antigens, CD/AN; Blood Glucose/ME; Cadaver; Cyclosporins/AD; Drug Therapy, Combination; Human; Immunosuppressive Agents/*; Kidney Transplantation/*IM; Leukocyte Count; Lipids/BL; Methylprednisolone/*TU; Pregnenediones/*TU; Prospective Studies; T-Lymphocyte Subsets/IM.\r", 
+  ".A": [
+   "Elli", 
+   "Rivolta", 
+   "Mascaretti", 
+   "Parenti", 
+   "Palazzi", 
+   "Quarto", 
+   "Zanussi"
+  ], 
+  ".P": "CLINICAL TRIAL; JOURNAL ARTICLE; RANDOMIZED CONTROLLED TRIAL.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1122-4\r", 
+  ".T": "Immunosuppressive activity of deflazacort vs methylprednisolone in renal transplantation: effects on lymphocyte subsets.\r", 
+  ".U": "91111496\r"
+ }, 
+ {
+  ".I": "295822", 
+  ".M": "Animal; Antibody Specificity; Antigens, CD/IM; Antilymphocyte Serum/IM/*ST; Graft Rejection; Human; Immunoglobulins/AN; Kidney Transplantation/IM; Lymphocytes/IM; Rabbits.\r", 
+  ".A": [
+   "Wakabayashi", 
+   "Cook", 
+   "Posner", 
+   "King", 
+   "Mendez-Picon", 
+   "Brown", 
+   "Lee"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1125-7\r", 
+  ".T": "Batch-to-batch variations in rabbit antithymocyte globulin preparations.\r", 
+  ".U": "91111497\r"
+ }, 
+ {
+  ".I": "295823", 
+  ".M": "Bronchiolitis Obliterans/*DI/IM; Bronchoalveolar Lavage Fluid/IM; Human; Immunity, Cellular; Lung Transplantation/*IM/PA; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S.; Tissue Donors.\r", 
+  ".A": [
+   "Zeevi", 
+   "Rabinowich", 
+   "Yousem", 
+   "Paradis", 
+   "Dauber", 
+   "Kormos", 
+   "Armitage", 
+   "Hardesty", 
+   "Griffith", 
+   "Duquesnoy"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1128-9\r", 
+  ".T": "Presence of donor-specific alloreactivity in histologically normal lung allografts is predictive of subsequent bronchiolitis obliterans.\r", 
+  ".U": "91111498\r"
+ }, 
+ {
+  ".I": "295824", 
+  ".M": "Adult; Antibody Formation; Blood Vessels/IM; Graft Rejection/*; Heart Transplantation/*IM/PA; Histocompatibility; Human; Immunity, Cellular; Middle Age; Survival Analysis.\r", 
+  ".A": [
+   "Ensley", 
+   "Hammond", 
+   "Renlund", 
+   "Yowell", 
+   "Bristow", 
+   "DeWitt", 
+   "Menlove", 
+   "Ratkovec", 
+   "O'Connell"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1130-2\r", 
+  ".T": "Clinical manifestations of vascular rejection in cardiac transplantation.\r", 
+  ".U": "91111499\r"
+ }, 
+ {
+  ".I": "295825", 
+  ".M": "Adult; Antibody Specificity; Cytotoxicity, Immunologic/*; Graft Rejection; Heart Transplantation/*IM; Human; HLA Antigens/IM; Isoantibodies/*IM; Lymphocytes/*IM; Prognosis; Tissue Donors.\r", 
+  ".A": [
+   "Smith", 
+   "Morgan", 
+   "Bravery", 
+   "Rose", 
+   "Sachs", 
+   "Yacoub"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1133-4\r", 
+  ".T": "Importance of donor-reactive cytotoxic antibodies following cardiac transplantation.\r", 
+  ".U": "91111500\r"
+ }, 
+ {
+  ".I": "295826", 
+  ".M": "Case Report; Female; Graft Rejection; Heart Transplantation/*IM; Human; HLA Antigens/IM; Isoantibodies/AN; Middle Age; Parity/*.\r", 
+  ".A": [
+   "Miller", 
+   "Phelan", 
+   "Noedel", 
+   "McBride", 
+   "Pennington"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1135-6\r", 
+  ".T": "Multiparous women: is routine antibody screening enough in cardiac transplantation?\r", 
+  ".U": "91111501\r"
+ }, 
+ {
+  ".I": "295827", 
+  ".M": "Atherosclerosis/CO; Graft Rejection; Heart Transplantation/*IM; Histocompatibility; Human; HLA Antigens/*IM; Myocardial Infarction/CO; Survival Analysis.\r", 
+  ".A": [
+   "Fieguth", 
+   "Wahlers", 
+   "Schafers", 
+   "Stangel", 
+   "Kemnitz", 
+   "Haverich"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1137-8\r", 
+  ".T": "Impact of HLA-compatibility on rejection sequence and survival rate after orthotopic heart transplantation.\r", 
+  ".U": "91111502\r"
+ }, 
+ {
+  ".I": "295828", 
+  ".M": "Analysis of Variance; Child; Child, Preschool; Communicable Diseases/CO; Graft Rejection; Graft Survival; Heart Transplantation/*IM; Human; HLA Antigens/*IM; Infant; Retrospective Studies; Survival Analysis.\r", 
+  ".A": [
+   "Alonso", 
+   "Gundry", 
+   "Nehlsen-Cannarella", 
+   "Fullerton", 
+   "Kawauchi", 
+   "Razzouk", 
+   "Vigesaa", 
+   "Kanakriyeh", 
+   "Boucek", 
+   "Bailey"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1139-41\r", 
+  ".T": "HLA matching and its effect on infant and pediatric cardiac graft survival. The Loma Linda Pediatric Cardiac Transplant Team.\r", 
+  ".U": "91111503\r"
+ }, 
+ {
+  ".I": "295829", 
+  ".M": "Cells, Cultured; Coronary Disease/CO/*IM; Endothelium, Vascular/IM; Heart Transplantation/*IM; Human; Immunity, Cellular; Lymphocytes/*IM; Risk Factors; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S..\r", 
+  ".A": [
+   "Kaufman", 
+   "Zeevi", 
+   "Zerbe", 
+   "Keenan", 
+   "Kormos", 
+   "Griffith", 
+   "Hardesty", 
+   "Armitage", 
+   "Uretsky", 
+   "Duquesnoy"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1142-3\r", 
+  ".T": "In vitro culture of infiltrating lymphocytes from coronary arteries and endomyocardial biopsies: association with graft coronary disease.\r", 
+  ".U": "91111504\r"
+ }, 
+ {
+  ".I": "295830", 
+  ".M": "Coronary Disease/CO/*IM; Cyclosporins/TU; Graft Rejection; Heart Transplantation/*IM; Histocompatibility; Human; HLA Antigens/*IM; Retrospective Studies.\r", 
+  ".A": [
+   "Radovancevic", 
+   "Birovljev", 
+   "Vega", 
+   "Lonquist", 
+   "Sweeney", 
+   "Vasiljevic", 
+   "Van", 
+   "Kerman", 
+   "Frazier"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1144-5\r", 
+  ".T": "Inverse relationship between human leukocyte antigen match and development of coronary artery disease.\r", 
+  ".U": "91111505\r"
+ }, 
+ {
+  ".I": "295831", 
+  ".M": "Biopsy; Cells, Cultured; Endocardium/IM; Graft Rejection; Heart Transplantation/*IM; Human; Immunosuppression/MT; Lymphocytes/*IM; Prognosis; Risk Factors; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S.; Time Factors.\r", 
+  ".A": [
+   "Carlquist", 
+   "Hammond", 
+   "O'Connell", 
+   "Anderson"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1146-8\r", 
+  ".T": "Increased risk of rejection associated with the growth of lymphocytes from human cardiac allografts.\r", 
+  ".U": "91111506\r"
+ }, 
+ {
+  ".I": "295832", 
+  ".M": "Cytotoxicity, Immunologic; Flow Cytometry/MT; Graft Rejection; Heart Transplantation/*MT; Histocompatibility; Human; HLA Antigens/IM; Isoantibodies/*AN; Lymphocytes/IM; Support, Non-U.S. Gov't.\r", 
+  ".A": [
+   "Shenton", 
+   "Glenville", 
+   "Mitcheson", 
+   "Coates", 
+   "Talbot", 
+   "Givan", 
+   "Kirk", 
+   "Dark"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1153-4\r", 
+  ".T": "Use of flow cytometric crossmatching in cardiac transplantation.\r", 
+  ".U": "91111508\r"
+ }, 
+ {
+  ".I": "295833", 
+  ".M": "Adult; Age Factors; Biopsy; Cytotoxicity, Immunologic; Graft Rejection/*; Heart Transplantation/*IM/MT; Histocompatibility/*; Human; HLA Antigens/IM; Immunity, Cellular; Immunosuppression/MT; Isoantibodies/AN; Middle Age; Regression Analysis; Risk Factors; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S..\r", 
+  ".A": [
+   "Zerbe", 
+   "Kormos", 
+   "Arena", 
+   "Griffith", 
+   "Hardesty", 
+   "Duquesnoy"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1155-6\r", 
+  ".T": "Histocompatibility and other rejection risk factors in cardiac transplantation.\r", 
+  ".U": "91111509\r"
+ }, 
+ {
+  ".I": "295834", 
+  ".M": "Bronchiolitis Obliterans/PP; Heart-Lung Transplantation/*PH; Human; Regression Analysis; Respiratory Function Tests; Support, U.S. Gov't, P.H.S.; Time Factors.\r", 
+  ".A": [
+   "Theodore", 
+   "Marshall", 
+   "Kramer", 
+   "Duncan", 
+   "Lewiston", 
+   "Starnes"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1165-6\r", 
+  ".T": "The \"natural history\" of the transplanted lung: rates of pulmonary functional change in long-term survivors of heart-lung transplantation.\r", 
+  ".U": "91111513\r", 
+  ".W": "Long-term pulmonary function in HLT is well preserved with no evidence of functional decline as a result of transplant \"aging,\" providing the allografts remain free of complications. Long-term survivors with OB appear to be able to maintain adequate oxygenation despite the marked alterations of pulmonary function. The ability to preserve gas exchange at reasonable levels of oxygenation may be the factors permitting extended survival with OB for mean periods of 36.0 months or greater. Preliminary studies suggest that a declining FEF50/FVC, at a time when pulmonary function is normal, may be an index of impending airway disease. Physiologically, from a long-term point of view, HLT remains a viable option for selected patients with end-stage cardiopulmonary disease.\r"
+ }, 
+ {
+  ".I": "295835", 
+  ".M": "Age Factors; Cyclosporins/TU; Female; Graft Rejection; Graft Survival; Heart Transplantation/*; Human; Immunosuppression/MT; Lipids/BL; Male; Risk Factors; Sex Factors; Survival Analysis.\r", 
+  ".A": [
+   "Sharples", 
+   "Caine", 
+   "Mullins", 
+   "Schofield", 
+   "Large", 
+   "Wallwork"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1167-9\r", 
+  ".T": "Analysis of survival data after transplantation and its risk factors for graft loss.\r", 
+  ".U": "91111514\r"
+ }, 
+ {
+  ".I": "295836", 
+  ".M": "Bone Marrow/CY; Cytomegalic Inclusion Disease/*PC; Ganciclovir/*TU; Heart Transplantation/*/MT/PH; Human; Immunosuppression/MT; Kidney/PH; Leukocyte Count; Opportunistic Infections/*PC; Risk Factors; T-Lymphocytes/CY.\r", 
+  ".A": [
+   "Laske", 
+   "Gallino", 
+   "Mohacsi", 
+   "Bauer", 
+   "Carrel", 
+   "von", 
+   "Turina"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1170-3\r", 
+  ".T": "Prophylactic treatment with ganciclovir for cytomegalovirus infection in heart transplantation.\r", 
+  ".U": "91111515\r"
+ }, 
+ {
+  ".I": "295837", 
+  ".M": "Adolescence; Adult; Cytomegalic Inclusion Disease/DI/*DT; Female; Ganciclovir/*TU; Heart-Lung Transplantation/*MT; Human; Lung Transplantation/*MT; Male; Middle Age; Opportunistic Infections/DI/*DT; Prognosis; Survival Analysis.\r", 
+  ".A": [
+   "Cerrina", 
+   "Bavoux", 
+   "Le", 
+   "Herve", 
+   "Lafont", 
+   "Simonneau", 
+   "Dartevelle"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1174-5\r", 
+  ".T": "Ganciclovir treatment of cytomegalovirus infection in heart-lung and double-lung transplant recipients.\r", 
+  ".U": "91111516\r"
+ }, 
+ {
+  ".I": "295838", 
+  ".M": "Bronchoalveolar Lavage Fluid/PA; Bronchoscopy; Graft Rejection; Heart-Lung Transplantation/PA/*PH; Human; Lung Diseases/*DI/PA; Organ Preservation.\r", 
+  ".A": [
+   "Burdine", 
+   "Hertz", 
+   "Snover", 
+   "Bolman"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1176-7\r", 
+  ".T": "Heart-lung and lung transplantation: perioperative pulmonary dysfunction.\r", 
+  ".U": "91111517\r"
+ }, 
+ {
+  ".I": "295839", 
+  ".M": "Cyclosporins/TU; Exertion/*; Heart/IR; Heart Transplantation/*PH; Hemodynamics; Hormones/BL; Human; Lactates/BL; Oxygen Consumption; Spirometry; Support, Non-U.S. Gov't; Time Factors.\r", 
+  ".A": [
+   "Mettauer", 
+   "Lampert", 
+   "Lonsdorfer", 
+   "Levy", 
+   "Geny", 
+   "Kretz", 
+   "Carpentier", 
+   "Haberey", 
+   "Eisenmann", 
+   "Kieny"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1178-81\r", 
+  ".T": "Cardiorespiratory and neurohormonal response to incremental maximal exercise in patients with denervated transplanted hearts.\r", 
+  ".U": "91111518\r"
+ }, 
+ {
+  ".I": "295840", 
+  ".M": "Adult; Calcitonin/TU; Calcium/AD; Estrogens/TU; Female; Heart Transplantation/*PA; Human; Male; Middle Age; Osteoporosis/*ET/PA; Testosterone/TU; Time Factors.\r", 
+  ".A": [
+   "Muchmore", 
+   "Cooper", 
+   "Ye", 
+   "Schlegel", 
+   "Zuhdi"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1184-5\r", 
+  ".T": "Loss of vertebral bone density in heart transplant patients.\r", 
+  ".U": "91111520\r"
+ }, 
+ {
+  ".I": "295841", 
+  ".M": "Age Factors; Heart Transplantation/*ST; Human; Italy; Regression Analysis; Support, Non-U.S. Gov't; Survival Analysis; Time Factors; Tissue Donors.\r", 
+  ".A": [
+   "Mascaretti", 
+   "Pappalettera", 
+   "Pizzi", 
+   "Bossi", 
+   "Scalamogna", 
+   "Sirchia"
+  ], 
+  ".P": "CLINICAL TRIAL; JOURNAL ARTICLE; MULTICENTER STUDY.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1186-8\r", 
+  ".T": "Four years of heart transplantation in the North Italy Transplant program (NITp).\r", 
+  ".U": "91111521\r"
+ }, 
+ {
+  ".I": "295842", 
+  ".M": "Coronary Disease/*RI; Echocardiography; Exercise Test; Heart Transplantation/*PA; Human; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S.; Thallium Radioisotopes.\r", 
+  ".A": [
+   "Smart", 
+   "Grinstead", 
+   "Cocanougher", 
+   "Ballantyne", 
+   "Farmer", 
+   "Kleiman", 
+   "Young"
+  ], 
+  ".P": "CLINICAL TRIAL; JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1189-92\r", 
+  ".T": "Detection of transplant arteriopathy: does exercise thallium scintigraphy improve noninvasive diagnostic capabilities?\r", 
+  ".U": "91111522\r"
+ }, 
+ {
+  ".I": "295843", 
+  ".M": "Adolescence; Blotting, Western; Case Report; Coronary Disease/IM; Female; Graft Rejection; Heart Transplantation/*IM; Human; IgM/IM; Isoantibodies/*AN; Molecular Weight; Muscle Proteins/IM; Support, Non-U.S. Gov't; Time Factors.\r", 
+  ".A": [
+   "Dunn", 
+   "Rose", 
+   "Latif", 
+   "Bradd", 
+   "Seymour", 
+   "Yacoub"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1198-200\r", 
+  ".T": "Use of western blotting to detect anti-heart antibodies before and after cardiac transplantation.\r", 
+  ".U": "91111524\r"
+ }, 
+ {
+  ".I": "295844", 
+  ".M": "Bronchiolitis Obliterans/DI/*PA; Bronchoscopy; Graft Rejection; Heart-Lung Transplantation/*IM; Human; Multivariate Analysis; Prognosis; Risk Factors; Time Factors.\r", 
+  ".A": [
+   "Scott", 
+   "Sharples", 
+   "Mullins", 
+   "Aravot", 
+   "Stewart", 
+   "Otulana", 
+   "Higenbottam", 
+   "Wallwork"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1201-2\r", 
+  ".T": "Further studies on the natural history of obliterative bronchiolitis following heart-lung transplantation.\r", 
+  ".U": "91111525\r"
+ }, 
+ {
+  ".I": "295845", 
+  ".M": "Cystic Fibrosis/*SU; Heart-Lung Transplantation/*; Human; Quality of Life; Survival Analysis.\r", 
+  ".A": [
+   "Caine", 
+   "Sharples", 
+   "Smyth", 
+   "Scott", 
+   "Hathaway", 
+   "Higenbottam", 
+   "Wallwork"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1203-4\r", 
+  ".T": "Survival and quality of life of cystic fibrosis patients before and after heart-lung transplantation.\r", 
+  ".U": "91111526\r"
+ }, 
+ {
+  ".I": "295846", 
+  ".M": "Cystic Fibrosis/*SU; Heart-Lung Transplantation/*; Human; Survival Analysis.\r", 
+  ".A": [
+   "Frist", 
+   "Fox", 
+   "Campbell", 
+   "Fiel", 
+   "Loyd", 
+   "Merrill"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1205-6\r", 
+  ".T": "Cystic fibrosis treated with heart-lung transplantation: North American results.\r", 
+  ".U": "91111527\r"
+ }, 
+ {
+  ".I": "295847", 
+  ".M": "Case Report; Human; Hypertension, Pulmonary/*SU; Lung Transplantation/*; Middle Age; Support, U.S. Gov't, P.H.S..\r", 
+  ".A": [
+   "Starnes", 
+   "Stinson", 
+   "Oyer", 
+   "Theodore", 
+   "Kramer", 
+   "Marshall", 
+   "Shumway"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1209-10\r", 
+  ".T": "Single lung transplantation: a new therapeutic option for patients with pulmonary hypertension.\r", 
+  ".U": "91111529\r"
+ }, 
+ {
+  ".I": "295848", 
+  ".M": "Female; Hemodynamics; Human; Lung/BS; Lung Diseases/*SU; Lung Transplantation/*/PH; Respiratory Function Tests; Support, Non-U.S. Gov't.\r", 
+  ".A": [
+   "Maurer", 
+   "Winton", 
+   "Patterson", 
+   "Williams"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1211-2\r", 
+  ".T": "Single-lung transplantation for pulmonary vascular disease.\r", 
+  ".U": "91111530\r", 
+  ".W": "Six patients with end-stage pulmonary vascular disease received right SLTs. Though patients generally had difficult early postoperative courses, four of the six have survived from 3 to 23 months and have achieved good recovery of right ventricular function and good functional results. SLT is a viable option in selected patients with severe pulmonary hypertension even when right ventricular function is severely impaired.\r"
+ }, 
+ {
+  ".I": "295849", 
+  ".M": "Graft Rejection; Human; Immunosuppression/MT; Lung/PH; Lung Diseases, Obstructive/*SU; Lung Transplantation/*MT/PH; Opportunistic Infections/CO; Survival Analysis; Tissue Donors.\r", 
+  ".A": [
+   "Yacoub", 
+   "Khaghani", 
+   "Theodoropoulos", 
+   "Tadjkarimi", 
+   "Banner"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1213-4\r", 
+  ".T": "Single-lung transplantation for obstructive airway disease.\r", 
+  ".U": "91111531\r"
+ }, 
+ {
+  ".I": "295850", 
+  ".M": "Adult; Female; Graft Rejection; Hemodynamics; Human; Hypertension, Pulmonary/*SU; Lung Transplantation/*/PH; Male; Middle Age; Pulmonary Circulation; Pulmonary Fibrosis/*SU; Respiration; Respiratory Function Tests; Support, U.S. Gov't, P.H.S..\r", 
+  ".A": [
+   "Kramer", 
+   "Marshall", 
+   "McDougall", 
+   "Kloneck", 
+   "Starnes", 
+   "Lewiston", 
+   "Theodore"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1215-6\r", 
+  ".T": "The distribution of ventilation and perfusion after single-lung transplantation in patients with pulmonary fibrosis and pulmonary hypertension.\r", 
+  ".U": "91111532\r"
+ }, 
+ {
+  ".I": "295851", 
+  ".M": "Bronchoalveolar Lavage Fluid/PA; Bronchoscopy; Graft Rejection; Human; Lung Diseases/DI; Lung Transplantation/*PH; Prospective Studies; Respiratory Function Tests; Support, U.S. Gov't, P.H.S..\r", 
+  ".A": [
+   "Marshall", 
+   "Lewiston", 
+   "Kramer", 
+   "Sibley", 
+   "Berry", 
+   "Rich", 
+   "Theodore", 
+   "Starnes"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1217-9\r", 
+  ".T": "Prospective analysis of serial pulmonary function studies and transbronchial biopsies in single-lung transplant recipients.\r", 
+  ".U": "91111533\r"
+ }, 
+ {
+  ".I": "295852", 
+  ".M": "Bronchi/UL; Cilia/UL; Epithelium/PH/UL; Heart-Lung Transplantation/PH; Human; Lung Transplantation/*PH; Microscopy, Electron; Mucociliary Clearance/*.\r", 
+  ".A": [
+   "Shankar", 
+   "Fulsham", 
+   "Read", 
+   "Theodoropoulos", 
+   "Cole", 
+   "Madden", 
+   "Yacoub"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1222-3\r", 
+  ".T": "Mucociliary function after lung transplantation.\r", 
+  ".U": "91111535\r"
+ }, 
+ {
+  ".I": "295853", 
+  ".M": "Bronchiolitis Obliterans/CO; Graft Rejection; Human; Lung Transplantation/*AE/PH; Opportunistic Infections/CO; Retrospective Studies; Time Factors.\r", 
+  ".A": [
+   "Maurer", 
+   "Morrison", 
+   "Winton", 
+   "Patterson"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1224-5\r", 
+  ".T": "Late pulmonary complications of isolated lung transplantation.\r", 
+  ".U": "91111536\r"
+ }, 
+ {
+  ".I": "295854", 
+  ".M": "Adult; Case Report; Eisenmenger Complex/PA/*SU; Female; Heart/*PP; Hemodynamics; Human; Hypertension, Pulmonary/PA/*SU; Lung Transplantation/*PA; Male; Myocardium/PA; Support, U.S. Gov't, P.H.S..\r", 
+  ".A": [
+   "Yeoh", 
+   "Kramer", 
+   "Marshall", 
+   "Theodore", 
+   "Gibbons", 
+   "Valantine", 
+   "Starnes"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1226-7\r", 
+  ".T": "Changes in cardiac morphology and function following single-lung transplantation.\r", 
+  ".U": "91111537\r"
+ }, 
+ {
+  ".I": "295855", 
+  ".M": "Age Factors; Autopsy; Coronary Arteriosclerosis/*ET/PA; Heart-Lung Transplantation/*AE/PA; Human; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S..\r", 
+  ".A": [
+   "Pucci", 
+   "Forbes", 
+   "Berry", 
+   "Rowan", 
+   "Billingham"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1228-9\r", 
+  ".T": "Accelerated posttransplant coronary arteriosclerosis in combined heart-lung transplantation.\r", 
+  ".U": "91111538\r"
+ }, 
+ {
+  ".I": "295856", 
+  ".M": "Autopsy; Coronary Arteriosclerosis/IM/*PA; Endothelium, Vascular/PA; Graft Rejection; Heart Transplantation/*IM/*PA; Human; Immunoenzyme Techniques; Macrophages/IM; T-Lymphocytes/IM.\r", 
+  ".A": [
+   "Hruban", 
+   "Beschorner", 
+   "Baumgartner", 
+   "Augustine", 
+   "Reitz", 
+   "Hutchins"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1230-2\r", 
+  ".T": "Accelerated arteriosclerosis in heart transplant recipients: an immunopathology study of 22 transplanted hearts.\r", 
+  ".U": "91111539\r"
+ }, 
+ {
+  ".I": "295857", 
+  ".M": "Heart Transplantation/MT; Heart-Lung Transplantation/*MT; Human; Lung Transplantation/MT; Organ Preservation/MT; Tissue Donors.\r", 
+  ".A": [
+   "Shumway", 
+   "Burdine", 
+   "Bolman"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1236-8\r", 
+  ".T": "Combined harvest of heart and lungs: techniques and results.\r", 
+  ".U": "91111541\r"
+ }, 
+ {
+  ".I": "295858", 
+  ".M": "Azathioprine/TU; Creatinine/BL; Cyclosporins/*TU; Drug Therapy, Combination; Family; Graft Survival; Histocompatibility; Human; HLA Antigens/*IM; Immunosuppression/*MT; Kidney Transplantation/*MT; Prednisone/TU; Retrospective Studies; Survival Analysis; Time Factors.\r", 
+  ".A": [
+   "Sumrani", 
+   "Delaney", 
+   "Ding", 
+   "Davis", 
+   "Butt", 
+   "Hong"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1239-40\r", 
+  ".T": "Is cyclosporine indicated in HLA-identical renal transplant recipients?\r", 
+  ".U": "91111542\r"
+ }, 
+ {
+  ".I": "295859", 
+  ".M": "Biphenyl Compounds/*TU; Cyclosporins/*AE; Double-Blind Method; Heptanoic Acids/*TU; Human; Immunosuppression/MT; Kidney Function Tests; Kidney Transplantation/*MT; Prostaglandins/BL; Receptors, Prostaglandin/*DE.\r", 
+  ".A": [
+   "Mobb", 
+   "Whiting", 
+   "Feehally", 
+   "Veitch", 
+   "Bell"
+  ], 
+  ".P": "CLINICAL TRIAL; JOURNAL ARTICLE; RANDOMIZED CONTROLLED TRIAL.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1241-3\r", 
+  ".T": "The effect of the thromboxane receptor antagonist GR32191B on cyclosporine-induced nephrotoxicity.\r", 
+  ".U": "91111543\r"
+ }, 
+ {
+  ".I": "295860", 
+  ".M": "Age Factors; Cadaver; Cyclosporins/*TU; Graft Rejection; Graft Survival; Histocompatibility; Human; HLA Antigens/IM; Immunosuppression/MT; Kidney Transplantation/*MT; Time Factors; Tissue Donors.\r", 
+  ".A": [
+   "Land", 
+   "Schneeberger", 
+   "Schleibner", 
+   "Illner", 
+   "Abendroth", 
+   "Hillebrand", 
+   "Gokel", 
+   "Albert", 
+   "Fornara"
+  ], 
+  ".P": "CLINICAL TRIAL; JOURNAL ARTICLE; MULTICENTER STUDY.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1244-6\r", 
+  ".T": "Long-term results in cadaveric renal transplantation under cyclosporine therapy.\r", 
+  ".U": "91111544\r"
+ }, 
+ {
+  ".I": "295861", 
+  ".M": "Cyclosporins/AD/*AE; Diabetes Mellitus/*ET; Graft Rejection; Graft Survival; Human; HLA Antigens/AN; Kidney Transplantation/*AE; Prednisone/TU; Survival Analysis.\r", 
+  ".A": [
+   "Sumrani", 
+   "Delaney", 
+   "Ding", 
+   "Davis", 
+   "Daskalakis", 
+   "Friedman", 
+   "Butt", 
+   "Hong"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1249-50\r", 
+  ".T": "Posttransplant diabetes mellitus in cyclosporine-treated renal transplant recipients.\r", 
+  ".U": "91111546\r"
+ }, 
+ {
+  ".I": "295862", 
+  ".M": "Cyclosporins/*TU; Hepatitis B/*CO/PA/PP; Hepatitis B Surface Antigens/*AN; Human; Kidney Transplantation/*/PA/PH; Liver Function Tests; Prognosis; Time Factors.\r", 
+  ".A": [
+   "Stempel", 
+   "Lake", 
+   "Ferrell", 
+   "Tomlanovich", 
+   "Amend", 
+   "Salvatierra", 
+   "Vincenti"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1251-2\r", 
+  ".T": "Effect of cyclosporine on the clinical course of HBsAg-positive renal transplant patients.\r", 
+  ".U": "91111547\r"
+ }, 
+ {
+  ".I": "295863", 
+  ".M": "Adult; Animal; Antigens, CD/AN; Antilymphocyte Serum/*ST; Cadaver; Comparative Study; Female; Graft Rejection; Graft Survival; Human; Immunosuppression/*MT; Kidney Transplantation/IM/*MT; Male; Opportunistic Infections/CO; Rabbits; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S.; Survival Analysis; T-Lymphocyte Subsets/IM.\r", 
+  ".A": [
+   "Fisher", 
+   "Tchervenkov", 
+   "Schroeder", 
+   "Alexander", 
+   "Munda", 
+   "Penn", 
+   "Carey", 
+   "First"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1253-5\r", 
+  ".T": "Efficacy of induction therapy in cadaveric renal transplantation comparing rabbit antithymocyte serum and Minnesota antilymphoblast globulin.\r", 
+  ".U": "91111548\r", 
+  ".W": "From August 1986 to July 1989, 98 patients receiving primary cadaveric kidney transplants received either RATS (n = 50) or MALG (n = 48) during the induction phase of a quadruple immunosuppressive protocol. Patient groups were well matched. The duration of RATS and MALG treatment and the time of CyA induction were equivalent. Serum creatinine and rejection episodes up to 1 year were not statistically different. Hematologic side effects resulted in dose reduction of MALG in 42% of patients without adverse rejection results. In the RATS group, no dosage reductions were required. One-year patient survivals (96% to 100%), and 1-year graft survival (82% to 85%) were not significantly different in the 2 groups. Infectious complications were 30% higher in the MALG group and a significant factor in 2 deaths. Monitoring of lymphocyte subsets revealed insignificant differences in the percent of decrease of each cell population between MALG and RATS groups during induction.\r"
+ }, 
+ {
+  ".I": "295864", 
+  ".M": "Adult; Case Report; Cyclosporins/*AE; Female; Hemolytic-Uremic Syndrome/*TH; Human; Immunosuppression/MT; Kidney Transplantation/*; Male; Middle Age; Plasma Exchange/*MT; Thrombocytopenia/TH.\r", 
+  ".A": [
+   "Venkat", 
+   "Tkach", 
+   "Kupin", 
+   "Mozes", 
+   "Oh", 
+   "Raman", 
+   "Visscher", 
+   "Lee"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1256-7\r", 
+  ".T": "Reversal of cyclosporine-associated hemolytic-uremic syndrome by plasma exchange with fresh-frozen plasma replacement in renal transplant recipients.\r", 
+  ".U": "91111549\r"
+ }, 
+ {
+  ".I": "295865", 
+  ".M": "Blood Pressure; Calcium Channel Blockers/*TU; Creatinine/BL; Cyclosporins/AE/PK/*TU; Human; Immunosuppression/MT; Organ Transplantation/*MT/PH; Retrospective Studies.\r", 
+  ".A": [
+   "Dy", 
+   "Raja", 
+   "Mendez"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1258-9\r", 
+  ".T": "The clinical and biochemical effect of calcium channel blockers in organ transplant recipients on cyclosporine.\r", 
+  ".U": "91111550\r"
+ }, 
+ {
+  ".I": "295866", 
+  ".M": "Creatinine/BL; Cyclosporins/*AE; Graft Rejection; Human; Immunosuppression/MT; Kidney/IR/PH; Kidney Diseases/*CI; Kidney Function Tests; Kidney Transplantation/*; Retrospective Studies; Time Factors.\r", 
+  ".A": [
+   "Ben-Maimon", 
+   "Burke", 
+   "Besarab", 
+   "Jarrell", 
+   "Francos", 
+   "Moyer"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1260-2\r", 
+  ".T": "Evidence against chronic progressive cyclosporine nephrotoxicity.\r", 
+  ".U": "91111551\r"
+ }, 
+ {
+  ".I": "295867", 
+  ".M": "Blood Transfusion; Cadaver; Graft Rejection/*; Histocompatibility; Human; HLA-DR Antigens/IM; Immunosuppression/MT; Kidney Transplantation/*IM; Prognosis; Registries; Support, U.S. Gov't, P.H.S.; Time Factors.\r", 
+  ".A": [
+   "Cecka"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1263-4\r", 
+  ".T": "Early rejection: determining the fate of renal transplants.\r", 
+  ".U": "91111552\r"
+ }, 
+ {
+  ".I": "295868", 
+  ".M": "Cadaver; Cyclosporins/*TU; Graft Survival; Human; Immunosuppression/MT; Kidney Transplantation/*; Time Factors.\r", 
+  ".A": [
+   "Vanrenterghem", 
+   "Waer", 
+   "Christiaens", 
+   "Roels", 
+   "Gruwez", 
+   "Michielsen"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1265-6\r", 
+  ".T": "Long-term results after cadaver kidney transplantation have also improved over the last two decades. The Leuven Collaborative Group for Transplantation.\r", 
+  ".U": "91111553\r"
+ }, 
+ {
+  ".I": "295869", 
+  ".M": "Antibodies, Monoclonal; Antigens, Differentiation/AN; Biopsy, Needle; Creatinine/BL; Graft Rejection; Histocompatibility Antigens/AN; Human; Immunologic Memory; Immunosuppression/MT; Kidney/PH; Kidney Transplantation/*PA/PH; Macrophages/IM; Prognosis; Prospective Studies; Proteinuria; Regression Analysis; Support, Non-U.S. Gov't; Time Factors.\r", 
+  ".A": [
+   "Seron", 
+   "Diaz-Gallo", 
+   "Grino", 
+   "Castelao", 
+   "Carrera", 
+   "Bover", 
+   "Alsina"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1267-9\r", 
+  ".T": "Characterization of interstitial infiltrate in early renal allograft biopsies in patients with stable renal function.\r", 
+  ".U": "91111554\r"
+ }, 
+ {
+  ".I": "295870", 
+  ".M": "Adult; Diabetes Mellitus, Insulin-Dependent/*PA; Human; Kidney Glomerulus/*PA; Kidney Transplantation/*PA; Middle Age; Risk Factors; Time Factors.\r", 
+  ".A": [
+   "Osterby", 
+   "Nyberg", 
+   "Persson", 
+   "Hedman"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1270\r", 
+  ".T": "Early glomerulopathy in kidneys transplanted into diabetic patients.\r", 
+  ".U": "91111555\r"
+ }, 
+ {
+  ".I": "295871", 
+  ".M": "Chronic Disease; Creatinine/BL; Glomerular Filtration Rate; Graft Rejection/*; Human; Kidney Transplantation/*/IM; Time Factors.\r", 
+  ".A": [
+   "Kasiske", 
+   "Heim-Duthoy", 
+   "Rao"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1271\r", 
+  ".T": "The clinical course of chronic declines in renal allograft function.\r", 
+  ".U": "91111556\r"
+ }, 
+ {
+  ".I": "295872", 
+  ".M": "Animal; Antigen-Presenting Cells/DE/IM; Cyclosporins/PD; Graft Rejection/*; Helper Cells/DE/IM; Human; Immunologic Memory/DE; In Vitro; Kidney Transplantation/*IM; Leukocyte Culture Test, Mixed/*MT; Mice; Tetanus Toxoid/IM.\r", 
+  ".A": [
+   "Muluk", 
+   "Clerici", 
+   "Via", 
+   "Wier", 
+   "Kimmel", 
+   "Shearer"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1274-6\r", 
+  ".T": "A new approach for analysis of the mixed lymphocyte reaction that is predictive for human renal allograft rejection.\r", 
+  ".U": "91111558\r"
+ }, 
+ {
+  ".I": "295873", 
+  ".M": "Antibodies, Anti-Idiotypic/*IM; Graft Survival; Human; Immunoglobulins, Fab/*IM; Kidney Transplantation/*IM; Support, U.S. Gov't, P.H.S..\r", 
+  ".A": [
+   "Feduska", 
+   "Chia", 
+   "Terasaki", 
+   "Sugich"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1277-8\r", 
+  ".T": "Effect of anti-Fab antibodies on renal allografts.\r", 
+  ".U": "91111559\r"
+ }, 
+ {
+  ".I": "295874", 
+  ".M": "Creatinine/BL; Cyclosporins/AE; Double-Blind Method; Graft Rejection/*; Human; Kidney Transplantation/*PH; Prospective Studies; Receptors, Interleukin-2/*BL.\r", 
+  ".A": [
+   "Senitzer", 
+   "Greenstein", 
+   "Louis", 
+   "Mallis", 
+   "Syrylo", 
+   "Glicklich", 
+   "Schechner", 
+   "Tellis"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1279-81\r", 
+  ".T": "Monitoring serum IL-2R levels in cadaver renal transplantation: a prospective, blinded study.\r", 
+  ".U": "91111560\r"
+ }, 
+ {
+  ".I": "295875", 
+  ".M": "Cadaver; Cyclosporins/TU; Graft Survival/*; Histocompatibility; Human; HLA-DR Antigens/IM; Immunosuppression/MT; Kidney Transplantation/*IM; Registries; Risk Factors; Time Factors.\r", 
+  ".A": [
+   "Pirsch", 
+   "Voss", 
+   "Roecker", 
+   "Lorentzen", 
+   "Knechtle", 
+   "Reed", 
+   "D'Alessandro", 
+   "Sollinger", 
+   "Kalayoglu", 
+   "Belzer"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1282-3\r", 
+  ".T": "Predictive factors for immunologic graft failure in cadaver renal transplant recipients.\r", 
+  ".U": "91111561\r"
+ }, 
+ {
+  ".I": "295876", 
+  ".M": "Cadaver; Histocompatibility; Histocompatibility Antigens Class I/*IM; Human; HLA-DR Antigens/*IM; Racial Stocks; Registries; Support, U.S. Gov't, P.H.S.; Transplantation Immunology/*.\r", 
+  ".A": [
+   "Cicciarelli", 
+   "Terasaki"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1284-8\r", 
+  ".T": "Matching cadaver transplants achieve graft survivals comparable to living related transplants.\r", 
+  ".U": "91111562\r"
+ }, 
+ {
+  ".I": "295877", 
+  ".M": "Graft Rejection; Human; Kidney Transplantation/*PH; Prospective Studies; Support, Non-U.S. Gov't; Tumor Necrosis Factor/*ME/UR.\r", 
+  ".A": [
+   "McLaughlin", 
+   "Aikawa", 
+   "Davies", 
+   "Bakran", 
+   "Sells", 
+   "Johnson"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1289-90\r", 
+  ".T": "Tumour necrosis factor in renal transplantation.\r", 
+  ".U": "91111563\r"
+ }, 
+ {
+  ".I": "295878", 
+  ".M": "Creatinine/BL; Family; Fathers; Graft Survival; Haplotypes; Human; Immune Tolerance/*; Kidney Transplantation/*IM; Mothers; Support, Non-U.S. Gov't; Survival Analysis.\r", 
+  ".A": [
+   "Panajotopoulos", 
+   "Ianhez", 
+   "Neumann", 
+   "Guilherme", 
+   "Marin", 
+   "Rosales", 
+   "Sabbaga", 
+   "Kalil"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1291-2\r", 
+  ".T": "Immunologic tolerance in human transplantation: does a maternal effect exist?\r", 
+  ".U": "91111564\r"
+ }, 
+ {
+  ".I": "295879", 
+  ".M": "Antibodies, Monoclonal; Antigens, CD/AN; Antigens, Differentiation, Myelomonocytic/AN; Biopsy, Needle; Graft Rejection; Human; Kidney Transplantation/*IM; Macrophages/*IM; Monocytes/*IM; Support, Non-U.S. Gov't.\r", 
+  ".A": [
+   "Bogman", 
+   "Dooper", 
+   "Hoitsma", 
+   "de", 
+   "Tax", 
+   "Assmann", 
+   "Koene"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1293-4\r", 
+  ".T": "Diagnostic value of monocyte/macrophage (WT14) staining in renal allograft biopsies.\r", 
+  ".U": "91111565\r"
+ }, 
+ {
+  ".I": "295880", 
+  ".M": "Graft Rejection; Human; Interleukin-2/*BL; Kidney Transplantation/*PH; Prognosis; Prospective Studies.\r", 
+  ".A": [
+   "Young-Fadok", 
+   "Simpson", 
+   "Madras", 
+   "Dempsey", 
+   "O'Connor", 
+   "Monaco"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1295-6\r", 
+  ".T": "Predictive value of pretransplant IL-2 levels in kidney transplantation.\r", 
+  ".U": "91111566\r"
+ }, 
+ {
+  ".I": "295881", 
+  ".M": "Flow Cytometry; Graft Rejection; Human; IgG/AN; Immunosuppression/MT; Isoantibodies/*AN; Kidney Transplantation/*IM; Prognosis; Retrospective Studies; T-Lymphocytes, Cytotoxic/IM; Tissue Donors.\r", 
+  ".A": [
+   "Cinti", 
+   "Bachetoni", 
+   "Trovati", 
+   "Berloco", 
+   "Pretagostini", 
+   "Poli", 
+   "Renna", 
+   "Cortesini"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1297-9\r", 
+  ".T": "Clinical relevance of donor-specific IgG determination by FACS analysis in renal transplantation.\r", 
+  ".U": "91111567\r"
+ }, 
+ {
+  ".I": "295882", 
+  ".M": "Adult; Aged/*; Biopsy; Cadaver; Cold; Graft Rejection; Human; Ischemia; Kidney/BS; Kidney Transplantation/*MT; Middle Age; Organ Preservation/*MT; Survival Analysis; Tissue Donors.\r", 
+  ".A": [
+   "Preuschof", 
+   "Lobo", 
+   "Offermann"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1300-1\r", 
+  ".T": "Role of cold ischemia time and vascular rejection in renal grafts from elderly donors.\r", 
+  ".U": "91111568\r"
+ }, 
+ {
+  ".I": "295883", 
+  ".M": "Human; Hydrogen-Ion Concentration; Kidney Transplantation/*MT; Organ Preservation/*; Potassium/AN; Sodium/AN.\r", 
+  ".A": [
+   "Fenzlein", 
+   "Abendroth", 
+   "Schilling", 
+   "Schaidt", 
+   "Land"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1302-3\r", 
+  ".T": "Biochemical multisensor element for estimation of organ viability.\r", 
+  ".U": "91111569\r"
+ }, 
+ {
+  ".I": "295884", 
+  ".M": "Costs and Cost Analysis; Hemodialysis; Human; Kidney/PH; Kidney Transplantation/*EC; Medicare; Retrospective Studies; Support, U.S. Gov't, P.H.S.; Time Factors; United States.\r", 
+  ".A": [
+   "Almond", 
+   "Troppmann", 
+   "Escobar", 
+   "Frey", 
+   "Matas"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1304\r", 
+  ".T": "Economic impact of delayed graft function.\r", 
+  ".U": "91111570\r"
+ }, 
+ {
+  ".I": "295885", 
+  ".M": "Cadaver; Graft Survival; Human; Hypertonic Solutions/*; Kidney Transplantation/*MT; Organ Preservation/*MT; Solutions/*.\r", 
+  ".A": [
+   "Collins", 
+   "Bry", 
+   "Warren", 
+   "Mollenkopf", 
+   "Feduska"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1305-6\r", 
+  ".T": "Clinical comparison of UW with Collins' solution for cadaveric kidney preservation.\r", 
+  ".U": "91111571\r"
+ }, 
+ {
+  ".I": "295886", 
+  ".M": "Bone Marrow/CY; Calcitriol/PD; Calcium/*ME; Cytoplasm/ME; Diltiazem/PD; Dose-Response Relationship, Drug; Erythroid Progenitor Cells/CY; Erythropoiesis/*/DE; Erythropoietin/*PD; Human; In Vitro; Kidney Transplantation/PA/*PH; Polycythemia/PA/*PP.\r", 
+  ".A": [
+   "Carozzi", 
+   "Grazia", 
+   "Salit", 
+   "Cantaluppi", 
+   "Nocera", 
+   "Valente"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1309-11\r", 
+  ".T": "Ca(++)-induced modulation of erythropoiesis in polycythemic transplanted patients.\r", 
+  ".U": "91111573\r"
+ }, 
+ {
+  ".I": "295887", 
+  ".M": "Graft Survival; Handicapped; Hemodialysis; Hospitals; Human; Kidney Failure, Chronic/*TH; Kidney Transplantation/*EC; Prospective Studies; Quality of Life; Support, U.S. Gov't, Non-P.H.S..\r", 
+  ".A": [
+   "Manninen", 
+   "Evans", 
+   "Dugan", 
+   "Rader"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1312-4\r", 
+  ".T": "The costs and outcome of kidney transplant graft failure.\r", 
+  ".U": "91111574\r"
+ }, 
+ {
+  ".I": "295888", 
+  ".M": "Databases, Bibliographic; Graft Survival; Human; Kidney Transplantation/*; Odds Ratio; Physician's Practice Patterns; Risk Factors; Support, Non-U.S. Gov't; Support, U.S. Gov't, Non-P.H.S.; Survival Analysis; United States.\r", 
+  ".A": [
+   "Evans", 
+   "Manninen", 
+   "Dong"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1315-7\r", 
+  ".T": "The center effect in kidney transplantation.\r", 
+  ".U": "91111575\r"
+ }, 
+ {
+  ".I": "295889", 
+  ".M": "Female; Graft Survival; Histocompatibility; Human; HLA Antigens/IM; Isoantibodies/IM; Kidney Failure, Chronic/*SU; Kidney Transplantation/*IM; Male; Organ Preservation/MT; Registries; Sex Factors; Support, U.S. Gov't, P.H.S.; Time Factors; Tissue Donors.\r", 
+  ".A": [
+   "Takemoto", 
+   "Carnahan", 
+   "Terasaki"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1318-20\r", 
+  ".T": "A report of 504 six antigen-matched transplants.\r", 
+  ".U": "91111576\r"
+ }, 
+ {
+  ".I": "295890", 
+  ".M": "Age Factors; Azathioprine/TU; Blood Group Incompatibility; Blood Transfusion/*; Female; Graft Rejection; Graft Survival; Haplotypes; Histocompatibility; Human; HLA-DR Antigens/IM; Immunosuppression/*MT; Kidney Transplantation/*MT; Multivariate Analysis; Parity; Retrospective Studies; Sex Factors; Tissue Donors.\r", 
+  ".A": [
+   "Reed", 
+   "Pirsch", 
+   "Armbrust", 
+   "Burlingham", 
+   "Knechtle", 
+   "D'Alessandro", 
+   "Sollinger", 
+   "Kalayoglu", 
+   "Belzer"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1321-2\r", 
+  ".T": "A comparison of donor-specific and random transfusions in living-related renal transplantation and their effect on steroid withdrawal.\r", 
+  ".U": "91111577\r"
+ }, 
+ {
+  ".I": "295891", 
+  ".M": "Cadaver; Diuresis; Graft Survival; Human; Immunosuppression/*MT; Kidney Transplantation/*IM/MT/PH; Risk Factors; Time Factors.\r", 
+  ".A": [
+   "Galishoff", 
+   "Lipkowitz", 
+   "Germain", 
+   "Hong", 
+   "Butt"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1325-7\r", 
+  ".T": "The fate of paired kidneys: recipient immunologic risk factors profoundly influence immediate posttransplant renal function.\r", 
+  ".U": "91111579\r"
+ }, 
+ {
+  ".I": "295892", 
+  ".M": "Caucasoid Race; Hemodynamics; Human; Hypertension/ET; Kidney/PH; Negroid Race; Nephrectomy/*AE; Risk Factors; Tissue Donors/*.\r", 
+  ".A": [
+   "Laskow", 
+   "Jones", 
+   "Deierhoi", 
+   "Dubovsky", 
+   "Julian", 
+   "Barber", 
+   "Diethelm", 
+   "Curtis"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1328-9\r", 
+  ".T": "Are black living-related renal donors at greater long-term risk of renal complications than white donors?\r", 
+  ".U": "91111580\r"
+ }, 
+ {
+  ".I": "295893", 
+  ".M": "Age Factors; Female; Graft Survival/*; Histocompatibility; Human; Kidney Transplantation/*; Male; Organ Preservation; Prognosis; Sex Factors; Support, Non-U.S. Gov't; Tissue Donors.\r", 
+  ".A": [
+   "Thorogood", 
+   "van", 
+   "Persijn", 
+   "Zantvoort", 
+   "Schreuder", 
+   "van"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1330-1\r", 
+  ".T": "Prognostic indices for first and second transplants can predict kidney graft survival.\r", 
+  ".U": "91111581\r"
+ }, 
+ {
+  ".I": "295894", 
+  ".M": "Cardiopulmonary Bypass; Cold; Graft Survival; Kidney Transplantation/*MT/PH; Organ Preservation/*MT; Retrospective Studies; Support, Non-U.S. Gov't; Tissue Donors/*.\r", 
+  ".A": [
+   "Lang", 
+   "Romano", 
+   "Chopin", 
+   "Abbou", 
+   "Buisson", 
+   "Margenet", 
+   "Benmaadi", 
+   "Rostoker", 
+   "Chakalarovski", 
+   "Belghiti", 
+   "et"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1332-3\r", 
+  ".T": "Renal function of transplanted kidneys harvested during cardiopulmonary bypass with profound hypothermia.\r", 
+  ".U": "91111582\r"
+ }, 
+ {
+  ".I": "295895", 
+  ".M": "Adult; Cadaver; Cold; Diltiazem/*AD; Female; Human; Immunosuppression/*MT; Ischemia; Kidney Transplantation/*MT; Male; Middle Age; Organ Preservation/*MT; Prospective Studies.\r", 
+  ".A": [
+   "Tenschert", 
+   "Harfmann", 
+   "Meyer-Moldenhauer", 
+   "Arndt", 
+   "Klosterhalfen"
+  ], 
+  ".P": "CLINICAL TRIAL; JOURNAL ARTICLE; RANDOMIZED CONTROLLED TRIAL.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1334-5\r", 
+  ".T": "Kidney protective effect of diltiazem after renal transplantation with long cold ischemia time and triple-drug immunosuppression.\r", 
+  ".U": "91111583\r"
+ }, 
+ {
+  ".I": "295896", 
+  ".M": "Graft Survival/*; Human; Kidney Transplantation/*; Prognosis; Support, U.S. Gov't, P.H.S..\r", 
+  ".A": [
+   "Fasola", 
+   "Kim", 
+   "Morel", 
+   "Dunn", 
+   "Sutherland", 
+   "Payne", 
+   "Matas", 
+   "Najarian"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1336\r", 
+  ".T": "Kidney retransplantation: patients with a failed second kidney transplant should be considered for a third transplant.\r", 
+  ".U": "91111584\r"
+ }, 
+ {
+  ".I": "295897", 
+  ".M": "Cardiovascular Diseases/CO; Communicable Diseases/CO; Diabetes Mellitus/*CO; Graft Survival/*; Human; Kidney Transplantation/*PH; Neoplasms/CO; Support, U.S. Gov't, P.H.S.; Time Factors.\r", 
+  ".A": [
+   "Fischel", 
+   "Matas", 
+   "Payne", 
+   "Gillingham", 
+   "Dunn", 
+   "Sutherland", 
+   "Najarian"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1337\r", 
+  ".T": "Long-term outcome in 1-year graft survivors: comparison of diabetic and nondiabetic populations.\r", 
+  ".U": "91111585\r"
+ }, 
+ {
+  ".I": "295898", 
+  ".M": "Adult; Blood Volume/*; Cadaver; Female; Human; Kidney/PH; Kidney Transplantation/*MT/PH; Male.\r", 
+  ".A": [
+   "Willms", 
+   "Dawidson", 
+   "Dickerman", 
+   "Drake", 
+   "Sandor", 
+   "Trevino"
+  ], 
+  ".P": "CLINICAL TRIAL; JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1338-9\r", 
+  ".T": "Intraoperative blood volume expansion induces primary function after renal transplantation: a study of 96 paired cadaver kidneys.\r", 
+  ".U": "91111586\r"
+ }, 
+ {
+  ".I": "295899", 
+  ".M": "Blood Transfusion/*; Calcium/*PH; Creatinine/BL; Cytoplasm/PH; Graft Rejection; Graft Survival; Human; Kidney Transplantation/*IM/MT; Leukocyte Culture Test, Mixed; Prospective Studies; T-Lymphocytes/*IM.\r", 
+  ".A": [
+   "Toma", 
+   "Yasuo", 
+   "Tanabe", 
+   "Takahashi", 
+   "Ota"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1340-1\r", 
+  ".T": "Blood transfusion induced calcium unresponsiveness and graft outcome in renal transplantation.\r", 
+  ".U": "91111587\r"
+ }, 
+ {
+  ".I": "295900", 
+  ".M": "Cadaver; Female; Follow-Up Studies; Graft Survival; Human; Hypertension/CO/TH; Kidney Transplantation/*AE; Male; Renal Artery Obstruction/DI/*ET/TH.\r", 
+  ".A": [
+   "Deglise-Favre", 
+   "Hiesse", 
+   "Lantz", 
+   "Moukarzel", 
+   "Bensadoun", 
+   "Benoit", 
+   "Charpentier", 
+   "Fries"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1342-3\r", 
+  ".T": "Long-term follow-up of 40 untreated cadaveric kidney transplant renal artery stenoses.\r", 
+  ".U": "91111588\r"
+ }, 
+ {
+  ".I": "295901", 
+  ".M": "Cadaver; Human; Interviews; Kidney Failure, Chronic/PX/*TH; Kidney Transplantation/*PX; Tissue Donors.\r", 
+  ".A": [
+   "Garcia", 
+   "Agueru", 
+   "Cavalli", 
+   "Lopez"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1344-5\r", 
+  ".T": "Kidney transplantation: absolute and relative psychologic contraindications.\r", 
+  ".U": "91111589\r"
+ }, 
+ {
+  ".I": "295902", 
+  ".M": "Cytomegalic Inclusion Disease/*DT; Ganciclovir/*TU; Graft Rejection; Graft Survival; Human; Immunosuppression/AE; Kidney Transplantation/*; Opportunistic Infections/*DT.\r", 
+  ".A": [
+   "Hrebinko", 
+   "Jordan", 
+   "Dummer", 
+   "Hickey", 
+   "Shapiro", 
+   "Vivas", 
+   "Starzl", 
+   "Simmons", 
+   "Hakala"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1346-7\r", 
+  ".T": "Ganciclovir for invasive cytomegalovirus infection in renal allograft recipients.\r", 
+  ".U": "91111590\r"
+ }, 
+ {
+  ".I": "295903", 
+  ".M": "Antibodies, Monoclonal/DU; Antibodies, Viral/AN; Antigens, Viral/AN; Biopsy, Needle; Cytomegalic Inclusion Disease/*DI; DNA Probes; DNA, Viral/AN; Graft Rejection; Human; Kidney Transplantation/*AE; Nucleic Acid Hybridization; Opportunistic Infections/*DI.\r", 
+  ".A": [
+   "Arndt", 
+   "Neuser", 
+   "Dittmer", 
+   "Harfmann", 
+   "Tenschert", 
+   "Meyer-Moldenhauer", 
+   "Klosterhalfen"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1348-9\r", 
+  ".T": "Importance of cytomegalovirus infection in renal transplantation: comparison of DNA in situ hybridization and early antigen detection and virus-specific antibodies as diagnostic tools.\r", 
+  ".U": "91111591\r"
+ }, 
+ {
+  ".I": "295904", 
+  ".M": "Cytomegalic Inclusion Disease/*CO; Histocompatibility; Human; Immunosuppression/MT; Kidney Transplantation/*MT; Tissue Donors/*.\r", 
+  ".A": [
+   "Shackleton", 
+   "Keown", 
+   "Landsberg", 
+   "McCarthy", 
+   "Scudamore", 
+   "Kane", 
+   "Cameron", 
+   "Yeung", 
+   "Chiu"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1350-1\r", 
+  ".T": "The impact of donor/recipient matching for cytomegalovirus compatibility or identity on the incidence of disease and outcome following renal transplantation.\r", 
+  ".U": "91111592\r"
+ }, 
+ {
+  ".I": "295905", 
+  ".M": "Adult; Female; Graft Rejection; Hemodialysis; Human; HIV Infections/*CO; Immunosuppression/MT; Kidney Failure, Chronic/CO/TH; Kidney Transplantation/*; Male; Survival Analysis.\r", 
+  ".A": [
+   "Lang", 
+   "Niaudet"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1352-3\r", 
+  ".T": "Update and outcome of renal transplant patients with human immunodeficiency virus. The Groupe Cooperatif de Transplantation de I'lle de France.\r", 
+  ".U": "91111593\r"
+ }, 
+ {
+  ".I": "295906", 
+  ".M": "Antibodies, Monoclonal/TU; Antigens, Viral/AN; Biopsy, Needle; Cytomegalic Inclusion Disease/*DI; Human; HLA-DR Antigens/AN; Immunohistochemistry; Kidney Diseases/*DI/MI; Kidney Transplantation/*; Viral Proteins/AN.\r", 
+  ".A": [
+   "Nast", 
+   "Wilkinson", 
+   "Rosenthal", 
+   "Blifeld", 
+   "Ettenger", 
+   "Beaumont", 
+   "Danovitch"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1354\r", 
+  ".T": "Diagnosis of cytomegalovirus infection in renal allografts using fine needle aspiration biopsy.\r", 
+  ".U": "91111594\r"
+ }, 
+ {
+  ".I": "295907", 
+  ".M": "Acyclovir/*TU; Cytomegalic Inclusion Disease/*PC; Human; Immunization, Passive; Kidney Transplantation/*; Tissue Donors.\r", 
+  ".A": [
+   "MacDonald", 
+   "Belitsky", 
+   "Cohen", 
+   "Lee"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1355-6\r", 
+  ".T": "Cytomegalovirus disease prophylaxis in seronegative recipients of kidneys from seropositive donors by combination of cytomegalovirus-hyperimmune globulin and low-dose acyclovir.\r", 
+  ".U": "91111595\r"
+ }, 
+ {
+  ".I": "295908", 
+  ".M": "Adult; Antibodies, Viral/AD/AN/ST; Cadaver; Child; Cytomegalic Inclusion Disease/*PC; Graft Rejection; Human; Immunization, Passive; Kidney Transplantation/*; Support, U.S. Gov't, P.H.S.; Tissue Donors.\r", 
+  ".A": [
+   "Snydman", 
+   "Werner", 
+   "Tilney", 
+   "Kirkman", 
+   "Milford", 
+   "Cho", 
+   "Bush", 
+   "Levey", 
+   "Strom", 
+   "Carpenter", 
+   "et"
+  ], 
+  ".P": "CLINICAL TRIAL; JOURNAL ARTICLE; RANDOMIZED CONTROLLED TRIAL.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1357-60\r", 
+  ".T": "Final analysis of primary cytomegalovirus disease prevention in renal transplant recipients with a cytomegalovirus-immune globulin: comparison of the randomized and open-label trials.\r", 
+  ".U": "91111596\r"
+ }, 
+ {
+  ".I": "295909", 
+  ".M": "Azathioprine/TU; Body Weight; Cholesterol/*BL; Creatinine/BL; Cyclosporins/*TU; Human; Hypertension/*CO; Immunosuppression/MT; Kidney Transplantation/*PH; Prednisone/*TU; Prospective Studies.\r", 
+  ".A": [
+   "Pirsch", 
+   "Armbrust", 
+   "Knechtle", 
+   "Reed", 
+   "D'Alessandro", 
+   "Sollinger", 
+   "Belzer"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1363-4\r", 
+  ".T": "Effect of steroid withdrawal on hypertension and cholesterol levels in living related recipients.\r", 
+  ".U": "91111598\r"
+ }, 
+ {
+  ".I": "295910", 
+  ".M": "Adult; Age Factors/*; Aged; Cause of Death/*; Cerebrovascular Disorders/PP; Cyclosporins/TU; Female; Graft Survival; Human; Kidney Transplantation/*; Male; Middle Age; Multivariate Analysis; Risk Factors; Support, U.S. Gov't, P.H.S.; Tissue Donors/*.\r", 
+  ".A": [
+   "Troppmann", 
+   "Almond", 
+   "Escobar", 
+   "Morel", 
+   "Papalois", 
+   "Dunn", 
+   "Payne", 
+   "Sutherland", 
+   "Matas", 
+   "Najarian"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1365-6\r", 
+  ".T": "Donor age and cause of death affect cadaver renal allograft outcome.\r", 
+  ".U": "91111599\r"
+ }, 
+ {
+  ".I": "295911", 
+  ".M": "Adult; Female; Granulocyte Colony-Stimulating Factor/*TU; Human; Kidney Transplantation/*PH; Leukocyte Count; Leukopenia/CO/*DT; Male; Middle Age; Recombinant Proteins.\r", 
+  ".A": [
+   "Tajima", 
+   "Aso", 
+   "Kawabe", 
+   "Suzuki", 
+   "Ohtawara", 
+   "Ohta", 
+   "Hata", 
+   "Nakano", 
+   "Ushiyama", 
+   "Ueda"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1369-70\r", 
+  ".T": "Colony-stimulating factor for treatment of leukopenia after kidney allografting.\r", 
+  ".U": "91111601\r"
+ }, 
+ {
+  ".I": "295912", 
+  ".M": "Adolescence; Child; Child, Preschool; Cyclosporins/*TU; Human; Immunosuppression/MT; Infant; Kidney Transplantation/*; Neoplasms/*ET; Risk Factors; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S..\r", 
+  ".A": [
+   "Gruber", 
+   "Chavers", 
+   "Skjei", 
+   "Sothern", 
+   "Robison", 
+   "Tzardis", 
+   "Moss", 
+   "Gillingham", 
+   "Canafax", 
+   "Najarian", 
+   "et"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1373-4\r", 
+  ".T": "De novo cancer after pediatric kidney transplantation.\r", 
+  ".U": "91111603\r"
+ }, 
+ {
+  ".I": "295913", 
+  ".M": "Apolipoproteins E/BL; Atherosclerosis/ET; Child; Diet; Hemodialysis/*; Human; Kidney Failure, Chronic/*BL; Kidney Transplantation/*; Lipids/*BL; Lipoproteins/*ME; Prospective Studies; Risk Factors.\r", 
+  ".A": [
+   "Van", 
+   "Van", 
+   "Cobbaert", 
+   "Proesmans", 
+   "Eggermont"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1375-7\r", 
+  ".T": "Lipid and lipoprotein abnormalities in children on hemodialysis and after renal transplantation.\r", 
+  ".U": "91111604\r"
+ }, 
+ {
+  ".I": "295914", 
+  ".M": "Child, Preschool; Female; Genes, Recessive; Graft Survival; Growth; Human; Infant; Kidney Transplantation/*MT; Male; Nephrectomy; Nephrotic Syndrome/*CN/CO/GE/SU; Peritoneal Dialysis; Support, Non-U.S. Gov't.\r", 
+  ".A": [
+   "Holmberg", 
+   "Jalanko", 
+   "Koskimies", 
+   "Leijala", 
+   "Salmela", 
+   "Eklund", 
+   "Ahonen"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1378-9\r", 
+  ".T": "Renal transplantation in small children with congenital nephrotic syndrome of the Finnish type.\r", 
+  ".U": "91111605\r"
+ }, 
+ {
+  ".I": "295915", 
+  ".M": "Adolescence; Child; Child, Preschool; Graft Survival; Human; Kidney Failure, Chronic/SU; Kidney Transplantation/*PX; Quality of Life/*; Questionnaires; Support, U.S. Gov't, P.H.S.; Time Factors.\r", 
+  ".A": [
+   "Almond", 
+   "Morell", 
+   "Matas", 
+   "Gillingham", 
+   "Chau", 
+   "Brown", 
+   "Kashtan", 
+   "Mauer", 
+   "Chavers", 
+   "Nevins", 
+   "et"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1380-1\r", 
+  ".T": "Transplanted children with long-term graft function have an excellent quality of life.\r", 
+  ".U": "91111606\r"
+ }, 
+ {
+  ".I": "295916", 
+  ".M": "Cyclosporins/TU; Graft Survival; Human; Infant; Kidney Transplantation/*MT; Support, U.S. Gov't, P.H.S.; Time Factors.\r", 
+  ".A": [
+   "Najarian", 
+   "Frey", 
+   "Matas", 
+   "So", 
+   "Cook", 
+   "Mauer", 
+   "Chavers", 
+   "Kashtan", 
+   "Gillingham", 
+   "Nevins"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1382-3\r", 
+  ".T": "Successful kidney transplantation in infants.\r", 
+  ".U": "91111607\r"
+ }, 
+ {
+  ".I": "295917", 
+  ".M": "Crystallization; Cystine/ME; Cystinosis/CO/*SU; Female; Graft Survival; Human; Immunosuppression/MT; Kidney/ME; Kidney Transplantation/*; Male; Support, U.S. Gov't, P.H.S..\r", 
+  ".A": [
+   "Almond", 
+   "Morel", 
+   "Troppmann", 
+   "Matas", 
+   "Najarian", 
+   "Chavers"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1386\r", 
+  ".T": "Progression of infantile cystinosis after renal transplantation.\r", 
+  ".U": "91111609\r"
+ }, 
+ {
+  ".I": "295918", 
+  ".M": "Antibodies, Monoclonal/PK/*TU; Antigens, CD/AN; Graft Rejection; Human; Immunosuppression/*MT; Leukocyte Count; Liver Transplantation/*MT; Opportunistic Infections/CO; Receptors, Interleukin-2/*IM.\r", 
+  ".A": [
+   "Otto", 
+   "Thies", 
+   "Kabelitz", 
+   "Schlag", 
+   "Hofmann", 
+   "Herfarth", 
+   "Meuer"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1387-9\r", 
+  ".T": "Anti-CD25 monoclonal antibody prevents early rejection in liver transplantation--a pilot study.\r", 
+  ".U": "91111610\r"
+ }, 
+ {
+  ".I": "295919", 
+  ".M": "Adult; Antibodies, Monoclonal/BL/*TU; Biopsy; Graft Rejection; Graft Survival; Human; Liver Transplantation/IM/*MT; Opportunistic Infections/CO/DI; Receptors, Interleukin-2/*IM; Support, Non-U.S. Gov't; Survival Analysis.\r", 
+  ".A": [
+   "Friend", 
+   "Waldmann", 
+   "Cobbold", 
+   "Tighe", 
+   "Rebello", 
+   "Wight", 
+   "Gore", 
+   "Pollard", 
+   "Lim", 
+   "Johnston", 
+   "et"
+  ], 
+  ".P": "CLINICAL TRIAL; JOURNAL ARTICLE; RANDOMIZED CONTROLLED TRIAL.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1390-2\r", 
+  ".T": "The anti-IL-2 receptor monoclonal antibody YTH-906 in liver transplantation.\r", 
+  ".U": "91111611\r"
+ }, 
+ {
+  ".I": "295920", 
+  ".M": "Azathioprine/*TU; Bile Ducts/PA; Graft Rejection; Human; Immunosuppression/MT; Liver Transplantation/IM/*MT/PA; Multivariate Analysis; Risk Factors.\r", 
+  ".A": [
+   "van", 
+   "Wiesner", 
+   "Ludwig", 
+   "Gores", 
+   "Moore", 
+   "Krom"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1403-5\r", 
+  ".T": "Combination immunosuppression with azathioprine reduces the incidence of ductopenic rejection and vanishing bile duct syndrome after liver transplantation.\r", 
+  ".U": "91111614\r"
+ }, 
+ {
+  ".I": "295921", 
+  ".M": "Adult; Bile Ducts/BS; Computer Graphics; Female; Graft Rejection; Human; Liver Circulation; Liver Cirrhosis, Biliary/PA; Liver Transplantation/*PA; Male; Microcirculation/PA.\r", 
+  ".A": [
+   "Takemura", 
+   "Oguma", 
+   "Mori", 
+   "Ishii", 
+   "Starzl", 
+   "Demetris", 
+   "Takahasi"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1409-12\r", 
+  ".T": "Peribiliary vascular diseases in rejected livers; computer-aided three-dimensional reconstruction and morphometry.\r", 
+  ".U": "91111616\r"
+ }, 
+ {
+  ".I": "295922", 
+  ".M": "Adolescence; Adult; Bile Ducts/*PA; Bilirubin/BL; Biopsy, Needle; Case Report; Female; Graft Rejection; Human; Immunosuppression/MT; Liver Transplantation/IM/*PA; Male.\r", 
+  ".A": [
+   "Hubscher", 
+   "Buckels", 
+   "Elias", 
+   "McMaster", 
+   "Neuberger"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1415-6\r", 
+  ".T": "Reversible vanishing bile duct syndrome after liver transplantation: report of 6 cases.\r", 
+  ".U": "91111618\r"
+ }, 
+ {
+  ".I": "295923", 
+  ".M": "Bilirubin/BL; Graft Rejection; Human; Immunosuppression/MT; Liver Transplantation/*IM; Lymphocyte Transformation; Receptors, Interleukin-2/*BL; Solubility; Time Factors.\r", 
+  ".A": [
+   "Stockenhuber", 
+   "Gnant", 
+   "Gottsauner-Wolf", 
+   "Apperl", 
+   "Steininger", 
+   "Sautner", 
+   "Balcke", 
+   "Muhlbacher"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1417-8\r", 
+  ".T": "Soluble interleukin-2 receptor in liver transplant recipients.\r", 
+  ".U": "91111619\r"
+ }, 
+ {
+  ".I": "295924", 
+  ".M": "Antibodies, Monoclonal; Antigens, Surface/ME; Cell Adhesion Molecules/*ME; Graft Rejection; Human; HLA Antigens/ME; HLA-DR Antigens/ME; Liver Cirrhosis, Biliary/PA; Liver Transplantation/*PA; Lymphocyte Function-Associated Antigen-1/ME; Membrane Glycoproteins/ME; Support, Non-U.S. Gov't.\r", 
+  ".A": [
+   "Behrend", 
+   "Steinhoff", 
+   "Wonigeit", 
+   "Pichlmayr"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1419-20\r", 
+  ".T": "Patterns of adhesion molecule expression in human liver allografts.\r", 
+  ".U": "91111620\r"
+ }, 
+ {
+  ".I": "295925", 
+  ".M": "Antibodies, Monoclonal; Graft Rejection/*; Human; Immunoenzyme Techniques; Interleukin-1/*ME; Leukocytes, Mononuclear/ME; Liver Transplantation/*IM/PA; Macrophages/ME; Support, Non-U.S. Gov't; Tumor Necrosis Factor/*ME.\r", 
+  ".A": [
+   "Hoffmann", 
+   "Wonigeit", 
+   "Steinhoff", 
+   "Behrend", 
+   "Herzbeck", 
+   "Flad", 
+   "Pichlmayr"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1421-3\r", 
+  ".T": "Tumor necrosis factor alpha and interleukin-1 beta in rejecting human liver grafts.\r", 
+  ".U": "91111621\r"
+ }, 
+ {
+  ".I": "295926", 
+  ".M": "Enzyme-Linked Immunosorbent Assay/MT; Flow Cytometry; Graft Rejection; Human; Liver Transplantation/*IM; Pilot Projects; Receptors, Interleukin-2/*BL; Regression Analysis.\r", 
+  ".A": [
+   "Cohen", 
+   "Roberts", 
+   "Gumbert", 
+   "Birnbaum", 
+   "Lim", 
+   "Falco", 
+   "Ascher", 
+   "Garovoy"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1426-7\r", 
+  ".T": "Comparison of ELISA and a flow cytometric method in the daily monitoring of soluble interleukin 2 receptors in liver transplant recipients.\r", 
+  ".U": "91111623\r"
+ }, 
+ {
+  ".I": "295927", 
+  ".M": "Endothelium/IM; Histocompatibility Antigens Class I/*AN; Human; HLA-D Antigens/*AN; Immunoenzyme Techniques; Kupffer Cells/IM; Liver/IM; Liver Transplantation/*IM; Major Histocompatibility Complex.\r", 
+  ".A": [
+   "Burke", 
+   "Martinez", 
+   "Freise", 
+   "McVicar", 
+   "Roberts", 
+   "Ascher"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1428-9\r", 
+  ".T": "MHC expression on human hepatocytes before and after isolation.\r", 
+  ".U": "91111624\r"
+ }, 
+ {
+  ".I": "295928", 
+  ".M": "Bile/ME; Cyclosporins/AE; Graft Rejection; Human; Interleukin-2/BL/*ME/UR; Liver Transplantation/*IM; Receptors, Interleukin-2/BL/*ME/UR.\r", 
+  ".A": [
+   "Simpson", 
+   "Young-Fadok", 
+   "Madras", 
+   "Freeman", 
+   "Dempsey", 
+   "Jenkins", 
+   "Monaco"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1432-3\r", 
+  ".T": "Sequential IL-2 and IL-2R levels predict rejection in liver allograft recipients.\r", 
+  ".U": "91111626\r"
+ }, 
+ {
+  ".I": "295929", 
+  ".M": "Adult; Cholesterol/BL; Graft Rejection; Human; Lipids/*BL; Lipoproteins, HDL/BL; Liver Transplantation/IM/*PH.\r", 
+  ".A": [
+   "Gnant", 
+   "Schoental", 
+   "Banhegyi", 
+   "Steininger", 
+   "Sautner", 
+   "Goetzinger", 
+   "Wamser", 
+   "Zekert", 
+   "Muehlbacher"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1434-5\r", 
+  ".T": "Impact of serum lipid parameters on the diagnosis of acute and chronic rejection after orthotopic liver transplantation.\r", 
+  ".U": "91111627\r"
+ }, 
+ {
+  ".I": "295930", 
+  ".M": "Chronic Disease; Graft Rejection; Hepatitis B/IM/*SU; Human; Liver Transplantation/*IM.\r", 
+  ".A": [
+   "Adams", 
+   "Hubscher", 
+   "Neuberger", 
+   "McMaster", 
+   "Elias", 
+   "Buckels"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1436-7\r", 
+  ".T": "Reduced incidence of rejection in patients undergoing liver transplantation for chronic hepatitis B.\r", 
+  ".U": "91111628\r"
+ }, 
+ {
+  ".I": "295931", 
+  ".M": "Antineoplastic Agents/TU; Female; Hepatitis B Surface Antigens/AN; Human; Immunosuppression/*AE; Immunosuppressive Agents/AD; Liver Transplantation/*AE; Male; Prognosis; Sarcoma, Kaposi's/DT/*ET; Sex Factors.\r", 
+  ".A": [
+   "Bismuth", 
+   "Samuel", 
+   "Venancie", 
+   "Menouar", 
+   "Szekely"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1438-9\r", 
+  ".T": "Development of Kaposi's sarcoma in liver transplant recipients: characteristics, management, and outcome.\r", 
+  ".U": "91111629\r"
+ }, 
+ {
+  ".I": "295932", 
+  ".M": "ABO Blood-Group System; Bile Ducts/*PA; Blood Group Incompatibility; Graft Survival; Human; Liver Transplantation/IM/*PA.\r", 
+  ".A": [
+   "Sanchez-Urdazpal", 
+   "Sterioff", 
+   "Janes", 
+   "Schwerman", 
+   "Rosen", 
+   "Krom"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1440-1\r", 
+  ".T": "Increased bile duct complications in ABO incompatible liver transplant recipients.\r", 
+  ".U": "91111630\r"
+ }, 
+ {
+  ".I": "295933", 
+  ".M": "Bile Ducts/*PA; Biliary Tract Diseases/DI/ET; Cholestasis/IM/PA; Graft Rejection; Human; Immunity, Cellular; Immunosuppression/MT; Liver Transplantation/IM/*PA; Syndrome.\r", 
+  ".A": [
+   "Noack", 
+   "Wiesner", 
+   "Batts", 
+   "van", 
+   "Ludwig"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1448-51\r", 
+  ".T": "Severe ductopenic rejection with features of vanishing bile duct syndrome: clinical, biochemical, and histologic evidence for spontaneous resolution.\r", 
+  ".U": "91111633\r"
+ }, 
+ {
+  ".I": "295934", 
+  ".M": "Child; Creatinine/BL; Cyclosporins/AD/*AE/BL; Female; Glomerular Filtration Rate; Human; Immunosuppression/MT; Kidney/BS; Kidney Diseases/*CI; Liver Transplantation/*MT; Longitudinal Studies; Male; Regional Blood Flow; Time Factors.\r", 
+  ".A": [
+   "Andrews", 
+   "Arant", 
+   "Fyock", 
+   "Gray", 
+   "Schlatter", 
+   "Conlin"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1452-3\r", 
+  ".T": "The effect of cyclosporine A on long-term renal function in pediatric liver transplant recipients.\r", 
+  ".U": "91111634\r"
+ }, 
+ {
+  ".I": "295935", 
+  ".M": "Age Factors; Child, Preschool; Graft Rejection; Graft Survival; Human; Infant; Liver Transplantation/*/AE; Thrombosis/ET.\r", 
+  ".A": [
+   "Brant", 
+   "Reding", 
+   "Falchetti", 
+   "de", 
+   "de", 
+   "Sokal", 
+   "Otte"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1454-5\r", 
+  ".T": "Analysis of liver graft loss in infants and children below 4 years.\r", 
+  ".U": "91111635\r"
+ }, 
+ {
+  ".I": "295936", 
+  ".M": "Aged/*; Cyclosporins/TU; Human; Immunosuppression/MT; Liver Transplantation/*MT; Retrospective Studies; Survival Analysis.\r", 
+  ".A": [
+   "Pirsch", 
+   "Kalayoglu", 
+   "D'Alessandro", 
+   "Armbrust", 
+   "Reed", 
+   "Knechtle", 
+   "Sollinger", 
+   "Belzer"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1456-7\r", 
+  ".T": "Orthotopic liver transplantation in patients over 60 years of age.\r", 
+  ".U": "91111636\r"
+ }, 
+ {
+  ".I": "295937", 
+  ".M": "Adult; Cyclosporins/*AE; Glomerular Filtration Rate; Human; Hypertension/ET; Kidney Diseases/*CI/CO/PP; Retrospective Studies; Time Factors.\r", 
+  ".A": [
+   "Hauters", 
+   "de", 
+   "Carlier", 
+   "Malaise", 
+   "Ottobrelli", 
+   "Delaby", 
+   "Balducci", 
+   "Kestens", 
+   "Otte"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1458-9\r", 
+  ".T": "Long-term analysis of glomerular filtration rate and hypertension in adult liver transplant recipients treated with cyclosporine A.\r", 
+  ".U": "91111637\r"
+ }, 
+ {
+  ".I": "295938", 
+  ".M": "Adult; Antibiotics/AD; Bacterial Infections/CO; Endotoxins/BL; Feces/MI; Gastrointestinal System/*MI; Human; Liver Transplantation/*MT; Prospective Studies.\r", 
+  ".A": [
+   "Badger", 
+   "Crosby", 
+   "Kong", 
+   "Baker", 
+   "Hutchings", 
+   "Elliott", 
+   "McMaster", 
+   "Bion", 
+   "Buckels"
+  ], 
+  ".P": "CLINICAL TRIAL; JOURNAL ARTICLE; RANDOMIZED CONTROLLED TRIAL.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1460-1\r", 
+  ".T": "Is selective decontamination of the digestive tract beneficial in liver transplant patients? Interim results of a prospective, randomized trial.\r", 
+  ".U": "91111638\r"
+ }, 
+ {
+  ".I": "295939", 
+  ".M": "Adult; Bone Diseases/*ET; Bone Diseases, Metabolic/ET; Cholangitis, Sclerosing/SU; Female; Graft Rejection; Hepatitis, Chronic Active/SU; Human; Immunosuppression/MT; Liver Cirrhosis, Biliary/SU; Liver Transplantation/*AE; Male; Middle Age; Risk Factors; Time Factors.\r", 
+  ".A": [
+   "Porayko", 
+   "Wiesner", 
+   "Hay", 
+   "Krom", 
+   "Dickson", 
+   "Beaver", 
+   "Schwerman"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1462-5\r", 
+  ".T": "Bone disease in liver transplant recipients: incidence, timing, and risk factors.\r", 
+  ".U": "91111639\r"
+ }, 
+ {
+  ".I": "295940", 
+  ".M": "Blood Urea Nitrogen; Child; Creatinine/BL; Cyclosporins/AD/*AE; Female; Glomerular Filtration Rate; Human; Kidney Diseases/*CI/PP; Liver Transplantation/*PH; Male; Time Factors.\r", 
+  ".A": [
+   "Sommerauer", 
+   "Howard", 
+   "Grant"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1466-8\r", 
+  ".T": "Renal function following liver transplantation in children.\r", 
+  ".U": "91111640\r"
+ }, 
+ {
+  ".I": "295941", 
+  ".M": "Creatinine/BL; Cyclosporins/*AE; Glomerular Filtration Rate; Human; Kidney/BS/*PH; Kidney Diseases/CI; Liver Transplantation/MT/*PH; Regional Blood Flow; Time Factors.\r", 
+  ".A": [
+   "Ayres", 
+   "Ismail", 
+   "Angrisani", 
+   "Buckels", 
+   "Elias", 
+   "McMaster", 
+   "Neuberger"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1469-70\r", 
+  ".T": "Long-term renal function in liver transplantation.\r", 
+  ".U": "91111641\r"
+ }, 
+ {
+  ".I": "295942", 
+  ".M": "Adult; Aspergillosis/PA; Autopsy; Brain/*PA; Female; Hemorrhage/PA; Human; Infarction/PA; Liver Transplantation/*PA; Male; Prospective Studies.\r", 
+  ".A": [
+   "Boon", 
+   "Adams", 
+   "Buckels", 
+   "McMaster"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1471-2\r", 
+  ".T": "Neuropathological findings in autopsies after liver transplantation.\r", 
+  ".U": "91111642\r"
+ }, 
+ {
+  ".I": "295943", 
+  ".M": "Biopsy; Human; Immunosuppression/*AE; Immunosuppressive Agents/AD; Lymphoproliferative Disorders/DI/*SU; Organ Transplantation/*AE; Support, U.S. Gov't, P.H.S..\r", 
+  ".A": [
+   "Stieber", 
+   "Boillot", 
+   "Scotti-Foglieni", 
+   "Nalesnik", 
+   "Gordon", 
+   "Marino", 
+   "Mazzaferro", 
+   "Starzl"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1477-9\r", 
+  ".T": "The surgical implications of the posttransplant lymphoproliferative disorders.\r", 
+  ".U": "91111644\r"
+ }, 
+ {
+  ".I": "295944", 
+  ".M": "Atherosclerosis/ET; Cyclosporins/AE/BL; Diet; Human; Hyperlipidemia/*ET; Lipids/BL; Liver Transplantation/*AE; Nutrition; Obesity/*ET; Risk Factors; Triglycerides/BL.\r", 
+  ".A": [
+   "Munoz", 
+   "Deems", 
+   "Moritz", 
+   "Martin", 
+   "Jarrell", 
+   "Maddrey"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1480-3\r", 
+  ".T": "Hyperlipidemia and obesity after orthotopic liver transplantation.\r", 
+  ".U": "91111645\r"
+ }, 
+ {
+  ".I": "295945", 
+  ".M": "Hepatic Artery; Human; Liver/BS; Liver Transplantation/*AE/MT; Portal Vein; Support, Non-U.S. Gov't; Survival Analysis; Thrombosis/*ET.\r", 
+  ".A": [
+   "Marujo", 
+   "Langnas", 
+   "Wood", 
+   "Stratta", 
+   "Li", 
+   "Shaw"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1484-6\r", 
+  ".T": "Vascular complications following orthotopic liver transplantation: outcome and the role of urgent revascularization.\r", 
+  ".U": "91111646\r"
+ }, 
+ {
+  ".I": "295946", 
+  ".M": "Graft Survival; Human; Liver Transplantation/MT/*PA; Prognosis; Survival Analysis; Time Factors.\r", 
+  ".A": [
+   "Reding", 
+   "Feyaerts", 
+   "de", 
+   "de", 
+   "Otte"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1487-8\r", 
+  ".T": "Early graft loss after liver transplantation: etiology, chronology, and prognosis.\r", 
+  ".U": "91111647\r"
+ }, 
+ {
+  ".I": "295947", 
+  ".M": "Antihypertensive Agents/TU; Creatinine/BL/ME; Cyclosporins/AD/*AE/BL; Human; Immunosuppression/MT; Kidney/*PH; Kidney Function Tests; Liver Transplantation/MT/*PH; Metabolic Clearance Rate; Middle Age; Time Factors.\r", 
+  ".A": [
+   "Cooper", 
+   "Wahlstrom", 
+   "Anderson", 
+   "Schwerman", 
+   "Poterucha", 
+   "Krom"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1489-91\r", 
+  ".T": "Use of cyclosporine with poor initial renal function results in severely diminished renal clearance up to three years following liver transplantation.\r", 
+  ".U": "91111648\r"
+ }, 
+ {
+  ".I": "295948", 
+  ".M": "Graft Rejection; Graft Survival; Hepatitis B/IM/*PC/SU; Hepatitis B Surface Antigens/*AN; Human; Immunization, Passive; Liver Transplantation/*IM.\r", 
+  ".A": [
+   "Samuel", 
+   "Bismuth", 
+   "Serres", 
+   "Arulnaden", 
+   "Reynes", 
+   "Benhamou", 
+   "Brechot", 
+   "Bismuth"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1492-4\r", 
+  ".T": "HBV infection after liver transplantation in HBsAg positive patients: experience with long-term immunoprophylaxis.\r", 
+  ".U": "91111649\r"
+ }, 
+ {
+  ".I": "295949", 
+  ".M": "Adult; Chronic Disease; Female; Hepatitis/*IM; Hepatitis Antibodies/*AN; Hepatitis C Virus/*IM; Hepatitis, Chronic Active/IM/SU; Human; Liver Transplantation/*IM; Male; Time Factors.\r", 
+  ".A": [
+   "Poterucha", 
+   "Rakela", 
+   "Ludwig", 
+   "Taswell", 
+   "Wiesner"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1495-7\r", 
+  ".T": "Hepatitis C antibodies in patients with chronic hepatitis of unknown etiology after orthotopic liver transplantation.\r", 
+  ".U": "91111650\r"
+ }, 
+ {
+  ".I": "295950", 
+  ".M": "Acyclovir/*AD; Adult; Cytomegalic Inclusion Disease/MI/*PC; Dose-Response Relationship, Drug; Female; Ganciclovir/*AD; Hepatitis, Viral, Human/PC; Human; Liver Transplantation/*MT; Male; Middle Age; Opportunistic Infections/PC; Retrospective Studies.\r", 
+  ".A": [
+   "Freise", 
+   "Pons", 
+   "Lake", 
+   "Burke", 
+   "Ascher", 
+   "Roberts"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1498-500\r", 
+  ".T": "Comparison of three regimens for cytomegalovirus prophylaxis in 147 liver transplant recipients.\r", 
+  ".U": "91111651\r"
+ }, 
+ {
+  ".I": "295951", 
+  ".M": "Female; Hepatitis Antibodies/*AN; Hepatitis C Virus/*IM; Human; Liver Transplantation/*IM; Male; Middle Age.\r", 
+  ".A": [
+   "Franza", 
+   "Miguet", 
+   "Bresson-Hadni", 
+   "Coaquette", 
+   "Lab", 
+   "Njoya", 
+   "Vanhems", 
+   "Becker", 
+   "Rouget", 
+   "Mantion", 
+   "et"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1506\r", 
+  ".T": "Prevalence of hepatitis C virus antibodies in orthotopic liver transplantation: a sequential study of 72 patients.\r", 
+  ".U": "91111654\r"
+ }, 
+ {
+  ".I": "295952", 
+  ".M": "Acute Disease; Biopsy, Needle; Cytomegalic Inclusion Disease/DI; Diagnosis, Differential; Graft Rejection; Hepatitis/DI; Human; Liver Diseases/DI; Liver Transplantation/IM/*PA; Support, Non-U.S. Gov't.\r", 
+  ".A": [
+   "Nashan", 
+   "Schlitt", 
+   "Ringe", 
+   "Bunzendahl", 
+   "Wittekind", 
+   "Wonigeit", 
+   "Pichlmayr"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1507-8\r", 
+  ".T": "Differential diagnosis of viral infections and acute rejection episodes in liver grafted patients by transplant aspiration cytology.\r", 
+  ".U": "91111655\r"
+ }, 
+ {
+  ".I": "295953", 
+  ".M": "Adult; Antigens, Viral/AN; Child; Epstein-Barr Virus/IM; Hepatitis, Viral, Human/*PA; Herpesvirus Infections/*PA; Human; Liver Transplantation/*PA.\r", 
+  ".A": [
+   "Langnas", 
+   "Castaldo", 
+   "Markin", 
+   "Stratta", 
+   "Wood", 
+   "Shaw"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1513-4\r", 
+  ".T": "The spectrum of Epstein-Barr virus infection with hepatitis following liver transplantation.\r", 
+  ".U": "91111657\r"
+ }, 
+ {
+  ".I": "295954", 
+  ".M": "Adult; Child; Cytomegalic Inclusion Disease/DI/*DT; Ganciclovir/*TU; Human; Liver Transplantation/*; Opportunistic Infections/DT; Time Factors.\r", 
+  ".A": [
+   "Shaefer", 
+   "Stratta", 
+   "Markin", 
+   "Cushing", 
+   "Woods", 
+   "Reed", 
+   "Wood", 
+   "Langnas", 
+   "Shaw"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1515-6\r", 
+  ".T": "Ganciclovir therapy for cytomegalovirus disease in liver transplant recipients.\r", 
+  ".U": "91111658\r"
+ }, 
+ {
+  ".I": "295955", 
+  ".M": "Adult; Child; Discriminant Analysis; Human; Liver Transplantation/*AE; Multivariate Analysis; Mycoses/*ET; Retrospective Studies; Risk Factors; Survival Analysis.\r", 
+  ".A": [
+   "Castaldo", 
+   "Stratta", 
+   "Wood", 
+   "Markin", 
+   "Patil", 
+   "Shaefer", 
+   "Langnas", 
+   "Reed", 
+   "Li", 
+   "Pillen", 
+   "et"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1517-9\r", 
+  ".T": "Fungal disease in liver transplant recipients: a multivariate analysis of risk factors.\r", 
+  ".U": "91111659\r"
+ }, 
+ {
+  ".I": "295956", 
+  ".M": "Adenovirus Infections/ET; Adult; Child; Epstein-Barr Virus; Ganciclovir/TU; Hepatitis, Viral, Human/*ET; Herpes Simplex/ET; Herpesvirus Infections/ET/PC; Human; Immunosuppression/AE; Liver Transplantation/*AE; Opportunistic Infections/*ET/PC; Risk Factors.\r", 
+  ".A": [
+   "Markin", 
+   "Langnas", 
+   "Donovan", 
+   "Zetterman", 
+   "Stratta"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1520-1\r", 
+  ".T": "Opportunistic viral hepatitis in liver transplant recipients.\r", 
+  ".U": "91111660\r"
+ }, 
+ {
+  ".I": "295957", 
+  ".M": "Alanine Aminotransferase/BL; Alkaline Phosphatase/BL; Aspartate Aminotransferase/BL; DNA, Viral/AN; Gamma-Glutamyltransferase/BL; Hepatitis B/*PC; Hepatitis B Surface Antigens/*AN; Hepatitis B Virus/AN; Human; Immunization, Passive; Interferon Alfa, Recombinant/*TU; Liver Transplantation/*IM; Time Factors.\r", 
+  ".A": [
+   "Neuhaus", 
+   "Steffen", 
+   "Blumhardt", 
+   "Bechstein", 
+   "Keck", 
+   "Lemmens", 
+   "Neuhaus", 
+   "Lobeck", 
+   "Konig", 
+   "Hopf"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1522-4\r", 
+  ".T": "Experience with immunoprophylaxis and interferon therapy after liver transplantation in HBsAG positive patients.\r", 
+  ".U": "91111661\r"
+ }, 
+ {
+  ".I": "295958", 
+  ".M": "Bacterial Infections/CO; Cytomegalic Inclusion Disease/*PC; Double-Blind Method; Female; Graft Rejection; Human; Immunization, Passive; Liver Transplantation/IM/*MT; Male; Middle Age; Opportunistic Infections/*PC.\r", 
+  ".A": [
+   "Cofer", 
+   "Morris", 
+   "Sutker", 
+   "Husberg", 
+   "Goldstein", 
+   "Gonwa", 
+   "Klintmalm"
+  ], 
+  ".P": "CLINICAL TRIAL; JOURNAL ARTICLE; RANDOMIZED CONTROLLED TRIAL.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1525-7\r", 
+  ".T": "A randomized double-blind study of the effect of prophylactic immune globulin on the incidence and severity of CMV infection in the liver transplant recipient.\r", 
+  ".U": "91111662\r"
+ }, 
+ {
+  ".I": "295959", 
+  ".M": "Adult; Amphotericin B/*TU; Human; Immunosuppression/MT; Liver Transplantation/AE/*MT; Mycoses/*PC; Opportunistic Infections/*PC; Retrospective Studies; Risk Factors.\r", 
+  ".A": [
+   "Mora", 
+   "Cofer", 
+   "Solomon", 
+   "Goldstein", 
+   "Gonwa", 
+   "Husberg", 
+   "Klintmalm"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1528-30\r", 
+  ".T": "Analysis of severe infections (INF) after 180 consecutive liver transplants: the impact of amphotericin B prophylaxis for reducing the incidence and severity of fungal infections.\r", 
+  ".U": "91111663\r"
+ }, 
+ {
+  ".I": "295960", 
+  ".M": "Chronic Disease; Human; Liver Diseases/*SU; Liver Transplantation/*MT; Time Factors; Transplantation, Heterotopic/*MT.\r", 
+  ".A": [
+   "Metselaar", 
+   "Hesselink", 
+   "de", 
+   "Groenland", 
+   "Bakker", 
+   "Weimar", 
+   "Schalm", 
+   "Terpstra"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1531-2\r", 
+  ".T": "A comparison between heterotopic and orthotopic liver transplantation in patients with end-stage chronic liver disease.\r", 
+  ".U": "91111664\r"
+ }, 
+ {
+  ".I": "295961", 
+  ".M": "Acidosis/CO; Acute Disease; Adolescence; Adult; Case Report; Female; Hepatitis/*SU; Human; Lactates/BL; Liver/BS/SU; Liver Function Tests; Liver Transplantation/*MT; Middle Age.\r", 
+  ".A": [
+   "Husberg", 
+   "Goldstein", 
+   "Klintmalm", 
+   "Gonwa", 
+   "Ramsay", 
+   "Cofer", 
+   "Solomon", 
+   "Watemberg"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1533-5\r", 
+  ".T": "A totally failing liver may be more harmful than no liver at all: three cases of total hepatic devascularization in preparation for emergency liver transplantation.\r", 
+  ".U": "91111665\r"
+ }, 
+ {
+  ".I": "295962", 
+  ".M": "Biopsy; Fatty Liver/PA; Human; Liver Transplantation/*MT/PA/PH; Organ Preservation; Prognosis; Solutions; Tissue Donors/*.\r", 
+  ".A": [
+   "D'Alessandro", 
+   "Kalayoglu", 
+   "Sollinger", 
+   "Hoffmann", 
+   "Reed", 
+   "Knechtle", 
+   "Pirsch", 
+   "Hafez", 
+   "Lorentzen", 
+   "Belzer"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1536-7\r", 
+  ".T": "The predictive value of donor liver biopsies on the development of primary nonfunction after orthotopic liver transplantation.\r", 
+  ".U": "91111666\r"
+ }, 
+ {
+  ".I": "295963", 
+  ".M": "Age Factors; Body Weight; Fatty Liver/*CO/PA; Graft Survival; Human; Liver Transplantation/*MT/PA/PH; Time Factors; Tissue Donors.\r", 
+  ".A": [
+   "Adam", 
+   "Reynes", 
+   "Johann", 
+   "Morino", 
+   "Astarcioglu", 
+   "Kafetzis", 
+   "Castaing", 
+   "Bismuth"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1538-40\r", 
+  ".T": "The outcome of steatotic grafts in liver transplantation.\r", 
+  ".U": "91111667\r"
+ }, 
+ {
+  ".I": "295964", 
+  ".M": "Cross-Sectional Studies; Depression/CO; Female; Human; Liver Transplantation/*PX; Longitudinal Studies; Male; Quality of Life; Questionnaires; Risk Factors.\r", 
+  ".A": [
+   "Kuchler", 
+   "Kober", 
+   "Brolsch", 
+   "Henne-Bruns", 
+   "Kremer"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1541-4\r", 
+  ".T": "Quality of life after liver transplantation: can a psychosocial support program contribute?\r", 
+  ".U": "91111668\r"
+ }, 
+ {
+  ".I": "295965", 
+  ".M": "Cadaver; Human; Liver/AH/BS/SU; Liver Transplantation/*MT; Tissue Donors.\r", 
+  ".A": [
+   "Kazemier", 
+   "Hesselink", 
+   "Lange", 
+   "Terpstra"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1545-6\r", 
+  ".T": "Dividing the liver for the purpose of split grafting or living related grafting: a search for the best cutting plane.\r", 
+  ".U": "91111669\r"
+ }, 
+ {
+  ".I": "295966", 
+  ".M": "Adult; Graft Rejection/*; Human; Hypertonic Solutions; Liver Transplantation/*MT/PH; Middle Age; Organ Preservation/*MT; Solutions/*; Time Factors.\r", 
+  ".A": [
+   "Campbell", 
+   "Merion", 
+   "Ham", 
+   "Lucey", 
+   "Henley", 
+   "Turcotte"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1547-9\r", 
+  ".T": "Hepatic preservation with University of Wisconsin solution is associated with reduced allograft rejection.\r", 
+  ".U": "91111670\r"
+ }, 
+ {
+  ".I": "295967", 
+  ".M": "Alanine Aminotransferase/BL; Aspartate Aminotransferase/BL; Cold; Graft Survival; Human; Ischemia; Liver Transplantation/*MT; Organ Preservation/*MT; Prothrombin Time; Retrospective Studies; Solutions/*; Support, U.S. Gov't, Non-P.H.S.; Support, U.S. Gov't, P.H.S.; Survival Analysis; Time Factors.\r", 
+  ".A": [
+   "Furukawa", 
+   "Todo", 
+   "Imventarza", 
+   "Wu", 
+   "Scotti", 
+   "Day", 
+   "Starzl"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1550-1\r", 
+  ".T": "Cold ischemia time vs outcome of human liver transplantation using UW solution.\r", 
+  ".U": "91111671\r"
+ }, 
+ {
+  ".I": "295968", 
+  ".M": "Animal; Lipid Peroxides/*ME; Organ Preservation/*MT; Organ Transplantation/*MT; Rats; Rats, Inbred Strains; Reperfusion Injury/*PC; Solutions/*; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S.; Time Factors.\r", 
+  ".A": [
+   "Ferguson", 
+   "Gores", 
+   "Ludwig", 
+   "Krom"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1552-3\r", 
+  ".T": "UW solution protects against reperfusion injury by inhibiting lipid peroxidation.\r", 
+  ".U": "91111672\r"
+ }, 
+ {
+  ".I": "295969", 
+  ".M": "Adult; Fatty Liver/PA; Human; Isotonic Solutions/*; Liver Transplantation/*MT/PA/PH; Organ Preservation/*MT; Prospective Studies; Solutions/*; Tissue Donors/*.\r", 
+  ".A": [
+   "Schwartz", 
+   "Nishizaki", 
+   "Thung", 
+   "Manzarbeitia", 
+   "Maharajh", 
+   "Gordon", 
+   "Miller"
+  ], 
+  ".P": "CLINICAL TRIAL; JOURNAL ARTICLE; RANDOMIZED CONTROLLED TRIAL.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1554-6\r", 
+  ".T": "Initial flush solution for donor liver procurement: lactated Ringers' or UW solution? A randomized, prospective trial.\r", 
+  ".U": "91111673\r"
+ }, 
+ {
+  ".I": "295970", 
+  ".M": "Adolescence; Adult; Human; Hyperoxaluria/*SU; Kidney Transplantation/*MT; Liver Transplantation/*MT; Survival Analysis.\r", 
+  ".A": [
+   "Jamieson", 
+   "Watts", 
+   "Evans", 
+   "Williams", 
+   "Calne"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1557-8\r", 
+  ".T": "Liver and kidney transplantation in the treatment of primary hyperoxaluria.\r", 
+  ".U": "91111674\r"
+ }, 
+ {
+  ".I": "295971", 
+  ".M": "Adult; Aspirin/*TU; Female; Hepatic Vein Thrombosis/DT/*SU; Human; Hydroxyurea/*TU; Liver Transplantation/*; Male; Myeloproliferative Disorders/*CO; Thrombosis/*PC.\r", 
+  ".A": [
+   "Goldstein", 
+   "Clark", 
+   "Klintmalm", 
+   "Husberg", 
+   "Gonwa", 
+   "Stone"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1559-60\r", 
+  ".T": "Prevention of recurrent thrombosis following liver transplantation for Budd-Chiari syndrome associated with myeloproliferative disorders: treatment with hydroxyurea and aspirin.\r", 
+  ".U": "91111675\r"
+ }, 
+ {
+  ".I": "295972", 
+  ".M": "Child; Great Britain; Human; Liver Transplantation/*; Organ Procurement/*; Tissue Donors/*.\r", 
+  ".A": [
+   "Wight"
+  ], 
+  ".P": "CLINICAL TRIAL; JOURNAL ARTICLE; MULTICENTER STUDY.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1561-2\r", 
+  ".T": "Utilization, paediatric donor livers: failure to utilize available paediatric livers donated in the UK.\r", 
+  ".U": "91111676\r"
+ }, 
+ {
+  ".I": "295973", 
+  ".M": "Cholangitis, Sclerosing/*SU; Comparative Study; Fractures/CO; Graft Rejection; Human; Liver Cirrhosis, Biliary/*SU; Liver Transplantation/*/IM/PA; Survival Analysis.\r", 
+  ".A": [
+   "McEntee", 
+   "Wiesner", 
+   "Rosen", 
+   "Cooper", 
+   "Wahlstrom"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1563-4\r", 
+  ".T": "A comparative study of patients undergoing liver transplantation for primary sclerosing cholangitis and primary biliary cirrhosis.\r", 
+  ".U": "91111677\r"
+ }, 
+ {
+  ".I": "295974", 
+  ".M": "Diabetes Mellitus/*CO; Graft Survival; Human; Liver Transplantation/*; Survival Analysis.\r", 
+  ".A": [
+   "Wahlstrom", 
+   "Cooper", 
+   "Gores", 
+   "Rosen", 
+   "Wiesner", 
+   "Krom"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1565-6\r", 
+  ".T": "Survival after liver transplantation in diabetics.\r", 
+  ".U": "91111678\r"
+ }, 
+ {
+  ".I": "295975", 
+  ".M": "Colorectal Neoplasms/DT/SU; Human; Liver Neoplasms/DT/*SC/SU; Liver Transplantation/*MT; Retrospective Studies; Survival Analysis.\r", 
+  ".A": [
+   "Muhlbacher", 
+   "Huk", 
+   "Steininger", 
+   "Gnant", 
+   "Gotzinger", 
+   "Wamser", 
+   "Banhegyi", 
+   "Piza"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1567-8\r", 
+  ".T": "Is orthotopic liver transplantation a feasible treatment for secondary cancer of the liver?\r", 
+  ".U": "91111679\r"
+ }, 
+ {
+  ".I": "295976", 
+  ".M": "Chronic Disease; Hemodynamics; Human; Liver Diseases/*PP; Liver Transplantation/PH; Retrospective Studies.\r", 
+  ".A": [
+   "Gunning", 
+   "Paulsen", 
+   "Brajtbord", 
+   "Goldstein", 
+   "Ramsay"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1569\r", 
+  ".T": "Intraoperative systemic and hepatic hemodynamics associated with fulminant hepatic failure: comparison with chronic end-stage liver disease.\r", 
+  ".U": "91111680\r"
+ }, 
+ {
+  ".I": "295977", 
+  ".M": "Human; Liver Cirrhosis/*SU; Liver Transplantation/*MT; Portasystemic Shunt, Surgical; Prognosis; Retrospective Studies; Survival Analysis.\r", 
+  ".A": [
+   "Turrion", 
+   "Mora", 
+   "Cofer", 
+   "Solomon", 
+   "Morris", 
+   "Gonwa", 
+   "Goldstein", 
+   "Husberg", 
+   "Klintmalm"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1570-1\r", 
+  ".T": "Retrospective evaluation of liver transplantation for cirrhosis: a comparative study of 100 patients with or without previous porto-systemic shunt.\r", 
+  ".U": "91111681\r"
+ }, 
+ {
+  ".I": "295978", 
+  ".M": "Female; Human; Liver Cirrhosis/DI/PP/*SU; Liver Function Tests; Liver Transplantation/*; Male; Multivariate Analysis; Prognosis; Regression Analysis; Support, Non-U.S. Gov't; Survival Analysis.\r", 
+  ".A": [
+   "Lautz", 
+   "Oellerich", 
+   "Burdelski", 
+   "Burger", 
+   "Engelmayer", 
+   "Pirlich", 
+   "Knoke", 
+   "Schmidt"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1572-4\r", 
+  ".T": "Assessment of short-term prognosis in liver transplant candidates with postnecrotic or biliary cirrhosis.\r", 
+  ".U": "91111682\r"
+ }, 
+ {
+  ".I": "295979", 
+  ".M": "Graft Survival; Human; Lidocaine/AA/ME; Liver Diseases/SU; Liver Function Tests; Liver Transplantation/*MT; Prognosis; Prospective Studies; Regression Analysis; Support, Non-U.S. Gov't; Tissue Donors/*.\r", 
+  ".A": [
+   "Oellerich", 
+   "Burdelski", 
+   "Ringe", 
+   "Wittekind", 
+   "Lamesch", 
+   "Lautz", 
+   "Gubernatis", 
+   "Beyrau", 
+   "Pichlmayr"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1575-8\r", 
+  ".T": "Functional state of the donor liver and early outcome of transplantation.\r", 
+  ".U": "91111683\r"
+ }, 
+ {
+  ".I": "295980", 
+  ".M": "Adolescence; ABO Blood-Group System; Blood Group Incompatibility; Body Weight; Child; Child, Preschool; Female; Human; Infant; Liver Transplantation/*MT; Male.\r", 
+  ".A": [
+   "Cox", 
+   "Nakazato", 
+   "Berquist", 
+   "Concepcion", 
+   "Tokunaga", 
+   "Esquivel"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1579-80\r", 
+  ".T": "Liver transplantation in infants weighing less than 10 kilograms.\r", 
+  ".U": "91111684\r"
+ }, 
+ {
+  ".I": "295981", 
+  ".M": "Adrenal Cortex Hormones/*AD; Adult; Blood Glucose/ME; Creatinine/BL; Diabetes Mellitus/SU; Drug Administration Schedule; Graft Survival; Human; Immunosuppression/MT; Kidney Transplantation/*MT/PH; Pancreas Transplantation/*MT/PH; Survival Analysis; Uremia/SU.\r", 
+  ".A": [
+   "Cantarovich", 
+   "Paineau", 
+   "Karam", 
+   "Murat", 
+   "Baatard", 
+   "Dantal", 
+   "Hourmant", 
+   "Soulillou"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1583-4\r", 
+  ".T": "Definitive corticosteroid withdrawal following simultaneous pancreas and kidney transplantation.\r", 
+  ".U": "91111686\r"
+ }, 
+ {
+  ".I": "295982", 
+  ".M": "Animal; Cyclosporins/*AD; Dogs; Drug Synergism; Graft Survival/*DE; Immunosuppression/MT; Pancreas Transplantation/*MT; Ribonucleosides/*AD.\r", 
+  ".A": [
+   "Hayashi", 
+   "Kenmochi", 
+   "Fukuoka", 
+   "Suzuki", 
+   "Amemiya"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1585-6\r", 
+  ".T": "Synergistic effect of cyclosporine and mizoribine on canine pancreas allograft survival.\r", 
+  ".U": "91111687\r"
+ }, 
+ {
+  ".I": "295983", 
+  ".M": "Amylases/UR; Animal; Cyclosporins/BL/PK; Duodenum/*TR; Graft Rejection; Pancreas/BS; Pancreas Transplantation/*MT; Pancreatic Juice/SE; Regional Blood Flow; Somatostatin/*TU; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S.; Swine; Trypsin/UR.\r", 
+  ".A": [
+   "Nicholson", 
+   "Barr", 
+   "Oeltjen", 
+   "Munn", 
+   "DiMagno", 
+   "Carpenter", 
+   "Sarr", 
+   "Perkins"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1587-8\r", 
+  ".T": "The effect of somatostatin 201-995 on the early course of porcine pancreaticoduodenal allotransplantation.\r", 
+  ".U": "91111688\r"
+ }, 
+ {
+  ".I": "295984", 
+  ".M": "Animal; Blood Glucose/ME; Cyclosporins/*AD/AE; Dogs; Dose-Response Relationship, Drug; Drug Administration Schedule; Glucagon/BL; Immunosuppression/MT; Insulin/BL; Pancreas/*DE/PH; Pancreas Transplantation/*MT.\r", 
+  ".A": [
+   "Florack", 
+   "Kowolik", 
+   "Abousaidy", 
+   "Erhardt", 
+   "Bottermann"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1593-5\r", 
+  ".T": "Effect of short-term high-dose cyclosporine treatment of endocrine function of segmental pancreatic grafts.\r", 
+  ".U": "91111690\r"
+ }, 
+ {
+  ".I": "295985", 
+  ".M": "Duodenum/*TR; Graft Rejection; Human; Pancreas Transplantation/*IM/PH; Prospective Studies; Trypsin Inhibitors/BL; Trypsinogen/BL.\r", 
+  ".A": [
+   "Marks", 
+   "Borgstrom", 
+   "Marks", 
+   "Sollinger", 
+   "Lorber"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1596-7\r", 
+  ".T": "Serum markers for pancreas rejection: long-term behavior following clinical pancreatico-duodenal transplantation.\r", 
+  ".U": "91111691\r"
+ }, 
+ {
+  ".I": "295986", 
+  ".M": "B-Lymphocytes/PA; Biopsy; Chronic Disease; Diabetes Mellitus/PA; Graft Rejection; Human; Islets of Langerhans/PA; Pancreas Transplantation/*PA; Pancreatic Diseases/DI; Pancreatitis/*PA; Support, Non-U.S. Gov't; T-Lymphocytes/CY.\r", 
+  ".A": [
+   "Nakhleh", 
+   "Gruessner", 
+   "Tzardis", 
+   "Brayman", 
+   "Dunn", 
+   "Sutherland"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1598-9\r", 
+  ".T": "Pancreas transplant pathology: an immunohistochemical comparison of allografts with rejection, syngeneic grafts, and chronic pancreatitis.\r", 
+  ".U": "91111692\r"
+ }, 
+ {
+  ".I": "295987", 
+  ".M": "Animal; Antibodies, Monoclonal/*AD; Dogs; Duodenum/*TR; Graft Rejection; Histocompatibility Antigens Class II/*IM; Immunization, Passive; Immunosuppression/MT; Pancreas Transplantation/*IM/PH; Perfusion; Support, Non-U.S. Gov't.\r", 
+  ".A": [
+   "Miyoshi", 
+   "Sakagami", 
+   "Takasu", 
+   "Oiwa", 
+   "Kurozumi", 
+   "Saito", 
+   "Yagi", 
+   "Kobayashi", 
+   "Fujiwara", 
+   "Matsuno", 
+   "et"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1600-3\r", 
+  ".T": "Effect of ex vivo perfusion using anti-class II monoclonal antibody on the rejection of canine pancreaticoduodenal allografts.\r", 
+  ".U": "91111693\r"
+ }, 
+ {
+  ".I": "295988", 
+  ".M": "Biological Markers; Graft Rejection; Human; Pancreas Transplantation/IM/*PH; Proteins/*ME; Retrospective Studies; Time Factors.\r", 
+  ".A": [
+   "Nyberg", 
+   "Olausson", 
+   "Norden", 
+   "Mjornstedt", 
+   "Blohme", 
+   "Hedman"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1604-5\r", 
+  ".T": "Pancreas specific protein (PASP) monitoring in pancreas transplantation.\r", 
+  ".U": "91111694\r"
+ }, 
+ {
+  ".I": "295989", 
+  ".M": "Biopsy; Diabetes Mellitus, Insulin-Dependent/SU; Human; Pancreas Transplantation/*MT/PA; Pancreatic Diseases/PA/*RI; Ultrasonography.\r", 
+  ".A": [
+   "Batiuk", 
+   "Carpenter", 
+   "Morton", 
+   "Brown", 
+   "Engen", 
+   "Velosa"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1606-7\r", 
+  ".T": "Correlation of pancreas allograft biopsy with radionuclide and ultrasound imaging of pancreas allografts.\r", 
+  ".U": "91111695\r"
+ }, 
+ {
+  ".I": "295990", 
+  ".M": "Amylases/ME; Creatinine/BL; Graft Rejection; Human; Insulin/BL; Kidney Transplantation/*PH; Pancreas Transplantation/*PH; Regional Blood Flow; Thrombosis.\r", 
+  ".A": [
+   "Garvin", 
+   "Reese", 
+   "Burton", 
+   "Lindsey", 
+   "Aridge", 
+   "Carney", 
+   "Niehoff", 
+   "Kurtz"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1608-10\r", 
+  ".T": "Pancreatic allograft function during reversible rejection episodes in dual kidney/pancreas recipients.\r", 
+  ".U": "91111696\r"
+ }, 
+ {
+  ".I": "295991", 
+  ".M": "Bladder/SU; Diabetes Mellitus, Insulin-Dependent/SU; Duodenostomy; Female; Hematuria/CO; Human; Male; Pancreas Transplantation/*MT; Pancreatic Ducts/SU; Urinary Tract Infections/*CO.\r", 
+  ".A": [
+   "Smith", 
+   "See", 
+   "Ames", 
+   "Piper", 
+   "Corry"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1611-2\r", 
+  ".T": "Lower urinary tract complications in patients with duodenocystostomies for exocrine drainage of the transplanted pancreas.\r", 
+  ".U": "91111697\r"
+ }, 
+ {
+  ".I": "295992", 
+  ".M": "Cytomegalic Inclusion Disease/CO; Diabetes Mellitus, Insulin-Dependent/SU; Graft Rejection; Human; Kidney Failure, Chronic/SU; Kidney Transplantation/IM/*MT; Opportunistic Infections/CO; Pancreas Transplantation/IM/*MT; Wound Infection.\r", 
+  ".A": [
+   "Rosen", 
+   "Frohnert", 
+   "Velosa", 
+   "Engen", 
+   "Sterioff"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1613-4\r", 
+  ".T": "Combined pancreas transplantation increases morbidity of cadaveric renal transplantation.\r", 
+  ".U": "91111698\r"
+ }, 
+ {
+  ".I": "295993", 
+  ".M": "Bladder/SU; Duodenostomy; Enzyme Activation; Human; Pancreas Transplantation/*MT/PH; Pancreatic Ducts/SU; Support, U.S. Gov't, Non-P.H.S.; Trypsin/*UR; Trypsinogen/UR.\r", 
+  ".A": [
+   "See", 
+   "Smith"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1615-6\r", 
+  ".T": "Activated proteolytic enzymes in the urine of whole organ pancreas transplant patients with duodenocystostomy.\r", 
+  ".U": "91111699\r"
+ }, 
+ {
+  ".I": "295994", 
+  ".M": "Animal; Bicarbonates/BL; Bladder/SU; Duodenum/PH/TR; Pancreas Transplantation/*MT/PH; Pancreatic Ducts/SU; Rats; Rats, Inbred Lew; Sodium/BL; Support, Non-U.S. Gov't; Water-Electrolyte Balance.\r", 
+  ".A": [
+   "Schang", 
+   "Timmermann", 
+   "Thiede", 
+   "Najarian", 
+   "Sutherland"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1617-8\r", 
+  ".T": "Detrimental effects of fluid and electrolyte loss from duodenum in bladder-drained pancreas transplants.\r", 
+  ".U": "91111700\r"
+ }, 
+ {
+  ".I": "295995", 
+  ".M": "Adult; Antibodies, Viral/AN; Cytomegalic Inclusion Disease/*CO; Cytomegaloviruses/IM; Diabetes Mellitus, Insulin-Dependent/SU; Diabetic Nephropathies/SU; Female; Human; Immunosuppression/AE; Kidney Transplantation/MT; Male; Pancreas Transplantation/*AE/MT; Pancreatitis/*CO.\r", 
+  ".A": [
+   "Margreiter", 
+   "Schmid", 
+   "Dunser", 
+   "Tauscher", 
+   "Hengster", 
+   "Konigsrainer"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1619-22\r", 
+  ".T": "Cytomegalovirus (CMV)--pancreatitis: a rare complication after pancreas transplantation.\r", 
+  ".U": "91111701\r"
+ }, 
+ {
+  ".I": "295996", 
+  ".M": "Acetazolamide/*TU; Acidosis/*DT; Bicarbonates/AD; Bladder/SU; Duodenostomy; Human; Pancreas Transplantation/*MT; Pancreatic Ducts/SU.\r", 
+  ".A": [
+   "Elkhammas", 
+   "Henry", 
+   "Tesi", 
+   "Sommer", 
+   "Ferguson"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1623-4\r", 
+  ".T": "Control of metabolic acidosis after pancreas transplantation using acetazolamide.\r", 
+  ".U": "91111702\r"
+ }, 
+ {
+  ".I": "295997", 
+  ".M": "Animal; Bladder/SU; Diuresis; Dogs; Duodenostomy; Duodenum/*TR; Pancreas Transplantation/*MT/PH; Pancreatic Ducts/SU; Support, Non-U.S. Gov't; Water-Electrolyte Balance.\r", 
+  ".A": [
+   "Nishimura", 
+   "Uchida", 
+   "Takemura", 
+   "Ichikawa", 
+   "Kawaguchi", 
+   "Sato", 
+   "Shimizu", 
+   "Meigata", 
+   "Watanabe", 
+   "Beck", 
+   "et"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1625-7\r", 
+  ".T": "Electrolyte imbalance after canine pancreaticoduodenal allotransplantation using duodenocystostomy technique.\r", 
+  ".U": "91111703\r"
+ }, 
+ {
+  ".I": "295998", 
+  ".M": "Graft Survival; Human; Kidney Transplantation/MT; Pancreas Transplantation/*MT; Postoperative Complications; Thrombosis/SU; Time Factors.\r", 
+  ".A": [
+   "Boudreaux", 
+   "Corry", 
+   "Dickerman", 
+   "Sutherland"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1628-9\r", 
+  ".T": "Combined experience with immediate pancreas retransplantation.\r", 
+  ".U": "91111704\r"
+ }, 
+ {
+  ".I": "295999", 
+  ".M": "Age Factors; Bladder/SU; Graft Survival; Histocompatibility; Human; HLA-DR Antigens/IM; Multivariate Analysis; Pancreas Transplantation/*MT; Prognosis; Regression Analysis; Retrospective Studies; Risk Factors; Support, U.S. Gov't, P.H.S..\r", 
+  ".A": [
+   "Morel", 
+   "Gillingham", 
+   "Moudry-Munns", 
+   "Dunn", 
+   "Najarian", 
+   "Sutherland"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1630-3\r", 
+  ".T": "Factors influencing pancreas transplant outcome: Cox proportional hazard regression analysis of a single institution's experience with 357 cases.\r", 
+  ".U": "91111705\r"
+ }, 
+ {
+  ".I": "296000", 
+  ".M": "Bladder/SU; Cadaver; Histocompatibility; Human; HLA Antigens/*IM; Kidney Transplantation/IM; Pancreas Transplantation/*IM/MT; Time Factors.\r", 
+  ".A": [
+   "So", 
+   "Moudry-Munns", 
+   "Gillingham", 
+   "Minford", 
+   "Sutherland"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1634-6\r", 
+  ".T": "Short-term and long-term effects of HLA matching in cadaveric pancreas transplantation.\r", 
+  ".U": "91111706\r"
+ }, 
+ {
+  ".I": "296001", 
+  ".M": "Bladder/SU; Graft Survival; Human; Kidney Transplantation/MT; Pancreas Transplantation/*MT; Support, U.S. Gov't, P.H.S.; Uremia/SU.\r", 
+  ".A": [
+   "Sutherland", 
+   "Moudry-Munns", 
+   "Gillingham", 
+   "Najarian", 
+   "Dunn"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1637-9\r", 
+  ".T": "Solitary pancreas transplantation: alone in nonuremic and after a kidney in uremic diabetic patients.\r", 
+  ".U": "91111707\r"
+ }, 
+ {
+  ".I": "296002", 
+  ".M": "Bladder/SU; Cadaver; Graft Survival; Human; Liver Transplantation/*MT; Organ Preservation/*MT; Organ Procurement; Pancreas Transplantation/*MT; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S.; Survival Analysis; Time Factors; Tissue Donors/*.\r", 
+  ".A": [
+   "Morel", 
+   "Gillingham", 
+   "Schlumpf", 
+   "Chau", 
+   "Moudry-Munns", 
+   "Payne", 
+   "Najarian", 
+   "Sutherland", 
+   "Dunn"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1640-2\r", 
+  ".T": "Effect of simultaneous liver retrieval, retrieval team, and preservation time on cadaver whole-organ, bladder-drained pancreatic allograft survival rates.\r", 
+  ".U": "91111708\r"
+ }, 
+ {
+  ".I": "296003", 
+  ".M": "Animal; Cyclosporins/PD; Dogs; Organ Preservation/*MT; Pancreas Transplantation/*MT/PH; Solutions/*; Support, Non-U.S. Gov't; Thromboxane B2/UR; Thromboxanes/*BI; Time Factors.\r", 
+  ".A": [
+   "Odor-Morales", 
+   "Lopez", 
+   "Varela", 
+   "Ponce", 
+   "Luque", 
+   "Chavira", 
+   "Larriva"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1643-4\r", 
+  ".T": "Increased thromboxane production by the pancreas after 24-hour preservation in UW-1 solution.\r", 
+  ".U": "91111709\r"
+ }, 
+ {
+  ".I": "296004", 
+  ".M": "Animal; Dogs; Pancreas Transplantation/*MT/PH; Platelet Aggregation; Thrombophlebitis/ET; Thrombosis/ET; Thromboxane B2/BL; Time Factors; 6-Ketoprostaglandin F1 alpha/BL.\r", 
+  ".A": [
+   "Kawai", 
+   "Teraoka", 
+   "Hayashi", 
+   "Fuchinoue", 
+   "Honda", 
+   "Nakajima", 
+   "Suga", 
+   "Fujita", 
+   "Fujikawa", 
+   "Takahashi", 
+   "et"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1645-7\r", 
+  ".T": "The changes in prostaglandins after segmental pancreatic transplantation.\r", 
+  ".U": "91111710\r"
+ }, 
+ {
+  ".I": "296005", 
+  ".M": "Animal; Dogs; Hemodynamics/DE; Pancreas/BS; Pancreas Transplantation/*PH; Splenectomy; Support, Non-U.S. Gov't; Time Factors; Transplantation, Autologous; Vasoactive Intestinal Peptide/PD.\r", 
+  ".A": [
+   "Yun", 
+   "Inoue", 
+   "Kaji", 
+   "Higashide", 
+   "Takaori", 
+   "Gu", 
+   "Kogire", 
+   "Toda", 
+   "Uchida", 
+   "Tobe"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1648-50\r", 
+  ".T": "The hemodynamic time course of the pancreas after segmental autotransplantation in dogs.\r", 
+  ".U": "91111711\r"
+ }, 
+ {
+  ".I": "296006", 
+  ".M": "Animal; Dogs; Epoprostenol/*ME; Organ Preservation/MT; Pancreas/BS; Pancreas Transplantation/AE/*MT/PH; Regional Blood Flow; Splenic Artery/PH; Thrombosis/ET; Thromboxane A2/*ME; Thromboxane B2/BL; 6-Ketoprostaglandin F1 alpha/BL.\r", 
+  ".A": [
+   "Kin", 
+   "Tamura", 
+   "Nagami", 
+   "Nakase"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1651-3\r", 
+  ".T": "Effect of preservation on blood flow and production of prostacyclin and thromboxane A2 in canine segmental pancreatic autografts.\r", 
+  ".U": "91111712\r"
+ }, 
+ {
+  ".I": "296007", 
+  ".M": "Animal; Blood Transfusion; Dogs; Graft Survival; Immunosuppressive Agents/AD; Pancreas Transplantation/*IM/MT; Support, Non-U.S. Gov't; Tissue Donors.\r", 
+  ".A": [
+   "Miura", 
+   "Sasaki", 
+   "Satomi", 
+   "Okamoto", 
+   "Takeda", 
+   "Morimoto", 
+   "Oguma", 
+   "Taguchi", 
+   "Mori"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1654-5\r", 
+  ".T": "The effect of donor-specific blood transfusion on canine pancreas allograft survival.\r", 
+  ".U": "91111713\r"
+ }, 
+ {
+  ".I": "296008", 
+  ".M": "Adult; Blood Glucose/*ME; C-Peptide/BL; Diabetes Mellitus/SU; Graft Survival; Human; Kidney Transplantation/*PH; Middle Age; Pancreas Transplantation/*PH; Support, Non-U.S. Gov't; Survival Analysis; Time Factors; Uremia/SU.\r", 
+  ".A": [
+   "Holdaas", 
+   "Brekke", 
+   "Hartmann", 
+   "Fauchald", 
+   "Bentdal", 
+   "Soodal", 
+   "Jervell", 
+   "Flatmark"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1656-7\r", 
+  ".T": "Long-term glucose control following combined kidney and pancreatic transplantation.\r", 
+  ".U": "91111714\r"
+ }, 
+ {
+  ".I": "296009", 
+  ".M": "Adult; Diabetes Mellitus/*SU; Diabetic Neuropathies/*SU; Human; Kidney Transplantation/PH; Neural Conduction; Pancreas Transplantation/*PH.\r", 
+  ".A": [
+   "Secchi", 
+   "Martinenghi", 
+   "Galardi", 
+   "Comi", 
+   "Canal", 
+   "Pozza"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1658-9\r", 
+  ".T": "Effects of pancreatic transplantation on diabetic polyneuropathy.\r", 
+  ".U": "91111715\r"
+ }, 
+ {
+  ".I": "296010", 
+  ".M": "Adult; Autonomic Nervous System/*PH; Diabetes Mellitus, Insulin-Dependent/SU; Diabetic Neuropathies/PP; Female; Heart/PH; Human; Kidney Transplantation/*PH; Male; Pancreas Transplantation/*PH; Prospective Studies; Stomach/PH; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S.; Uremia/CO; Vasomotor System/PH.\r", 
+  ".A": [
+   "Gaber", 
+   "Cardoso", 
+   "Pearson", 
+   "Abell", 
+   "Gaber", 
+   "Hathaway", 
+   "Alakkad", 
+   "Cromer", 
+   "Britt"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1660-2\r", 
+  ".T": "Improvement in autonomic function following combined pancreas-kidney transplantation.\r", 
+  ".U": "91111716\r"
+ }, 
+ {
+  ".I": "296011", 
+  ".M": "Adult; Amylases/UR; Bladder/SU; Diabetes Mellitus/*SU; Female; Glucose Tolerance Test; Graft Rejection; Human; Islets of Langerhans/PH; Male; Pancreas Transplantation/MT/*PH; Support, U.S. Gov't, P.H.S..\r", 
+  ".A": [
+   "Morel", 
+   "Brayman", 
+   "Chau", 
+   "Stevens", 
+   "Balakumar", 
+   "Goetz", 
+   "Sutherland"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1663-6\r", 
+  ".T": "Metabolic function of bladder-drained pancreas transplants: relationship between exocrine and endocrine function.\r", 
+  ".U": "91111717\r"
+ }, 
+ {
+  ".I": "296012", 
+  ".M": "Adult; Blood Glucose/*ME; Case Report; Diabetes Mellitus, Insulin-Dependent/*SU; Epinephrine/ME; Glucagon/BL; Human; Hypoglycemia/PP; Male; Pancreas Transplantation/*PH; Somatotropin/ME; Support, Non-U.S. Gov't.\r", 
+  ".A": [
+   "Bolinder", 
+   "Wahrenberg", 
+   "Linde", 
+   "Tyden", 
+   "Groth", 
+   "Ostman"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1667-9\r", 
+  ".T": "Improved glucose counterregulation after pancreas transplantation in diabetic patients with unawareness of hypoglycemia.\r", 
+  ".U": "91111718\r"
+ }, 
+ {
+  ".I": "296013", 
+  ".M": "Diabetes Mellitus, Insulin-Dependent/*SU; Diabetic Neuropathies/SU; Gastric Emptying; Human; Kidney Transplantation/*MT/PH; Neural Conduction; Pancreas Transplantation/*MT/PH.\r", 
+  ".A": [
+   "Aridge", 
+   "Reese", 
+   "Niehoff", 
+   "Carney", 
+   "Lindsey", 
+   "Chun", 
+   "George", 
+   "Garvin"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1670-1\r", 
+  ".T": "Effect of successful renal and segmental pancreatic transplantation on peripheral and autonomic neuropathy.\r", 
+  ".U": "91111719\r"
+ }, 
+ {
+  ".I": "296014", 
+  ".M": "Adult; Cholesterol/BL; Diabetes Mellitus, Insulin-Dependent/ME/*SU; Human; Kidney Transplantation/*PH; Lipids/*ME; Lipoproteins, HDL Cholesterol/ME; Pancreas Transplantation/*PH; Triglycerides/BL; Uremia/ME.\r", 
+  ".A": [
+   "La", 
+   "Secchi", 
+   "Parlavecchia", 
+   "Marcovina", 
+   "Ruotolo", 
+   "Caldara", 
+   "Pozza"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1672-3\r", 
+  ".T": "Lipid metabolism after successful kidney and pancreatic transplantation.\r", 
+  ".U": "91111720\r"
+ }, 
+ {
+  ".I": "296015", 
+  ".M": "Animal; Dogs; Fibrin/AD; Glucose Tolerance Test; Pancreas Transplantation/*PH; Pancreatic Ducts/SU; Pancreatic Juice/*SE.\r", 
+  ".A": [
+   "Florack", 
+   "Erhardt", 
+   "Daas", 
+   "Eissfeldt", 
+   "Ascherl", 
+   "Blumel"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1674-5\r", 
+  ".T": "Temporary or permanent suppression of exocrine secretion in canine pancreatic grafts.\r", 
+  ".U": "91111721\r"
+ }, 
+ {
+  ".I": "296016", 
+  ".M": "Animal; Cyclosporins/PD; Dogs; Insulin/*SE; Islets of Langerhans/SE; Organ Preservation/*MT; Pancreas Transplantation/*MT; Solutions/*; Support, Non-U.S. Gov't; Time Factors.\r", 
+  ".A": [
+   "Lopez-Medrano", 
+   "Ponce", 
+   "Varela", 
+   "Chavira", 
+   "Orozco", 
+   "Odor-Morales"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1676-8\r", 
+  ".T": "Extensive decrease in insulin secretion by the pancreas preserved for 24 hours in UW-1 solution.\r", 
+  ".U": "91111722\r"
+ }, 
+ {
+  ".I": "296017", 
+  ".M": "Animal; Arachidonate 5-Lipoxygenase/*AI; Benzoquinones/*PD; Blood Glucose/ME; Dogs; Insulin/BL; Leukotrienes B/BL; Pancreas Transplantation/*MT.\r", 
+  ".A": [
+   "Horichi", 
+   "Izumi", 
+   "Shimizu", 
+   "Konishi", 
+   "Kitabayashi", 
+   "Watanabe", 
+   "Miyazaki"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1679-80\r", 
+  ".T": "Effect of 5-lipoxygenase inhibitor on canine pancreatic allotransplantation.\r", 
+  ".U": "91111723\r"
+ }, 
+ {
+  ".I": "296018", 
+  ".M": "Animal; Cyclosporins/*TU; Dogs; Duodenum/*TR; Family; Glucose Tolerance Test; Histocompatibility; Pancreas Transplantation/*IM/MT; Support, Non-U.S. Gov't; Survival Analysis.\r", 
+  ".A": [
+   "Nakayama", 
+   "Sato", 
+   "Imai", 
+   "Takishima", 
+   "Osakabe", 
+   "Yokota", 
+   "Masaki", 
+   "Uchida", 
+   "Kakita"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1683-6\r", 
+  ".T": "Experimental pancreaticoduodenal allotransplantation in litter mate and random mate dogs with or without cyclosporine.\r", 
+  ".U": "91111725\r"
+ }, 
+ {
+  ".I": "296019", 
+  ".M": "Animal; Diabetes Mellitus, Experimental/*SU; Disease Models, Animal; Islets of Langerhans Transplantation/*MT; Pancreatectomy; Swine.\r", 
+  ".A": [
+   "Mellert", 
+   "Hopt", 
+   "Hering", 
+   "Bretzel", 
+   "Federlin"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1687-9\r", 
+  ".T": "Influence of islet mass and purity on reversibility of diabetes in pancreatectomized pigs.\r", 
+  ".U": "91111726\r"
+ }, 
+ {
+  ".I": "296020", 
+  ".M": "Angiography; Coronary Disease/*RI; Diabetes Mellitus, Insulin-Dependent/*DI/SU; Echocardiography; Exercise Test; Human; Pancreas Transplantation/*MT; Risk Factors; Thallium Radioisotopes; Tomography, Emission-Computed, Single-Photon.\r", 
+  ".A": [
+   "Iqbal", 
+   "Gibbons", 
+   "McGoon", 
+   "Steiroff", 
+   "Frohnert", 
+   "Velosa"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1690-1\r", 
+  ".T": "Noninvasive assessment of cardiac risk in insulin-dependent diabetic patients being evaluated for pancreatic transplantation using thallium-201 myocardial perfusion scintigraphy.\r", 
+  ".U": "91111727\r"
+ }, 
+ {
+  ".I": "296021", 
+  ".M": "Adolescence; Adult; Antibodies, Monoclonal/PK/*TU; Bone Marrow Transplantation/*IM; Child; Child, Preschool; Graft vs Host Disease/*TH; Histocompatibility; Human; Pilot Projects; Receptors, Interleukin-2/IM; Tumor Necrosis Factor/IM.\r", 
+  ".A": [
+   "Herve", 
+   "Bordigoni", 
+   "Cahn", 
+   "Flesch", 
+   "Tiberghien", 
+   "Racadot", 
+   "Milpied", 
+   "Bergerat", 
+   "Plouvier", 
+   "Roche"
+  ], 
+  ".P": "CLINICAL TRIAL; JOURNAL ARTICLE; MULTICENTER STUDY.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1692-4\r", 
+  ".T": "Use of monoclonal antibodies in vivo as a therapeutic strategy for acute GvHD in matched and mismatched bone marrow transplantation.\r", 
+  ".U": "91111728\r"
+ }, 
+ {
+  ".I": "296022", 
+  ".M": "Animal; Bone Marrow Transplantation/IM/*MT; Dogs; Family; Gamma Rays; Histocompatibility Antigens/IM; Leukocyte Culture Test, Mixed; Support, U.S. Gov't, Non-P.H.S.; Support, U.S. Gov't, P.H.S.; Whole-Body Irradiation.\r", 
+  ".A": [
+   "Storb", 
+   "Bean", 
+   "Appelbaum", 
+   "Schuening", 
+   "Graham", 
+   "Raff"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1697-8\r", 
+  ".T": "Treatment of marrow donor blood products with gamma-irradiation prevents transfusion-induced sensitization to DLA-identical marrow grafts.\r", 
+  ".U": "91111730\r"
+ }, 
+ {
+  ".I": "296023", 
+  ".M": "Bone Marrow Transplantation/*MT; Histocompatibility Testing/*MT; Human; HLA-DR Antigens/GE; Leukocyte Culture Test, Mixed; Oligonucleotide Probes/*; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S.; Tissue Donors.\r", 
+  ".A": [
+   "Baxter-Lowe", 
+   "Eckels", 
+   "Ash", 
+   "Casper", 
+   "Hunter", 
+   "Gorksi"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1699-700\r", 
+  ".T": "Future directions in selection of donors for bone marrow transplantation: role of oligonucleotide genotyping.\r", 
+  ".U": "91111731\r"
+ }, 
+ {
+  ".I": "296024", 
+  ".M": "Bone Marrow Transplantation/*MT; Glycosylation; Granulocyte Colony-Stimulating Factor/*TU; Hematopoiesis; Human; Recombinant Proteins.\r", 
+  ".A": [
+   "Asano", 
+   "Masaoka", 
+   "Takaku"
+  ], 
+  ".P": "CLINICAL TRIAL; JOURNAL ARTICLE; MULTICENTER STUDY.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1701-3\r", 
+  ".T": "Beneficial effect of recombinant human glycosylated granulocyte colony-stimulating factor in marrow-transplanted patients: results of multicenter phase II-III studies.\r", 
+  ".U": "91111732\r"
+ }, 
+ {
+  ".I": "296025", 
+  ".M": "Bone Marrow Transplantation/*MT/PH; Cytokines/BL/GE; Gene Expression; Granulocytes/PH; Hematopoiesis/*; Human; Interleukin-2/*TU; Leukemia, Myelocytic, Acute/SU; Leukocyte Count; Multiple Myeloma/SU; RNA, Messenger/GE; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S.; Transplantation, Autologous.\r", 
+  ".A": [
+   "Heslop", 
+   "Duncombe", 
+   "Reittie", 
+   "Bello-Fernandez", 
+   "Gottlieb", 
+   "Prentice", 
+   "Hoffbrand", 
+   "Brenner"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1704-5\r", 
+  ".T": "Interleukin-2 infusion after autologous bone marrow transplantation enhances hemopoietic regeneration.\r", 
+  ".U": "91111733\r"
+ }, 
+ {
+  ".I": "296026", 
+  ".M": "Case Report; Fetus/*SU; Hematopoietic Stem Cells/*TR; Human; Immunologic Deficiency Syndromes/EM/*SU; Liver/EM; Thalassemia/EM/*SU.\r", 
+  ".A": [
+   "Touraine", 
+   "Raudrant", 
+   "Royo", 
+   "Rebaud", 
+   "Barbier", 
+   "Roncarolo", 
+   "Touraine", 
+   "Laplace", 
+   "Gebuhrer", 
+   "Betuel", 
+   "et"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1706-8\r", 
+  ".T": "In utero transplantation of hemopoietic stem cells in humans.\r", 
+  ".U": "91111734\r"
+ }, 
+ {
+  ".I": "296027", 
+  ".M": "Bone Marrow Transplantation/*MT; Busulfan/TU; Cyclophosphamide/TU; Human; Leukemia/*SU; Survival Analysis.\r", 
+  ".A": [
+   "Tutschka", 
+   "Copelan", 
+   "Kapoor", 
+   "Avalos", 
+   "Klein"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1709-10\r", 
+  ".T": "Allogeneic bone marrow transplantation for leukemia using chemotherapy as conditioning: 6-year results of a single institution trial.\r", 
+  ".U": "91111735\r"
+ }, 
+ {
+  ".I": "296028", 
+  ".M": "Bone Marrow Transplantation/*MT; Cytotoxicity, Immunologic; Histocompatibility Testing/*MT; Human; HLA Antigens/GE/IM; Organ Procurement/*; Polymerase Chain Reaction; Restriction Fragment Length Polymorphisms; Serotyping; Support, Non-U.S. Gov't; Tissue Donors/*.\r", 
+  ".A": [
+   "Batchelor", 
+   "Brookes", 
+   "Davey", 
+   "Green", 
+   "Kaminski", 
+   "Bridge", 
+   "Avakian", 
+   "Howell", 
+   "Sage", 
+   "Hows", 
+   "et"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1711-2\r", 
+  ".T": "In vitro methods and selection of HLA-matched unrelated donors for bone marrow transplantation.\r", 
+  ".U": "91111736\r"
+ }, 
+ {
+  ".I": "296029", 
+  ".M": "Adult; Bone Marrow Transplantation/*MT; Female; Human; Leukemia, Lymphocytic, Acute/*DT/*SU; Male; Middle Age; Support, U.S. Gov't, P.H.S.; Survival Analysis.\r", 
+  ".A": [
+   "Forman", 
+   "Blume"
+  ], 
+  ".P": "CLINICAL TRIAL; JOURNAL ARTICLE; MULTICENTER STUDY.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1713-4\r", 
+  ".T": "Marrow transplantation versus chemotherapy for adult patients with acute lymphoblastic leukemia: results of a clinical study.\r", 
+  ".U": "91111737\r"
+ }, 
+ {
+  ".I": "296030", 
+  ".M": "Animal; Mice; Mice, Transgenic/*; Transfection/*.\r", 
+  ".A": [
+   "Minasi", 
+   "Flavell"
+  ], 
+  ".P": "JOURNAL ARTICLE; REVIEW; REVIEW, TUTORIAL.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1715-6\r", 
+  ".T": "Transfected cells and transgenic mice.\r", 
+  ".U": "91111738\r"
+ }, 
+ {
+  ".I": "296031", 
+  ".M": "Animal; Gene Expression Regulation/*; Genetics, Biochemical/*; Human; Support, Non-U.S. Gov't; Transplantation Immunology/*.\r", 
+  ".A": [
+   "Miller"
+  ], 
+  ".P": "JOURNAL ARTICLE; REVIEW; REVIEW, TUTORIAL.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):1717-8\r", 
+  ".T": "Application of molecular genetics to transplantation immunology.\r", 
+  ".U": "91111739\r"
+ }, 
+ {
+  ".I": "296033", 
+  ".M": "Human; Organ Preservation; Support, Non-U.S. Gov't; Tissue Donors/*; United States.\r", 
+  ".A": [
+   "Rapaport", 
+   "Anaise"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):899-900\r", 
+  ".T": "Organ donation--1990.\r", 
+  ".U": "91111741\r"
+ }, 
+ {
+  ".I": "296034", 
+  ".M": "Blacks; Histocompatibility; Human; Illinois; Kidney Transplantation/*UT; Negroid Race; Tissue Donors/*.\r", 
+  ".A": [
+   "Lazda"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):901-2\r", 
+  ".T": "An evaluation of a local variance of the United Network for Organ Sharing (UNOS) point system on the distribution of cadaver kidneys to waiting minority recipients. Medical Advisory Committee, the Regional Organ Bank of Illinois.\r", 
+  ".U": "91111742\r"
+ }, 
+ {
+  ".I": "296035", 
+  ".M": "Belgium; Heart Transplantation; Human; Kidney Transplantation; Legislation; Liver Transplantation; Organ Procurement/*MT; Tissue Donors/*.\r", 
+  ".A": [
+   "Roels", 
+   "Vanrenterghem", 
+   "Waer", 
+   "Christiaens", 
+   "Gruwez", 
+   "Michielsen"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):903-4\r", 
+  ".T": "Three years of experience with a 'presumed consent' legislation in Belgium: its impact on multi-organ donation in comparison with other European countries. The Leuven Collaborative Group for Transplantation.\r", 
+  ".U": "91111743\r"
+ }, 
+ {
+  ".I": "296036", 
+  ".M": "Age Factors; Graft Survival; Heart Transplantation/MT; Human; Kidney Transplantation/MT; Liver Transplantation/MT; Organ Procurement; Organ Transplantation/*MT; Renin/BL; Tissue Donors/*.\r", 
+  ".A": [
+   "Alexander", 
+   "Vaughn", 
+   "Carey"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):905-9\r", 
+  ".T": "The use of marginal donors for organ transplantation: the older and younger donors.\r", 
+  ".U": "91111744\r"
+ }, 
+ {
+  ".I": "296037", 
+  ".M": "Human; Kidney Transplantation/*MT; Myocardial Infarction; Organ Procurement/*ST; Tissue Donors/*.\r", 
+  ".A": [
+   "Kootstra", 
+   "Wijnen", 
+   "van", 
+   "van"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):910-1\r", 
+  ".T": "Twenty percent more kidneys through a non-heart beating program.\r", 
+  ".U": "91111745\r"
+ }, 
+ {
+  ".I": "296038", 
+  ".M": "Cyclosporins/TU; Graft Survival; Haplotypes; Histocompatibility; Human; Immunosuppression/MT; Kidney Transplantation/*MT; Support, Non-U.S. Gov't; Survival Analysis; Tissue Donors.\r", 
+  ".A": [
+   "Berloco", 
+   "Alfani", 
+   "Bruzzone", 
+   "Renna", 
+   "Rossi", 
+   "Pretagostini", 
+   "Caricato", 
+   "Poli", 
+   "Pisani", 
+   "Trovati", 
+   "et"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):912-3\r", 
+  ".T": "Is unrelated living donor a valid organ source in renal transplantation under CyA therapy?\r", 
+  ".U": "91111746\r"
+ }, 
+ {
+  ".I": "296039", 
+  ".M": "Azathioprine/PD; Blotting, Northern; Cyclosporins/*PD; Gene Expression; Human; In Vitro; Interleukin-6/*GE; Kidney Transplantation/*PH; Lymphocyte Transformation; Lymphocytes/*PH; Phytohemagglutinins/PD; Prednisolone/PD; RNA, Messenger/GE.\r", 
+  ".A": [
+   "Yoshimura", 
+   "Kahan", 
+   "Oka"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):958-60\r", 
+  ".T": "The in vivo effect of cyclosporine on interleukin-6 gene expression in renal transplant recipients.\r", 
+  ".U": "91111761\r"
+ }, 
+ {
+  ".I": "296040", 
+  ".M": "Antibodies, Monoclonal/IM; Antigens, Differentiation, T-Lymphocyte/IM/*PH; Cyclosporins/*PD; Human; In Vitro; Interleukin-2/BI; Isoquinolines/PD; Lymphocyte Transformation/*DE; Piperazines/PD; Protein Kinases/AI; Receptors, Antigen, T-Cell/IM; Receptors, Interleukin-2/ME; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S.; T-Lymphocytes/*DE/ME.\r", 
+  ".A": [
+   "Hess", 
+   "Bright"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):961-6\r", 
+  ".T": "Cyclosporine inhibits T-cell activation at two distinct levels: role of the CD 28 activation pathway.\r", 
+  ".U": "91111762\r"
+ }, 
+ {
+  ".I": "296041", 
+  ".M": "Cell Division/DE; Cyclosporins/*PD; Endothelins/*PH; Endothelium, Vascular/*DE/PH; Human; In Vitro; Muscle, Smooth/*CY; Support, Non-U.S. Gov't; Tissue Culture.\r", 
+  ".A": [
+   "Bunchman", 
+   "Brookshire"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):967-8\r", 
+  ".T": "Smooth muscle cell proliferation by conditioned media from cyclosporine-treated endothelial cells: a role of endothelin.\r", 
+  ".U": "91111763\r"
+ }, 
+ {
+  ".I": "296042", 
+  ".M": "Adult; Creatinine/BL; Cyclosporins/*AE; Human; Kidney Diseases/*CI; Kidney Transplantation/*MT; Phthalic Acids/*TU; Thromboxane B2/UR.\r", 
+  ".A": [
+   "Quarto", 
+   "Elli", 
+   "Rivolta", 
+   "Parenti", 
+   "Palazzi", 
+   "Zanussi"
+  ], 
+  ".P": "CLINICAL TRIAL; JOURNAL ARTICLE; RANDOMIZED CONTROLLED TRIAL.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):969-71\r", 
+  ".T": "Prevention of chronic cyclosporine nephrotoxicity in renal transplantation by picotamide.\r", 
+  ".U": "91111764\r"
+ }, 
+ {
+  ".I": "296043", 
+  ".M": "Cyclosporins/*PD; Hemodynamics/*DE; Human; Kidney Transplantation/*PH; Prospective Studies; Support, Non-U.S. Gov't; Ultrasonography.\r", 
+  ".A": [
+   "Merkus", 
+   "van", 
+   "Hoitsma", 
+   "Koene", 
+   "Skotnicki"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):972-3\r", 
+  ".T": "Doppler spectrum analysis can detect immediate hemodynamic effects of cyclosporine infusion on human kidney grafts.\r", 
+  ".U": "91111765\r"
+ }, 
+ {
+  ".I": "296044", 
+  ".M": "Amino Acid Isomerases/*ME; Carrier Proteins/*ME; Chromatography, High Pressure Liquid; Cyclosporins/BL/*ME; Human; Immunosuppression; Kidney Transplantation/*PH.\r", 
+  ".A": [
+   "Paul", 
+   "Harding", 
+   "Marks", 
+   "Handschumacher", 
+   "Lorber"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):974-5\r", 
+  ".T": "Cyclophilin binding: a more accurate measure of cyclosporine immunosuppressive activity after renal transplantation.\r", 
+  ".U": "91111766\r"
+ }, 
+ {
+  ".I": "296045", 
+  ".M": "Cyclosporins/*PD; Cytotoxicity, Immunologic/*DE; Human; Immunity, Cellular/*DE; Immunity, Natural/DE; In Vitro; Interleukin-2/PD; Killer Cells, Lymphokine-Activated/DE; Killer Cells, Natural/*DE; Recombinant Proteins.\r", 
+  ".A": [
+   "Citterio", 
+   "Cauda", 
+   "Tumbarello", 
+   "Pozzetto", 
+   "Ortona", 
+   "Castagneto"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):976-7\r", 
+  ".T": "Cyclosporine reversibly inhibits natural killer-cell activity.\r", 
+  ".U": "91111767\r"
+ }, 
+ {
+  ".I": "296046", 
+  ".M": "Cells, Cultured; Cyclosporins/*ME; Cytochrome P-450/*ME; Drug Interactions/*; Enzyme Induction/DE; Human; In Vitro; Liver/ME; Structure-Activity Relationship.\r", 
+  ".A": [
+   "Pichard", 
+   "Fabre", 
+   "Domergue", 
+   "Fabre", 
+   "Saint-Aubert", 
+   "Mourad", 
+   "Maurel"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):978-9\r", 
+  ".T": "Molecular mechanism of cyclosporine A drug interactions: inducers and inhibitors of cytochrome P450 screening in primary cultures of human hepatocytes.\r", 
+  ".U": "91111768\r"
+ }, 
+ {
+  ".I": "296047", 
+  ".M": "Cell Line; Cyclosporins/*ME/PD; Human; In Vitro; Interleukin-2/BI; Lymphocyte Transformation/DE; Methylprednisolone/PD; Structure-Activity Relationship; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S.; T-Lymphocytes/*DE.\r", 
+  ".A": [
+   "Freed", 
+   "Stevens", 
+   "Brooks", 
+   "Cramer", 
+   "Lempert", 
+   "Rosano"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):980-1\r", 
+  ".T": "Assessment of the biological activity of cyclosporine metabolites using the human JURKAT cell line.\r", 
+  ".U": "91111769\r"
+ }, 
+ {
+  ".I": "296048", 
+  ".M": "Animal; Antibodies, Monoclonal/IM; Antibody Specificity; Antigens, CD/*IM; Antigens, Differentiation, T-Lymphocyte/*IM; Antilymphocyte Serum/*IM; Human; Lymphocyte Transformation/*; Rabbits; Receptors, Immunologic/*IM; Support, Non-U.S. Gov't; T-Lymphocytes/*IM.\r", 
+  ".A": [
+   "Leimenstoll", 
+   "Zerrenthin", 
+   "Niedermayer", 
+   "Steinmann"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):982-4\r", 
+  ".T": "An antithymocyte globulin of rabbit origin inhibits the antigen-induced activation of alloreactive T cells by blocking CD2.\r", 
+  ".U": "91111770\r"
+ }, 
+ {
+  ".I": "296049", 
+  ".M": "Administration, Oral; Blood Pressure; Capsules; Costs and Cost Analysis; Creatinine/BL; Cyclosporins/*AD; Human; Immunosuppression/*EC; Kidney/PH; Kidney Transplantation/*IM/PH; Potassium/BL; Support, Non-U.S. Gov't.\r", 
+  ".A": [
+   "Dandavino", 
+   "Boucher", 
+   "Gagne", 
+   "Labelle"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):985-6\r", 
+  ".T": "A pharmacoeconomic intrapatient comparison of Sandimmune capsules and Sandimmune oral solution in kidney transplant recipients.\r", 
+  ".U": "91111771\r"
+ }, 
+ {
+  ".I": "296050", 
+  ".M": "Azathioprine/*AD; Cyclosporins/*AD; Graft Survival; Human; Hypertension/CO; Immunosuppression/*MT; Kidney/PH; Kidney Transplantation/*IM/PH; Prednisolone/*AD; Prospective Studies.\r", 
+  ".A": [
+   "Hiesse", 
+   "Neyrat", 
+   "Deglise-Favre", 
+   "Lantz", 
+   "Bensadoun", 
+   "Benoit", 
+   "Charpentier", 
+   "Fries"
+  ], 
+  ".P": "CLINICAL TRIAL; JOURNAL ARTICLE; RANDOMIZED CONTROLLED TRIAL.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):987-9\r", 
+  ".T": "Randomized prospective trial of elective cyclosporine withdrawal from triple therapy at 6 months after cadaveric renal transplantation.\r", 
+  ".U": "91111772\r"
+ }, 
+ {
+  ".I": "296051", 
+  ".M": "Cyclosporins/*AD; Double-Blind Method; Graft Rejection/DE; Human; Immunosuppression/*MT; Kidney Transplantation/*IM; Prednisone/*AD; Prospective Studies; Survival Analysis.\r", 
+  ".A": [
+   "Gulanikar", 
+   "Belitsky", 
+   "MacDonald", 
+   "Cohen", 
+   "Bitter-Suermann"
+  ], 
+  ".P": "CLINICAL TRIAL; JOURNAL ARTICLE; RANDOMIZED CONTROLLED TRIAL.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):990-1\r", 
+  ".T": "Randomized controlled trial of steroids versus no steroids in stable cyclosporine-treated renal graft recipients.\r", 
+  ".U": "91111773\r"
+ }, 
+ {
+  ".I": "296052", 
+  ".M": "Azathioprine/AD; Cyclosporins/*AD; Graft Survival; Human; Immunosuppression/*MT; Kidney Transplantation/*MT; Prednisolone/AD; Survival Analysis.\r", 
+  ".A": [
+   "Griffin", 
+   "Salaman"
+  ], 
+  ".P": "CLINICAL TRIAL; JOURNAL ARTICLE; RANDOMIZED CONTROLLED TRIAL.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):992-3\r", 
+  ".T": "Long-term results of cyclosporine monotherapy in kidney transplantation.\r", 
+  ".U": "91111774\r"
+ }, 
+ {
+  ".I": "296053", 
+  ".M": "Antilymphocyte Serum/AD; Azathioprine/AD; Cadaver; Cyclosporins/AD; Diabetes Mellitus/CO; Graft Survival; Human; Immunosuppression/*MT; Kidney Transplantation/*MT; Prednisone/*AD; Survival Analysis.\r", 
+  ".A": [
+   "Bry", 
+   "Warvariv", 
+   "Bohannon", 
+   "Feduska", 
+   "Straube", 
+   "Collins", 
+   "Levin"
+  ], 
+  ".P": "CLINICAL TRIAL; JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):994-6\r", 
+  ".T": "Cadaveric renal transplant without prophylactic prednisone therapy.\r", 
+  ".U": "91111775\r"
+ }, 
+ {
+  ".I": "296054", 
+  ".M": "Age Factors; Cadaver; Creatinine/BL; Cyclosporins/*AD; Graft Survival; Human; Immunosuppression/*MT; Kidney/PH; Kidney Transplantation/*MT/PH; Prognosis; Survival Analysis.\r", 
+  ".A": [
+   "Tamm", 
+   "Thiel", 
+   "Huser", 
+   "Brunner", 
+   "Mihatsch", 
+   "Landmann"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):997-8\r", 
+  ".T": "Cyclosporine monotherapy after kidney transplantation since 1983.\r", 
+  ".U": "91111776\r"
+ }, 
+ {
+  ".I": "296055", 
+  ".M": "Antilymphocyte Serum/*AD; Azathioprine/AD; Cadaver; Cyclosporins/*AD; Graft Rejection; Graft Survival; Human; Immunosuppression/AE/*MT; Kidney Transplantation/*MT; Methylprednisolone/AD; Prospective Studies; Survival Analysis.\r", 
+  ".A": [
+   "Belitsky", 
+   "MacDonald", 
+   "Cohen", 
+   "Crocker", 
+   "Hirsch", 
+   "Jindal", 
+   "Lawen"
+  ], 
+  ".P": "CLINICAL TRIAL; JOURNAL ARTICLE; RANDOMIZED CONTROLLED TRIAL.\r", 
+  ".S": "Transplant Proc 9105; 23(1 Pt 2):999-1000\r", 
+  ".T": "Comparison of antilymphocyte globulin and continuous i.v. cyclosporine A as induction immunosuppression for cadaver kidney transplants: a prospective randomized study.\r", 
+  ".U": "91111777\r"
+ }, 
+ {
+  ".I": "296056", 
+  ".M": "Adult; Comparative Study; Female; Half-Life; Human; Injections, Intravenous; Obesity, Morbid/*ME; Ranitidine/AD/*PK; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S..\r", 
+  ".A": [
+   "Davis", 
+   "Quenzer", 
+   "Bozigian", 
+   "Warner"
+  ], 
+  ".P": "CLINICAL TRIAL; JOURNAL ARTICLE.\r", 
+  ".S": "DICP 9105; 24(11):1040-3\r", 
+  ".T": "Pharmacokinetics of ranitidine in morbidly obese women.\r", 
+  ".U": "91112156\r", 
+  ".W": "The pharmacokinetics of a single dose of ranitidine 50 mg iv were determined in ten normal-weight and ten morbidly obese (greater than 90 percent ideal body weight) age-matched female subjects. No significant difference between normal and obese subjects was found in ranitidine peak serum concentration, volume of distribution, clearance, and elimination rate constant. Ranitidine volume of distribution and clearance were significantly smaller in the obese subjects per kilogram of total body weight (1.45 vs. 0.80 L/kg and 0.59 vs. 0.33 L/h/kg, respectively; p less than 0.001) but not when normalized to ideal body weight (1.65 vs. 1.45 L/kg and 0.68 vs. 0.59 L/h/kg). We conclude that obese patients receiving ranitidine therapy should be treated with standard dosages or dosages based on ideal body weight.\r"
+ }, 
+ {
+  ".I": "296057", 
+  ".M": "Adult; Case Report; Diabetes Mellitus, Insulin-Dependent/*CO; Diabetes Mellitus, Non-Insulin-Dependent/*CO; Diabetic Nephropathies/*DT; Female; Fibrinogen/AN; Human; Male; Middle Age; Pentoxifylline/AD/*TU; Proteinuria/CO/*DT; Support, Non-U.S. Gov't.\r", 
+  ".A": [
+   "White", 
+   "Karam", 
+   "Koda-Kimble"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "DICP 9105; 24(11):1043-5\r", 
+  ".T": "Effects of pentoxifylline on proteinuria in normotensive patients with diabetes mellitus.\r", 
+  ".U": "91112157\r", 
+  ".W": "In 1985, investigators reported that four months of pentoxifylline therapy resulted in a significant decrease in proteinuria (46 percent reduction) and plasma fibrinogen concentrations (18 percent reduction) in patients with diabetes. Our study evaluated four normotensive patients with diabetes and documented proteinuria who were treated with pentoxifylline 400 mg tid for four months. A consistent decrease in proteinuria (as measured by the urine protein/creatinine ratio) and plasma fibrinogen concentrations was not observed. Therapy with pentoxifylline was discontinued after four months.\r"
+ }, 
+ {
+  ".I": "296058", 
+  ".M": "Aged; Case Report; Chemistry, Pharmaceutical; Dermatitis Medicamentosa/*ET; Diltiazem/*AE/TU; Erythema/*ET; Human; Male.\r", 
+  ".A": [
+   "Wirebaugh", 
+   "Geraets"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "DICP 9105; 24(11):1046-9\r", 
+  ".T": "Reports of erythematous macular skin eruptions associated with diltiazem therapy.\r", 
+  ".U": "91112158\r", 
+  ".W": "Diltiazem is a commonly prescribed calcium-channel antagonist for hypertension and ischemic heart disease. The incidence of rash associated with diltiazem therapy is reported to be 1.3 percent. We describe two patients who developed erythematous, macular skin eruptions, approximately two weeks following institution of diltiazem. The skin eruptions resolved after symptomatic treatment and the patients received further therapy with another calcium-channel antagonist. Diltiazem-associated skin eruptions are a rare adverse effect; however, the incidence of rash may occur more frequently than reported in postmarketing surveillance studies.\r"
+ }, 
+ {
+  ".I": "296059", 
+  ".M": "Administration, Topical; Case Report; Conjunctivitis, Bacterial/*DT; Human; Male; Methicillin Resistance; Middle Age; Staphylococcal Infections/*DT; Staphylococcus aureus; Staphylococcus epidermidis; Vancomycin/AD/*TU.\r", 
+  ".A": [
+   "Ross", 
+   "Abate"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "DICP 9105; 24(11):1050, 1053\r", 
+  ".T": "Topical vancomycin for the treatment of Staphylococcus epidermidis and methicillin-resistant Staphylococcus aureus conjunctivitis.\r", 
+  ".U": "91112159\r", 
+  ".W": "Staphylococcus aureus and Staphylococcus epidermidis are organisms that frequently cause conjunctivitis or blepharoconjunctivitis. We describe a patient with methicillin-resistant S. aureus and S. epidermidis conjunctivitis who was treated successfully using an extemporaneously prepared topical ophthalmic solution of vancomycin hydrochloride 31 mg/mL. Studies describing the preparation, stability, and comfort of this solution, as well as reports pertaining to efficacy, are reviewed. Controlled clinical trials evaluating the safety and efficacy of vancomycin ophthalmic solution have not yet been performed.\r"
+ }, 
+ {
+  ".I": "296060", 
+  ".M": "Acquired Immunodeficiency Syndrome/*CO; Adult; Case Report; Female; Human; Male; Recurrence; Stomatitis, Aphthous/CO/*DT; Thalidomide/*TU.\r", 
+  ".A": [
+   "Nicolau", 
+   "West"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "DICP 9105; 24(11):1054-6\r", 
+  ".T": "Thalidomide: treatment of severe recurrent aphthous stomatitis in patients with AIDS.\r", 
+  ".U": "91112160\r", 
+  ".W": "An increasing number of AIDS patients have been noted to suffer severe recurrent aphthous stomatitis (RAS), a condition often associated with high morbidity that remains unresponsive to conventional therapeutic interventions. In two cases thalidomide was administered to successfully treat AIDS patients with RAS. Both patients experienced complete abatement of pain shortly after therapy was initiated. Ulcerations that were present for months resolved after three or four weeks of thalidomide therapy without any adverse effects. Thalidomide appears to be an effective agent for the treatment of severe RAS unresponsive to traditional therapies.\r"
+ }, 
+ {
+  ".I": "296061", 
+  ".M": "Chromatography, High Pressure Liquid; Drug Stability; Drug Storage/MT; Half-Life; Human; Hydrogen-Ion Concentration; Male; Suramin/*AN; Time Factors.\r", 
+  ".A": [
+   "Beijnen", 
+   "van", 
+   "Horenblas", 
+   "Underberg"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "DICP 9105; 24(11):1056-8\r", 
+  ".T": "Chemical stability of suramin in commonly used infusion fluids.\r", 
+  ".U": "91112161\r", 
+  ".W": "The chemical stability of suramin in NaCl 0.9%, dextrose 5%, and lactated Ringer's injection was investigated. The admixtures were stored in glass infusion bottles at 4 degrees C in the dark, and at room temperature (22 degrees C) both protected from light and under normal room fluorescent light conditions in a day-night rhythm. The initial concentration of suramin was approximately 1 mg/mL. Samples withdrawn immediately after preparation and at four hours, one, two, three, five, and seven days were analyzed by HPLC with ultraviolet (UV) detection. Samples were also inspected for visual changes and tested for changes in pH. Accelerated stability studies in NaCl 0.9% injection were executed at 90 degrees C. The drug appeared to be stable under the chosen storage conditions with no visual changes or changes in pH. The accelerated experiments revealed that suramin degrades in NaCl 0.9% at 90 degrees C with a half-life of about 5.5 hours. It is concluded that suramin 1 mg/mL is stable in NaCl 0.9%, dextrose 5%, and lactated Ringer's injections when stored in glass infusion bottles at 4 degrees C in the dark and at 22 degrees C under normal room light conditions in a day-night rhythm or protected from light for at least seven days.\r"
+ }, 
+ {
+  ".I": "296062", 
+  ".M": "Angiotensin-Converting Enzyme Inhibitors/AD/*AE; Cough/*CI/DT; Human.\r", 
+  ".A": [
+   "Do", 
+   "Wandres", 
+   "Hart"
+  ], 
+  ".P": "JOURNAL ARTICLE; REVIEW; REVIEW, TUTORIAL.\r", 
+  ".S": "DICP 9105; 24(11):1059-60\r", 
+  ".T": "ACE inhibitor-induced cough.\r", 
+  ".U": "91112162\r"
+ }, 
+ {
+  ".I": "296063", 
+  ".M": "Anabolic Steroids/*AE; Comparative Study; Heart/*DE; Human; Lipoproteins, HDL/*AI/BL; Lipoproteins, LDL/*AI/BL; Liver Diseases/CI; Myocardial Infarction/CI; Physical Education and Training/MT.\r", 
+  ".A": [
+   "Lorimer", 
+   "Hart"
+  ], 
+  ".P": "JOURNAL ARTICLE; REVIEW; REVIEW, TUTORIAL.\r", 
+  ".S": "DICP 9105; 24(11):1060-1\r", 
+  ".T": "Cardiac dysfunction in athletes receiving anabolic steroids.\r", 
+  ".U": "91112163\r"
+ }, 
+ {
+  ".I": "296064", 
+  ".M": "Administration, Topical; Alopecia Areata/*DT; Dose-Response Relationship, Drug; Female; Human; Hypertrichosis/CI; Minoxidil/AD/*TU.\r", 
+  ".A": [
+   "Hong", 
+   "Hart"
+  ], 
+  ".P": "JOURNAL ARTICLE; REVIEW; REVIEW, TUTORIAL.\r", 
+  ".S": "DICP 9105; 24(11):1062-3\r", 
+  ".T": "Topical minoxidil for hair loss in women.\r", 
+  ".U": "91112164\r"
+ }, 
+ {
+  ".I": "296065", 
+  ".M": "Bronchodilator Agents/AE; Food/AE; Gastroesophageal Reflux/*CO; Human; Lung Diseases/*ET/TH.\r", 
+  ".A": [
+   "Gonzalez", 
+   "Bahal", 
+   "Johnson"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "DICP 9105; 24(11):1064-9\r", 
+  ".T": "Gastroesophageal reflux and respiratory symptoms: is there an association? Proposed mechanisms and treatment.\r", 
+  ".U": "91112165\r", 
+  ".W": "Gastroesophageal reflux (GER) is a dysfunction of the distal esophagus causing movement of stomach contents into the esophagus. Patients may develop heartburn, regurgitation, dysphagia, odynophagia, and hemorrhage. Respiratory symptoms occur in 10-60 percent of patients with GER or hiatal hernia. Although there is evidence associating pulmonary symptoms and GER, causality has not been proven. The appropriate use of antireflux therapy or surgery to treat GER may consequently alleviate respiratory symptoms.\r"
+ }, 
+ {
+  ".I": "296066", 
+  ".M": "Comparative Study; Diagnosis, Laboratory/*IS/TD; Drug Therapy/*; Physicians' Offices/*; Quality Control.\r", 
+  ".A": [
+   "Oles"
+  ], 
+  ".P": "JOURNAL ARTICLE; REVIEW; REVIEW LITERATURE.\r", 
+  ".S": "DICP 9105; 24(11):1070-7\r", 
+  ".T": "Therapeutic drug monitoring analysis systems for the physician office laboratory: a review of the literature.\r", 
+  ".U": "91112166\r", 
+  ".W": "Commercially available systems for therapeutic drug monitoring in the physician office laboratory (POL) are reviewed. The Abbott Vision, Kodak Ektachem, Syntex AccuLevel, Syva Emit QST, Ames Seralyzer ARIS, and Ames Clinimate ARIS have been found to be sensitive and accurate compared with more conventional laboratory assays, and are well-suited for the POL. The number of available drug assay is very limited with every system except the QST. The QST offers a large menu and would be appropriate for large practices. The Abbott TDx or other semiautomated system usually found in the clinical chemistry laboratory may be particularly useful and cost-effective in office practices with a large volume of specimens. AccuLevel or ARIS might be the best choices for clinics or pharmacies that generate few samples. The start-up time is the longest with the Vision and Ektachem systems (30 minutes). Most systems have the capacity to produce results within one to five minutes with the exceptions of the Vision (13 minutes for theophylline) and AccuLevel (20 minutes). The Vision is the most automated system and both AccuLevel and the Vision use whole blood, thereby bypassing the additional time required for centrifugation of the patient specimen. The Ektachem, Vision, and QST have an operator-independent pipetting step that offers a significant advantage when operated by semiskilled personnel. Although the AccuLevel eliminates the need for a large initial capital expenditure, the individual cost per test is higher. Leasing programs are available or certain systems. Increased government regulation will improve the quality control of therapeutic drug monitoring in the POL.\r"
+ }, 
+ {
+  ".I": "296067", 
+  ".M": "Antifungal Agents/AD/*TU; Candidiasis, Vulvovaginal/*DT; Clotrimazole/AD/TU; Comparative Study; Costs and Cost Analysis; Female; Human; Imidazoles/AD/*TU; Miconazole/AD/TU; Pregnancy; Pregnancy Complications, Infectious/*DT; Triazoles/TU.\r", 
+  ".A": [
+   "Doering", 
+   "Santiago"
+  ], 
+  ".P": "JOURNAL ARTICLE; REVIEW; REVIEW, TUTORIAL.\r", 
+  ".S": "DICP 9105; 24(11):1078-83\r", 
+  ".T": "Drugs for treatment of vulvovaginal candidiasis: comparative efficacy of agents and regimens.\r", 
+  ".U": "91112167\r", 
+  ".W": "Various agents are available for the treatment of vulvovaginal candidiasis. Imidazole agents (clotrimazole, miconazole, butoconazole, and terconazole) are preferred because of their greater efficacy, shorter treatment regimens, and ease of administration. Although the various imidazole compounds are equally efficacious, different treatment schedules are recommended depending on clinical situations. Additionally, different formulations are available that provide clinicians and patients with the opportunity to select the most appropriate agent.\r"
+ }, 
+ {
+  ".I": "296068", 
+  ".M": "Artificial Intelligence; Critical Care/*; Data Collection/*/IS; Decision Making; Drug Therapy, Computer-Assisted/*; Hospital Information Systems/*; Human; Intensive Care Units/*; Medical Records; Monitoring, Physiologic/IS; Software.\r", 
+  ".A": [
+   "Dasta"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "DICP 9105; 24(11):1084-92\r", 
+  ".T": "Computers in critical care: opportunities and challenges.\r", 
+  ".U": "91112168\r", 
+  ".W": "Treating acutely ill patients in intensive care units (ICUs) requires assimilating large amounts of patient data. The computer can help process these data and display information in easy to understand formats. Also, knowledge-based systems can provide advice in diagnosis and treatment of common disorders in the ICU. For effective use of computers, systems must be integrated into the total hospital information system and computer data must logically become the primary medical record. Standards are being developed to aid in this process. Although computers have been used in the ICU for 25 years, most hospitals still use the paper medical record. Prototype systems such as the HELP, CARE, and PDMS systems are described. They are integrated ICU systems for computerizing most of the traditional functions in the ICU. Several commercial information management products are also described along with recently developed computerized drug and fluid delivery systems. Finally, prototype knowledge-based programs are presented that provide advice to the clinician on such topics as acid-base balance, hemodynamic monitoring, and shock management.\r"
+ }, 
+ {
+  ".I": "296069", 
+  ".M": "Diagnostic Errors; Drug Interactions/*; Drug Therapy; Drugs/AD/*AE; Human; Medication Errors/*; Pharmaceutical Services/*CL; Pharmacists/*.\r", 
+  ".A": [
+   "Strand", 
+   "Morley", 
+   "Cipolle", 
+   "Ramsey", 
+   "Lamsam"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "DICP 9105; 24(11):1093-7\r", 
+  ".T": "Drug-related problems: their structure and function.\r", 
+  ".U": "91112169\r", 
+  ".W": "In order to better focus the role of the pharmacist on patient need and patient outcome, a means of categorizing drug-related problems (DRPs) is presented. A DRP exists when a patient experiences or is likely to experience either a disease or symptom having an actual or suspected relationship with drug therapy. Eight different categories of DRPs are described and examples of each category are offered. This categorization serves a number of functions, such as: (1) to illustrate how adverse drug reactions form but one category of extant DRPs, (2) to make tangible the pharmacist's role for the future, (3) to serve as a focus for developing a systematic process whereby the pharmacist contributes significantly to the overall positive outcome of patients, (4) to bring to pharmacy practice a vocabulary consistent with that of other healthcare professionals, and (5) to aid in the development of standards of practice for pharmacists.\r"
+ }, 
+ {
+  ".I": "296070", 
+  ".M": "Anti-Inflammatory Agents, Non-Steroidal/AD/AE/PD/*PK; Child; Child, Preschool; Dose-Response Relationship, Drug; Drug Combinations; Drug Interactions; Half-Life; Human; Infusions, Parenteral; Injections, Intramuscular; Tolmetin/*AA/AD/AE/PD/PK; Tromethamine/AD/AE/PD/*PK.\r", 
+  ".A": [
+   "Resman-Targoff"
+  ], 
+  ".P": "JOURNAL ARTICLE; REVIEW; REVIEW OF REPORTED CASES.\r", 
+  ".S": "DICP 9105; 24(11):1098-104\r", 
+  ".T": "Ketorolac: a parenteral nonsteroidal antiinflammatory drug.\r", 
+  ".U": "91112170\r", 
+  ".W": "Ketorolac tromethamine is a pyrrolo-pyrrole nonsteroidal antiinflammatory drug (NSAID) with potent analgesic effects when administered intramuscularly for the treatment of acute pain. Ketorolac is well absorbed and has a rapid onset of action. Maximum plasma concentrations are achieved in 45-50 minutes and peak analgesic effects in about one to two hours following intramuscular injection. Ketorolac is more than 99 percent bound to plasma proteins and has a mean apparent volume of distribution of 0.11-0.25 L/kg. About 91 percent of a dose is excreted in urine, mostly as inactive metabolites, and approximately 6 percent is eliminated in feces. The elimination half-life, approximately four to six hours, increases in elderly patients and those with renal impairment. Its analgesic effectiveness was similar or superior to that of morphine, meperidine, or pentazocine in single-dose studies of patients with postoperative pain or renal colic and greater than that of placebo in patients with chronic cancer pain. The adverse effects are generally mild to moderate, self-limiting, and similar to those seen with other prostaglandin inhibitors. Ketorolac has a reversible inhibitory effect on platelet aggregation. It can cause dose-related gastric ulcerations, even when administered parenterally. Ketorolac is a promising parenteral alternative to oral NSAIDs and a nonnarcotic alternative to opioid analgesics. Additional multiple-dose studies are needed to more clearly define its place in therapy.\r"
+ }, 
+ {
+  ".I": "296071", 
+  ".M": "Angioplasty, Transluminal, Percutaneous Coronary/*; Animal; Blood Substitutes/*/AE/CH/PD/PK; Costs and Cost Analysis; Drug Interactions; Fluorocarbons/*/AE/CH/PD/PK; Human; Ischemia/ME/*TH.\r", 
+  ".A": [
+   "Garrelts"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "DICP 9105; 24(11):1105-12\r", 
+  ".T": "Fluosol: an oxygen-delivery fluid for use in percutaneous transluminal coronary angioplasty.\r", 
+  ".U": "91112171\r", 
+  ".W": "Fluosol (20% intravascular perfluorochemical emulsion) is an oxygen-carrying emulsion used to deliver oxygen to ischemic myocardium during percutaneous transluminal coronary angioplasty (PTCA). Fluosol is composed of two perfluorochemicals, perfluorodecalin and perfluorotripropylamine. It has a high capacity for oxygen solubility, a low viscosity, and a small particle size. Following administration, the perfluorochemicals in fluosol are not metabolized. Rather, most are expired as gaseous particles through the lungs; the remainder are taken up by the organs of the reticuloendothelial system and later expired. When administered during balloon inflation in PTCA, fluosol preserves ventricular wall motion and global left ventricular ejection fraction. In addition, it minimizes ST segment changes and preserves cardiac output. Fluosol may be especially useful in patients who have poor contractile reserve, multivessel disease, or serious underlying illness. Other uses under investigation include limitation of myocardial infarct size and chemosensitization or radiosensitization of malignant tumors. Adverse effects secondary to the use of fluosol include ventricular arrhythmias, pruritus, bradycardia, chest pain, dyspnea, and increased respiratory rate. Fluosol must be thawed, admixed, warmed to body temperature, and oxygenated prior to intracoronary administration. The usual administration rate is 60 mL/min during each balloon inflation.\r"
+ }, 
+ {
+  ".I": "296072", 
+  ".M": "Drug Therapy; Human; Pharmacy/*OG; Specialism/*.\r", 
+  ".A": [
+   "Carter"
+  ], 
+  ".P": "EDITORIAL.\r", 
+  ".S": "DICP 9105; 24(11):1113-4\r", 
+  ".T": "A structure for pharmacy specialization [editorial]\r", 
+  ".U": "91112172\r"
+ }, 
+ {
+  ".I": "296073", 
+  ".M": "Aged; Aged, 80 and over; Amiodarone/*PD; Case Report; Drug Interactions; Human; Male; Theophylline/BL/*PO.\r", 
+  ".A": [
+   "Soto", 
+   "Sacristan", 
+   "Arellano", 
+   "Hazas"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "DICP 9105; 24(11):1115\r", 
+  ".T": "Possible theophylline-amiodarone interaction [letter]\r", 
+  ".U": "91112173\r"
+ }, 
+ {
+  ".I": "296074", 
+  ".M": "Aged; Allopurinol/TU; Colchicine/TU; Gout/*CI/DT; Human; Male; Pyrazinamide/*AE.\r", 
+  ".A": [
+   "Amodio", 
+   "Bengualid", 
+   "Lowy"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "DICP 9105; 24(11):1115-6\r", 
+  ".T": "Development of acute gout secondary to pyrazinamide in a patient without a prior history of gout [letter]\r", 
+  ".U": "91112174\r"
+ }, 
+ {
+  ".I": "296075", 
+  ".M": "Administration, Sublingual; Adult; Aged; Angiotensin-Converting Enzyme Inhibitors/AD/TU; Blood Pressure/*DE; Captopril/*AD/*DU; Diastole; Human; Hypertension/DT; Middle Age; Renin/BL.\r", 
+  ".A": [
+   "Rey", 
+   "Gums"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "DICP 9105; 24(11):1116-7\r", 
+  ".T": "Administration of ACEI test sublingually [letter]\r", 
+  ".U": "91112175\r"
+ }, 
+ {
+  ".I": "296076", 
+  ".M": "Chemistry, Pharmaceutical; Drug Industry/*ST; Drug Information Services/*ST; Human.\r", 
+  ".A": [
+   "Wilson", 
+   "Crabbe"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "DICP 9105; 24(11):1117\r", 
+  ".T": "Validity of information received from pharmaceutical companies [letter]\r", 
+  ".U": "91112176\r"
+ }, 
+ {
+  ".I": "296077", 
+  ".M": "Comparative Study; Human; Peer Review/MT/*ST; Periodicals/*; Publishing.\r", 
+  ".A": [
+   "Cleary", 
+   "Alexander"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "DICP 9105; 24(11):1117-8\r", 
+  ".T": "Blind versus nonblind review: a reevaluation of selected medical journals [letter]\r", 
+  ".U": "91112177\r"
+ }, 
+ {
+  ".I": "296078", 
+  ".M": "Drugs, Non-Prescription/*/TU; Human; Medical History Taking/*.\r", 
+  ".A": [
+   "Ponte"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "DICP 9105; 24(11):1118\r", 
+  ".T": "What nonprescription medications are you taking, Mrs. Jones? [letter]\r", 
+  ".U": "91112178\r"
+ }, 
+ {
+  ".I": "296079", 
+  ".M": "Advertising; Human; Oxygen/*; Substance Abuse/*.\r", 
+  ".A": [
+   "Montagne"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "DICP 9105; 24(11):1118-9\r", 
+  ".T": "The \"abuse\" of oxygen [letter]\r", 
+  ".U": "91112179\r"
+ }, 
+ {
+  ".I": "296081", 
+  ".M": "Adolescence; Ciprofloxacin/*AE/ME; Cystic Fibrosis/CO; Female; Human; Joint Diseases/*CI; Lactation; Milk, Human/*ME.\r", 
+  ".A": [
+   "Fulton", 
+   "Moore"
+  ], 
+  ".P": "COMMENT; LETTER.\r", 
+  ".S": "DICP 9105; 24(11):1122\r", 
+  ".T": "Comment: Ciprofloxacin excretion into breast milk [letter; comment]\r", 
+  ".U": "91112182\r"
+ }, 
+ {
+  ".I": "296082", 
+  ".M": "Agranulocytosis/*CI; Diclofenac/*AE; Human.\r", 
+  ".A": [
+   "Oszko"
+  ], 
+  ".P": "COMMENT; LETTER.\r", 
+  ".S": "DICP 9105; 24(11):1122-3\r", 
+  ".T": "Comment: Agranulocytosis from diclofenac illustrates problem in reporting ADRs [letter; comment]\r", 
+  ".U": "91112183\r"
+ }, 
+ {
+  ".I": "296083", 
+  ".M": "Human; Infusion Pumps/*/EC; Ranitidine/*AD.\r", 
+  ".A": [
+   "Maliekal"
+  ], 
+  ".P": "COMMENT; LETTER.\r", 
+  ".S": "DICP 9105; 24(11):1123\r", 
+  ".T": "Comment: Intravenous ranitidine admixtures [letter; comment]\r", 
+  ".U": "91112184\r"
+ }, 
+ {
+  ".I": "296084", 
+  ".M": "Human; Hydroxyzine/AD/*AE; Injections, Intramuscular/AE; Pain/*DT.\r", 
+  ".A": [
+   "Barreuther", 
+   "Friedman"
+  ], 
+  ".P": "COMMENT; LETTER.\r", 
+  ".S": "DICP 9105; 24(11):1123-4\r", 
+  ".T": "Comment: Hydroxyzine for the potentiation of pain relief [letter; comment]\r", 
+  ".U": "91112185\r"
+ }, 
+ {
+  ".I": "296085", 
+  ".M": "Female; Hirsutism/*CI; Human; Phenothiazines/*AE.\r", 
+  ".A": [
+   "Bhopal"
+  ], 
+  ".P": "COMMENT; LETTER.\r", 
+  ".S": "DICP 9105; 24(11):1124\r", 
+  ".T": "Comment: Phenothiazines and hirsutism [letter; comment]\r", 
+  ".U": "91112186\r"
+ }, 
+ {
+  ".I": "296087", 
+  ".M": "Atherosclerosis/CO; Blood Pressure/DE; Coronary Disease/*/CO/MO; Female; Human; Hypertension/*/CO/EP/MO/TH; Male; Smoking.\r", 
+  ".A": [
+   "Gorlin"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am Heart J 9105; 121(2 ( Pt 2)):658-63; discussion 663-4\r", 
+  ".T": "Hypertension and ischemic heart disease: the challenge of the 1990s.\r", 
+  ".U": "91112509\r"
+ }, 
+ {
+  ".I": "296088", 
+  ".M": "Aged; Blacks; Blood Pressure/DE; Communication Barriers/*; Costs and Cost Analysis; Human; Hypertension/*DT; Male; Patient Compliance/*; Physician's Role/*; Treatment Refusal/*.\r", 
+  ".A": [
+   "Clark"
+  ], 
+  ".P": "JOURNAL ARTICLE; REVIEW; REVIEW, TUTORIAL.\r", 
+  ".S": "Am Heart J 9105; 121(2 ( Pt 2)):664-9\r", 
+  ".T": "Improving compliance and increasing control of hypertension: needs of special hypertensive populations.\r", 
+  ".U": "91112510\r", 
+  ".W": "Approximately 60 million people in the United States have hypertension. More than half are either untreated or treated without blood pressure control, despite the well-known risks of hypertension and the established benefits of treatment. The major reason for inadequate control of hypertension is poor adherence to treatment. Approximately 50% of patients with hypertension fail to keep follow-up appointments, and only 60% take their medications as prescribed. Barriers to effective therapeutic adherence include poor doctor-patient communication, cost of antihypertensive therapy, and side effects of the drugs. To increase control of hypertension, compliance with therapy must be improved. Physicians and patients must be mutually committed to achieving control of blood pressure. Physicians should communicate instructions clearly and prescribe therapies that are effective, affordable, and have minimal or no adverse effects on patient quality of life or overall cardiac risk profile. The needs of special hypertensive populations (i.e., elderly, black, and young patients) must also be recognized and addressed. Patients must follow recommendations and alert their physicians to any problems with their medications--particularly those relating to side effects and cost. When selecting drug therapy it should be noted that older patients are sensitive to volume depletion and sympathetic inhibition. In this group of patients, initial drug doses should be low and increments smaller and more gradual than in younger patients. Black patients with hypertension show an accentuated response to diuretics and blunted responses to beta-blockers and angiotensin-converting enzyme (ACE) inhibitors as monotherapy. However, when used with a diuretic, there are no racial differences in the blood pressure lowering effects of beta-blockers and ACE inhibitors.(ABSTRACT TRUNCATED AT 250 WORDS)\r"
+ }, 
+ {
+  ".I": "296089", 
+  ".M": "Adrenergic Beta Receptor Blockaders/AE/TU; Angiotensin-Converting Enzyme Inhibitors/AE/TU; Antihypertensive Agents/*AE/TU; Atherosclerosis/DT; Blood Pressure/*DE; Calcium Channel Blockers/AE/TU; Diuretics/AE/TU; Human; Hyperlipidemia/DT; Myocardial Infarction/DT; Patient Compliance.\r", 
+  ".A": [
+   "Gorlin"
+  ], 
+  ".P": "JOURNAL ARTICLE; REVIEW; REVIEW, TUTORIAL.\r", 
+  ".S": "Am Heart J 9105; 121(2 ( Pt 2)):670-6\r", 
+  ".T": "Do we need another antihypertensive agent?\r", 
+  ".U": "91112511\r", 
+  ".W": "The factors to be considered in selecting antihypertensive agents have traditionally centered around balancing efficacy against adverse side effects. The former can be achieved by a variety of agents alone or in combination. The latter not only involves safety but is also concerned with whether an otherwise safe agent is tolerated by the patient so compliance with the treatment regimen can be achieved. A relatively new consideration is how antihypertensive agents affect other disease states that may or may not be associated with hypertension. For example, how a drug may affect diabetes, gout, myocardial hypertrophy, atherosclerosis, and coronary events must be evaluated. These concerns taken together answer the question of why yet another antihypertensive agent may be needed in the pharmacologic armamentarium.\r"
+ }, 
+ {
+  ".I": "296090", 
+  ".M": "Adrenergic Beta Receptor Blockaders/*PD; Blood Pressure/DE; Bronchodilator Agents/PD; Comparative Study; Heart/*DE; Heart Rate/DE; Human; Ischemia/DT; Propanolamines/*PD; Vasodilator Agents/*PD.\r", 
+  ".A": [
+   "Perrone", 
+   "Barrett"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am Heart J 9105; 121(2 ( Pt 2)):677-83\r", 
+  ".T": "Preclinical pharmacology of celiprolol: a cardioselective beta-adrenergic antagonist and mild vasodilator.\r", 
+  ".U": "91112512\r", 
+  ".W": "Celiprolol is a new antihypertensive agent that represents a new generation of beta-blockers. It combines cardioselective beta-adrenergic antagonism (beta 1) with a mild vasodilation via vasoselective beta-adrenergic agonism (beta 2). Results of animal studies show that celiprolol has beta 1-antagonist potency similar to that of propranolol and atenolol, and cardioselectivity slightly greater than that of atenolol. Celiprolol does not produce bronchoconstriction but has mild propranolol-resistant bronchodilatory properties in cats. The compound also relaxes vascular smooth muscle in a propranolol-sensitive fashion, suggesting a mechanism of beta 2-agonism. The beta 2-agonism results in a selective downregulation in beta 2-receptor number and response in tissue culture, as well as in peripheral tissue from celiprolol-treated volunteers. The decreases in beta 2-receptors are blocked by concomitant treatment with propranolol. Celiprolol is devoid of cardiac depressant activity and in fact has mild cardiostimulatory actions. The cardiostimulation is not via beta 1-stimulation, since it is not abolished by beta-blocking doses of propranolol. In a model of severe myocardial ischemia, celiprolol attenuates the ischemia-induced myocardial acidosis and improves the regional segment function. These results are suggestive of myocardial protection. In summary, celiprolol distinguishes itself from other beta-blockers by virtue of its cardioselectivity, vasorelaxation via beta 2-agonism, and the lack of bronchoconstriction and cardiodepression. These properties observed in animal studies have also been documented in clinical trials.\r"
+ }, 
+ {
+  ".I": "296091", 
+  ".M": "Blood Pressure/*DE; Human; Hypertension/*DT; Propanolamines/AE/*TU; Vasodilator Agents/AE/TU.\r", 
+  ".A": [
+   "Lamon"
+  ], 
+  ".P": "CLINICAL TRIAL; JOURNAL ARTICLE.\r", 
+  ".S": "Am Heart J 9105; 121(2 ( Pt 2)):683-7\r", 
+  ".T": "Clinical safety and efficacy of celiprolol.\r", 
+  ".U": "91112513\r", 
+  ".W": "The management of essential hypertension requires therapeutic selections that are not only effective in reducing diastolic blood pressure but are also tailored to the individual patient, with minimal effect on patient demographics, concurrent illnesses, and cardiovascular risk factors. Celiprolol hydrochloride is a new highly cardioselective vasodilating beta-adrenoceptor antagonist that has been proven effective and safe for the treatment of essential hypertension. It is comparable to other therapies in blood pressure control while demonstrating an excellent safety profile, favorable hemodynamic activity, and minimal effects on other cardiovascular risk factors. Celiprolol may offer the physician a unique therapeutic alternative.\r"
+ }, 
+ {
+  ".I": "296092", 
+  ".M": "Angina Pectoris/*DT; Antihypertensive Agents/AE/*TU; Human; Propanolamines/AE/*TU.\r", 
+  ".A": [
+   "McLenachan", 
+   "Dargie"
+  ], 
+  ".P": "JOURNAL ARTICLE; REVIEW; REVIEW, TUTORIAL.\r", 
+  ".S": "Am Heart J 9105; 121(2 ( Pt 2)):688-90\r", 
+  ".T": "A review of the clinical experience with celiprolol in angina.\r", 
+  ".U": "91112514\r"
+ }, 
+ {
+  ".I": "296093", 
+  ".M": "Adrenergic Beta Receptor Blockaders/*PD; Adult; Atenolol/*PD; Comparative Study; Double-Blind Method; Exertion/*; Heart Rate/DE; Human; Male; Oxygen Consumption/DE; Propanolamines/*PD; Respiration/DE.\r", 
+  ".A": [
+   "McLenachan", 
+   "Grant", 
+   "Ford", 
+   "Henderson", 
+   "Dargie"
+  ], 
+  ".P": "CLINICAL TRIAL; JOURNAL ARTICLE.\r", 
+  ".S": "Am Heart J 9105; 121(2 ( Pt 2)):691-6\r", 
+  ".T": "Submaximal, but not maximal, exercise testing detects differences in the effects of beta-blockers during treadmill exercise: a study of celiprolol and atenolol. II.\r", 
+  ".U": "91112515\r", 
+  ".W": "Celiprolol is a new-generation beta-blocker with ancillary properties that include partial beta 2-agonism and direct vasodilating activity. The effects of atenolol and celiprolol on maximal exercise capacity and on both respiratory variables and subjective indices of breathlessness and fatigue during submaximal exercise were compared in a placebo-controlled crossover study of 12 trained volunteers. Both atenolol and celiprolol equally and significantly reduced exercise capacity and maximal oxygen consumption. During constant submaximal exercise at 70% maximal oxygen uptake, however, differences emerged between the two beta-blockers. Atenolol was associated with a significantly higher minute ventilation than placebo. In contrast, values for minute ventilation and respiratory exchange ratio with celiprolol were similar to values with placebo. During the early stages of exercise, treatment with atenolol was also associated with higher scores for the subjective indices of breathlessness and fatigue. Thus submaximal exercise, which may be physiologically more relevant to the everyday activities of patients, may demonstrate potentially useful differences between drugs that are not seen during maximal exercise testing.\r"
+ }, 
+ {
+  ".I": "296094", 
+  ".M": "Adrenergic Beta Receptor Blockaders/*PD; Antihypertensive Agents/*PD; Blood Pressure/DE; Calcium Channel Blockers/PD; Comparative Study; Diuretics, Thiazide/TU; Human; Lipids/*BL; Lipoproteins/*BL; Propanolamines/*PD.\r", 
+  ".A": [
+   "Hunninghake"
+  ], 
+  ".P": "JOURNAL ARTICLE; REVIEW; REVIEW, TUTORIAL.\r", 
+  ".S": "Am Heart J 9105; 121(2 ( Pt 2)):696-701\r", 
+  ".T": "Effects of celiprolol and other antihypertensive agents on serum lipids and lipoproteins.\r", 
+  ".U": "91112516\r", 
+  ".W": "The expected reduction in coronary heart disease morbidity and mortality has not been observed in intervention trials with antihypertensive agents, and attention has focused on the lipid and lipoprotein effects of antihypertensive agents. Diuretics, especially thiazides, chlorthalidone, and the loop diuretics, increase total and low-density lipoprotein cholesterol and triglyceride levels with generally no significant change in high-density lipoprotein cholesterol. Selective and nonselective beta-blockers decrease high-density lipoprotein cholesterol and increase triglyceride levels, whereas those with intrinsic sympathomimetic activity do not significantly alter lipid and lipoprotein levels. Celiprolol, a beta-blocker with vasodilatory effects, appears to favorably affect lipid and lipoprotein levels as do the alpha 1-adrenergic blockers. The other commonly used antihypertensive agents do not produce significant effects.\r"
+ }, 
+ {
+  ".I": "296095", 
+  ".M": "Adult; Aged; Alcohol Drinking/AE/MO; Case Report; Diabetes Mellitus/CO; Family; Female; Human; Hypercholesterolemia/CO; Hypertension/CO/DT/*TH; Male; Middle Age; Risk Factors; Smoking/AE.\r", 
+  ".A": [
+   "Cohen"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am Heart J 9105; 121(2 ( Pt 2)):702-6\r", 
+  ".T": "Managing the whole patient with hypertension: practical applications in a clinical setting.\r", 
+  ".U": "91112517\r", 
+  ".W": "Physicians are aware of the value of treating hypertension. Complications such as stroke and congestive heart failure are less likely to occur in the well-controlled patient. In our quest to add coronary heart disease to this list, we must go beyond simple reduction of blood pressure. We must consider other risk factors such as hypercholesterolemia, cigarette smoking, diabetes mellitus, and family history. The presence of one or more of these may indicate a more aggressive treatment approach. Similarly the presence of left ventricular hypertrophy, coronary disease, or renal disease may indicate specific pharmacotherapy. On the other hand, the low-risk patient with no other problems or conditions may be treated with only nonpharmacologic therapy such as weight loss, dietary sodium reduction, and/or alcohol restriction. Every patient has a different constellation of findings. Every patient should be treated individually. It is no longer sufficient just to lower blood pressure; we need to manage the whole patient with hypertension; keeping in mind that most antihypertensive agents are equally effective, the side effect profile is often the decisive factor in choosing an antihypertensive agent.\r"
+ }, 
+ {
+  ".I": "296096", 
+  ".M": "Adrenergic Beta Receptor Blockaders/CT/PD; Angiotensin-Converting Enzyme Inhibitors/ME; Antihypertensive Agents/CT/*PD; Decision Making; Diuretics, Thiazide/CT/*PD; Drug Therapy, Combination; Electrolytes/ME; Human; Hypertension/*DT; Metabolism/*DE; Risk Factors.\r", 
+  ".A": [
+   "Black"
+  ], 
+  ".P": "JOURNAL ARTICLE; REVIEW; REVIEW, TUTORIAL.\r", 
+  ".S": "Am Heart J 9105; 121(2 ( Pt 2)):707-15\r", 
+  ".T": "Metabolic considerations in the choice of therapy for the patient with hypertension.\r", 
+  ".U": "91112518\r", 
+  ".W": "The objective of treating patients with hypertension is not simply to reduce blood pressure but rather to prevent the associated morbidity and mortality. Recent assessments of clinical trials have shown that while the risk of stroke is consistently lower with antihypertensive therapy, the same degree of success has not been demonstrated for coronary artery disease (CAD). Although there are many explanations of why we have not done as well in preventing CAD, one possibility is that the therapy used in clinical trials, primarily thiazide diuretics and beta-adrenoreceptor blockers, has increased the patient's risk of developing coronary atherosclerosis or lethal arrhythmias. Four classes of antihypertensive agents are recommended for initial therapy--thiazide diuretics, beta-adrenoreceptor blockers, angiotensin-converting enzyme (ACE) inhibitors, and calcium entry blockers. The metabolic effects of thiazide diuretics include electrolyte disturbances (hypokalemia, hypomagnesemia, and hyponatremia), dyslipidemia (increased triglycerides), abnormalities of glucose metabolism (hyperglycemia, hyperinsulinemia, and peripheral insulin resistance), and hyperuricemia. beta-Adrenoreceptor blockers have many of the same metabolic adverse reactions. beta-Adrenoreceptor blockers without intrinsic sympathomimetic activity (ISA) also cause dyslipidemias (lowered high-density lipoprotein cholesterol and increased triglycerides) and abnormalities of glucose metabolism (hyperglycemia, hyperinsulinemia, and peripheral insulin resistance). beta-Adrenoreceptor blockers with ISA and third-generation beta-blockers with selective partial agonist activity (celiprolol and dilevalol) do not cause dyslipidemia and to date do not appear to induce abnormalities in glucose metabolism. ACE inhibitors may decrease triglycerides and increase high-density lipoprotein cholesterol, and captopril may improve insulin sensitivity. Calcium entry blockers are metabolically neutral.(ABSTRACT TRUNCATED AT 250 WORDS)\r"
+ }, 
+ {
+  ".I": "296097", 
+  ".M": "Adrenergic Beta Receptor Blockaders/*TU; Blood Pressure; Coronary Disease/CO; Hemodynamics/DE; Human; Hypertension/*CO; Kidney/PP; Lung Diseases, Obstructive/CO; Risk Factors.\r", 
+  ".A": [
+   "Weber"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am Heart J 9105; 121(2 ( Pt 2)):716-23\r", 
+  ".T": "Hypertension with concomitant conditions: the changing role of beta-adrenoceptor blockade.\r", 
+  ".U": "91112519\r", 
+  ".W": "Hypertension often is associated with concomitant conditions such as chronic obstructive lung disease, diabetes mellitus, ischemic heart disease, and peripheral vascular disease. Moreover, other cardiovascular risk factors, including dyslipidemias and abnormalities of glucose and insulin metabolism, are common in patients with hypertension. Conventional beta-blockers used for antihypertensive therapy can have adverse effects in patients with airway disease, diabetes, and peripheral vascular disease, and can exaggerate the other risk factors. Newer beta-blockers such as celiprolol, which have selective partial agonist activity expressed at beta 2-receptors, appear to avoid these problems. Celiprolol exhibits antianginal and antihypertensive efficacy without adversely effecting left ventricular systolic function or exercise performance. It also may cause regression of left ventricular hypertrophy. The stimulatory action of celiprolol on vascular beta 2-receptors enhances regional flow and may increase walking distance in patients with claudication. The reduction in renal vascular resistance demonstrated by this drug is associated with preservation of renal blood flow and function. Spirometric measurements of airway function are unchanged during celiprolol treatment. Similarly, there are no adverse effects on lipid or glucose concentrations. These new developments in beta-blocker pharmacology indicate that this class of agents could be used in patients with hypertension with concomitant diseases or risk factors other than high blood pressure.\r"
+ }, 
+ {
+  ".I": "296098", 
+  ".M": "Adrenergic Beta Receptor Blockaders/PD/*TU; Angina Pectoris/DT/MO; Asthma/CO/DT; Blood Pressure/DE; Coronary Disease/DT/MO; Human; Hypertension/CO/DT; Propanolamines/PD/*TU.\r", 
+  ".A": [
+   "Frishman"
+  ], 
+  ".P": "JOURNAL ARTICLE; REVIEW; REVIEW, TUTORIAL.\r", 
+  ".S": "Am Heart J 9105; 121(2 ( Pt 2)):724-9\r", 
+  ".T": "Clinical perspective on celiprolol: cardioprotective potential.\r", 
+  ".U": "91112520\r", 
+  ".W": "beta-Adrenergic blockers have had widespread use in the treatment of cardiovascular disease. Some agents of this class have been shown to reduce the incidence of total mortality, cardiovascular mortality, sudden death, and nonfatal reinfarction in survivors of acute myocardial infarction. The mechanism for this cardioprotective action is not known. Antiarrhythmic action and hemodynamic alterations have been suggested as possible mechanisms. An anticoagulant mechanism is another possibility, although the antiplatelet effects of beta-blockers are weak. It is now believed that antithrombotic effects may be related to the prevention of coronary artery plaque rupture and the subsequent propagation of an occlusive arterial thrombus rather than a direct anticoagulant action. The therapeutic ability beta-blockers to attenuate the hemodynamic consequences of catecholamine surgers, as they do in aortic dissection, may protect a vulnerable plaque from fracture, reducing the risk of coronary thrombosis, myocardial infarction, and death. Celiprolol, a third-generation beta 1-selective adrenergic blocker with partial beta 2-agonist activity, is comparable to other beta-blockers in antihypertensive and antianginal activity. It has additional actions that may be beneficial to patients: (1) it does not adversely affect lipids and lipoproteins; (2) it does not appear to depress the myocardium in patients with left ventricular dysfunction; (3) it can lower serum fibrinogen levels; and (4) it can cause regression of myocardial mass in patients with left ventricular hypertrophy.\r"
+ }, 
+ {
+  ".I": "296099", 
+  ".M": "Financing, Government/*; National Institutes of Health (U.S.); Nutrition/*ED; Research/*; United States.\r", 
+  ".A": [
+   "Pi-Sunyer"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Clin Nutr 9105; 53(2):397-8\r", 
+  ".T": "Federal funding for nutrition research and training.\r", 
+  ".U": "91112530\r"
+ }
+]

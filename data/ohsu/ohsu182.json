@@ -1,0 +1,1565 @@
+[
+ {
+  ".I": "54600", 
+  ".M": "Adrenergic Beta Receptor Blockaders/TU; Adult; Angina Pectoris/*ET/PP/TH; Angioplasty, Transluminal; Anticoagulants/TU; Calcium Channel Blockers/TU; Clinical Trials; Collateral Circulation; Coronary Artery Bypass; Coronary Circulation; Diagnosis, Differential; Fibrinolytic Agents/AD; Follow-Up Studies; Heart/PP; Human; Intra-Aortic Balloon Pumping; Male; Myocardial Infarction/*CO; Nitroglycerin/TU; Prognosis; Recurrence.\r", 
+  ".A": [
+   "Lo", 
+   "Lesch", 
+   "Kaplan"
+  ], 
+  ".P": "CLINICAL TRIAL; JOURNAL ARTICLE; REVIEW.\r", 
+  ".S": "Prog Cardiovasc Dis 8712; 30(2):111-38\r", 
+  ".T": "Postinfarction angina.\r", 
+  ".U": "87318643\r", 
+  ".W": "In conclusion, the PIA patient is at high risk, with higher early as well as late mortality. The pathophysiology of PIA is complex and may vary from patient to patient. The concepts of ischemia at a distance and ischemia in the infarct zone have led to a better understanding of early PIA. Coronary spasm may play an important role in most PIA patients as in the general population of patients with angina pectoris. Medical therapy is efficacious in many, although it may on rare occasion aggravate myocardial ischemia. Urgent coronary arteriography is generally safe and should be performed as soon as possible for medically refractory PIA. CABG appears to be safe in experienced hands, but its timing must be individualized. The IABP should be reserved for more unstable patients for fear of vascular complications. Randomized controlled trials such as the BARI Trial will further compare PTCA with CABG.\r"
+ }, 
+ {
+  ".I": "54601", 
+  ".M": "Animal; Crosses, Genetic; Drosophila melanogaster/*GE; DNA Insertion Elements/*; Female; Gonadal Dysgenesis; Hybridization; Male; Mutation; Probability; Support, U.S. Gov't, Non-P.H.S.; Support, U.S. Gov't, P.H.S..\r", 
+  ".A": [
+   "Woodruff", 
+   "Blount", 
+   "Thompson"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Science 8712; 237(4819):1206-18\r", 
+  ".T": "Hybrid dysgenesis in D. melanogaster is not a general release mechanism for DNA transpositions.\r", 
+  ".U": "87319642\r", 
+  ".W": "Many spontaneous mutations are caused by the insertion or excision of DNA elements. Since most mutations are deleterious, evolution should favor a mechanism for genetically controlling the rate of movement of transposable elements in most, if not all, organisms. In Drosophila melanogaster a syndrome of correlated genetic changes, including mutation, chromosome breakage, and sterility, is observed in the hybrid progeny of crosses between different strains. This syndrome, which is termed hybrid dysgenesis, results from the movement of P-DNA elements. What is not clear is whether the movement of other types of transposable elements is under the same coordinated control. In this study the ability of hybrid dysgenesis to increase the rate of excision of 12 DNA elements at 16 mutant alleles and to induce insertion-bearing mutations to change to other mutant states was tested. The data show that hybrid dysgenesis caused by P-element transpositions does not act as a general stimulus for the movement of other Drosophila transposable elements.\r"
+ }, 
+ {
+  ".I": "54602", 
+  ".M": "Animal; Brain/DE/*ME; Cattle; Cocaine/AD/*PD; Corpus Striatum/ME; Dopamine/ME; Haplorhini; Male; Mazindol/ME; Norepinephrine/ME; Rats; Rats, Inbred Strains; Receptors, Adrenergic/DE/ME; Receptors, Dopamine/DE/*ME; Receptors, Serotonin/DE/ME; Self Administration; Serotonin/ME.\r", 
+  ".A": [
+   "Ritz", 
+   "Lamb", 
+   "Goldberg", 
+   "Kuhar"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Science 8712; 237(4819):1219-23\r", 
+  ".T": "Cocaine receptors on dopamine transporters are related to self-administration of cocaine.\r", 
+  ".U": "87319647\r", 
+  ".W": "Although cocaine binds to several sites in the brain, the biochemical receptor mechanism or mechanisms associated with its dependence producing properties are unknown. It is shown here that the potencies of cocaine-like drugs in self-administration studies correlate with their potencies in inhibiting [3H]mazindol binding to the dopamine transporters in the rat striatum, but not with their potencies in binding to a large number of other presynaptic and postsynaptic binding sites. Thus, the cocaine receptor related to substance abuse is proposed to be the one associated with dopamine uptake inhibition.\r"
+ }, 
+ {
+  ".I": "54603", 
+  ".M": "Africa; Animal; Anthropology; Demography; Fossils; Haplorhini/*/AH; Human; Skull/AH.\r", 
+  ".A": [
+   "Lewin"
+  ], 
+  ".P": "NEWS.\r", 
+  ".S": "Science 8712; 237(4820):1292-5\r", 
+  ".T": "Africa: cradle of modern humans [news]\r", 
+  ".U": "87319653\r"
+ }, 
+ {
+  ".I": "54604", 
+  ".M": "Animal; Anthropology; Ecology; Geography; Haplorhini/*; Human.\r", 
+  ".A": [
+   "Lewin"
+  ], 
+  ".P": "NEWS.\r", 
+  ".S": "Science 8712; 237(4820):1295\r", 
+  ".T": "Ecology of modern humans [news]\r", 
+  ".U": "87319654\r"
+ }, 
+ {
+  ".I": "54605", 
+  ".M": "Animal; Disease Models, Animal; Fluorescent Antibody Technique; Genetic Engineering; Human; HTLV Infections/*GE/PA; Mice; Mice, Nude; Neurofibromatosis 1/*GE/MI/PA; Viral Fusion Proteins/AN.\r", 
+  ".A": [
+   "Hinrichs", 
+   "Nerenberg", 
+   "Reynolds", 
+   "Khoury", 
+   "Jay"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Science 8712; 237(4820):1340-3\r", 
+  ".T": "A transgenic mouse model for human neurofibromatosis.\r", 
+  ".U": "87319660\r", 
+  ".W": "Human T-lymphotropic virus type 1 (HTLV-1) has been associated with the neurologic disorder tropical spastic paraparesis and possibly with multiple sclerosis. The tat gene of HTLV-1 under control of its own long terminal repeat is capable of inducing tumors in transgenic mice. The morphologic and biologic properties of these tumors indicate their close resemblance to human neurofibromatosis (von Recklinghausen's disease), the most common single gene disorder to affect the nervous system. The high spontaneous incidence of this disease, together with the diverse clinical and pathologic features associated with it, suggests that environmental factors may account for some of the observed cases. Multiple tumors developed simultaneously in the transgenic tat mice at approximately 3 months of age, and the phenotype was successfully passed through three generations. The tumors arise from the nerve sheaths of peripheral nerves and are composed of perineural cells and fibroblasts. Tumor cells from these mice adapt easily to propagation in culture and continue to express the tat protein in significant amounts. When transplanted into nude mice, these cultured cells efficiently induce tumors. Evidence of HTLV-1 infection in patients with neural and other soft tissue tumors is needed in order to establish a link between infection by this human retrovirus and von Recklinghausen's disease and other nonlymphoid tumors.\r"
+ }, 
+ {
+  ".I": "54606", 
+  ".M": "Containment of Biohazards/*; Costs and Cost Analysis; DNA, Recombinant; Escherichia coli/GE; Genetic Engineering; Human; Legislation; Microscopy, Electron, Scanning; Protective Clothing; Pseudomonas fluorescens/GE; Risk; United States; United States Environmental Protection Agency.\r", 
+  ".A": [
+   "Marx"
+  ], 
+  ".P": "NEWS.\r", 
+  ".S": "Science 8712; 237(4821):1413-7\r", 
+  ".T": "Assessing the risks of microbial release [news]\r", 
+  ".U": "87319668\r"
+ }, 
+ {
+  ".I": "54607", 
+  ".M": "Bacillus thuringiensis/GE; Containment of Biohazards/*; DNA, Recombinant/*; Fungi/GE; Mutation; Pseudomonas/GE; Pseudomonas fluorescens/GE; Rhizobium/GE; United States; United States Environmental Protection Agency.\r", 
+  ".A": [
+   "Marx"
+  ], 
+  ".P": "NEWS.\r", 
+  ".S": "Science 8712; 237(4821):1415\r", 
+  ".T": "Microbes in or near field-testing [news]\r", 
+  ".U": "87319669\r"
+ }, 
+ {
+  ".I": "54608", 
+  ".M": "Adenocarcinoma/*RT; Brachytherapy/*; Carcinoma, Squamous Cell/*RT; Carcinoma, Transitional Cell/*RT; Female; Human; Iridium/*TU; Middle Age; Radioisotopes/*TU; Radiotherapy, High-Energy/*; Urethral Neoplasms/*RT.\r", 
+  ".A": [
+   "Klein", 
+   "Ali", 
+   "Kersh"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "South Med J 8712; 80(9):1129-32\r", 
+  ".T": "Carcinoma of the female urethra: combined iridium Ir 192 interstitial and external beam radiotherapy.\r", 
+  ".U": "87319822\r", 
+  ".W": "Three female patients (mean age 55) with carcinoma of the urethra were treated with combined external beam irradiation (4,000 to 5,000 rads) and interstitial irradiation with iridium Ir 192 (2,700 to 3,000 rads) applied with a modified Syed-Neblett template. Two patients are alive with no evidence of disease at 27 and 37 months. One patient died of a second primary tumor at 30 months, without histologic evidence of the original urethral neoplasm. No patient had significant complications of therapy. This treatment regimen is effective for selected women with urethral carcinoma.\r"
+ }, 
+ {
+  ".I": "54609", 
+  ".M": "Adult; Aortic Valve; Bioprosthesis/*; Case Report; Endocarditis, Bacterial/*ET; Gonorrhea/*ET; Heart Valve Prosthesis/*; Human; Male; Mitral Valve; Neisseria gonorrhoeae/IP.\r", 
+  ".A": [
+   "Williams", 
+   "Corey"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "South Med J 8712; 80(9):1194-5\r", 
+  ".T": "Neisseria gonorrhoeae endocarditis on a prosthetic valve.\r", 
+  ".U": "87319839\r", 
+  ".W": "Neisseria gonorrhoeae is now a rare cause of infective endocarditis. We have reported the first case of N gonorrhoeae infection on a prosthetic valve, showing the possible consequences of a late diagnosis.\r"
+ }, 
+ {
+  ".I": "54610", 
+  ".M": "Animal; Clostridium histolyticum Collagenase/*AD/TO; Dura Mater/DE; Female; Injections, Epidural; Injections, Spinal; Intervertebral Disk Chemolysis/*AE; Lumbar Vertebrae; Male; Permeability; Rabbits; Spinal Cord/DE; Spinal Nerve Roots/DE; Support, Non-U.S. Gov't.\r", 
+  ".A": [
+   "Olmarker", 
+   "Rydevik", 
+   "Dahlin", 
+   "Danielsen", 
+   "Nordborg"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Spine 8712; 12(5):477-82\r", 
+  ".T": "Effects of epidural and intrathecal application of collagenase in the lumbar spine: an experimental study in rabbits.\r", 
+  ".U": "87319946\r", 
+  ".W": "An experimental model is described in which collagenase in different concentrations and volumes were applied epidurally or intrathecally in the rabbit lumbar spine. This made it possible to study the tissue effects in a situation similar to that of collagenase leaking from a disc or accidental epidural or intrathecal injection at chemonucleolysis. Epidurally applied collagenase, in higher concentration, caused a local thinning of the dura. This effect was reduced at lower concentrations and volumes. Intrathecally injected collagenase, even in small amounts, caused intrathecal hemorrhage and acute paraplegia in the hind limbs. Therefore, in the clinical situation, intrathecal injection of collagenase must be avoided.\r"
+ }, 
+ {
+  ".I": "54611", 
+  ".M": "Anti-Infective Agents/*; Bacteria/*DE; Escherichia coli/DE; In Vitro; Nylons/*; Pseudomonas aeruginosa/DE; Silver/*PD; Staphylococcus aureus/DE; Support, Non-U.S. Gov't; Sutures/*.\r", 
+  ".A": [
+   "Tsai", 
+   "Chu", 
+   "Chiu", 
+   "Yao"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Surg Gynecol Obstet 8712; 165(3):207-11\r", 
+  ".T": "In vitro quantitative study of newly made antibacterial braided nylon sutures.\r", 
+  ".U": "87320039\r", 
+  ".W": "This study was done to examine quantitatively the antibacterial property of a newly made, silver compound coated braided nylon suture and to confirm the previously reported qualitative antibacterial data. Three representative bacterial species were used and they were Staphylococcus aureus, Escherichia coli and Pseudomonas aeruginosa. The suture specimens were embedded in a custom built plastic device filled with a fixed concentration of bacteria for predetermined periods of incubation. A direct current ranging from 0.4 to 40.0 microamperes was applied to the suture specimens. The bacterial suspension was periodically removed for a standard plate count in order to determine quantitatively the antibacterial capability of the suture specimens. The amounts of silver ions released to the medium under various direct current levels were also determined by a pH/ion meter. The antibacterial property of the suture was evident in the anode site of the material, and at a fixed current, the degree of bacteriostatic effect depended upon the type of bacterial species. For example, a difference of almost 10(3) in the number of Pseudomonas aeruginosa was observed within a period of six hours. The responses of Staphylococcus aureus and Escherichia coli to the silver compound coated nylon thread, however, were not as drastic as Pseudomonas aeruginosa. These quantitative data were consistent with the previously reported qualitative observation of the width of clear zone in bacterial culture plates. The silver ion concentration in the medium increased with increasing either the current level or time, or both. At the end of six hours, the ion concentrations were 7.3 micrograms per milliliter at 0.4 microampere, 44.3 micrograms per milliliter at 4.0 microamperes and 305.7 micrograms per milliliter at 40.0 microampere.\r"
+ }, 
+ {
+  ".I": "54612", 
+  ".M": "Adult; Aged; Anesthesia, Epidural/*; Autonomic Nerve Block/*; Bupivacaine; Female; Glucose/*ME; Human; Kinetics; Male; Middle Age; Parenteral Nutrition, Total; Proteins/ME; Radioisotopes/DU; Support, Non-U.S. Gov't; Surgery, Operative/*; Urea/*ME.\r", 
+  ".A": [
+   "Shaw", 
+   "Galler", 
+   "Holdaway", 
+   "Holdaway"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Surg Gynecol Obstet 8712; 165(3):260-6\r", 
+  ".T": "The effect of extradural blockage upon glucose and urea kinetics in surgical patients.\r", 
+  ".U": "87320049\r", 
+  ".W": "We have determined the metabolic effects induced by the use of extradural blockage with 0.5 per cent bupivacaine hydrochloride in a group of surgical patients. Turnover rates of glucose and urea were determined isotopically using radioisotopes and studies were performed both in the basal state and during total parenteral nutrition. In the basal state, extradural blockade resulted in a decrease in the turnover rates of both glucose and urea. In addition, when extradural blockade was instituted while the patients were receiving total parenteral nutrition, there was also a significant fall in glucose turnover. We conclude that the use of extradural blockade is effective as a means of conserving bodily resources in surgical patients both in the basal state and during total parenteral nutrition.\r"
+ }, 
+ {
+  ".I": "54613", 
+  ".M": "Animal; Arterial Occlusive Diseases/*DT/PP; Brain Edema/DT; Cats; Cerebral Artery Diseases/*DT/PP; Cerebrovascular Circulation/*DE; Constriction; Hypotension/PP; Mannitol/*TU; Microcirculation/DE.\r", 
+  ".A": [
+   "Tanaka", 
+   "Tomonaga"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Surg Neurol 8712; 28(3):189-95\r", 
+  ".T": "Effect of mannitol on cerebral blood flow and microcirculation during experimental middle cerebral artery occlusion.\r", 
+  ".U": "87320059\r", 
+  ".W": "Regional cerebral blood flow (rCBF) was measured during and after a 2-3 hour occlusion period of the middle cerebral artery (MCA) in cats with the hydrogen clearance technique. The effects of mannitol upon rCBF were studied. Transient hypotension during occlusion dropped the blood flow to near zero on the occluded side, leading to postischemic hypoperfusion. Mannitol failed to modify blood flow during the occlusion period, but was effective in preventing any further decrease of blood flow during hypotension. Animals receiving mannitol had an improved postischemic recovery of blood flow. The correlation of ischemic severity and postischemic brain damage and the effects of mannitol on these parameters are discussed.\r"
+ }, 
+ {
+  ".I": "54614", 
+  ".M": "Adult; Case Report; Cranial Nerve Neoplasms/*DI/PA/SU; Female; Human; Neurilemmoma/*DI/PA/SU; Neurofibromatosis 1/DI; Trochlear Nerve/*/PA/SU.\r", 
+  ".A": [
+   "Yamamoto", 
+   "Jimbo", 
+   "Ide", 
+   "Kubo"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Surg Neurol 8712; 28(4):287-90\r", 
+  ".T": "Trochlear neurinoma.\r", 
+  ".U": "87320078\r", 
+  ".W": "A case of neurinoma of the trochlear nerve presenting with the sudden onset of headache followed by transient paresis of the right trochlear nerve in a 37-year-old woman is reported. Unique clinical manifestations of the tumor are discussed with a brief review of five cases reported in the literature.\r"
+ }, 
+ {
+  ".I": "54615", 
+  ".M": "Acetylcholine/*PD; Animal; Basilar Artery/AN/*DE; Calcimycin/*PD; Dogs; Endothelium/*PH; Female; Indomethacin/PD; Lipoxygenase/*ME; Male; Microscopy, Electron, Scanning; Nordihydroguaiaretic Acid/PD; Vasodilation/*DE; Vasodilator Agents/*IP.\r", 
+  ".A": [
+   "Kanamaru", 
+   "Waga", 
+   "Kojima", 
+   "Fujimoto", 
+   "Itoh"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Stroke 8712; 18(5):932-7\r", 
+  ".T": "Endothelium-dependent relaxation of canine basilar arteries. Part 1: Difference between acetylcholine- and A23187-induced relaxation and involvement of lipoxygenase metabolite(s).\r", 
+  ".U": "87320482\r", 
+  ".W": "Vascular responses to acetylcholine (ACh) and the calcium ionophore A23187 were studied in rings of canine basilar arteries. In preparations that were precontracted to a stable plateau by 3 X 10(-6) M prostaglandin F2 alpha (PGF2 alpha), 10(-9) to 10(-7) M A23187 elicited significant relaxation of the basilar arteries if the endothelium was intact. Judging from histologic findings, the ability of a ring to relax in this manner is due to the presence of the endothelium. The same concentration of A23187 did not relax vascular tissues in which the endothelium was purposely disrupted. Although 10(-7) to 10(-3) M ACh did not sufficiently produce endothelium-dependent relaxation of canine basilar artery rings, ACh in the same concentration did produce significant relaxation in canine femoral rings. Our results suggest that the sensitivity of the muscarinic receptor of cerebral arteries appears to be appreciably different from that of peripheral (femoral) arteries. Pretreatment with 1.5 X 10(-5) M indomethacin, a cyclooxygenase inhibitor, potentiated the contractile responses produced by PGF2 alpha in intact rings. Preincubation with the lipoxygenase inhibitors nordihydroguaiaretic acid at (NDGA) at 1.5 X 10(-5) M or AA861 at 10(-5) M prevented A23187-induced relaxation. The same concentration of NDGA and AA861 did not affect endothelium-independent relaxation induced by glyceryl trinitrate. We suggest that endothelium-dependent relaxation of the canine basilar artery by A23187 may be mediated by noncyclooxygenase metabolite(s).\r"
+ }, 
+ {
+  ".I": "54616", 
+  ".M": "Animal; Basilar Artery/*AN; Calcimycin/PD; Dogs; Endothelium/*PH; Female; Hemoglobins/*; Human; Male; Muscle, Smooth, Vascular/PH; Subarachnoid Hemorrhage/*CF; Vasodilation/*; Vasodilator Agents/*IP.\r", 
+  ".A": [
+   "Kanamaru", 
+   "Waga", 
+   "Kojima", 
+   "Fujimoto", 
+   "Niwa"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Stroke 8712; 18(5):938-43\r", 
+  ".T": "Endothelium-dependent relaxation of canine basilar arteries. Part 2: Inhibition by hemoglobin and cerebrospinal fluid from patients with aneurysmal subarachnoid hemorrhage.\r", 
+  ".U": "87320483\r", 
+  ".W": "The effects of hemoglobin and cerebrospinal fluid from patients with subarachnoid hemorrhage (CSF-SAH) on endothelium-dependent relaxation were studied. At 10(-6) M, hemoglobin somewhat inhibited the endothelium-dependent relaxation induced by A23187 in rings of canine basilar artery. At 3 X 10(-6) M, it almost completely inhibited the same response. At 3 X 10(-6) M, hemoglobin did not significantly inhibit smooth muscle relaxation mechanisms as papaverine-induced relaxation was not inhibited by hemoglobin. It was also demonstrated that pretreatment of arterial rings with CSF-SAH resulted in a dose-dependent inhibition of relaxation induced by A23187. The inhibitory effect of CSF-SAH was prominent in the case in which a high oxyhemoglobin concentration was measured by spectrophotometry. Normal CSF from patients without SAH did not affect endothelium-dependent relaxation. These results suggest that hemoglobin released from lysed erythrocytes inhibits endothelium-dependent relaxation of canine basilar arteries and may also play an important role in the pathogenesis of cerebral vasospasm after aneurysmal subarachnoid hemorrhage.\r"
+ }, 
+ {
+  ".I": "54617", 
+  ".M": "Blood Coagulation Disorders/*BL; Blood Coagulation Factors/*IM; Human; Lupus Erythematosus, Systemic/*BL.\r", 
+  ".A": [
+   "Jacobson"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Stroke 8712; 18(5):961-2\r", 
+  ".T": "Lupus anticoagulant [letter]\r", 
+  ".U": "87320492\r"
+ }, 
+ {
+  ".I": "54618", 
+  ".M": "Cell Survival; Erythrocytes/*PH; Human; Indium/*DU; Oxyquinoline/DU; Radioisotopes/*DU; Support, Non-U.S. Gov't; Technetium/*DU.\r", 
+  ".A": [
+   "Marcus", 
+   "Myhre", 
+   "Angulo", 
+   "Salk", 
+   "Essex", 
+   "Demianew"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transfusion 8712; 27(5):420-4\r", 
+  ".T": "Radiolabeled red cell viability. II. 99mTc and 111In for measuring the viability of heterologous red cells in vivo [published erratum appears in Transfusion 1988 May-Jun;28(3):291]\r", 
+  ".U": "87320537\r", 
+  ".W": "The authors developed a double in vivo crossmatch method using 2 to 3 ml of potential donor blood labeled with either 400 microCi of 99mTc or 30 microCi of 111In-oxine. Data are presented for 19 crossmatches on nine patients, using one blood specimen labeled with 99mTc or two specimens, one labeled with 99mTc and the other with 111In. Normal values are given for standardization purposes. This method appears to have advantages over earlier in vivo crossmatch techniques using 51Cr-labeled RBCs. These advantages include the rapidity with which the in vivo crossmatch may be repeated, the ready availability of 99mTc and 111In-oxine, and the lower radiation absorbed doses with the shorter-lived radionuclides.\r"
+ }, 
+ {
+  ".I": "54619", 
+  ".M": "Antibodies, Viral/*AN; Blood Donors/*; Comparative Study; Enzyme-Linked Immunosorbent Assay/*; Hepatitis B Core Antigens/*IM; Hepatitis C/*IM; Hepatitis, Viral, Human/*IM; Human; Radioimmunoassay/*; Support, Non-U.S. Gov't.\r", 
+  ".A": [
+   "Troisi", 
+   "Hollinger"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Transfusion 8712; 27(5):438-40\r", 
+  ".T": "Current tests for antibody to hepatitis b core antigen used to screen donors for non-A, non-B hepatitis are comparable to the original radioimmunoassay for hepatitis B core antigen.\r", 
+  ".U": "87320541\r", 
+  ".W": "Prospective studies have shown a relationship between the transfusion of donor blood which is positive for antibodies to hepatitis B core antigen (anti-HBc) and an increased incidence of non-A, non-B hepatitis. The anti-HBc test was selected on the assumption that epidemiologic circumstances predisposing donors to hepatitis B infection also might favor exposure to non-A, non-B hepatitis. Current radioimmunoassays (RIA) and enzyme-linked immunoassays (EIA) for anti-HBc utilize hepatitis B core antigen (HBcAg) prepared by recombinant DNA technology, whereas the original RIA anti-HBc assay used HBcAg derived from hepatitis B virions. In the current study, 1329 sera were evaluated of which 23.3 percent were anti-HBc positive. The results indicate that sensitivity, specificity, and positive and negative predictive values of the current EIA and RIA tests for anti-HBc (Abbott Diagnostic Laboratories) are virtually identical to the original RIA test kit. In addition, all donor samples (128 specimens) administered to 57 cases of non-A, non-B hepatitis that were prospectively followed at Baylor College of Medicine for the Transfusion-Transmitted Viruses (TTV) Study group were retested with the EIA-recombinant anti-HBc assay. All 21 samples which were reactive in the original RIA anti-HBc test also were positive by the current EIA procedure. One sample was EIA positive/RIA negative, and 106 other samples were negative by both assays. Thus, commercial anti-HBc kits based on HBcAg derived by recombinant DNA technology, should retain their predictive value for reducing the incidence of non-A, non-B hepatitis as described in the prospective studies.\r"
+ }, 
+ {
+  ".I": "54620", 
+  ".M": "Aged; Case Report; Female; Human; IgG/AN; Immunoglobulins, kappa-Chain/AN; Multiple Myeloma/*BL; Myeloma Proteins/*BL; Phosphates/*BL.\r", 
+  ".A": [
+   "Pettersson", 
+   "Hortling", 
+   "Teppo", 
+   "Totterman", 
+   "Fyhrquist"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Acta Med Scand 8712; 222(1):89-91\r", 
+  ".T": "Phosphate binding by a myeloma protein.\r", 
+  ".U": "87322567\r", 
+  ".W": "A patient with IgG kappa myeloma had markedly elevated serum phosphate concentrations but no clinical features of hyperphosphataemia. The hyperphosphataemia was due to a high phosphate per protein unit than normal IgG.\r"
+ }, 
+ {
+  ".I": "54621", 
+  ".M": "Animal; Frostbite/*DT/RI; Hindlimb/BS/RI; Injections, Intravenous; Pyrophosphates/DU; Rabbits; Streptokinase/AD/*TU; Technetium/DU.\r", 
+  ".A": [
+   "Salimi", 
+   "Wolverson", 
+   "Herbold", 
+   "Vas", 
+   "Salimi"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "AJR Am J Roentgenol 8712; 149(4):773-6\r", 
+  ".T": "Treatment of frostbite with i.v. streptokinase: an experimental study in rabbits.\r", 
+  ".U": "87322851\r", 
+  ".W": "Experiments were conducted in 32 rabbits to determine whether treatment with IV streptokinase can effectively limit the extent of tissue damage associated with frostbite injury of the hind limbs. Other variables studied were the temperature of the tissue during freezing, the time taken to rewarm the exposed limbs, and the delay between the initiation of treatment with streptokinase and cessation of freezing. A control group of 16 rabbits was not given streptokinase. The extent of tissue damage was estimated by sequential radionuclide perfusion scans of the exposed limbs. This estimate was based on the proportional loss of tissue perfusion on subsequent twice-weekly nuclear scans in comparison with that shown by scans performed immediately after thawing. Pathologic changes in exposed tissues were studied by histology. Streptokinase treatment and rapid rewarming both resulted in less tissue damage at all freezing temperatures. Streptokinase was most beneficial when given 12 hr after freezing, but was effective even when treatment was delayed up to 48 hr.\r"
+ }, 
+ {
+  ".I": "54622", 
+  ".M": "Aged; Alteplase/AD/*TU; Drug Therapy, Combination; Fibrinolytic Agents/AD/*TU; Human; Infusions, Intravenous; Male; Middle Age; Myocardial Infarction/*DT; Plasminogen Activators/AD/*TU; Recombinant Proteins/TU; Time Factors; Urokinase/AD/*TU.\r", 
+  ".A": [
+   "Collen", 
+   "Van"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Cardiol 8712; 60(7):431-4\r", 
+  ".T": "Coronary arterial thrombolysis with low-dose synergistic combinations of recombinant tissue-type plasminogen activator (rt-PA) and recombinant single-chain urokinase-type plasminogen activator (rscu-PA) for acute myocardial infarction.\r", 
+  ".U": "87322969\r", 
+  ".W": "The effect of combined intravenous infusion of 10 mg of recombinant tissue-type plasminogen activator (rt-PA) and 10 mg of recombinant single-chain urokinase-type plasminogen activator over 1 hour on coronary artery recanalization and on the blood fibrinolytic system was studied in 9 patients with acute myocardial infarction and angiographically confirmed coronary artery occlusion. In 3 of these patients, prior infusion of 10 mg of rt-PA over 1 hour before the first angiogram had not produced coronary artery reperfusion. Complete recanalization was achieved in 7 patients and transient recanalization with reocclusion in 1 patient, whereas coronary artery occlusion persisted in 1 patient. At the end of the infusion, the fibrinogen level remained unchanged and no increase in fibrinogen degradation products was observed, whereas the alpha 2 antiplasmin level had decreased to 61 +/- 16% (mean +/- standard deviation) of the preinfusion level. Thus, combined intravenous infusion of rt-PA and recombinant single-chain urokinase-type plasminogen activator induces fibrin-specific coronary thrombolysis at approximately one-fourth of the dose currently used for each agent alone, which further documents the pharmacologic synergism of these agents.\r"
+ }, 
+ {
+  ".I": "54623", 
+  ".M": "Adult; Aged; Angina Pectoris/*DI/DT; Comparative Study; Coronary Disease/DI; Electrocardiography/*IS; Exercise Test; Exertion; Female; Human; Male; Middle Age; Monitoring, Physiologic/*MT; Nitroglycerin/TU; Self Administration; Time Factors.\r", 
+  ".A": [
+   "Barry", 
+   "Campbell", 
+   "Nabel", 
+   "Mead", 
+   "Selwyn"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Cardiol 8712; 60(7):483-8\r", 
+  ".T": "Ambulatory monitoring of the digitized electrocardiogram for detection and early warning of transient myocardial ischemia in angina pectoris.\r", 
+  ".U": "87322979\r", 
+  ".W": "Patients with coronary artery disease have frequent asymptomatic episodes of ischemic ST-segment depression. A new solid-state recorder that analyzes the digitized electrocardiogram (ECG) in real time has been tested for accuracy in detection and quantitation of these events by comparison with a direct ECG during exercise testing and a frequency-modulated recorder during ambulatory monitoring. The device can also be programmed to produce a tone at the onset of ischemic ST-segment depression, and this tone is used to initiate self-administration of nitroglycerin in an attempt to control myocardial ischemic events. The solid-state recorder demonstrated adequate sensitivity and specificity during exercise (100% and 92%, respectively) for detection and quantitation of episodes of ischemic ST-segment depression. In addition, Monitor One accurately measured the duration of ischemic events during exercise testing (r = 0.95, p = 0.001) and the number (r = 0.92, p = 0.001) and duration (r = 0.97, p = 0.001) of ischemic events during ambulatory monitoring. When the audible tone was used to initiate use of nitroglycerin, the duration of episodes of ischemic ST-segment depression was reduced from 105 +/- 74 min/24 hours to 58 +/- 49 min/24 hours (p = 0.02). Thus, a solid-state ECG recorder capable of long-term monitoring appears to accurately detect and quantify episodes of ischemic ST-segment depression in patients with coronary artery disease. Also, patients can interact with an audible tone to key self-administration of therapy in an attempt to control asymptomatic episodes of transient myocardial ischemia.\r"
+ }, 
+ {
+  ".I": "54624", 
+  ".M": "Angina Pectoris/BL; Angina, Unstable/BL; Blood Platelets/DE; Coronary Disease/*BL; Edetic Acid/PD; Female; Formaldehyde/PD; Human; Male; Middle Age; Platelet Aggregation/*.\r", 
+  ".A": [
+   "Fuchs", 
+   "Weinberger", 
+   "Rotenberg", 
+   "Joshua", 
+   "Almozlino", 
+   "Agmon"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Cardiol 8712; 60(7):534-7\r", 
+  ".T": "Circulating aggregated platelets in coronary artery disease.\r", 
+  ".U": "87322989\r", 
+  ".W": "Circulating aggregated platelets were assessed in 30 patients with stable angina, 22 with unstable angina and 50 with acute myocardial infarction (AMI). Fifty healthy volunteers and 20 noncardiac patients served as controls. One milliliter of venous blood was separated into 2 solutions: 1 composed of ethylenediamine tetraacetic acid (EDTA) and formalin containing reversible and aggregates and 1 composed of EDTA alone containing irreversible aggregates only. By direct microscopic readings the percentage of platelets forming aggregates/1,000 counted platelets was determined in the 2 solutions. The number of reversibly aggregated platelets was estimated by subtracting the percentage of aggregated platelets in the second solution from that in the first solution. In patients with stable angina the percentage of aggregated platelets was higher than in control subjects (15 +/- 4% vs 7 +/- 2%, p less than 0.001). Most aggregated platelets (72% and 76%, respectively) were irreversibly aggregated. In the unstable angina group the percentage of aggregated platelets was similar to that of the AMI group (24 +/- 13% and 24 +/- 10%) and significantly higher than in the stable angina group. Only 11% and 17% of aggregated platelets in patients with stable angina and AMI were irreversibly aggregated and 89% and 83% of them were reversibly aggregated. Participation of platelets in the pathogenesis of unstable angina and AMI may be related to the early reversible phase of platelet activation.\r"
+ }, 
+ {
+  ".I": "54625", 
+  ".M": "Administration, Cutaneous; Adult; Fatty Acids, Essential/*DF; Female; Home Care Services; Human; Liver Function Tests; Monitoring, Physiologic; Parenteral Nutrition, Total/*; Plant Oils/*AD; Safflower Oil/*AD.\r", 
+  ".A": [
+   "Miller", 
+   "Williams", 
+   "Palombo", 
+   "Griffin", 
+   "Bistrian", 
+   "Blackburn"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Clin Nutr 8712; 46(3):419-23\r", 
+  ".T": "Cutaneous application of safflower oil in preventing essential fatty acid deficiency in patients on home parenteral nutrition.\r", 
+  ".U": "87323031\r", 
+  ".W": "Essential fatty acid deficiency (EFAD) is observed in patients with massive bowel resection who are placed on home parenteral nutrition (HPN). We investigated the use of cutaneously applied safflower oil to prevent EFAD. Five subjects on HPN supplemented with intravenous (IV) fat emulsions underwent a three-phase study: 1) no IV fat emulsions for 4 wk; 2) cutaneous safflower oil for 4-6 wk; 3) oral safflower oil for 4 wk. Fatty acid profiles (FAP) of plasma were obtained during each phase. Significant decreases in linoleic and arachidonic acid occurred by the end of phase 1 and the triene:tetraene ratio rose from a baseline value of 0.1 to 0.5. This ratio returned to 0.2 by the end of phase 2 and significant increases in linoleic and arachidonic acid occurred. Only one of five subjects completed the oral phase (3). Cutaneous safflower oil may improve plasma FAP but adequacy of tissue stores remains unanswered. Liver function tests need to be monitored if this treatment modality is utilized.\r"
+ }, 
+ {
+  ".I": "54626", 
+  ".M": "Adult; Aged; Amino Acids/*AD; Energy Metabolism/*; Fat Emulsions, Intravenous/*AD; Female; Glucose/*AD/ME; Human; Infusions, Intravenous; Middle Age; Oligosaccharides/*AD/ME; Parenteral Nutrition/*; Postoperative Care/*; Support, Non-U.S. Gov't.\r", 
+  ".A": [
+   "Stegink", 
+   "Zike", 
+   "Andersen", 
+   "Killion"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Clin Nutr 8712; 46(3):461-6\r", 
+  ".T": "Oligosaccharides as an intravenous energy source in postsurgical patients: utilization when infused with glucose, amino acids, and lipid emulsion.\r", 
+  ".U": "87323037\r", 
+  ".W": "Utilization of intravenously administered oligosaccharides was evaluated in postsurgical patients by infusing oligosaccharides simultaneously with glucose, amino acids, and lipid emulsion for 4 d postoperatively. Seven patients were infused with a nutritional regimen providing glucose, amino acids, lipid emulsion, and oligosaccharides and seven patients received a similar regimen without oligosaccharides. Patients infused with oligosaccharides received an overall mean (+/- SD) of 144 +/- 41.0 g oligosaccharides per day. The mean overall excretion of total glucose (free plus oligosaccharide-bound) was significantly greater in patients infused with oligosaccharides (65.1 +/- 33.2 g/d) than in controls (1.83 +/- 1.55 g/d). Overall oligosaccharide utilization for the 4-d period was 48.7 +/- 10.1%. Plasma oligosaccharide concentrations increased from a baseline value of 2.43 +/- 1.90 mg/dL to 58.1 +/- 42.3 mg/dL after 4 d of oligosaccharide infusion, suggesting accumulation.\r"
+ }, 
+ {
+  ".I": "54627", 
+  ".M": "Anemia/DI; Anemia, Hypochromic/BL/*DI; Blood Cell Count; Blood Sedimentation/*; Bone Marrow Examination; Cost-Benefit Analysis; Diagnosis, Differential; Erythrocyte Volume/*; Ferritin/*BL; Human; Iron/*BL; Predictive Value of Tests; Regression Analysis; Statistics.\r", 
+  ".A": [
+   "Charache", 
+   "Gittlelsohn", 
+   "Allen", 
+   "Cox", 
+   "Flanigan", 
+   "Periasamy", 
+   "LaFrance", 
+   "Perlstein"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Clin Pathol 8712; 88(3):333-7\r", 
+  ".T": "Noninvasive assessment of tissue iron stores.\r", 
+  ".U": "87323058\r", 
+  ".W": "Multivariate regression methods were used to create two equations for calculation of the \"iron index,\" a predictor of bone marrow iron scores. With the use of the most efficient cut-off point, approximately 90% of 210 patients could be diagnosed correctly. Selection of a criterion that minimizes false negatives (missed iron deficiency) would increase the number of unnecessary bone marrow aspirations, but, even then, more than a third of such tests could be avoided. Rapid turnaround time would be desirable for all measurements used to calculate the iron index, although it is recognized that for most hospitalized patients the length of hospital stay is determined by severity of an underlying disease, not the presence of anemia.\r"
+ }, 
+ {
+  ".I": "54628", 
+  ".M": "Capillaries; Erythrocytes/*/AN; Female; Fetal Blood/*CY; Human; Infant, Newborn; Maternal-Fetal Exchange/*; Placenta/BS; Pregnancy; Rh-Hr Blood-Group System/AN; Support, Non-U.S. Gov't; Veins.\r", 
+  ".A": [
+   "Wang", 
+   "Zipursky"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Clin Pathol 8712; 88(3):346-8\r", 
+  ".T": "Maternal erythrocytes in the fetal circulation. The immunocytochemical identification of minor populations of erythrocytes.\r", 
+  ".U": "87323061\r", 
+  ".W": "Maternal erythrocytes (Rh+) have been identified in the fetal circulation of Rh- infants by the use of a simple immunocytochemical staining technic. Placental or capillary blood from an Rh- infant of an Rh+ mother was incubated in sequence with Rh immunoglobulin, rabbit antihuman IgG, and finally goat antirabbit IgG-alkaline phosphatase conjugate. Maternal cells were found in 14% (11 of 80) of placental vein samples and 10% (2 of 20) of capillary samples. The volume of maternal blood present in the fetal circulation was calculated to be 0.06-2.3 mL with the use of placental vein samples and 0.6-1.25 mL with the use of capillary blood.\r"
+ }, 
+ {
+  ".I": "54629", 
+  ".M": "von Willebrand Factor/BL; Adult; Aged; Angina Pectoris/BL; Antigens/*AN; Coronary Disease/*BL; Factor VIII/AN/*IM; Female; Human; Male; Middle Age; Myocardial Infarction/BL.\r", 
+  ".A": [
+   "Musso", 
+   "Giustolisi", 
+   "Cacciola"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Am J Clin Pathol 8712; 88(3):392-3\r", 
+  ".T": "Factor VIII-related antigen and ischemic heart disease [letter]\r", 
+  ".U": "87323071\r"
+ }, 
+ {
+  ".I": "54630", 
+  ".M": "Bacterial Toxins/*AN; Clostridium Infections/*MI; Diarrhea/*ET/MI; Feces/AN; Human.\r", 
+  ".A": [
+   "Murray-Leisure", 
+   "Suguitan"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Am J Clin Pathol 8712; 88(3):394\r", 
+  ".T": "Detection of Clostridium difficile toxins A and B [letter]\r", 
+  ".U": "87323073\r"
+ }, 
+ {
+  ".I": "54631", 
+  ".M": "Adolescence; Age Factors; Aminoglycosides/AE; Antibiotics/AE; Catheterization/*AE; Child; Child, Preschool; Female; Human; Infant; Male; Parenteral Nutrition, Total/AE; Phlebitis/*ET; Polytetrafluoroethylene/*.\r", 
+  ".A": [
+   "Nelson", 
+   "Garland"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Dis Child 8712; 141(10):1090-2\r", 
+  ".T": "The natural history of Teflon catheter-associated phlebitis in children.\r", 
+  ".U": "87323110\r", 
+  ".W": "During a prospective evaluation of intravenous therapy with peripheral Teflon catheters in children, we found 30 episodes of phlebitis (10.4%). This rate is less than that reported in adults. Catheter colonization was not related to phlebitic episodes, and catheter-related infections did not occur. No patient's hospital course was prolonged because of phlebitis. Thirty percent of the episodes developed after the catheter was removed, and premonitory symptoms were not helpful in predicting the onset of phlebitis. Factors associated with an increased phlebitic risk were parenteral nutrition, administration of nafcillin sodium or aminoglycosides, and patient age. Parenteral nutrition prolonged the course of phlebitis. No factors hastened the onset of phlebitis. The duration of cannulation was not significantly related to phlebitis, suggesting that in some children the catheters can remain in place longer than 72 hours.\r"
+ }, 
+ {
+  ".I": "54632", 
+  ".M": "Anthropometry; Child; Child, Preschool; Female; Human; Infant; Malabsorption Syndromes/*TH; Male; Nutritional Requirements/*; Parenteral Nutrition, Total; Serum Albumin/AN; Short Bowel Syndrome/ME/RA/*TH; Support, Non-U.S. Gov't; Thigh/RA; Tomography, X-Ray Computed.\r", 
+  ".A": [
+   "Lin", 
+   "Rossi", 
+   "Heitlinger", 
+   "Lerner", 
+   "Riddlesberger", 
+   "Lebenthal"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Dis Child 8712; 141(10):1093-8\r", 
+  ".T": "Nutritional assessment of children with short-bowel syndrome receiving home parenteral nutrition.\r", 
+  ".U": "87323111\r", 
+  ".W": "Serial nutritional assessments using arm anthropometry, computed tomography of the thigh, and serum biochemical indexes during an eight-month period were performed on nine children with short-bowel syndrome receiving home parenteral nutrition. The mean patient age at the beginning of the study was 3.0 years. In anthropometric measurements, the mean body weight of our test population did not deviate from that of the normal population. Most patients were below the normal median for height. The mean midarm muscle area was 114% of the normal median, and the mean midarm fat area was 98% of the normal median. The mean weight and height velocities were 148% and 122% of the standard, respectively. Retinol-binding protein values, albumin levels, and total lymphocyte counts of the patients were low, while levels of aspartate aminotransferase and alanine aminotransferase were slightly elevated. Midarm muscle and fat compartment sizes were highly correlated with thigh muscle and fat compartment sizes, as demonstrated by computed tomography. Our results demonstrate that children with short-bowel syndrome receiving home parenteral nutrition can maintain normal growth characteristics and extremity compartment sizes.\r"
+ }, 
+ {
+  ".I": "54633", 
+  ".M": "Adolescence; Antibiotics/TU; Child; Child, Preschool; Female; Human; Infant; Male; Paratyphoid Fever/CO/DI/DT/*EP; Salmonella paratyphi A; Thailand; Typhoid/CO/DI/DT/*EP.\r", 
+  ".A": [
+   "Thisyakorn", 
+   "Mansuwan", 
+   "Taylor"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Dis Child 8712; 141(8):862-5\r", 
+  ".T": "Typhoid and paratyphoid fever in 192 hospitalized children in Thailand.\r", 
+  ".U": "87323138\r", 
+  ".W": "From 1977 to 1984, Salmonella typhi was isolated from 85% and Salmonella paratyphl A was isolated from 15% of 192 Thai children with enteric fever at Children's Hospital, Bangkok. Children with enteric fever presented with sudden onset of fever and gastrointestinal symptoms. of fever presented with sudden onset Diarrhea occurred in 62% of children with paratyphoid fever and 36% of children with typhoid fever. Rose spots were seen in 15% of patients with typhoid and 7% of patients with paratyphoid fever. There were no deaths. Bronchitis and pneumonia occurring in 11% of patients were the most common complications. Acute hemolysis occurred in 3% of the patients with typhoid fever who had thalassemia or glucose-6-phosphate dehydrogenase deficiency. Chloramphenicol-resistant S typhi, which accounted for 70% of the isolates in 1977, has since 1982 accounted for less than 2% of isolates.\r"
+ }, 
+ {
+  ".I": "54634", 
+  ".M": "Clinical Trials; Endoscopy; Esophageal and Gastric Varices/PC/*TH; Gastrointestinal Hemorrhage/TH; Human; Long-Term Care; Random Allocation; Sclerosing Solutions/AD/*TU.\r", 
+  ".A": [
+   "Snady"
+  ], 
+  ".P": "CLINICAL TRIAL; JOURNAL ARTICLE.\r", 
+  ".S": "Am J Gastroenterol 8712; 82(9):813-22\r", 
+  ".T": "The role of sclerotherapy in the treatment of esophageal varices: personal experience and a review of randomized trials.\r", 
+  ".U": "87323152\r", 
+  ".W": "Although many more randomized trials will be required to define the role of prophylactic EVS and other therapies (95-99) in the treatment of varices, EVS appears to have a place in the management of varices before they bleed. However, in view of studies recently presented in abstract form (98, 99), it must be stressed that at least in the United States, prophylactic EVS should be restricted to patients in randomized trials. Results from a VA cooperative study (98) led to the conclusion that prophylactic EVS should not be done in male patients with alcoholic cirrhosis and esophageal varices due to excess mortality in the active EVS group (p = 0.009). Although a large number of patients (n = 282) were included into this trial, on the average each of the 12 VA centers treated only 12 patients with EVS. Thus, although investigators were experienced with EVS, a single unforseen problem occurring at each VA center only once could dramatically alter the results of the study. For example, a relatively potent sclerosant solution (45) used in this study may be effective in treating variceal bleeders, but be too toxic and damaging to the esophagus for prophylactic EVS. Also, even though to enter the VA cooperative study, patients were required to have at least three variceal channels, and 89% in the study actually had \"large\" varices, these \"large\" varices may not be the same as the \"ominous-looking\" varices required of the patients in Paquet's study (88, 89, 99). Exactly which subgroups will benefit from each of the various treatments available will be defined as further studies of patients with a high risk of variceal bleeding are completed (95, 99).\r"
+ }, 
+ {
+  ".I": "54635", 
+  ".M": "Aged; Capsules; Catheterization; Embolization, Therapeutic/*; Female; Hepatic Artery/*; Hepatoma/*DT; Human; Liver Neoplasms/*DT; Male; Middle Age; Mitomycins/*AD; Support, Non-U.S. Gov't.\r", 
+  ".A": [
+   "Ohnishi", 
+   "Sugita", 
+   "Nomura", 
+   "Iida", 
+   "Tanabe"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Gastroenterol 8712; 82(9):876-9\r", 
+  ".T": "Arterial chemoembolization with mitomycin C microcapsules followed by transcatheter hepatic artery embolization for hepatocellular carcinoma.\r", 
+  ".U": "87323163\r", 
+  ".W": "Of 66 patients with hepatocellular carcinoma, 32 were treated by intraarterial injection of mitomycin C microcapsules (group A) and 34 patients by intraarterial injection of mitomycin C microcapsules followed by transcatheter hepatic artery embolization (group B). Measurable tumor regression greater than 50% in area on liver image occurred in 28% of group A and 57% of group B (p less than 0.05). A decrease of serum alpha-fetoprotein to less than half the initial level was demonstrated in 59% of group A and 91% of group B (p less than 0.05). The survival rate was better in group B compared with group A (p less than 0.05). These results indicate that arterial chemoembolization with mitomycin C microcapsules plus transcatheter hepatic artery embolization will be an improvement over arterial chemoembolization with mitomycin C microcapsules alone in the treatment of hepatocellular carcinoma.\r"
+ }, 
+ {
+  ".I": "54636", 
+  ".M": "Acute Disease; Adult; Case Report; Crigler-Najjar Syndrome/*CO/EN; Glucuronosyltransferase/DF; Hepatitis/*CO/EN; Human; Hyperbilirubinemia, Hereditary/*CO; Male.\r", 
+  ".A": [
+   "Sherker", 
+   "Heathcote"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Gastroenterol 8712; 82(9):883-5\r", 
+  ".T": "Acute hepatitis in Crigler-Najjar syndrome.\r", 
+  ".U": "87323166\r", 
+  ".W": "We describe a 23-yr-old man with congenital unconjugated hyperbilirubinemia secondary to uridine diphosphate glucuronosyltransferase deficiency, and who cannot readily be classified as type I or type II Crigler-Najjar syndrome. After an episode of kernicterus in childhood he was treated with phenobarbital with a resultant marked decrease in his serum bilirubin concentration. Herein we describe his course after developing acute hepatitis secondary to infectious mononucleosis. He was treated acutely with plasmapheresis with prevention of any neurological sequelae despite having previously suffered from kernicterus.\r"
+ }, 
+ {
+  ".I": "54637", 
+  ".M": "Bence Jones Protein/AN; Female; Human; Hypergammaglobulinemia/PA; Immunoglobulins, Light-Chain/AN; Kidney/*UL; Kidney Diseases/*PA; Male; Middle Age; Paraproteinemias/*PA.\r", 
+  ".A": [
+   "Pirani", 
+   "Silva", 
+   "D'Agati", 
+   "Chander", 
+   "Striker"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Kidney Dis 8712; 10(3):208-21\r", 
+  ".T": "Renal lesions in plasma cell dyscrasias: ultrastructural observations.\r", 
+  ".U": "87323218\r", 
+  ".W": "The renal biopsies from 47 patients with plasma cell dyscrasias were studied by light and electronmicroscopy, and by immunohistochemical methods. This report is primarily concerned with the ultrastructural features of 24 cases of Bence Jones cast nephropathy and of ten cases of light chain deposit disease. In Bence Jones cast nephropathy, crystals derived from light chain proteins were detected in the majority of cases within the casts or in tubular cells and appeared to be related to the \"hard\" and \"fractured\" appearance of the casts as well as to the presence of foreign body type giant cells, the latter probably being of monocyte-macrophage origin. In light chain deposit disease, linear deposits of light chain proteins (eight kappa and two lambda) were present in a subendothelial position along the glomerular basement membrane and along the outer aspect of the tubular basement membranes in all cases, quite often in the mesangial matrix, but much less commonly in the interstitium and in the wall of small arteries. The light and electronmicroscopic features of both Bence Jones cast nephropathy and light chain deposit disease can be considered diagnostic for plasma cell dyscrasia. The possible pathogenetic mechanisms of these two different forms of renal involvement are discussed briefly.\r"
+ }, 
+ {
+  ".I": "54638", 
+  ".M": "Genetic Markers; Genotype/*; Human; Models, Genetic/*; Pedigree/*; Rh-Hr Blood-Group System/GE; Software/*; Support, U.S. Gov't, P.H.S..\r", 
+  ".A": [
+   "Wijsman"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Hum Genet 8712; 41(3):356-73\r", 
+  ".T": "A deductive method of haplotype analysis in pedigrees.\r", 
+  ".U": "87323227\r", 
+  ".W": "Derivation of haplotypes from pedigree data by means of likelihood techniques requires large computational resources and is thus highly limited in terms of the complexity of problems that can be analyzed. The present paper presents 20 rules of logic that are both necessary and sufficient for deriving haplotypes by means of nonstatistical techniques. As a result, automated haplotype analysis that uses these rules is fast and efficient, requiring computer memory that increases only linearly (rather than exponentially) with family size and the number of factors under analysis. Some error analysis is also possible. The rules are completely general with regard to any system of completely linked, discrete genetic markers that are autosomally inherited. There are no limitations on pedigree structure or the amount of missing data, although the existence of incomplete data usually reduces the fraction of haplotypes that can be completely determined.\r"
+ }, 
+ {
+  ".I": "54639", 
+  ".M": "Animal; Chromosome Mapping; Cricetulus; DNA/GE; Female; Hamsters; Human; Hybrid Cells; Linkage (Genetics)/*; Male; Nucleic Acid Hybridization; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S.; Thyroxine-Binding Proteins/*GE; X Chromosome/*.\r", 
+  ".A": [
+   "Trent", 
+   "Flink", 
+   "Morkin", 
+   "van", 
+   "Ledbetter"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Hum Genet 8712; 41(3):428-35\r", 
+  ".T": "Localization of the human thyroxine-binding globulin gene to the long arm of the X chromosome (Xq21-22).\r", 
+  ".U": "87323232\r", 
+  ".W": "Thyroxine-binding globulin (TBG) is the major thyroid-hormone transport protein in the plasma of most vertebrate species. A recombinant phage (lambda cTBG8) containing a cDNA insert of human TBG recently has been described. With the cDNA insert from lambda cTBG8 used as a radiolabeled probe, DNA from a series of somatic-cell hybrids containing deletions of the X chromosome was analyzed by means of blot hybridization. The results indicated that the TBG gene is located in the midportion of the long arm of the X chromosome between bands Xq11 and Xq23. The gene then was mapped to band region Xq21-22 by means of in situ hybridization to metaphase chromosomes. Sequences on the X chromosome that are homologous to the cDNA probe are contained within a single EcoRI restriction fragment of 12.5 kb in human DNA. On the basis of the intensity of the hybridization signal on Southern blots, it was determined that the human TBG cDNA probe used in the present study shares significant homology with hamster and mouse sequences. A single EcoRI restriction fragment was recognized in both hamster (8.0-kb) and mouse (5.1-kb) DNA.\r"
+ }, 
+ {
+  ".I": "54640", 
+  ".M": "Alteplase/PD; Blood Coagulation/*/DE; Fibrinolysis/*/DE; Fibrinolytic Agents/AD/*TU; Human; Streptokinase/AD/TU; Support, U.S. Gov't, P.H.S.; Thrombosis/*DT.\r", 
+  ".A": [
+   "Marder"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Med 8712; 83(2A):15-9\r", 
+  ".T": "Relevance of changes in blood fibrinolytic and coagulation parameters during thrombolytic therapy.\r", 
+  ".U": "87323275\r", 
+  ".W": "Laboratory tests of blood coagulation and fibrinolytic processes could potentially be used with thrombolytic therapy to detect and monitor the presence of a plasma proteolytic state; to predict bleeding complications, reperfusion, and reocclusion; and to control the patient's clinical course following thrombolysis. However, laboratory measures of the \"lytic state\" do not correlate well with either thrombolytic efficacy or bleeding complications. The development of fibrin-specific agents and the technique of regional perfusion of thrombolytic drugs represent efforts to reduce systemic fibrinolytic effects and hence decrease bleeding complications. Fibrin-specific agents are not safer with regard to hemorrhagic problems, however, and data as to their increased thrombolytic efficacy are equivocal. Regional perfusion still produces some systemic effects. The probable reason for the lack of predictability of laboratory data for clinical outcome is that both pathologic thrombi and hemostatic plugs have a wide range of susceptibility to fibrinolytic agents. Clot features that influence sensitivity to thrombolysis include age of the thrombus, molecular structure of the clot and the contribution of platelets, and location of the clot within the vascular system. Although the concept of controlling short-term thrombolysis or bleeding complications by laboratory monitoring and regulation of blood coagulation is inconsistent with clinical experience gained to date, the laboratory is useful to prove a \"lytic\" state in prolonged infusions, to monitor heparin administration, and to evaluate patients for possible surgical intervention.\r"
+ }, 
+ {
+  ".I": "54641", 
+  ".M": "Alteplase/AE/PD/TU; Comparative Study; Coronary Circulation; Coronary Vessels; Fibrinolytic Agents/AD/*TU; Hemorrhage/CI; Hemostasis/DE; Heparin/AE; Human; Infusions, Intravenous; Injections; Myocardial Infarction/*DT/MO; Plasminogen/TU; Streptokinase/AD/AE/TU; Support, Non-U.S. Gov't; Urokinase/AE/TU.\r", 
+  ".A": [
+   "Sherry"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Med 8712; 83(2A):31-46\r", 
+  ".T": "Appraisal of various thrombolytic agents in the treatment of acute myocardial infarction.\r", 
+  ".U": "87323279\r", 
+  ".W": "The immediate therapeutic objective after the onset of symptoms of an evolving myocardial infarction is to stop the process from progressing. Evidence has accumulated that this can be accomplished by the early dissolution of the clot within an acutely thrombosed artery, resulting in reperfusion of the ischemic area. There are five clot-dissolving agents currently being evaluated by intravenous administration for their ability to dissolve coronary thrombi and to produce clinical benefit; all are plasminogen activators and each has distinctive properties. Streptokinase, because it has been the agent most extensively studied and its clinical benefits have been established, now serves as a standard for comparison with the others (anisoylated plasminogen-streptokinase activator complex, urokinase, recombinant tissue plasminogen activator, and recombinant pro-urokinase). It is apparent that each of the agents has advantages and disadvantages and that none has established its superiority over the others as of yet.\r"
+ }, 
+ {
+  ".I": "54642", 
+  ".M": "Aldehyde Reductase/AI; Antihypertensive Agents/TU; Antilipemic Agents/TU; Diabetes Mellitus, Non-Insulin-Dependent/ME/*TH; Diet, Reducing; Exercise Therapy; Glucose/ME; Human; Patient Education; Sulfonylurea Compounds/TU.\r", 
+  ".A": [
+   "Lebovitz"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Med 8712; 83(3A):1-2\r", 
+  ".T": "Type II diabetes mellitus: a treatment dilemma. Introduction.\r", 
+  ".U": "87323282\r"
+ }, 
+ {
+  ".I": "54643", 
+  ".M": "Animal; Female; Fluorescent Antibody Technique; Gonadotropins, Chorionic/DU; Gonadotropins, Equine/DU; Granulosa Cells/*EN; Immunoenzyme Techniques; LH/SE; Ovary/*EN; Prostaglandin-Endoperoxide Synthase/*AN; Rats; Rats, Inbred Strains; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S.; Theca Cells/*EN.\r", 
+  ".A": [
+   "Curry", 
+   "Malik", 
+   "Clark"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Obstet Gynecol 8712; 157(3):537-43\r", 
+  ".T": "Ovarian prostaglandin synthase: immunohistochemical localization in the rat.\r", 
+  ".U": "87323368\r", 
+  ".W": "Ovarian prostaglandin synthase is stimulated by the luteinizing hormone surge resulting in the preovulatory increase in prostaglandins. In the present study, the ovarian cellular localization of prostaglandin synthase was identified by immunohistochemistry. Ovaries were collected from 27-day-old rats at the time of stimulation with pregnant mare serum gonadotropin (8 IU) (zero hours), 48 hours later, or 8 hours after administration of human chorionic gonadotropin (5 IU). At zero hours prostaglandin synthase immunostaining was present in the theca of larger follicles and interstitial regions. The number and intensity of immunostained cells in the theca increased between zero and 48 hours. The granulosa cell layer adjacent to the basement membrane in large antral follicles exhibited immunostaining. A similar staining pattern was observed 8 hours after human chorionic gonadotropin. These observations indicate that in the rat, the theca, interstitium, and granulosa contain prostaglandin synthase immunoreactivity and may contribute prostaglandins during follicular development and ovulation.\r"
+ }, 
+ {
+  ".I": "54644", 
+  ".M": "Amniotic Fluid/AN; Autoantibodies/AN; Blood Coagulation Factors/AN/IM; Chromosome Abnormalities/CO; Dilatation and Curettage; Female; Fetal Death/*DI/ET/TH; Fetal Heart/PA; Fetomaternal Transfusion/CO; Human; Labor, Induced; Listeria Infections/CO; Pregnancy; Pregnancy Complications, Infectious; Ultrasonography.\r", 
+  ".A": [
+   "Pitkin"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Obstet Gynecol 8712; 157(3):583-9\r", 
+  ".T": "Fetal death: diagnosis and management [see comments]\r", 
+  ".U": "87323376\r", 
+  ".W": "Death of the fetus after 20 weeks of gestation complicates about 1% of pregnancies. Of various means of diagnosing fetal life and death, real-time ultrasound visualization of the fetal heart is the most accurate. Delivery of the dead fetus can be effected by various means, but in most instances, at least before 28 weeks and perhaps thereafter as well, the simplest and most effective method is with prostaglandin vaginal tablets. A variety of conditions are known to cause fetal death or increase the risk that it will happen, but these account for only about 50% of cases. Four special tests may identify a cause of the \"unexplained stillbirth\" in the other 50% of cases. These tests include karyotype, listerial culture, fetomaternal hemorrhage, and lupus anticoagulant.\r"
+ }, 
+ {
+  ".I": "54645", 
+  ".M": "Adenosine Triphosphatase, Sodium, Potassium/*AI; Blood Proteins/*; Female; Fetal Blood/AN; Human; Plasma Volume/*; Pre-Eclampsia/*DI/PP; Pregnancy/*BL.\r", 
+  ".A": [
+   "Gonzalez", 
+   "Phelps", 
+   "Cochran", 
+   "Sibai"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Obstet Gynecol 8712; 157(3):660-4\r", 
+  ".T": "Digoxin-like immunoreactive substance in pregnancy.\r", 
+  ".U": "87323389\r", 
+  ".W": "Our aims were to determine the potential usefulness of digoxin-like immunoreactive substances in the prediction of preeclampsia, to study the relationship between fetal production of these substances and maternal serum levels, and to evaluate the association between digoxin-like immunoreactive substances and plasma volume findings in preeclamptic pregnancies. Serum digoxin-like immunoreactive substance concentrations were measured in normotensive and preeclamptic pregnant women and in umbilical artery and vein blood samples. None of the patients in the first trimester (n = 53) and 11% of those in the second (n = 56) had detectable levels of this substance. However, 91% of the patients in the third trimester (n = 161) had positive results. The concentrations of digoxin-like immunoreactive substances in the preeclamptic group (n = 78) were significantly (p less than 0.005) lower than those of third-trimester (n = 83) normotensive patients (0.22 +/- 0.12 versus 0.32 +/- 0.15 ng/ml). However, there were no significant differences between the two groups regarding digoxin-like immunoreactive substance concentrations when matched for gestational age (41 patients in each group). Digoxin-like immunoreactive substance concentrations in umbilical vessels were significantly higher (p less than 0.001) than the corresponding maternal levels. Umbilical vessel digoxin-like immunoreactive substance levels demonstrated good correlation with fetal gestational age and birth weight in both normotensive and preeclamptic pregnancies. On the other hand, there was a poor (r = 0.02; p = 0.91) correlation between plasma volume findings and digoxin-like immunoreactive substance concentration. We conclude that the digoxin-like immunoreactive substance level may be of very little value in the prediction of preeclampsia. The presence of digoxin-like immunoreactive substance at greater concentrations in the umbilical cord blood samples suggests the possibility of the fetus as the source of this substance. Digoxin-like immunoreactive substances may not play a major role in plasma volume expansion during pregnancy.\r"
+ }, 
+ {
+  ".I": "54646", 
+  ".M": "Abnormalities, Multiple/CO; Adolescence; Amniotic Band Syndrome/*CO/PA; Child; Eye/*AB/PA; Eye Abnormalities/*; Face/AB; Female; Hand/AB; Human; Infant; Infant, Newborn; Male; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S..\r", 
+  ".A": [
+   "Miller", 
+   "Deutsch", 
+   "Cronin", 
+   "Keys"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Ophthalmol 8712; 104(3):270-9\r", 
+  ".T": "Amniotic bands as a cause of ocular anomalies.\r", 
+  ".U": "87323428\r", 
+  ".W": "We examined nine patients with amniotic band syndrome who had systemic and ocular pathologic deformities. The most common ocular malformations were congenital corneal leukomas or acquired corneal opacities secondary to exposure and eyelid colobomas. The eyelid defects appeared to be extensions of facial clefts in these patients and were often located adjacent to the corneal opacities. Other anomalies included microphthalmos, strabismus, and hypertelorism. One patient had the typical peripheral and facial stigmata of the amniotic band syndrome in association with a coloboma of the left iris and retina.\r"
+ }, 
+ {
+  ".I": "54647", 
+  ".M": "Case Report; Child, Preschool; Conjunctivitis/DT/*ET/MI/PA; Female; Human; Infant; Meningococcal Infections/*; Neisseria meningitidis/IP; Penicillin G/TU.\r", 
+  ".A": [
+   "Al-Mutlaq", 
+   "Byrne-Rhodes", 
+   "Tabbara"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Ophthalmol 8712; 104(3):280-2\r", 
+  ".T": "Neisseria meningitidis conjunctivitis in children.\r", 
+  ".U": "87323429\r", 
+  ".W": "We examined two children from the same family who had purulent conjunctivitis. Isolates of Neisseria species were obtained from eye cultures and Gram stain of conjunctival scrapings disclosed many gram-negative intracellular diplococci. Colony structure and growth characteristics of the organism with subsequent carbohydrate fermentation tests and serotyping were consistent with Neisseria meningitidis Group B. The patients had no neurologic signs or symptoms. Results of laboratory investigations and blood cultures were normal. Early diagnosis is mandatory and aggressive systemic therapy with appropriate antibiotics may prevent ocular, neurologic, or systemic complications.\r"
+ }, 
+ {
+  ".I": "54648", 
+  ".M": "Animal; Aqueous Humor/*DE/ME; Atrial Natriuretic Factor/BI/*PD/PH; Cerebrospinal Fluid/*DE/ME; Human; Osmolar Concentration.\r", 
+  ".A": [
+   "Novack", 
+   "Leopold"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Ophthalmol 8712; 104(3):297-300\r", 
+  ".T": "Aqueous humor, cerebrospinal fluid, and atriopeptin.\r", 
+  ".U": "87323433\r"
+ }, 
+ {
+  ".I": "54649", 
+  ".M": "Case Report; Cataract/CO; Cornea/*AB/BS/PA; Eye/*AB; Eye Abnormalities/*; Human; Infant, Newborn; Male; Microphthalmos/CO/PA.\r", 
+  ".A": [
+   "Varley", 
+   "Grossniklaus", 
+   "Lass"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Ophthalmol 8712; 104(3):303-4\r", 
+  ".T": "Corneal perforation at birth secondary to Peters' anomaly.\r", 
+  ".U": "87323436\r"
+ }, 
+ {
+  ".I": "54650", 
+  ".M": "Animal; Antineoplastic Agents, Combined/*TU; Aspirin/TU; Bone Marrow/PA; Drug Synergism; Glycoproteins/AD/*TO/TU; Granulocytes/PA; Hematopoietic Stem Cells/PA; Indomethacin/TU; Interferon Type II/AD/*TO/TU; Intestines/PA; Lipoxygenase/AI; Liver/PA; Lung/PA; Male; Melanoma/*DT/PA; Mice; Mice, Inbred C57BL; Neoplasm Metastasis; Prostaglandin-Endoperoxide Synthase/*AI; Recombinant Proteins/TO/TU; Spleen/PA; Support, U.S. Gov't, P.H.S..\r", 
+  ".A": [
+   "Talmadge", 
+   "Bowersox", 
+   "Tribble", 
+   "Lee", 
+   "Shepard", 
+   "Liggitt"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Pathol 8712; 128(3):410-25\r", 
+  ".T": "Toxicity of tumor necrosis factor is synergistic with gamma-interferon and can be reduced with cyclooxygenase inhibitors.\r", 
+  ".U": "87323476\r", 
+  ".W": "In recent studies, we have demonstrated that recombinant human tumor necrosis factor (rH TNF), as a single agent, has only minimal therapeutic activity for the treatment of metastatic disease, but when combined with recombinant murine gamma-interferon (rM gamma-IFN), we observed significantly more therapeutic activity than when either agent was administered alone. However, this combination also resulted in increased toxicity. Thus, we undertook a systematic toxicologic study of rH TNF alone or in combination with rM gamma-IFN. Briefly, the toxicity was similar to the generalized Shwartzman's reaction seen during endotoxin shock, with multifocal microthrombi and ischemic necrosis as sequelae. Lesions were observed in the lungs, liver, gastrointestinal tract (preferentially in the duodenum and cecum), testes or uterus, and bone marrow. Our results suggest that TNF (either directly administered or induced in situ) and its induction of arachidonic acid metabolites form one element of toxicity in this model. This conclusion is supported by studies revealing that the toxicity of rH TNF in combination with rM gamma-IFN can be reduced by inhibitors of the cyclooxygenase/lipoxygenase pathway.\r"
+ }, 
+ {
+  ".I": "54651", 
+  ".M": "Animal; Arachidonic Acids/*ME; Calcimycin/PD; Cell Adhesion/DE; Cell Aggregation/DE; Chromatography, High Pressure Liquid; Cytochrome P-450/*ME; Dogs; Leukotrienes B/BI; Mixed Function Oxidases/ME; Neutrophils/DE/*PH; Pyrazoles/PD; Superoxide/ME; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S..\r", 
+  ".A": [
+   "Kraemer", 
+   "Bednar", 
+   "Hatala", 
+   "Mullane"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Pathol 8712; 128(3):446-54\r", 
+  ".T": "A neutrophil-derived cytochrome P450-dependent metabolite of arachidonic acid modulates neutrophil behavior.\r", 
+  ".U": "87323478\r", 
+  ".W": "Recently, the metabolism of arachidonic acid to two unidentified products (Peak 1 and Peak 2) by a cytochrome P-450 dependent mixed function oxidase has been described in canine polymorphonuclear leukocytes (PMNs). This study assessed the biologic activity of one of these metabolites, Peak 2, on PMN function. Peak 2 was formed biologically following addition of exogenous arachidonic acid to canine PMNs pretreated with BW755c to inhibit lipoxygenase and cyclooxygenase enzymes, and purified by high performance liquid chromatography following separation by column chromatography. Peak 2 (20-200 ng/ml) inhibited calcium ionophore A23187-induced aggregation and the second phase of LTB4-induced aggregation. Additionally, Peak 2 inhibited A23187-induced PMN adhesion to columns of Sephadex G-25. BW755c (94 microM), which increased the formation of Peaks 1 and 2 by almost 300%, also inhibited A23187-induced PMN adhesion. In contrast, Peak 2 did not inhibit the release of superoxide anions or immunoreactive LTB4, after stimulation of the PMNs with A23187. Thus, Peak 2 may modulate some activities of canine PMNs. Because the biologic activity of Peak 2 is opposite to that of LTB4, which promotes PMN aggregation and adhesion, and because LTB4 may be metabolized by a cytochrome P-450-dependent mixed function oxidase to less active metabolites, this enzyme system may play a central role in the control of PMN function.\r"
+ }, 
+ {
+  ".I": "54652", 
+  ".M": "Animal; Blood Pressure/DE; Body Water/ME; Cardiac Output; Complement 5/*PH; Hemodynamics/*; Histamine/PH; Indomethacin/PD; Lipoxygenase/AI; Lung/ME; Male; Neutrophils/*PH; Prostaglandin-Endoperoxide Synthase/*ME; Prostaglandins E/BL; Rabbits; Regional Blood Flow; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S.; Thromboxane B2/BL; Thromboxane Synthetase/AI; Vascular Resistance; 6-Ketoprostaglandin F1 alpha/BL.\r", 
+  ".A": [
+   "Lundberg", 
+   "Marceau", 
+   "Hugli"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Pathol 8712; 128(3):471-83\r", 
+  ".T": "C5a-induced hemodynamic and hematologic changes in the rabbit. Role of cyclooxygenase products and polymorphonuclear leukocytes.\r", 
+  ".U": "87323481\r", 
+  ".W": "Hemodynamic and hematologic changes occurring after intravascular complement activation have implicated the anaphylatoxins in this response. In this study, the hemodynamic and hematologic effects of purified C5a were investigated in rabbits; and involvement of prostanoids, histamine, and polymorphonuclear leukocytes (PMNs) were examined. The anaphylatoxin C5a induces a reversible systemic arterial hypotension which coincides with an increase in central venous pressure (CVP), decreased cardiac output (CO), increased plasma prostanoid levels, as well as neutropenia. Total peripheral resistance (TPR) remained unchanged. The cyclooxygenase inhibitor indomethacin abolished the C5a-induced hypotension and normalized plasma prostanoid levels without altering the C5a-induced neutropenia. The thromboxane (Tx) A2 synthetase inhibitor dazoxiben reduced TxB2 plasma levels and increased 6-keto-prostaglandin PGF1 alpha and PGE2 levels without altering the hypotensive response. However, with dazoxiben treatment both TPR and CVP decreased. The H2-receptor antagonist cimetidine reduced C5a-induced hypotension and diminished prostanoid release. Both the hypotensive response and elevated prostanoid release were observed after C5a challenge in animals rendered neutropenic prior to challenge. It is concluded that C5a-induced arterial hypotension in the rabbit is a PMN-independent reaction, mediated through cyclooxygenase products and, to some degree, by histamine. The mechanism producing systemic arterial hypotension does not seem to involve peripheral vasodilation but appears to be a secondary effect of pulmonary vasoconstriction, possibly mediated by TxA2.\r"
+ }, 
+ {
+  ".I": "54653", 
+  ".M": "Animal; Anions; Chondroitin Sulfates/ME; Female; Heparitin Sulfate/*ME; Kidney Glomerulus/*ME; Microscopy, Electron; Mucopolysaccharides/*ME; Nephrosis/CI/*ME; Polyethyleneimine; Puromycin/*/AA; Puromycin Aminonucleoside/*; Rats; Rats, Inbred Strains; Stains and Staining; Sulfates/ME; Support, U.S. Gov't, Non-P.H.S.; Support, U.S. Gov't, P.H.S.; Uronic Acids/ME.\r", 
+  ".A": [
+   "Groggel", 
+   "Hovingh", 
+   "Border", 
+   "Linker"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Pathol 8712; 128(3):521-7\r", 
+  ".T": "Changes in glomerular heparan sulfate in puromycin aminonucleoside nephrosis.\r", 
+  ".U": "87323485\r", 
+  ".W": "Changes in glomerular anionic sites in puromycin aminonucleoside nephrosis (PAN) in the rat are controversial. The authors examined glomerular anionic sites in PAN by in vivo staining with polyethyleneimine (PEI). They also quantitated and characterized glomerular heparan sulfate (HS), which is known to be a major glomerular polyanion in PAN, using in vivo incorporation of 35S-sulfate. PAN rats had a mean protein excretion of 96 +/- 23 mg per 24 hours. Staining of anionic sites with PEI showed 15.3 +/- 2.8 sites per 1000-nm length of glomerular basement membrane in controls, 13.7 +/- 1.9 sites in PAN rats (P greater than 0.05), and 50% of rats with early PAN had absent staining. Total 35S-sulfate incorporation was similar in both the controls and established PAN rats (2900 +/- 150 dpm/mg dry wt of glomeruli versus 3005 +/- 260, P greater than 0.05) but decreased in early PAN rats (2025 +/- 148). The percentage of 35S-sulfate incorporated into chondroitin sulfate was similar in all three groups of animals. HS uronic acid was also similar (1.8 +/- 0.2 g/mg dry wt of glomeruli versus 1.7 +/- 0.3, P greater than 0.05) but decreased in early PAN (1.1 +/- 0.2). The distribution of 35S-sulfate activity within the HS subfractions was examined by ion-exchange chromatography and showed a shift in percent present from 1.0 M to 1.25 M fraction in established and early PAN animals (control 1.0 M 37% +/- 3.2% versus PAN 19% +/- 3.4%, P less than 0.01, and 1.25 M 36% +/- 2.9% versus 53% +/- 2.9%, P less than 0.01). These results demonstrate that glomerular heparan sulfate is unchanged in established PAN but decreased in early PAN. SO4 incorporation is unchanged in established PAN and diminished in early PAN. Thus, early in PAN HS synthesis is impaired, but in established PAN the HS is normal, and changes in glomerular HS cannot explain the increased permeability.\r"
+ }, 
+ {
+  ".I": "54654", 
+  ".M": "Body Weight/DE; DDE/AN/*PD; Female; Health Status; Human; Infant; Infant, Newborn; Lactation/*DE; Milk, Human/AN; Polychlorinated Biphenyls/AN/*PD; Pregnancy; Support, U.S. Gov't, P.H.S..\r", 
+  ".A": [
+   "Rogan", 
+   "Gladen", 
+   "McKinney", 
+   "Carreras", 
+   "Hardy", 
+   "Thullen", 
+   "Tingelstad", 
+   "Tully"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Public Health 8712; 77(10):1294-7\r", 
+  ".T": "Polychlorinated biphenyls (PCBs) and dichlorodiphenyl dichloroethene (DDE) in human milk: effects on growth, morbidity, and duration of lactation.\r", 
+  ".U": "87323718\r", 
+  ".W": "We followed 858 children from birth to one year of age to determine whether the presence of polychlorinated biphenyls (PCBs) and dichlorodiphenyl dichloroethene (DDE) in breast milk affected their growth or health. Neither chemical showed an adverse effect on weight or frequency of physician visits for various illnesses, although differences were seen between breast-fed and bottle-fed children, with bottle-fed children being heavier and having more frequent gastroenteritis and otitis media. Children of mothers with higher levels of DDE were breast-fed for markedly shorter times, but adjustments for possible confounders and biases did not change the findings. In absence of any apparent effect on the health of the children, we speculate that DDE may be interfering with the mother's ability to lactate, possibly because of its estrogenic properties.\r"
+ }, 
+ {
+  ".I": "54655", 
+  ".M": "Adult; Aged; Diagnosis-Related Groups/*; Human; Iowa; Medical Records; Medicare/*; Middle Age; Patient Discharge; Septicemia/DI/*EP/MO.\r", 
+  ".A": [
+   "Helms"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Public Health 8712; 77(10):1331-2\r", 
+  ".T": "A pseudo-epidemic of septicemia among Medicare patients in Iowa.\r", 
+  ".U": "87323726\r", 
+  ".W": "Between 1980 and 1986, Medicare discharges for DRG 416 (Septicemia Age greater than or equal to 18) increased dramatically in Iowa. The rate rose most steeply between 1983 and 1984. Relative bacteria-specific septicemia rates did not change substantially. The proportion of citing hospitals increased as did the number of citations per citing hospital. The data are best explained by increased physician-hospital reporting. A component of DRG (diagnosis related group) \"creep\" could not be excluded.\r"
+ }, 
+ {
+  ".I": "54656", 
+  ".M": "Colonic Neoplasms/*EP; Cost-Benefit Analysis; Female; Health Education; Human; Male; Mass Screening/*EC; Occult Blood/*; Rectal Neoplasms/*EP; Washington.\r", 
+  ".A": [
+   "Johnson", 
+   "Jolly"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Surg 8712; 154(3):261-3\r", 
+  ".T": "Analysis of a mass colorectal cancer screening program for cost-effectiveness.\r", 
+  ".U": "87323774\r", 
+  ".W": "Mass screening of the general population with the stool blood test is a costly means of increasing the incidence of colorectal cancer identification; however, the test is worthwhile as a screening tool in patients at risk. We found the incidence of positive results to increase with age, as does the risk of colorectal cancer. Further efforts to increase the incidence of colorectal cancer detection should be directed toward increasing the awareness of primary care physicians and improving their screening practices. We stress that high-risk populations should be given special attention and the use of flexible proctosigmoidoscopes should be encouraged.\r"
+ }, 
+ {
+  ".I": "54657", 
+  ".M": "Anesthesia, Local; Enteral Nutrition; Female; Gastroscopy; Gastrostomy/*MT; Human; Male; Middle Age; Respiration, Artificial; Tracheotomy/*MT.\r", 
+  ".A": [
+   "Slezak", 
+   "Kofol"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Surg 8712; 154(3):271-3\r", 
+  ".T": "Combined tracheostomy and percutaneous endoscopic gastrostomy.\r", 
+  ".U": "87323777\r", 
+  ".W": "Percutaneous endoscopic gastrostomy is rapidly becoming the preferred method of long-term enteral access with minimal complications obviating the need for prolonged nasogastric or orogastric intubation. Tracheostomy is the accepted technique for long-term airway control, especially for protection against upper airway secretions and respiratory failure. Over a 14 month period, 73 percutaneous gastrostomies were inserted in 71 patients. Nine patients (12.6 percent) had previously undergone tracheostomy, and 13 patients (18.3 percent) underwent a percutaneous endoscopic gastrostomy immediately after tracheostomy. All procedures were performed under local anesthesia. The concomitant percutaneous endoscopic gastrostomy added little time to the total procedure and was not associated with additional complications. Early experience with percutaneous gastrostomy indicates that a substantial number of patients (30.9 percent in the present study) also required tracheostomy. The tracheostomy and percutaneous endoscopic gastrostomy combination completely frees the nasopharynx of indwelling tubes. Concomitant percutaneous gastrostomy should be considered in patients undergoing tracheostomy.\r"
+ }, 
+ {
+  ".I": "54658", 
+  ".M": "Adipose Tissue/EN/ME; Alcohol, Ethyl/ME/*PD; Animal; Brain/ME; Carbon Dioxide/ME; Diet/*; Disease Models, Animal; Fatty Acids/BI; Glucose/ME; Intestinal Mucosa/ME; Lipase/ME; Lipids/*BI; Lipolysis/*DE; Lipoprotein Lipase/ME; Liver/ME; Muscles/ME; Support, Non-U.S. Gov't; Swine.\r", 
+  ".A": [
+   "Woollett", 
+   "Baldner-Shank", 
+   "Aprahamian", 
+   "Engen", 
+   "Beitz"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Alcohol Clin Exp Res 8712; 11(4):336-9\r", 
+  ".T": "Adaptation of lipogenesis and lipolysis to dietary ethanol.\r", 
+  ".U": "87323982\r", 
+  ".W": "The effect of dietary ethanol on metabolic fates of glucose and ethanol, and activities of lipoprotein lipase and hormone-sensitive lipase in several tissues of miniature pigs were determined in vitro. Ethanol and glucose were used at similar rates for fatty acid synthesis in liver and brain and CO2 production in liver. Ethanol was preferred over glucose for fatty acid and CO2 production in ileal mucosal cells. Glucose was the preferred substrate for lipogenesis and oxidation to CO2 in adipose tissue and skeletal muscle, and for oxidation to CO2 in brain. Dietary ethanol decreased glucose and ethanol conversion to fatty acids in ileal mucosa and brain, respectively. Dietary ethanol had no effect on the capacity of liver, adipose tissue, and skeletal muscle to convert either glucose or ethanol to long-chain fatty acids. The capacity to oxidize ethanol, but not glucose, to CO2 in liver was increased by dietary ethanol. No dietary ethanol effect was observed in other tissues. The capacity for removal of plasma triglycerides (based on lipoprotein lipase activity) tended to increase in adipose tissue and skeletal muscle of pigs fed ethanol. Mobilization of long-chain fatty acids from adipose tissue (based on hormone-sensitive lipase activity), triglyceride concentration in plasma, and percentage of lipid in liver remained unchanged when ethanol was fed. Livers of ethanol-fed pigs, however, were larger than livers of control pigs. Our results indicate that feeding miniature pigs 21-37% of total caloric intake as ethanol causes significant metabolic adaptations of lipid metabolism in liver and ileal mucosa, but not in adipose tissue, skeletal muscle, and brain. The ethanol feeding, however, did not cause fatty livers or hyperlipidemia.\r"
+ }, 
+ {
+  ".I": "54659", 
+  ".M": "Anesthesia, Inhalation/*; Carbon Dioxide/PH; Child; Child, Preschool; Enflurane/*PD; Halothane/*PD; Human; Infant; Isoflurane/*PD; Respiration/*DE; Tidal Volume; Time Factors.\r", 
+  ".A": [
+   "Murat", 
+   "Chaussain", 
+   "Hamza", 
+   "Saint-Maurice"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Anaesthesia 8712; 42(7):711-8\r", 
+  ".T": "The respiratory effects of isoflurane, enflurane and halothane in spontaneously breathing children.\r", 
+  ".U": "87324023\r", 
+  ".W": "The respiratory effects of halothane, isoflurane and enflurane were assessed during nitrous oxide anaesthesia (N2O 50%) in three groups of unstimulated, spontaneously breathing children who weighed 10-20 kg and were aged 1-6 years. Respiratory variables were measured or calculated from capnographic and pneumotachographic recordings at three multiples of minimal alveolar concentration (MAC). The slope of the carbon dioxide response was measured. Similar increases in end tidal carbon dioxide were found for the three agents at each MAC multiple, and similar decreases in tidal volume and in the slope of the ventilatory response to carbon dioxide. A dose-related tachypnoea occurred with halothane and a significant decrease in the duration of inspiration and the duration of each breath at the deepest level of anaesthesia. A significant increase in both these times occurred with enflurane, and a decrease in respiratory rate. No change in respiratory rate occurred with isoflurane at increasing alveolar concentrations whereas at each level of anaesthesia inspiratory time was significantly reduced.\r"
+ }, 
+ {
+  ".I": "54660", 
+  ".M": "Adult; Critical Care/*; Diagnosis-Related Groups/*; Female; Human; Intensive Care Units; Male; Prognosis; Prospective Studies; Risk; Saudi Arabia; Severity of Illness Index/*.\r", 
+  ".A": [
+   "Jacobs", 
+   "Chang", 
+   "Lee"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Anaesthesia 8712; 42(7):738-44\r", 
+  ".T": "One year's experience with the APACHE II severity of disease classification system in a general intensive care unit.\r", 
+  ".U": "87324027\r", 
+  ".W": "The APACHE II sickness score was applied prospectively for one year in a general intensive care unit in Saudi Arabia. Two hundred and ten patients were studied, 66 of whom died in hospital. The mean APACHE II score of survivors was 11 (SD 7.1) and of non-survivors, 25.3 (SD 8.8). The mean Risk of Death was 13.3% (SD 13.1) for the survivors and 47.2% (SD 25.8) for non-survivors. The differences in APACHE score and Risk of Death between survivors and non-survivors are highly significant (p less than 0.0005 for both). No patient survived who had a Risk of Death greater than 60% and none died with a Risk of Death less than 7%. The sensitivity of the APACHE II system in predictions of death can be improved if the scores on the day of admission and on the 3rd day are taken into account.\r"
+ }, 
+ {
+  ".I": "54661", 
+  ".M": "Administration, Topical; Case Report; Human; Intraoperative Complications/DT; Male; Middle Age; Nitroglycerin/*AD; Penile Erection/*DE; Prostatectomy.\r", 
+  ".A": [
+   "Snyder", 
+   "Ilko"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Anesth Analg 8712; 66(10):1022-3\r", 
+  ".T": "Topical nitroglycerin for intraoperative penile turgescence [published erratum appears in Anesth Analg 1988 Feb;67(2):204]\r", 
+  ".U": "87324166\r"
+ }, 
+ {
+  ".I": "54662", 
+  ".M": "Animal; Flumazenil/PD; Male; Midazolam/*PD; Morphine/*AI; Pain/PP; Rats; Rats, Inbred Strains; Receptors, GABA-Benzodiazepine/PH; Sensory Thresholds.\r", 
+  ".A": [
+   "Daghero", 
+   "Bradley", 
+   "Kissin"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Anesth Analg 8712; 66(10):944-7\r", 
+  ".T": "Midazolam antagonizes the analgesic effect of morphine in rats.\r", 
+  ".U": "87324195\r", 
+  ".W": "The effect of midazolam on morphine analgesia was studied in 54 rats. Analgesia was determined by measuring threshold for motor response to noxious pressure applied to the tail. Midazolam (0.5 mg/kg) decreased the morphine-induced (1 mg/kg) increase in the reaction threshold by one-half. Flumazepil (Ro 15-1788), a specific antagonist of benzodiazepines, prevented inhibition of morphine antinociception by midazolam. These findings demonstrate that midazolam partially antagonizes the analgesic effect of morphine and, in addition, that the antagonism of midazolam on morphine analgesia is mediated by benzodiazepine receptors.\r"
+ }, 
+ {
+  ".I": "54663", 
+  ".M": "Anesthesia Adjuvants/*AE; Animal; Fentanyl/*AA/AE/AI; Ketanserin/*TU; Male; Muscle Rigidity/*CI/PC; Preanesthetic Medication/*; Rats; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S..\r", 
+  ".A": [
+   "Weinger", 
+   "Cline", 
+   "Smith", 
+   "Koob"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Anesthesiology 8712; 67(3):348-54\r", 
+  ".T": "Ketanserin pretreatment reverses alfentanil-induced muscle rigidity.\r", 
+  ".U": "87324219\r", 
+  ".W": "Systemic pretreatment with ketanserin, a relatively specific type-2 serotonin receptor antagonist, significantly attenuated the muscle rigidity produced in rats by the potent short-acting opiate agonist alfentanil. Following placement of subcutaneous electrodes in each animal's left gastrocnemius muscle, rigidity was assessed by analyzing root-mean-square electromyographic activity. Intraperitoneal ketanserin administration at doses of 0.63 and 2.5 mg/kg prevented the alfentanil-induced increase in electromyographic activity compared with animals pretreated with saline. Chlordiazepoxide at doses up to 10 mg/kg failed to significantly influence the rigidity produced by alfentanil. Despite the absence of rigidity, animals that received ketanserin (greater than 0.31 mg/kg i.p.) followed by alfentanil were motionless, flaccid, and less responsive to external stimuli than were animals receiving alfentanil alone. Rats that received ketanserin and alfentanil exhibited less rearing and exploratory behavior at the end of the 60-min recording period than did animals that received ketanserin alone. These results, in combination with previous work, suggest that muscle rigidity, a clinically relevant side-effect of parenteral narcotic administration, may be partly mediated via serotonergic pathways. Pretreatment with type-2 serotonin antagonists may be clinically useful in attenuating opiate-induced rigidity, although further studies will be necessary to assess the interaction of possibly enhanced CNS, cardiovascular, and respiratory depression.\r"
+ }, 
+ {
+  ".I": "54664", 
+  ".M": "Aged; Anti-Arrhythmia Agents/*PO; Case Report; Gastric Lavage; Hemodialysis; Human; Intubation, Intratracheal; Lidocaine/*AA/PO; Male; Pacemaker, Artificial.\r", 
+  ".A": [
+   "Cohen"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Angiology 8712; 38(8):614\r", 
+  ".T": "Accidental overdose of tocainide successfully treated [letter]\r", 
+  ".U": "87324287\r"
+ }, 
+ {
+  ".I": "54665", 
+  ".M": "Adult; Benzhydryl Compounds/*TO; Central Nervous System/DE; Comparative Study; Double-Blind Method; Drug Evaluation; Female; Histamine H1 Receptor Blockaders/TO; Human; Hydroxyzine/*AA/TO; Male; Middle Age; Random Allocation; Skin Tests; Sleep Stages/DE.\r", 
+  ".A": [
+   "Rihoux", 
+   "Dupont"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Ann Allergy 8712; 59(3):235-8\r", 
+  ".T": "Comparative study of the peripheral and central effects of terfenadine and cetirizine 2 HCl.\r", 
+  ".U": "87324307\r", 
+  ".W": "The histamine cutaneous reactivity of healthy volunteers was measured after a single oral intake of placebo, terfenadine 60 mg and 180 mg, and cetirizine 2 HCl 10 mg. Central side effects were evaluated by Visual Analog Scales for drowsiness and movement coordination. The anti-H1 cutaneous effect of cetirizine 2 HCl proved to be significantly more rapid, more pronounced, and longer lasting than that of terfenadine 60 mg. Cetirizine and terfenadine 180 mg were equipotent. The Visual Analog Scales for central nervous system effects did not show any difference between cetirizine, terfenadine, and placebo.\r"
+ }, 
+ {
+  ".I": "54666", 
+  ".M": "Adult; Altitude/*; Atmospheric Pressure; Biological Transport; Carbon Dioxide/BL; Comparative Study; Exertion/*; Heart Catheterization; Hemodynamics; Human; Male; Oxygen/*BL; Partial Pressure; Support, Non-U.S. Gov't; Support, U.S. Gov't, Non-P.H.S.; Support, U.S. Gov't, P.H.S..\r", 
+  ".A": [
+   "Reeves", 
+   "Groves", 
+   "Sutton", 
+   "Wagner", 
+   "Cymerman", 
+   "Malconian", 
+   "Rock", 
+   "Young", 
+   "Alexander", 
+   "Houston"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Ann Emerg Med 8712; 16(9):993-8\r", 
+  ".T": "Oxygen transport during exercise at extreme altitude: Operation Everest II.\r", 
+  ".U": "87324380\r", 
+  ".W": "Eight male volunteers had rest and exercise measurement to determine the mechanisms of oxygen transport during a 40-day chamber decompression simulating high-altitude exposure equivalent to the summit of Mt Everest. Five subjects completing the study decreased their maximum oxygen uptake by 72%. During maximal or near-maximal exercise, arterial PCO2 fell as low as 8 mm Hg, defending the alveolar PO2 and confirming marked hyperventilation. Alveolar-arterial diffusion did not improve and V/Q worsened. Cardiac function was unimpaired. Circulatory oxygen transport resembled that at sea level. The decrease in mixed venous PO2 was not enough to preserve fractional oxygen utilization \"on the summit.\" The PO2 gradients from atmosphere to alveolus, alveolus to arterial blood, arterial to venous blood, and from venous (capillary) blood to mitochondria all decreased. However, hyperventilation appeared to be the primary adaptation that defended the maximum oxygen uptake.\r"
+ }, 
+ {
+  ".I": "54667", 
+  ".M": "Animal; Arachidonic Acids/ME; Bronchi/DE; Bronchial Spasm/*ET; Capsaicin/*PD; Dose-Response Relationship, Drug; Female; Guinea Pigs; Lipoxygenase/ME; Muscle, Smooth/*DE/ME; Para-Influenza/*PP; Para-Influenza Virus Type 3; Substance P/*PD; Support, Non-U.S. Gov't; Support, U.S. Gov't, Non-P.H.S.; Support, U.S. Gov't, P.H.S..\r", 
+  ".A": [
+   "Saban", 
+   "Dick", 
+   "Fishleder", 
+   "Buckner"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am Rev Respir Dis 8712; 136(3):586-91\r", 
+  ".T": "Enhancement by parainfluenza 3 infection of contractile responses to substance P and capsaicin in airway smooth muscle from the guinea pig.\r", 
+  ".U": "87324457\r", 
+  ".W": "Guinea pigs were inoculated by nasal insufflation with parainfluenza 3 (P-3) or virus growth medium 4 days before performing in vitro pharmacologic studies on left bronchial ring segments. Cumulative dose-response studies with capsaicin revealed an enhanced contractile response after P-3 infection. The sensitivity and magnitude of contractile effects of substance P in the left bronchi were also enhanced by P-3 infection. After pretreatment of the isolated tissues with phenoxybenzamine to block histamine H1 (with metiamide to block histamine H2), muscarinic, serotonergic, and alpha adrenergic receptors, or indomethacin to block the cyclooxygenase pathway of arachidonic acid metabolism, P-3 remained effective in enhancing contractile responses, even though these pretreatments altered the sensitivity and/or magnitude of contractions produced by substance P. When ETYA or NDGA were combined with indomethacin to also block the lipoxygenase pathway of arachidonic acid metabolism, the sensitizing effect of P-3 infection was diminished or abolished, especially at larger concentrations of substance P. With combination of FPL55712 and indomethacin, the sensitizing effect of P-3 was not abolished. Contractile responses to LTC4 and LTD4 were not enhanced by P-3 infection. The data suggest a selective influence of P-3 infection on the substance P system and provide evidence for a role of the lipoxygenase pathway of arachidonic acid metabolism in the sensitizing action. Peptide leukotrienes do not appear to be the lipoxygenase products involved in this effect of virus.\r"
+ }, 
+ {
+  ".I": "54668", 
+  ".M": "Allergens/IM; Animal; Asthma/*IM/TH; Bronchial Provocation Tests; Cromolyn Sodium/TU; Desensitization, Immunologic; Glucocorticoids/TU; Human; Hypersensitivity, Delayed/IM; Intradermal Tests; Prostaglandin-Endoperoxide Synthase/AI; Support, Non-U.S. Gov't; Theophylline/TU; Time Factors.\r", 
+  ".A": [
+   "O'Byrne", 
+   "Dolovich", 
+   "Hargreave"
+  ], 
+  ".P": "JOURNAL ARTICLE; REVIEW.\r", 
+  ".S": "Am Rev Respir Dis 8712; 136(3):740-51\r", 
+  ".T": "Late asthmatic responses.\r", 
+  ".U": "87324484\r"
+ }, 
+ {
+  ".I": "54669", 
+  ".M": "Airway Resistance; Carbon Dioxide/TU; Human; Oxygen Inhalation Therapy; Positive-Pressure Respiration; Respiration/*; Sleep/*PH; Sleep Apnea Syndromes/*PP/TH.\r", 
+  ".A": [
+   "Weil", 
+   "Cherniack", 
+   "Dempsey", 
+   "Edelman", 
+   "Phillipson", 
+   "Remmers", 
+   "Kiley"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am Rev Respir Dis 8712; 136(3):755-61\r", 
+  ".T": "NHLBI workshop summary. Respiratory disorders of sleep. Pathophysiology, clinical implications, and therapeutic approaches.\r", 
+  ".U": "87324486\r", 
+  ".W": "The extensive investigation into complex interactions of breathing and sleep have produced answers to numerous important questions, but it is clear that many of the most important questions in this area remain unanswered. Our understanding of the mechanisms through which sleep alters breathing and how disordered breathing can, in turn, effect sleep is rudimentary. Although a large body of recent work has done much to elucidate the factors that act to maintain the patency of the upper airway during sleep, our understanding of such mechanisms and the relative importance of structure and function in this context remains primitive. A better understanding of these issues will be critical in elucidating the pathophysiology of respiratory disorders of sleep. Although some progress has been made in this area, new insights will be critically important to the design of novel, potentially more effective approaches to treatment. Therapeutic decisions are greatly hampered by major uncertainties regarding respiratory disorders of sleep and the clinical significance of symptoms, signs, and laboratory findings, and their relationship to morbidity and mortality. It seems clear that new information regarding the pathophysiology and natural history of these disorders will be important in the development of new, more effective strategies for therapeutic intervention, and this together with rigorous, systematic evaluation of new and future therapeutic approaches will be critical to clinical progress in this field.\r"
+ }, 
+ {
+  ".I": "54670", 
+  ".M": "Animal; Arachidonic Acids/*ME; Hypertension, Pulmonary/*CI; Leukotrienes B/ME; Lung/*DE; Pyrrolizidine Alkaloids/*TO; Rats; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S.; SRS-A/ME; Thromboxane A2/ME.\r", 
+  ".A": [
+   "Roth", 
+   "Ganey"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am Rev Respir Dis 8712; 136(3):762-5\r", 
+  ".T": "Arachidonic acid metabolites and the mechanisms of monocrotaline pneumotoxicity.\r", 
+  ".U": "87324487\r", 
+  ".W": "MCT produces pulmonary vascular injury and pulmonary hypertension in rats by unknown mechanisms and provides a useful animal model with which to study chronic pulmonary hypertension. Several arachidonic acid metabolites including TxA2 and LT are present in increased concentration in lungs of rats made chronically pulmonary hypertensive with MCT or MCTP. The lack of protection afforded by cotreatment with drugs that inhibit the biosynthesis or antagonize the actions of TxA2 indicates that TxA2 does not play a major role in the pathogenesis of cardiopulmonary injury in this model. Results with DEC suggest the possibility of involvement of LT in the response to MCT and MCTP; additional work is needed to clarify the exact role of LT in this model. The roles of other biologically active lipid mediators such as platelet activating factor and HETEs are currently unknown. Increased understanding of the role of various mediators will come partly from the identification and careful use in vivo of improved drugs that have specific effects as synthesis inhibitors or receptor antagonists.\r"
+ }, 
+ {
+  ".I": "54671", 
+  ".M": "Adult; Arachidonic Acids/*ME; Cystic Fibrosis/*ME; Eicosanoic Acids/ME; Female; Human; Leukotrienes B/ME; Lung Diseases, Obstructive/*ME; Male; Middle Age; Prostaglandins/ME; Radioimmunoassay; Sputum/AN; Support, Non-U.S. Gov't.\r", 
+  ".A": [
+   "Zakrzewski", 
+   "Barnes", 
+   "Costello", 
+   "Piper"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am Rev Respir Dis 8712; 136(3):779-82\r", 
+  ".T": "Lipid mediators in cystic fibrosis and chronic obstructive pulmonary disease.\r", 
+  ".U": "87324494\r", 
+  ".W": "In order to investigate the possible role of arachidonic acid metabolites as lipid mediators in cystic fibrosis and chronic obstructive pulmonary disease (COPD), sputum from patients with cystic fibrosis, chronic bronchitis, or bronchiectasis was analyzed for various eicosanoids using a combination of radioimmunoassay and bioassay. Leukotriene (LT) B4, cysteinyl-containing LTs, and prostaglandins (PGs) E2, F2 alpha, 6-oxo-PGF1 alpha, and thromboxane B2 were found in all sputum samples. Saliva, which can contaminate sputum, contained low concentrations of prostanoids but not LTs. Inflammatory cells, including polymorphonuclear leukocytes (PMNs) are present in sputum. Because LTB4 generated by these cells is chemotactic for PMNs, it is suggested that this dihydroxy acid contributes to the inflammation of cystic fibrosis and other diseases characterized by airway obstruction. The source of the cysteinyl-containing LTs is less clear; these LTs may constrict respiratory smooth muscle and/or stimulate mucus formation.\r"
+ }, 
+ {
+  ".I": "54672", 
+  ".M": "Adolescence; Catheterization/*AE/IS/MT; Child; Child, Preschool; Equipment Safety; Human; Infant; Infusions, Intravenous; Parenteral Nutrition; Time Factors.\r", 
+  ".A": [
+   "Pokorny", 
+   "Black", 
+   "McGill", 
+   "Splaingard", 
+   "Harrison", 
+   "Harberg"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am Surg 8712; 53(9):524-7\r", 
+  ".T": "Central venous catheters in older children.\r", 
+  ".U": "87324518\r", 
+  ".W": "This report discusses the safety of 89 cuffed, Silastic (Dow Corning, Midland, MI) catheters placed in children between the ages of 1 and 18, a group that may be considered high risk on the basis of age. The overall complication rate was once every 288 days, three times more often than in published results in adults, but less often than in other pediatric series. The sepsis rate of once each 1236 days was almost twice the adult rate. Thirty (35%) of the catheters were used at home, accounting for 85 per cent of the total catheter use. Among this group, the overall complication rate was only once every 815 days, three times less frequent than in comparable adult series. The complication rate due to sepsis was once each 2444 days, the same as noted in adults. Whereas these catheters may be more hazardous overall in this age group, home usage appears to be safer than expected. These catheters are well accepted by this age group and their use, particularly among outpatients, should not be restricted for fear of an unacceptably high complication rate.\r"
+ }, 
+ {
+  ".I": "54673", 
+  ".M": "Aldehyde Reductase/AI; Autonomic Nervous System Diseases/PP; Blood Glucose/ME; Cardiovascular Diseases/ET; Diabetes Mellitus/ME; Diabetic Neuropathies/*/CL/ET/PP/TH; Human; Motor Neurons; Neurons, Afferent.\r", 
+  ".A": [
+   "Harati"
+  ], 
+  ".P": "JOURNAL ARTICLE; REVIEW.\r", 
+  ".S": "Ann Intern Med 8712; 107(4):546-59\r", 
+  ".T": "Diabetic peripheral neuropathies.\r", 
+  ".U": "87324564\r", 
+  ".W": "Diabetic peripheral neuropathies are a group of heterogeneous syndromes with considerable morbidity. At least 50% of diabetic patients develop one or several of these neuropathies within 25 years after the diagnosis. In recent years several pathogenetic mechanisms have been proposed, with the newest findings suggesting a link between several of these hypotheses. The hypoxic hypothesis has revived the role of vascular factors in the pathogenesis of diabetic peripheral neuropathies. Although the exact role of hyperglycemia in the development of peripheral neuropathy is not known, the balance of evidence indicates that attainment and maintenance of normal blood glucose remains the cornerstone of treatment of diabetes and diabetic neuropathies. There is no convincing evidence that any of the treatments devised to correct the metabolic derangements in nerve are of sufficient value or safety to be recommended for routine use.\r"
+ }, 
+ {
+  ".I": "54674", 
+  ".M": "Case Report; Collateral Circulation; Enteral Nutrition/*; Human; Intestines/*BS; Ischemia/*TH; Male; Middle Age.\r", 
+  ".A": [
+   "van", 
+   "Kleibeuker"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Ann Intern Med 8712; 107(4):592\r", 
+  ".T": "Intestinal circulation, enteral nutrition, and inoperable abdominal angina [letter]\r", 
+  ".U": "87324575\r"
+ }, 
+ {
+  ".I": "54675", 
+  ".M": "Adult; Arrhythmia, Sinus/CI; Atrial Natriuretic Factor/*AE; Bradycardia/*CI; Case Report; Female; Heart Arrest/CI; Human.\r", 
+  ".A": [
+   "Franco-Saenz", 
+   "Somani", 
+   "Mulrow", 
+   "Franco-Suarez"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Ann Intern Med 8712; 107(4):594\r", 
+  ".T": "Bradycardia after infusion of atrial natriuretic factor [letter] [published erratum appears in Ann Intern Med 1987 Dec;107(6):946]\r", 
+  ".U": "87324578\r"
+ }, 
+ {
+  ".I": "54676", 
+  ".M": "Blood Transfusion/*AE; Hepatitis C/*PC; Hepatitis, Viral, Human/*PC; Human; Life Expectancy; Liver Cirrhosis/*PC.\r", 
+  ".A": [
+   "Schmidt"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Ann Intern Med 8712; 107(4):597-8\r", 
+  ".T": "Posttransfusion cirrhosis, non-A, non-B hepatitis, and the acquired immunodeficiency syndrome [letter]\r", 
+  ".U": "87324584\r"
+ }, 
+ {
+  ".I": "54677", 
+  ".M": "Adult; Case Report; Electroencephalography; Epilepsy/*CO/PP; Epilepsy, Absence/*CO/PP; Eyelid Diseases/*CO/PP; Female; Fixation, Ocular/*; Human; Myoclonus/*CO/PP.\r", 
+  ".A": [
+   "Panayiotopoulos"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Ann Neurol 8712; 22(1):87-9\r", 
+  ".T": "Fixation-off-sensitive epilepsy in eyelid myoclonia with absence seizures.\r", 
+  ".U": "87324805\r", 
+  ".W": "Fixation-off-sensitive epilepsy is documented in a patient with eyelid myoclonia with absences. A series of simple electroencephalographic techniques showed that elimination of visual fixation is the actual stimulus for the eyelid myoclonus.\r"
+ }, 
+ {
+  ".I": "54678", 
+  ".M": "Animal; Antibiotics/BL/*PD/TU; Drug Resistance, Microbial; Drug Synergism; Enterococcus faecalis/*DE; Female; Gentamicins/PD; Microbial Sensitivity Tests; Peptides/BL/PD/TU; Pyelonephritis/*DT/MI; Rats; Rats, Inbred Strains; Streptococcal Infections/*DT/MI; Support, Non-U.S. Gov't; Time Factors.\r", 
+  ".A": [
+   "Miniter", 
+   "Patterson", 
+   "Johnson", 
+   "Andriole"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Antimicrob Agents Chemother 8712; 31(8):1199-203\r", 
+  ".T": "Activity of LY146032 in vitro and in experimental enterococcal pyelonephritis.\r", 
+  ".U": "87324845\r", 
+  ".W": "The efficacy of LY146032 (LY), a new lipopeptide antibiotic, was compared with that of vancomycin, ciprofloxacin, ceftriaxone, imipenem, and gentamicin and combinations of LY-ceftriaxone, LY-imipenem, and LY-gentamicin against 15 strains of Streptococcus (Enterococcus) faecalis by microtiter dilution and checkerboard techniques. LY was effective within a very narrow range of drug concentrations (from 0.125 to 2.0 micrograms/ml) and was more active than other agents tested against S. faecalis. Enhanced inhibition of S. faecalis was seen more frequently with combinations of either penicillin or ampicillin and an aminoglycoside than with combinations of LY and gentamicin, imipenem, or ceftriaxone. The in vivo efficacy of LY was compared with that of vancomycin and ampicillin alone and combinations of vancomycin-gentamicin, ampicillin-gentamicin, and LY-gentamicin in a rat model of chronic enterococcal pyelonephritis. At a dose of 10 mg/kg given twice daily, LY reduced the number of organisms per kidney significantly compared with that in infected untreated controls within 48 h after the initiation of therapy. At 20 mg/kg given once a day, LY was less effective but reduced colony counts significantly after 4 days of therapy, and its activity was comparable to that of vancomycin or vancomycin-gentamicin given twice daily. LY may be a promising agent for the treatment of enterococcal infections.\r"
+ }, 
+ {
+  ".I": "54679", 
+  ".M": "Amino Acids/AN; Antibiotics, Lactam/*ME; Antigens, Bacterial/AN; Bacterial Outer Membrane Proteins/AN/*ME; Iodine Radioisotopes/DU; Ion Channels/*ME; Lipopolysaccharides/IM; Liposomes/ME; Pseudomonas aeruginosa/*ME; Support, Non-U.S. Gov't.\r", 
+  ".A": [
+   "Godfrey", 
+   "Bryan"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Antimicrob Agents Chemother 8712; 31(8):1216-21\r", 
+  ".T": "Penetration of beta-lactams through Pseudomonas aeruginosa porin channels.\r", 
+  ".U": "87324848\r", 
+  ".W": "Diminished permeation of beta-lactam antibiotics in a mutant (PCC23) of Pseudomonas aeruginosa, PAO503, was investigated. Resistance to beta-lactam antibiotics could not be correlated to a change in the beta-lactamase or target proteins in strain PCC23 but was correlated with decreased permeability. In liposome swelling assays, the permeability defect was associated with strain PCC23 porin. Amino acid analysis did not show significant difference of the porin of the mutant (PCC23) from that of the parent (PAO503). Changes in the behavior of isolated porin from PCC23 in migration in sodium dodecyl sulfate-polyacrylamide gels and in response to trypsin digestion as well as preferential labeling of PCC23 by a monoclonal antibody with a preference for the modified form of porin F (F) indicate that a structural alteration had occurred in this strain and correlated with the change in permeability.\r"
+ }, 
+ {
+  ".I": "54680", 
+  ".M": "Actinospectacin/PD; Antibiotics/*PD; Drug Resistance, Microbial; Gabon; Gonorrhea/MI; Human; Microbial Sensitivity Tests; Neisseria gonorrhoeae/*DE; Tetracycline/PD; Time Factors.\r", 
+  ".A": [
+   "Peeters", 
+   "Frost", 
+   "Collet", 
+   "Ossari", 
+   "Yvert", 
+   "Ivanoff"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Antimicrob Agents Chemother 8712; 31(8):1288-90\r", 
+  ".T": "Changing antibiotic susceptibility of Neisseria gonorrhoeae in Franceville, Gabon.\r", 
+  ".U": "87324865\r", 
+  ".W": "Susceptibilities to penicillin, cefotaxime, kanamycin, tetracycline, and spectinomycin were measured for 5 reference strains and 302 Neisseria gonorrhoeae isolates collected between 1980 and 1985. After an initial rise, the number of penicillinase-producing strains decreased. A gradual decrease in susceptibility to spectinomycin and the appearance of tetracycline-resistant strains were also documented.\r"
+ }, 
+ {
+  ".I": "54681", 
+  ".M": "Adolescence; Adult; Case Report; Child; Clinical Trials; Female; Follow-Up Studies; Human; Ketotifen/*TU; Male; Mast Cells/*DE/SE; Middle Age; Neurofibromatosis 1/*DT; Support, Non-U.S. Gov't; Time Factors.\r", 
+  ".A": [
+   "Riccardi"
+  ], 
+  ".P": "CLINICAL TRIAL; JOURNAL ARTICLE.\r", 
+  ".S": "Arch Dermatol 8712; 123(8):1011-6\r", 
+  ".T": "Mast-cell stabilization to decrease neurofibroma growth. Preliminary experience with ketotifen.\r", 
+  ".U": "87324979\r", 
+  ".W": "Based on (1) the large numbers of mast cells present in neurofibromas, (2) the possibility that these mast cells contribute directly to neurofibroma growth, and (3) the ability of ketotifen therapy to stabilize (ie, block) mast-cell secretion, treatment with ketotifen was started in a patient with severe neurofibromatosis (NF) in August 1983. Subsequently, ten additional patients with one or more symptomatic neurofibromas were treated with comparable doses of ketotifen, 2 to 4 mg/d, orally administered for 30 to 43 months. This represents a total of 389 patient-months or 32.4 patient-years. All of these patients showed an unequivocal decrease in neurofibroma-associated pruritus and/or pain and tenderness; a consistent, but less-uniform, decrease in the rate of neurofibroma growth; and an unexpected improvement in overall sense of well-being, productivity, and general performance. It appears likely that mast-cell secretions do contribute to the growth and associated symptoms of neurofibromas, and that mast-cell blockers, such as ketotifen therapy, can retard this growth.\r"
+ }, 
+ {
+  ".I": "54682", 
+  ".M": "Animal; Bandages/*; Carbon Dioxide; Cicatrix/PC; Comparative Study; Human; Lasers/*AE; Male; Petrolatum; Polyurethanes/*; Rats; Rats, Inbred Strains; Skin/*IN; Wound Healing/*.\r", 
+  ".A": [
+   "Chan", 
+   "Vincent", 
+   "Wangemann"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Arch Dermatol 8712; 123(8):1042-5\r", 
+  ".T": "Accelerated healing of carbon dioxide laser burns in rats treated with composite polyurethane dressings.\r", 
+  ".U": "87324985\r", 
+  ".W": "Healing time, infection rate, and residual scar formation were compared in carbon dioxide laser burns in rats treated in four ways: Spandra composite dressing, OpSite composite dressing, Petrolatum Gauze (USP), and no treatment. There were no infections and no differences in scar formation among the treatment groups. The mean healing times were ten days for the polyurethane dressings (Spandra and OpSite), 13 days for Petrolatum Gauze, and 16 days for the untreated group. Spandra was easier to apply and handle than OpSite. These findings suggest that synthetic gas-permeable dressings promote healing after cutaneous carbon dioxide laser surgery more effectively than conventional treatments of ointment-impregnated gauze or leaving the wound exposed to the air.\r"
+ }, 
+ {
+  ".I": "54683", 
+  ".M": "Adult; Case Report; Dermatitis Medicamentosa/*ET; Human; IgA/*AN; Lithium/*AE; Male; Skin Diseases, Vesiculobullous/*CI; Support, U.S. Gov't, Non-P.H.S..\r", 
+  ".A": [
+   "McWhirter", 
+   "Hashimoto", 
+   "Fayne", 
+   "Ito"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Arch Dermatol 8712; 123(9):1120-2\r", 
+  ".T": "Linear IgA bullous dermatosis related to lithium carbonate [letter]\r", 
+  ".U": "87325004\r"
+ }, 
+ {
+  ".I": "54684", 
+  ".M": "Adult; Case Report; Eyelid Diseases/PA; Fabry's Disease/*PA; Fingers; Human; Male; Retinal Diseases/PA; Scrotum; Toes.\r", 
+  ".A": [
+   "Marsden", 
+   "Allen"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Arch Dermatol 8712; 123(9):1125-7\r", 
+  ".T": "Widespread angiokeratomas without evidence of metabolic disease [letter]\r", 
+  ".U": "87325007\r"
+ }, 
+ {
+  ".I": "54685", 
+  ".M": "Atrial Natriuretic Factor/*BL; Diuresis/*; Female; Human; Infant, Newborn; Kidney/PP; Male; Meconium/*; Pneumonia, Aspiration/*BL/PP; Respiratory Distress Syndrome/*BL/PP; Support, Non-U.S. Gov't; Syndrome; Urine.\r", 
+  ".A": [
+   "Kojima", 
+   "Hirata", 
+   "Fukuda", 
+   "Iwase", 
+   "Kobayashi"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Arch Dis Child 8712; 62(7):667-70\r", 
+  ".T": "Plasma atrial natriuretic peptide and spontaneous diuresis in sick neonates.\r", 
+  ".U": "87325033\r", 
+  ".W": "Plasma concentrations of immunoreactive human atrial natriuretic peptide (human ANP) were sequentially determined in 12 infants with respiratory distress syndrome (RDS) or meconium aspiration syndrome (MAS) during various phases of diuresis to elucidate the role of human ANP in the occurrence of spontaneous diuresis in the newborn. Plasma immunoreactive ANP concentrations during the diuretic as well as the maximum diuretic phase were significantly (p less than 0.001) higher than during the prediuretic phase. A gradual decrease occurred during the post diuretic phase, returning to prediuretic values after one week of life. Significant natriuresis, increased glomerular filtration rate, mild hyponatremia, and decreased blood pressure were observed in the diuretic phase in all the cases studied. These results suggest that hypersecretion of human ANP may play an important part in initiating spontaneous diuresis in sick neonates.\r"
+ }, 
+ {
+  ".I": "54686", 
+  ".M": "Administration, Oral; Adolescence; Child; Hemodialysis/*; Human; Kidney Failure, Chronic/*PP/TH; Mannitol/AD/*TU; Water-Electrolyte Balance/*DE; Water-Electrolyte Imbalance/DT.\r", 
+  ".A": [
+   "Poulton", 
+   "Winterborn"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Arch Dis Child 8712; 62(7):729-31\r", 
+  ".T": "Oral mannitol in control of fluid balance.\r", 
+  ".U": "87325047\r", 
+  ".W": "Oral mannitol 40 g/m2 was given as 5.5% and 20% solutions to six dialysed children. Both solutions caused diarrhoea. Body weight showed no significant change after the 5.5% solution, which may be used as 'free drink', but fell by 19.8 g/g mannitol after the 20% solution.\r"
+ }, 
+ {
+  ".I": "54687", 
+  ".M": "Adult; Amino Acids/*AD/BL/UR; Animal; Arteriosclerosis/*TH; Atherosclerosis/BL/PA/*TH; Case Report; Cholesterol/BL; Human; Infusions, Intravenous; Male; Middle Age; Parenteral Nutrition/*; Pilot Projects; Rabbits; Random Allocation.\r", 
+  ".A": [
+   "Dudrick"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Ann Surg 8712; 206(3):296-315\r", 
+  ".T": "Regression of atherosclerosis by the intravenous infusion of specific biochemical nutrient substrates in animals and humans.\r", 
+  ".U": "87325165\r", 
+  ".W": "Preliminary studies in 400 New Zealand albino rabbits produced a reliable animal model of nutrient-induced atherosclerosis that simulated that observed in humans. Atherosclerosis was then induced in an additional 1600 rabbits in sets of 40 animals each, maintaining plasma cholesterol concentrations between 1000 and 2000 mg/dL for 6-20 weeks. In each set, 10 control rabbits were killed to document baseline atherosclerosis, and the other 30 rabbits were assigned randomly to one of three groups of 10 rabbits. Groups of 10 rabbits were either continued on the atherogenic diet (group I), given standard laboratory rabbit pellets (group II), or infused continuously with specially formulated anticholesterol solutions via central venous catheters (group III) for 6 weeks. At autopsy, atherosclerotic lesions consistently involved 85-95% of the aorta in group I. In group II, atherosclerosis was comparable with the baseline control group with no regression. In group III, regression of atherosclerosis by 90-95% was consistently documented. Correlations between plasma amino acids and plasma cholesterol concentrations were established in four humans with severe atherosclerosis to maximize the cholesterol reduction capacity of the amino acid formulation. Infusion of the modified total parenteral nutrition solution induced prompt reduction in plasma cholesterol levels by 40-60% regardless of the initial level and was accompanied by evidence of regression of atherosclerosis after a 90-day infusion therapy period.\r"
+ }, 
+ {
+  ".I": "54688", 
+  ".M": "Animal; Blood Glucose/AN; Comparative Study; Diabetes Mellitus, Experimental/ME/*TH; Diabetic Nephropathies/PA/*PC; Insulin/BL; Islets of Langerhans/*TR; Islets of Langerhans Transplantation/*; Kidney/PA; Pancreas/*TR; Pancreas Transplantation/*; Rats; Rats, Inbred Lew; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S..\r", 
+  ".A": [
+   "Orloff", 
+   "Macedo", 
+   "Macedo", 
+   "Greenleaf"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Ann Surg 8712; 206(3):324-34\r", 
+  ".T": "Comparison of whole pancreas and pancreatic islet transplantation in controlling nephropathy and metabolic disorders of diabetes.\r", 
+  ".U": "87325167\r", 
+  ".W": "To compare the long-term effectiveness of whole pancreas transplantation and pancreatic islet transplantation in controlling the metabolic disorders and preventing the kidney lesions of alloxan diabetes, metabolic and morphologic studies were performed in four groups of rats: (1) NC-116 nondiabetic controls; (2) DC-273 untreated alloxan-diabetic controls; (3) PDT-182 rats that received syngeneic pancreaticoduodenal transplants not long after induction of diabetes with alloxan; and (4) IT-92 rats that received an intraportal injection of at least 1500 and usually 2000 syngeneic pancreatic islets soon after induction of diabetes with alloxan. Each month for 24 months after diabetes was well established, body weight and plasma concentrations of glucose and insulin were measured, and five lesions were scored by light microscopy in 50 glomeruli and related tubules in each kidney by a \"blind\" protocol: glomerular basement membrane thickening, mesangial enlargement, Bowman's capsule thickening, Armanni-Ebstein lesions of the tubules, and tubular protein casts. There were progressive and highly significant increases in the incidence and severity of all five kidney lesions in the diabetic control rats compared with the nondiabetic control rats. No significant differences were found between the kidneys of Group PDT and those of Group NC, demonstrating that whole pancreas transplantation prevented all of the diabetic kidney lesions throughout the 2-year study period. In contrast, within 3-9 months after pancreatic islet transplantation and thereafter, the incidence and severity of the five diabetic kidney lesions were similar in Group IT and Group DC. Whole pancreas transplantation produced precise metabolic control of diabetes throughout the 24 months of study, whereas pancreatic islet transplantation did not accomplish complete metabolic control, particularly beyond the first several months after transplantation. The difference in the completeness of metabolic control achieved by the two types of transplants is the most likely explanation for their sharp difference in effectiveness in preventing diabetic nephropathy.\r"
+ }, 
+ {
+  ".I": "54689", 
+  ".M": "Adolescence; Adult; Blister/BL/*IM; Burns/BL/*IM/ME; Complement 3/AN; Female; Human; Immunity, Cellular; Male; Middle Age; Neutrophils/*IM/ME; Oxygen Consumption; Pseudomonas aeruginosa/PH; Support, U.S. Gov't, P.H.S..\r", 
+  ".A": [
+   "Deitch", 
+   "Bridges", 
+   "Dobke", 
+   "McDonald"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Ann Surg 8712; 206(3):340-8\r", 
+  ".T": "Burn wound sepsis may be promoted by a failure of local antibacterial host defenses.\r", 
+  ".U": "87325169\r", 
+  ".W": "Little attention has been focused on the local burn wound environment, even though burn wound sepsis is a common cause of death in the burn victim. To characterize the effect of the local burn wound environment on neutrophil function and metabolism, the opsonic activity of blister fluid specimens against Pseudomonas aeruginosa was measured as was the effect of blister fluid on control neutrophil oxygen consumption using preopsonized zymosan and f-met-leu-phe (FMLP) as stimuli. Blister fluid did not support the killing of P. aeruginosa by normal neutrophils as well as normal serum. Additionally, blister fluid inhibited zymosan-stimulated, but not FMLP-stimulated, neutrophil oxygen consumption. The inhibitory effect of blister fluid on zymosan-stimulated oxygen consumption correlated with the extent of complement activation, measured as C3d or C3AI (p less than 0.01). That blister fluid did not inhibit the FMLP-mediated respiratory burst supports the concept that the blister fluid inhibitory effect on the zymosan-mediated respiratory burst was mediated through the complement receptor. These findings that blister fluid can affect the bactericidal and metabolic activity of normal neutrophils support the concept that cellular function can be altered by the microenvironment in which the cells are bathed. This potential impairment of host defenses within the burn wound could predispose the burn victim to burn wound sepsis.\r"
+ }, 
+ {
+  ".I": "54690", 
+  ".M": "Acquired Immunodeficiency Syndrome/*CO; Adult; Carbon Dioxide/BL; Female; Hospitalization; Human; Lactate Dehydrogenase/BL; Leukocytosis/DI; Male; Oxygen/BL; Pneumonia, Pneumocystis carinii/ET/*MO; Prognosis; Serum Albumin/AN; Time Factors.\r", 
+  ".A": [
+   "Kales", 
+   "Murren", 
+   "Torres", 
+   "Crocco"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Arch Intern Med 8712; 147(8):1413-7\r", 
+  ".T": "Early predictors of in-hospital mortality for Pneumocystis carinii pneumonia in the acquired immunodeficiency syndrome.\r", 
+  ".U": "87325275\r", 
+  ".W": "One hundred forty-five patients were initially seen with Pneumocystis carinii pneumonia (PCP). Of the many features examined, several variables were identified early in the hospitalization for PCP that were associated with poor survival. These included multiple admissions, leukocytoses, elevated serum lactate dehydrogenase levels, decreased arterial oxygen pressure (tension), decreased arterial carbon dioxide pressure (tension), and decreased serum albumin levels. Variables that were associated with increased survival included normal respiratory rates and normal findings on lung examination. Patients with multiple pulmonary infections displayed higher mortality rates than patients who had only PCP. Finally, our data did not suggest that the degree of immunosuppression affected in-hospital mortality for PCP.\r"
+ }, 
+ {
+  ".I": "54691", 
+  ".M": "Aldehyde Reductase/AI; Anti-Inflammatory Agents, Non-Steroidal/*TU; Clinical Trials; Comparative Study; Diabetic Neuropathies/*DT; Human; Ibuprofen/TO/TU; Male; Middle Age; Sulindac/TO/TU.\r", 
+  ".A": [
+   "Cohen", 
+   "Harris"
+  ], 
+  ".P": "CLINICAL TRIAL; JOURNAL ARTICLE.\r", 
+  ".S": "Arch Intern Med 8712; 147(8):1442-4\r", 
+  ".T": "Efficacy and safety of nonsteroidal anti-inflammatory drugs in the therapy of diabetic neuropathy.\r", 
+  ".U": "87325279\r", 
+  ".W": "A study comparing ibuprofen (600 mg four times a day) vs sulindac (200 mg twice a day), and a placebo in the treatment of painful diabetic peripheral neuropathy was conducted in 18 male outpatients. Discomfort was characterized and rated with a subjective neuropathy score. The response to both ibuprofen and sulindac was better than it was to placebo in the entire group. There were no changes in glucose control or renal function. Further studies are necessary to evaluate the significance of aldose reductase-inhibitor properties of nonsteroidal anti-inflammatory drugs and to select the \"best\" one of these drugs for the treatment of diabetic neuropathy.\r"
+ }, 
+ {
+  ".I": "54692", 
+  ".M": "Administration, Oral; Angiography; Comparative Study; Cost-Benefit Analysis; Female; Follow-Up Studies; Heparin/TU; Human; Male; Middle Age; Pulmonary Embolism/*DT/RA; Retrospective Studies; Support, Non-U.S. Gov't; Time Factors; Warfarin/AD/*TU.\r", 
+  ".A": [
+   "Rosiello", 
+   "Chan", 
+   "Tencza", 
+   "Matthay"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Arch Intern Med 8712; 147(8):1469-73\r", 
+  ".T": "Timing of oral anticoagulation therapy in the treatment of angiographically proven acute pulmonary embolism.\r", 
+  ".U": "87325283\r", 
+  ".W": "The optimal time to begin oral anticoagulation therapy with warfarin sodium in the treatment of acute pulmonary embolism has not been defined. To evaluate the relative cost, efficacy, and safety of early initiation of warfarin therapy, we reviewed the medical records of 38 patients with angiographically proven pulmonary embolism. Patients were divided into two groups: those who received warfarin early (less than or equal to 3 days after initial heparin sodium bolus, n = 17) and those who were treated late (greater than 3 days after initial heparin bolus, n = 21). After three months of follow-up, there was a similar incidence of mortality, recurrent pulmonary embolism, and bleeding complications in both treatment groups. Length of hospitalization was substantially less in the early group (9.6 +/- 2.0 vs 11.8 +/- 2.1 days). Early warfarin therapy in the treatment of acute pulmonary embolism appears to be both cost-effective and safe. A prospective multicenter controlled trial should be performed.\r"
+ }, 
+ {
+  ".I": "54693", 
+  ".M": "Blood Gas Analysis/IS; Case Report; Diabetic Ketoacidosis/*BL; Female; Human; Hypokalemia/*DI; Middle Age; Potassium/*BL; Time Factors.\r", 
+  ".A": [
+   "Leventhal", 
+   "Goldman"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Arch Intern Med 8712; 147(8):1501-2\r", 
+  ".T": "Immediate plasma potassium levels in treating diabetic ketoacidosis.\r", 
+  ".U": "87325288\r", 
+  ".W": "A patient presented with diabetic ketoacidosis and severe hypokalemia (less than 2.0 mmol/L [less than 2.0 mEq/L]). The availability of immediate plasma potassium levels using a blood gas analyzer (Radiometer) prevented the use of potentially hazardous therapy. Potassium levels should be determined immediately using this technology in all patients with ketoacidosis.\r"
+ }, 
+ {
+  ".I": "54694", 
+  ".M": "Antibodies/AN; Blood Banks/*ST; Blood Grouping and Crossmatching/*; Blood Groups/IM; Human; HLA Antigens/AN; Quality Control; Rh-Hr Blood-Group System.\r", 
+  ".A": [
+   "Cooper", 
+   "Ryden", 
+   "Schmidt", 
+   "Walker"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Arch Pathol Lab Med 8712; 111(10):899-903\r", 
+  ".T": "CAP comprehensive blood bank survey--1985.\r", 
+  ".U": "87325451\r", 
+  ".W": "Approximately 2800 laboratories participate in the voluntary Comprehensive Blood Bank Survey of the College of American Pathologists, including graded challenges relating to ABO and Rh typing, antibody detection and identification, and crossmatching. The Surveys have shown consistently good performance in these areas. Ungraded responses reporting results of antigen typing, other cell or serum challenges selected for educational value, and supplemental questions are reviewed. The supplemental questions are designed to elicit practice patterns and to present opportunities for educational comments in the critiques.\r"
+ }, 
+ {
+  ".I": "54695", 
+  ".M": "Adult; Blood Coagulation Disorders/*CI; Blood Coagulation Factors/AN/*IM; Blood Coagulation Tests; Case Report; Epilepsy/DT; Human; Hypoprothrombinemias/*CI; Immunoelectrophoresis, Two-Dimensional; Male; Phenytoin/*AE/TU; Prothrombin/AN; Support, Non-U.S. Gov't.\r", 
+  ".A": [
+   "Harrison", 
+   "Alperin", 
+   "Kumar"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Arch Pathol Lab Med 8712; 111(8):719-22\r", 
+  ".T": "Concurrent lupus anticoagulants and prothrombin deficiency due to phenytoin use.\r", 
+  ".U": "87325485\r", 
+  ".W": "A man with lupus anticoagulant and a prothrombin deficiency was studied before and after cessation of treatment with phenytoin. Multiple abnormal laboratory values of the following partially or completely resolved after the patient's therapy was discontinued: tissue thromboplastin inhibition ratio, prothrombin time, activated partial thromboplastin time, anticardiolipin antibodies, and quantitative measures and abnormal pattern on crossed immunoelectrophoresis of prothrombin. This patient represented an example of a concurrent drug-induced prothrombin deficiency and a lupus anticoagulant.\r"
+ }, 
+ {
+  ".I": "54696", 
+  ".M": "Animal; Hypertension, Pulmonary/CI/*PA; Liver/PA; Male; Microscopy, Electron; Muscle, Smooth, Vascular/PA; Pulmonary Artery/*PA; Pulmonary Wedge Pressure; Pyrrolizidine Alkaloids/*; Rats; Rats, Inbred Strains; Senecio; Support, Non-U.S. Gov't; Time Factors.\r", 
+  ".A": [
+   "Guzowski", 
+   "Salgado"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Arch Pathol Lab Med 8712; 111(8):741-5\r", 
+  ".T": "Changes in main pulmonary artery of rats with monocrotaline-induced pulmonary hypertension.\r", 
+  ".U": "87325490\r", 
+  ".W": "Hypertension is one of the most important risk factors for atherosclerosis, yet no morphologic evidence exists to explain it. This study is an attempt to identify lesions in the main pulmonary artery of rats in which pulmonary hypertension was induced by a single dose of monocrotaline. Pulmonary artery pressure was measured directly by catheterization or indirectly by measuring right ventricular thickness. Lesions were studied by both light and electron microscopy. As in previous studies in which monocrotaline was given chronically, we found thickening of the main pulmonary artery. We also found widening of subendothelial space, change in smooth-muscle cell polarity, shape, and organelle content (indicating change from contractile to secretory), focal areas of muscle necrosis and elastolysis. Interestingly, cardiac muscle was observed in adventitia of both controls and treated animals.\r"
+ }, 
+ {
+  ".I": "54697", 
+  ".M": "Cell Differentiation; Chromogranins/AN; Histocytochemistry; Human; Membrane Proteins/*AN; Molecular Weight; Neurosecretory Systems/*AN.\r", 
+  ".A": [
+   "Gould"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Arch Pathol Lab Med 8712; 111(9):791-4\r", 
+  ".T": "Synaptophysin. A new and promising pan-neuroendocrine marker.\r", 
+  ".U": "87325505\r"
+ }, 
+ {
+  ".I": "54698", 
+  ".M": "Antibodies, Monoclonal; Antigens/AN; Antigens, Neoplasm/*AN; Antigens, Surface/AN/IM; Bromodeoxyuridine; Carbonate Dehydratase/AN; Encephalitogenic Basic Proteins/AN; Eye Proteins/AN; Factor VIII/AN/IM; Glial Fibrillary Acidic Protein/AN; Human; Intermediate Filaments/AN; Keratin/AN; Lectins/AN; Membrane Proteins/AN; Myelin Proteins/AN; Nerve Tissue Protein S 100/AN; Phosphopyruvate Hydratase/AN; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S.; Vimentin/AN.\r", 
+  ".A": [
+   "Perentes", 
+   "Rubinstein"
+  ], 
+  ".P": "JOURNAL ARTICLE; REVIEW.\r", 
+  ".S": "Arch Pathol Lab Med 8712; 111(9):796-812\r", 
+  ".T": "Recent applications of immunoperoxidase histochemistry in human neuro-oncology. An update.\r", 
+  ".U": "87325507\r", 
+  ".W": "In this review, we describe some of the most commonly used antibodies and discuss their immunohistochemical applications to human neuro-oncology. We stress the importance of determining the spectrum of antibody immunoreactivity in a wide panel of normal, reactive, and neoplastic tissues, and the caution with which immunopositivity needs to be interpreted in atypical and aberrant cases. Whether the detection of a well-characterized, cell-type-specific marker in a tumor reflects histogenesis or solely differentiation potential is discussed in several examples.\r"
+ }, 
+ {
+  ".I": "54699", 
+  ".M": "Adrenal Gland Neoplasms/PA; Adult; Aged; Aged, 80 and over; Carcinoid Tumor/PA; Female; Gastrointestinal Neoplasms/PA; Human; Intermediate Filament Proteins/*AN; Islet Cell Tumor/PA; Male; Membrane Proteins/*AN; Microscopy, Electron; Middle Age; Neoplasms/*PA; Pancreatic Neoplasms/PA; Pheochromocytoma/PA; Support, Non-U.S. Gov't; Thyroid Neoplasms/PA.\r", 
+  ".A": [
+   "Miettinen"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Arch Pathol Lab Med 8712; 111(9):813-8\r", 
+  ".T": "Synaptophysin and neurofilament proteins as markers for neuroendocrine tumors.\r", 
+  ".U": "87325508\r", 
+  ".W": "Synaptophysin, a membrane glycoprotein of presynaptic vesicles, and neurofilament (NF) proteins were tested as immunohistochemical markers for neuroendocrine tumors. Synaptophysin was consistently present in the tumor cells of pheochromocytomas (10/10), thyroid medullary carcinomas (8/8), and pancreatic islet cell tumors (6/6). Most gastrointestinal and thoracic carcinoid tumors (12/13) were positive, as were neuroendocrine carcinomas (7/9), of which two Merkel cell carcinomas were negative. The NF proteins were present in all pheochromocytomas, in three thoracic and one gastric carcinoid tumors, in four of eight thyroid medullary carcinomas, and in five of six pancreatic islet cell tumors. All intestinal carcinoids were negative for NF proteins, as were neuroendocrine carcinomas, except for two Merkel cell carcinomas that were positive. The 68-kilodalton (kd) NF subunit protein was the most prevalent in all NF-positive neuroendocrine tumors, and the 160-kd subunit was relatively often present, although in a smaller number of cells. The 200-kd NF subunit protein was regularly found in pheochromocytomas and only occasionally found in other neuroendocrine tumors. A series of nonneuroendocrine tumors, such as adenocarcinomas, sarcomas, lymphomas, and melanomas, were negative for both synaptophysin and NF proteins. Thus, synaptophysin is a specific and fairly sensitive marker for neuroendocrine tumors of both low and high grades of malignancy. The NF proteins are good markers for pheochromocytoma, and their presence is of basic tumor biologic interest and of potential diagnostic value in other neuroendocrine neoplasms.\r"
+ }, 
+ {
+  ".I": "54700", 
+  ".M": "Cerebrovascular Disorders/CO; Hemiplegia/*CO; Human; Ossification, Heterotopic/*ET.\r", 
+  ".A": [
+   "Lal"
+  ], 
+  ".P": "LETTER.\r", 
+  ".S": "Arch Phys Med Rehabil 8712; 68(9):576\r", 
+  ".T": "Literature search [letter]\r", 
+  ".U": "87325554\r"
+ }, 
+ {
+  ".I": "54701", 
+  ".M": "Breast Neoplasms/MO/*RT/SU; Carcinoma/MO/*RT/SU; Comparative Study; Female; Follow-Up Studies; Human; Mastectomy; Neoplasm Recurrence, Local/*PC; Postoperative Care/*; Radiotherapy Dosage; Radiotherapy, High-Energy; Time Factors.\r", 
+  ".A": [
+   "Ghossein", 
+   "Vilcoq", 
+   "Stacey", 
+   "Asselain"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Arch Surg 8712; 122(8):913-7\r", 
+  ".T": "Is it necessary to irradiate the breast after conservative surgery for localized cancer?\r", 
+  ".U": "87325601\r", 
+  ".W": "Two hundred one patients with operable breast cancer received postoperative irradiation after limited surgery and were followed up for five years. Fifty-three patients (26%) had positive margins. The breast cancer recurrence rate at five years was 14%, less than half the incidence reported for patients treated by limited surgery only. Those with positive margins who received irradiation had a recurrence rate of only 13%. Another 324 patients with tumors (less than or equal to 3 cm) N0 who were treated similarly were evaluated for distant dissemination in relation to local control. Patients who remained free of local disease or developed recurrences more than five years after treatment had significantly better distant disease-free and overall survival than patients who failed locally within five years. Breast irradiation after conservative surgery resulted in decrease in local recurrence and reduced the need for salvage mastectomy. Long-term follow-up of a large number of patients is necessary to determine the relation between local control and the decreased risk of distant dissemination.\r"
+ }, 
+ {
+  ".I": "54702", 
+  ".M": "Adult; Aged; Bacteria/IP; Bile/ME/MI; Biliary Tract/*SU; Biliary Tract Surgery/*; Cefazolin/*AD/AE/ME; Cholecystectomy; Clinical Trials; Comparative Study; Double-Blind Method; Female; Gallbladder/ME; Human; Male; Middle Age; Moxalactam/*AD/AE/ME; Premedication/*; Prospective Studies; Random Allocation; Surgical Wound Infection/EP.\r", 
+  ".A": [
+   "Kellum", 
+   "Duma", 
+   "Gorbach", 
+   "Sugerman", 
+   "Haynes", 
+   "Gervin", 
+   "Newsome"
+  ], 
+  ".P": "CLINICAL TRIAL; JOURNAL ARTICLE.\r", 
+  ".S": "Arch Surg 8712; 122(8):918-22\r", 
+  ".T": "Single-dose antibiotic prophylaxis for biliary surgery. Cefazolin vs moxalactam.\r", 
+  ".U": "87325602\r", 
+  ".W": "Cefazolin was compared with moxalactam for single-dose prophylaxis against infection in a double-blind, prospective, randomized trial of 90 patients undergoing cholecystectomy. Risk factors for infection were present in 65 (72%) of the 90 patients and were evenly distributed. Antibiotic levels in plasma, bile, and tissue measured when the cystic duct was divided were similar for both drugs. Age greater than 65 years but not recent cholecystitis or type of antibiotic was predictive of recovery of bacteria from bile cultures. Wound infections occurred in two patients receiving cefazolin and one patient receiving moxalactam for an overall infection rate of 3%. No toxic reactions to antibiotics, including bleeding disorders, were observed. In conclusion, no significant difference in prophylactic efficacy was detected in this comparison of a first-generation with a third-generation cephalosporin. Because of its lower cost and narrower antimicrobial spectrum, however, cefazolin should remain the agent of choice.\r"
+ }, 
+ {
+  ".I": "54703", 
+  ".M": "Animal; Carbon Dioxide/BL; Comparative Study; Escherichia coli Infections/CO; Female; Hemodynamics/DE; Leukocyte Count; Lung/DE; Male; Naloxone/PD/*TU; Oxygen/BL; Respiration/DE; Respiratory Insufficiency/*PC; Shock, Septic/*CO; Swine; Ventilation-Perfusion Ratio.\r", 
+  ".A": [
+   "Chuang", 
+   "Gao", 
+   "Mulder", 
+   "Chiu"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Arch Surg 8712; 122(8):940-5\r", 
+  ".T": "Prevention of septic ventilatory depression with naloxone.\r", 
+  ".U": "87325607\r", 
+  ".W": "Little is known of the endorphins' role in sepsis-induced respiratory distress and naloxone's effect as a treatment of it. Thirteen piglets were infused with live Escherichia coli at a rate of 2 to 10 X 10(8) colony-forming units per hour for six hours or until death and were divided into two groups: the septic control group (n = 8), and the naloxone-treated group (n = 5), which received 8 mg/kg/h of naloxone by continuous infusion. Hemodynamic parameters, the intrapulmonary shunt fraction (QS/QT), physiologic dead space (VD/VT), minute ventilation, and blood gas levels were measured. Lung lymph flow was obtained by cannulating the right lymphatic duct. The extravascular lung water weight was also measured. The results showed a significant reduction of QS/QT, VD/VT, and arterial carbon dioxide pressure at one hour and a significant increase of arterial carbon dioxide pressure and minute ventilation at 1, 3, and 4 hours in the naloxone-treated group, compared with the untreated septic group. None of the piglets in the naloxone-treated group developed ventilatory depression, while 75% of those in the untreated septic group did. Among the latter piglets, three died of apnea within one hour. These beneficial effects of naloxone are likely related to its action on the central and peripheral respiratory regulatory mechanisms. A transient protection of the cardiac output and relatively decreased extravascular lung water with naloxone treatment may also, in part, improve the ventilation-perfusion maldistribution and secondarily reduce QS/QT and VD/VT. We conclude that endorphins play a role in septic ventilatory depression and that naloxone is effective in ameliorating it.\r"
+ }, 
+ {
+  ".I": "54704", 
+  ".M": "Adolescence; Adult; Child; Child, Preschool; Clinical Trials; Comparative Study; Cost-Benefit Analysis; Human; Muscles/PP; Muscular Dystrophy/*DT/PP; Prospective Studies; Random Allocation; Research Design; Respiratory Function Tests; Software; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S.; Time Factors.\r", 
+  ".A": [
+   "Mendell", 
+   "Province", 
+   "Moxley", 
+   "Griggs", 
+   "Brooke", 
+   "Fenichel", 
+   "Miller", 
+   "Kaiser", 
+   "King", 
+   "Robison", 
+   "et"
+  ], 
+  ".P": "CLINICAL TRIAL; JOURNAL ARTICLE.\r", 
+  ".S": "Arch Neurol 8712; 44(8):808-11\r", 
+  ".T": "Clinical investigation of Duchenne muscular dystrophy. A methodology for therapeutic trials based on natural history controls.\r", 
+  ".U": "87325749\r", 
+  ".W": "Between 1979 and 1987 we documented the natural history of Duchenne muscular dystrophy in 170 patients, aged from 3 to 23 years, by making serial measurements in over 5000 individual evaluations. This database makes it possible to design and conduct therapeutic trials using natural history controls. Such trials do not replace the need for randomized placebo-controlled trials of promising agents but they do require fewer patients, are cost-effective, and permit the use of high-risk therapy where toxicity monitoring may be important. Natural history-controlled trials, therefore, may serve as a screening method for new therapeutic agents. Drugs showing a significant benefit can then be evaluated in a randomized controlled trial.\r"
+ }, 
+ {
+  ".I": "54705", 
+  ".M": "Autoantibodies/*AN; Blood Coagulation Factors/AN/*IM; Cardiolipins/*IM; Cerebral Ischemia/IM; Chorea/IM; Eye/BS; Female; Human; Ischemia/IM; Lupus Erythematosus, Systemic/*IM; Male; Migraine/IM; Myositis/IM; Nervous System Diseases/*IM; Phospholipids/*IM; Polyradiculoneuritis/IM; Seizures/IM; Spinal Cord Diseases/IM; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S..\r", 
+  ".A": [
+   "Levine", 
+   "Welch"
+  ], 
+  ".P": "JOURNAL ARTICLE; REVIEW.\r", 
+  ".S": "Arch Neurol 8712; 44(8):876-83\r", 
+  ".T": "The spectrum of neurologic disease associated with antiphospholipid antibodies. Lupus anticoagulants and anticardiolipin antibodies.\r", 
+  ".U": "87325763\r", 
+  ".W": "Lupus anticoagulants and anticardiolipin antibodies are antiphospholipid immunoglobulins, predominantly of the IgG, IgM, or mixed class. Recently, these antiphospholipid autoantibodies have been associated with neurologic conditions including focal cerebral and ocular ischemia, the myelopathy of lupoid sclerosis and Degos' disease, Guillain-Barre syndrome, migraine, chorea, and seizures. We review the neurologic manifestations associated with this group of antibodies. Recognition of these conditions may lead to further insights into pathogenesis and therapy.\r"
+ }, 
+ {
+  ".I": "54706", 
+  ".M": "Animal; Arachidonic Acids/ME; Biomechanics; Endophthalmitis/ET; Glaucoma/DT; Human; Intraocular Pressure/*DE; Prostaglandins/AE/*PD/PH/TU; Regional Blood Flow/DE; Sclera/BS; Support, U.S. Gov't, P.H.S.; Uvea/BS.\r", 
+  ".A": [
+   "Bito"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Arch Ophthalmol 8712; 105(8):1036-9\r", 
+  ".T": "Prostaglandins. Old concepts and new perspectives.\r", 
+  ".U": "87325791\r"
+ }, 
+ {
+  ".I": "54707", 
+  ".M": "Actins/ME; Animal; Cell Adhesion; Cell Movement; Cornea/CY/ME/*PH; Epithelium/CY/ME/PH; Male; Microscopy, Fluorescence; Muscle Proteins/*ME; Rats; Rats, Inbred Strains; Support, Non-U.S. Gov't.\r", 
+  ".A": [
+   "Soong"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Arch Ophthalmol 8712; 105(8):1129-32\r", 
+  ".T": "Vinculin in focal cell-to-substrate attachments of spreading corneal epithelial cells.\r", 
+  ".U": "87325811\r", 
+  ".W": "Vinculin is a specialized protein with a molecular weight of 130 kilodaltons that is localized to focal regions of cell-to-substrate attachment. It is located precisely at the termini of actin-containing intracytoplasmic stress fibers, which appear to insert into the inner surface of the cell membrane via the vinculin junctions. By double-labeling corneal epithelial cells in tissue culture simultaneously for vinculin and actin, the intimate association of stress fibers and cell-to-substrate adhesion foci was demonstrated. At the leading edge of the migrating epithelial sheet, discrete vinculin patches were numerous in the direction of cell movement, while vinculin was less polarized and often diffusely distributed in the cytoplasm in the less motile cells toward the center of the cell colony. This study shows that corneal epithelial cell migration and spreading during wound healing is characterized by relatively firm substrate attachments at the advancing edge, with the cells behind the edge possibly being pulled forward via cytoskeletal contractile mechanisms.\r"
+ }, 
+ {
+  ".I": "54708", 
+  ".M": "Alteplase/*PD; Animal; Cornea/AH; Dose-Response Relationship, Drug; Eye/*ME; Fibrinolysis/*; Human; Osmolar Concentration; Rabbits; Recombinant Proteins/*PD; Sodium Chloride/PD; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S..\r", 
+  ".A": [
+   "Snyder", 
+   "Lambrou", 
+   "Williams"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Arch Ophthalmol 8712; 105(9):1277-80\r", 
+  ".T": "Intraocular fibrinolysis with recombinant human tissue plasminogen activator. Experimental treatment in a rabbit model.\r", 
+  ".U": "87325849\r", 
+  ".W": "Intraocular fibrin formation following ocular surgery is a potentially binding problem. Current therapy for this postoperative fibrin response is often ineffective. In the rabbit, we developed a quantitative reproducible model for intraocular fibrin deposition. Using this model, we have tested the efficacy of human tissue plasminogen activator (tPA) in promoting intraocular fibrinolysis. Citrated rabbit plasma (0.2 mL) was injected intracamerally following paracentesis, resulting in fibrin clot formation within three hours. The fibrin clots were stable for four days, and then slowly lysed over the next four days. Approximately 24 hours after clot formation, various concentrations of human tPA were injected intracamerally. The time taken for clot lysis was dose dependent, with 1800 IU of tPA producing clot lysis in three hours. Toxicity, as measured by intraocular pressure, corneal thickness, inflammation, or cataract formation, was minimal.\r"
+ }, 
+ {
+  ".I": "54709", 
+  ".M": "Antigens, Surface/AN; Arthritis/IM/*PA/PP; Blood Cells/*PH; Flow Cytometry; Human; HLA-DR Antigens/AN/IM; Interferon Type II/PD; Lymphocyte Transformation/*; Monocytes/IM/*PH; Phenotype; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S.; Synovial Fluid/*CY.\r", 
+  ".A": [
+   "Firestein", 
+   "Zvaifler"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Arthritis Rheum 8712; 30(8):857-63\r", 
+  ".T": "Peripheral blood and synovial fluid monocyte activation in inflammatory arthritis. I. A cytofluorographic study of monocyte differentiation antigens and class II antigens and their regulation by gamma-interferon.\r", 
+  ".U": "87326525\r", 
+  ".W": "Recent study of the expression of monocyte differentiation antigens (MAg) and HLA-DR on peripheral blood monocytes (PBM) has led to the recognition of resting and activated monocyte phenotypes. The former is identified by the expression of large amounts of MAg (i.e., Mo2 and 63D3) and small amounts of HLA-DR, while the latter is identified by the reverse. We studied the phenotypes of PBM and synovial fluid monocytes (SFM) of patients with chronic inflammatory arthritis and found that PBM were primarily resting and SFM were usually activated. In addition, we measured the degree of modulation of MAg and HLA-DR by gamma-interferon (gamma-IFN). Patient PBM reacted the same as PBM from normal individuals (i.e., MAg decreased and HLA-DR increased after exposure to gamma-IFN). However, in patient SFM, HLA-DR did not increase with exposure to gamma-IFN because expression was already maximal. Interestingly, MAg could still be down-regulated on gamma-IFN-treated SFM, even when expression began at a very low level (i.e., activated phenotype). This independent regulation of MAg and HLA-DR suggests that macrophage activating factors other than gamma-IFN may be responsible, in part, for the activated phenotypes observed.\r"
+ }, 
+ {
+  ".I": "54710", 
+  ".M": "Absorption; Arthritis/*PA/PP; Blood Cells/*PH; Human; Interferon Type II/AI/ME/PD/*PH; Lymphocyte Transformation/*; Lymphokines/ME/PH; Monocytes/DE/*PH; Prostaglandins E/PD; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S.; Synovial Fluid/*CY/ME; Synovial Membrane/ME.\r", 
+  ".A": [
+   "Firestein", 
+   "Zvaifler"
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Arthritis Rheum 8712; 30(8):864-71\r", 
+  ".T": "Peripheral blood and synovial fluid monocyte activation in inflammatory arthritis. II. Low levels of synovial fluid and synovial tissue interferon suggest that gamma-interferon is not the primary macrophage activating factor.\r", 
+  ".U": "87326526\r", 
+  ".W": "Because synovial fluid monocytes (SFM) in patients with inflammatory arthritis bear an activated phenotype (i.e., high expression of HLA-DR and low expression of the monocyte differentiation antigen Mo2), we assessed the role of gamma-interferon (gamma-IFN) in the activation of these cells. Sensitive and specific radioimmunoassays detected only 0.40 +/- 0.20 units/ml of gamma-IFN in the SF of patients with rheumatoid arthritis (RA) and 0.61 +/- 0.67 units/ml of gamma-IFN in the SF of patients with other forms of chronic inflammatory arthritis. There was no detectable alpha-IFN in any SF studied by radioimmunoassay. Bioassays failed to detect nonimmunoreactive IFN. Synovial tissue (ST) explants produced very little gamma-IFN (0.14 +/- 0.091 units/ml), and production was not increased by the presence of indomethacin in the cultures or by removal of adherent cells. However, gamma-IFN was produced if ST was cultivated in the presence of phytohemagglutinin. In SF and ST supernatants, gamma-IFN-mediated induction of HLA-DR on monocytes was inhibited, even though the amount of immunoreactive IFN was not affected. Prostaglandin E2 was shown to be one possible inhibitor. We demonstrated that a factor that induces HLA-DR on some individuals' peripheral blood monocytes, and cannot be neutralized by monoclonal anti-gamma-IFN antibody, is present in SF and ST supernatants. These data suggest that activation of SFM may occur by mechanisms other than gamma-IFN.\r"
+ }
+]

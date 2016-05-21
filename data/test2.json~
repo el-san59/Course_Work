@@ -1,0 +1,41 @@
+[
+ {
+  ".I": "4", 
+  ".M": "Adolescence; Adult; Aged; Blood Glucose/*ME; Diabetes Mellitus/BL; Emergencies; Female; Glucose/*AD; Human; Hypoglycemia/*TH; Male; Middle Age; Prospective Studies; Solutions.\r", 
+  ".A": [
+   "Adler PM."
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Emerg Med 8703; 4(6):504-6\r", 
+  ".T": "Serum glucose changes after administration of 50% dextrose solution: pre- and in-hospital calculations.\r", 
+  ".U": "87049090\r", 
+  ".W": "A prospective clinical trial was conducted to estimate the rise in serum glucose level after an intravenous bolus of 50 ml of 50% dextrose solution (D-50) in the emergency department setting. Fifty one subjects with altered levels of consciousness were studied. Of these, 23 patients were known diabetics, and 28 were not diabetic. The change in glucose level for the total study group ranged from a low of 37 mg/dl to a high of 370 mg/dl, with a mean of 166 +/- 77 mg/dl. The mean for the diabetic and non-diabetic groups were 177 +/- 80 mg/dl and 154 +/- 75 mg/dl. These results suggest that serum glucose levels cannot be quantitatively predicted after a single intravenous bolus of D-50.\r"
+ }, 
+ {
+  ".I": "5", 
+  ".M": "Aged; Aged, 80 and over; Case Report; Female; Human; Intubation, Gastrointestinal/*AE; Pneumothorax/*ET/RA/TH; Suicide, Attempted.\r", 
+  ".A": [
+   "Gough D", 
+   "Rust D."
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Emerg Med 8703; 4(6):511-3\r", 
+  ".T": "Nasogastric intubation: morbidity in an asymptomatic patient.\r", 
+  ".U": "87049092\r", 
+  ".W": "An unusual case of a misdirected nasogastric tube is described. An elderly woman was brought to an emergency department following intentional drug overdose. Initially unrecognized errant placement of a large-bore nasogastric tube resulted in tension pneumothorax, pneumonia, and subsequent death. Pertinent medical literature is reviewed, clinical considerations for the elderly patient are discussed, and suggestions for proper nasogastric tube placement are offered.\r"
+ }, 
+ {
+  ".I": "6", 
+  ".M": "Abdominal Injuries/ET; Accidents, Occupational; Accidents, Traffic/*; Adult; Amputation; Blood Transfusion/*; Case Report; Female; Fractures/ET; Human; Pelvic Bones/IN; Shock, Hemorrhagic/ET/*TH; Wounds, Nonpenetrating/*CO.\r", 
+  ".A": [
+   "Brotman S", 
+   "Lamonica C", 
+   "Cowley RA."
+  ], 
+  ".P": "JOURNAL ARTICLE.\r", 
+  ".S": "Am J Emerg Med 8703; 4(6):514-5\r", 
+  ".T": "Massive transfusion without major complications after trauma.\r", 
+  ".U": "87049093\r", 
+  ".W": "A case of massive degloving injury of the trunk, with open pelvic fracture, and evisceration of abdominal contents from blunt trauma is presented. The most significant aspect of this case was the transfusion of 173 units of packed cells and 176 units of fresh frozen plasma in the first thirty hours. The patient ultimately recovered and returned to work.\r"
+ }
+]
